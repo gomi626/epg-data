@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/gomi626/epg-data/main/integrated_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz,https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
 
-#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp",NHK G
+#EXTINF:-1 tvg-name="NHK東京　総合.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="NHK東京 総合.jp" tvg-name="NHK東京 総合.jp",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/Srsw4Mi.png" tvg-id="571.lg",KBC
