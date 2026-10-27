@@ -2,4 +2,1264 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="epg2xml v2.9.0.dev0">
+  <channel id="E07.wavve">
+    <display-name>EBS 2</display-name>
+    <display-name>WAVVE</display-name>
+    <display-name>0</display-name>
+    <display-name>0 EBS 2</display-name>
+    <display-name>0 WAVVE</display-name>
+    <icon src="https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png" />
+  </channel>
+  <programme start="20261027060000 +0900" stop="20261027061000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
+    <sub-title lang="ko">발음 강세 Unit 547. 채소</sub-title>
+    <desc lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹
+부제 : 발음 강세 Unit 547. 채소
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027061000 +0900" stop="20261027062000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
+    <sub-title lang="ko">톡톡 617. infant vs. baby</sub-title>
+    <desc lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡
+부제 : 톡톡 617. infant vs. baby
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027062000 +0900" stop="20261027065000 +0900" channel="E07.wavve">
+    <title lang="ko">EBSe 생활영어</title>
+    <sub-title lang="ko">Unit 759. We should all learn to set boundaries and say no.</sub-title>
+    <desc lang="ko">EBSe 생활영어
+부제 : Unit 759. We should all learn to set boundaries and say no.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027065000 +0900" stop="20261027070000 +0900" channel="E07.wavve">
+    <title lang="ko">영어 스토리 타임</title>
+    <sub-title lang="ko">Day 457. Being Cool (2) / Big Cat BAND 10</sub-title>
+    <desc lang="ko">영어 스토리 타임
+부제 : Day 457. Being Cool (2) / Big Cat BAND 10
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027070000 +0900" stop="20261027073000 +0900" channel="E07.wavve">
+    <title lang="ko">왕초보 영어</title>
+    <sub-title lang="ko">제2829회 일상 – 게임에 소질이 없는 내 친구</sub-title>
+    <desc lang="ko">왕초보 영어
+부제 : 제2829회 일상 – 게임에 소질이 없는 내 친구
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027073000 +0900" stop="20261027080000 +0900" channel="E07.wavve">
+    <title lang="ko">왕초보 영어</title>
+    <sub-title lang="ko">제2834회 일상 – 줄을 서서 먹는 맛집</sub-title>
+    <desc lang="ko">왕초보 영어
+부제 : 제2834회 일상 – 줄을 서서 먹는 맛집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027080000 +0900" stop="20261027081000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어</title>
+    <sub-title lang="ko">Day 22. 수치가 2% 줄었습니다.</sub-title>
+    <desc lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어
+부제 : Day 22. 수치가 2% 줄었습니다.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027081000 +0900" stop="20261027082000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시</title>
+    <sub-title lang="ko">Unit 52. 오늘 분명 소나기가 온다고 했는데.</sub-title>
+    <desc lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시
+부제 : Unit 52. 오늘 분명 소나기가 온다고 했는데.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027082000 +0900" stop="20261027083000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again</title>
+    <sub-title lang="ko">Episode 172. 내 취향의 ~가 아니야.</sub-title>
+    <desc lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again
+부제 : Episode 172. 내 취향의 ~가 아니야.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027083000 +0900" stop="20261027084500 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 평생학교</title>
+    <sub-title lang="ko">배워서 바로 써먹는 슬로우조깅 2강 올바른 자세와 잘못된 자세</sub-title>
+    <desc lang="ko">EBS 평생학교
+부제 : 배워서 바로 써먹는 슬로우조깅 2강 올바른 자세와 잘못된 자세
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027084500 +0900" stop="20261027090000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 2강 도덕적 선과 네 개의 덕</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 2강 도덕적 선과 네 개의 덕
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027090000 +0900" stop="20261027093000 +0900" channel="E07.wavve">
+    <title lang="ko">Sesame Street(S54)</title>
+    <sub-title lang="ko">Worms Want to Play</sub-title>
+    <desc lang="ko">Sesame Street(S54)
+부제 : Worms Want to Play
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027093000 +0900" stop="20261027095000 +0900" channel="E07.wavve">
+    <title lang="ko">딩동댕 딩동댕</title>
+    <sub-title lang="ko">사막의 보초병, 미어캣입니다!</sub-title>
+    <desc lang="ko">딩동댕 딩동댕
+부제 : 사막의 보초병, 미어캣입니다!
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027095000 +0900" stop="20261027100000 +0900" channel="E07.wavve">
+    <title lang="ko">페파 피그</title>
+    <sub-title lang="ko">수상 시장/엄마가 출장을 갔어요</sub-title>
+    <desc lang="ko">페파 피그
+부제 : 수상 시장/엄마가 출장을 갔어요
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027100000 +0900" stop="20261027101500 +0900" channel="E07.wavve">
+    <title lang="ko">한글용사 아이야</title>
+    <sub-title lang="ko">8화. 이제 너랑 친구 안 해</sub-title>
+    <desc lang="ko">한글용사 아이야
+부제 : 8화. 이제 너랑 친구 안 해
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027101500 +0900" stop="20261027103000 +0900" channel="E07.wavve">
+    <title lang="ko">한글용사 아이야</title>
+    <sub-title lang="ko">9화. 아이야의 생일 선물</sub-title>
+    <desc lang="ko">한글용사 아이야
+부제 : 9화. 아이야의 생일 선물
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027103000 +0900" stop="20261027104500 +0900" channel="E07.wavve">
+    <title lang="ko">냠냠 히어로 슈퍼잭</title>
+    <sub-title lang="ko">오르고 또 오르고! 레시피스톤을 찾아라!</sub-title>
+    <desc lang="ko">냠냠 히어로 슈퍼잭
+부제 : 오르고 또 오르고! 레시피스톤을 찾아라!
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027104500 +0900" stop="20261027110000 +0900" channel="E07.wavve">
+    <title lang="ko">다이노스터 공룡수호대</title>
+    <sub-title lang="ko">적이 된 스티븐</sub-title>
+    <desc lang="ko">다이노스터 공룡수호대
+부제 : 적이 된 스티븐
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027110000 +0900" stop="20261027113000 +0900" channel="E07.wavve">
+    <title lang="ko">강철소방대 파이어로보Z (종합)</title>
+    <sub-title lang="ko">아이스걸과의 조우/위험천만 고드름</sub-title>
+    <desc lang="ko">강철소방대 파이어로보Z (종합)
+부제 : 아이스걸과의 조우/위험천만 고드름
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027113000 +0900" stop="20261027114500 +0900" channel="E07.wavve">
+    <title lang="ko">세계의 비밀 수호대 번개맨</title>
+    <sub-title lang="ko">위기일발! 얼음 절벽</sub-title>
+    <desc lang="ko">세계의 비밀 수호대 번개맨
+부제 : 위기일발! 얼음 절벽
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027114500 +0900" stop="20261027120000 +0900" channel="E07.wavve">
+    <title lang="ko">세계의 비밀 수호대 번개맨</title>
+    <sub-title lang="ko">트롤의 혀를 찾아서</sub-title>
+    <desc lang="ko">세계의 비밀 수호대 번개맨
+부제 : 트롤의 혀를 찾아서
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027120000 +0900" stop="20261027121500 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 2강 도덕적 선과 네 개의 덕</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 2강 도덕적 선과 네 개의 덕
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027121500 +0900" stop="20261027123000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 7강 태도가 품격을 만든다</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 7강 태도가 품격을 만든다
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027123000 +0900" stop="20261027124500 +0900" channel="E07.wavve">
+    <title lang="ko">시간을 달리는 세계사</title>
+    <sub-title lang="ko">십자군 전쟁 이야기</sub-title>
+    <desc lang="ko">시간을 달리는 세계사
+부제 : 십자군 전쟁 이야기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027124500 +0900" stop="20261027130000 +0900" channel="E07.wavve">
+    <title lang="ko">시간을 달리는 세계사</title>
+    <sub-title lang="ko">르네상스 이야기</sub-title>
+    <desc lang="ko">시간을 달리는 세계사
+부제 : 르네상스 이야기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027130000 +0900" stop="20261027133000 +0900" channel="E07.wavve">
+    <title lang="ko">Sesame Street(S54)</title>
+    <sub-title lang="ko">Worms Want to Play</sub-title>
+    <desc lang="ko">Sesame Street(S54)
+부제 : Worms Want to Play
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027133000 +0900" stop="20261027134500 +0900" channel="E07.wavve">
+    <title lang="ko">최고다! 호기심 딱지</title>
+    <sub-title lang="ko">비상! 강추위 주의보</sub-title>
+    <desc lang="ko">최고다! 호기심 딱지
+부제 : 비상! 강추위 주의보
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027134500 +0900" stop="20261027140000 +0900" channel="E07.wavve">
+    <title lang="ko">최고다! 호기심 딱지</title>
+    <sub-title lang="ko">연습훈련, 독감예방주사</sub-title>
+    <desc lang="ko">최고다! 호기심 딱지
+부제 : 연습훈련, 독감예방주사
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027140000 +0900" stop="20261027142000 +0900" channel="E07.wavve">
+    <title lang="ko">클래스 e</title>
+    <sub-title lang="ko">왜 공공디자인인가? 2강 공공디자인이 세상을 바꾸는 법</sub-title>
+    <desc lang="ko">클래스 e
+부제 : 왜 공공디자인인가? 2강 공공디자인이 세상을 바꾸는 법
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027142000 +0900" stop="20261027150000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 평생학교 스페셜</title>
+    <sub-title lang="ko">초보 운전 완전 정복 2강: 차선과 교차로 외 2편</sub-title>
+    <desc lang="ko">EBS 평생학교 스페셜
+부제 : 초보 운전 완전 정복 2강: 차선과 교차로 외 2편
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027150000 +0900" stop="20261027153000 +0900" channel="E07.wavve">
+    <title lang="ko">우주탐사 이야기</title>
+    <sub-title lang="ko">차세대 화성 탐사 로봇</sub-title>
+    <desc lang="ko">우주탐사 이야기
+부제 : 차세대 화성 탐사 로봇
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027153000 +0900" stop="20261027154500 +0900" channel="E07.wavve">
+    <title lang="ko">냠냠 히어로 슈퍼잭</title>
+    <sub-title lang="ko">오르고 또 오르고! 레시피스톤을 찾아라!</sub-title>
+    <desc lang="ko">냠냠 히어로 슈퍼잭
+부제 : 오르고 또 오르고! 레시피스톤을 찾아라!
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027154500 +0900" stop="20261027160000 +0900" channel="E07.wavve">
+    <title lang="ko">다이노스터 공룡수호대</title>
+    <sub-title lang="ko">적이 된 스티븐</sub-title>
+    <desc lang="ko">다이노스터 공룡수호대
+부제 : 적이 된 스티븐
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027160000 +0900" stop="20261027163000 +0900" channel="E07.wavve">
+    <title lang="ko">슈퍼윙스 지구를 지켜라(종합)</title>
+    <sub-title lang="ko">공룡 육아 대소동! (공룡세계 편) / 무지개 꼬리 익룡단 (공룡세계 편)</sub-title>
+    <desc lang="ko">슈퍼윙스 지구를 지켜라(종합)
+부제 : 공룡 육아 대소동! (공룡세계 편) / 무지개 꼬리 익룡단 (공룡세계 편)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027163000 +0900" stop="20261027164500 +0900" channel="E07.wavve">
+    <title lang="ko">블록스</title>
+    <sub-title lang="ko">우주로 갈 시간</sub-title>
+    <desc lang="ko">블록스
+부제 : 우주로 갈 시간
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027164500 +0900" stop="20261027170000 +0900" channel="E07.wavve">
+    <title lang="ko">모두 함께 부스누!</title>
+    <sub-title lang="ko">회전/소리 만들기</sub-title>
+    <desc lang="ko">모두 함께 부스누!
+부제 : 회전/소리 만들기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027170000 +0900" stop="20261027175500 +0900" channel="E07.wavve">
+    <title lang="ko">세상에 나쁜 개는 없다</title>
+    <sub-title lang="ko">만물상 할머니와 수상한 개들</sub-title>
+    <desc lang="ko">세상에 나쁜 개는 없다
+부제 : 만물상 할머니와 수상한 개들
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027175500 +0900" stop="20261027182000 +0900" channel="E07.wavve">
+    <title lang="ko">최고의 요리비결</title>
+    <sub-title lang="ko">김갑수의 포두부보쌈×콩나물아삭전</sub-title>
+    <desc lang="ko">최고의 요리비결
+부제 : 김갑수의 포두부보쌈×콩나물아삭전
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027182000 +0900" stop="20261027183500 +0900" channel="E07.wavve">
+    <title lang="ko">고고다이노 해양구조대</title>
+    <sub-title lang="ko">별이 되고 싶은 별불가사리 외</sub-title>
+    <desc lang="ko">고고다이노 해양구조대
+부제 : 별이 되고 싶은 별불가사리 외
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027183500 +0900" stop="20261027185000 +0900" channel="E07.wavve">
+    <title lang="ko">마샤와 곰</title>
+    <sub-title lang="ko">잃어버린 세계 / 안개 낀 날</sub-title>
+    <desc lang="ko">마샤와 곰
+부제 : 잃어버린 세계 / 안개 낀 날
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027185000 +0900" stop="20261027190000 +0900" channel="E07.wavve">
+    <title lang="ko">페파 피그</title>
+    <sub-title lang="ko">수상 시장/엄마가 출장을 갔어요</sub-title>
+    <desc lang="ko">페파 피그
+부제 : 수상 시장/엄마가 출장을 갔어요
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027190000 +0900" stop="20261027192000 +0900" channel="E07.wavve">
+    <title lang="ko">딩동댕 딩동댕</title>
+    <sub-title lang="ko">사막의 보초병, 미어캣입니다!</sub-title>
+    <desc lang="ko">딩동댕 딩동댕
+부제 : 사막의 보초병, 미어캣입니다!
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027192000 +0900" stop="20261027193500 +0900" channel="E07.wavve">
+    <title lang="ko">한글용사 아이야</title>
+    <sub-title lang="ko">8화. 이제 너랑 친구 안 해</sub-title>
+    <desc lang="ko">한글용사 아이야
+부제 : 8화. 이제 너랑 친구 안 해
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027193500 +0900" stop="20261027195000 +0900" channel="E07.wavve">
+    <title lang="ko">한글용사 아이야</title>
+    <sub-title lang="ko">9화. 아이야의 생일 선물</sub-title>
+    <desc lang="ko">한글용사 아이야
+부제 : 9화. 아이야의 생일 선물
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027195000 +0900" stop="20261027202000 +0900" channel="E07.wavve">
+    <title lang="ko">다이노스터 공룡수호대(종합)</title>
+    <sub-title lang="ko">팀 다이노스터 작전 개시 / 적이 된 스티븐</sub-title>
+    <desc lang="ko">다이노스터 공룡수호대(종합)
+부제 : 팀 다이노스터 작전 개시 / 적이 된 스티븐
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027202000 +0900" stop="20261027203000 +0900" channel="E07.wavve">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
+    <sub-title lang="ko">이순신 1부 열두 척의 기적</sub-title>
+    <desc lang="ko">덩이랑 쾡이랑 인물 한국사
+부제 : 이순신 1부 열두 척의 기적
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027203000 +0900" stop="20261027204000 +0900" channel="E07.wavve">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
+    <sub-title lang="ko">이순신 2부 악동 골목대장 이순신</sub-title>
+    <desc lang="ko">덩이랑 쾡이랑 인물 한국사
+부제 : 이순신 2부 악동 골목대장 이순신
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027204000 +0900" stop="20261027210000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 석학 특강-넥스트 비전</title>
+    <sub-title lang="ko">다니엘라 루스 &lt;AI와 로봇공학&gt; - 비전1 피지컬 AI의 가능성</sub-title>
+    <desc lang="ko">AI 석학 특강-넥스트 비전
+부제 : 다니엘라 루스 &lt;AI와 로봇공학&gt; - 비전1 피지컬 AI의 가능성
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027210000 +0900" stop="20261027210500 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(1)</title>
+    <sub-title lang="ko">버릴까요, 말까요</sub-title>
+    <desc lang="ko">지식채널e(1)
+부제 : 버릴까요, 말까요
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027210500 +0900" stop="20261027211000 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(2)</title>
+    <sub-title lang="ko">우주 대항해시대, 돛단배 타고 우주여행</sub-title>
+    <desc lang="ko">지식채널e(2)
+부제 : 우주 대항해시대, 돛단배 타고 우주여행
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027211000 +0900" stop="20261027220500 +0900" channel="E07.wavve">
+    <title lang="ko">백세부자</title>
+    <sub-title lang="ko">팔랑귀 남편의 사업본능, 누가 좀 말려줘</sub-title>
+    <desc lang="ko">백세부자
+부제 : 팔랑귀 남편의 사업본능, 누가 좀 말려줘
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027220500 +0900" stop="20261027222500 +0900" channel="E07.wavve">
+    <title lang="ko">클래스 e</title>
+    <sub-title lang="ko">왜 공공디자인인가? 4강 놀이와 협동과 참여로 만드는 공공디자인</sub-title>
+    <desc lang="ko">클래스 e
+부제 : 왜 공공디자인인가? 4강 놀이와 협동과 참여로 만드는 공공디자인
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027222500 +0900" stop="20261027230500 +0900" channel="E07.wavve">
+    <title lang="ko">나의 두 번째 교과서</title>
+    <sub-title lang="ko">체육 5강 내 나이에 필요한 운동은?</sub-title>
+    <desc lang="ko">나의 두 번째 교과서
+부제 : 체육 5강 내 나이에 필요한 운동은?
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027230500 +0900" stop="20261027232000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 비즈니스 리뷰</title>
+    <sub-title lang="ko">백종화의 요즘 팀장을 위한 커뮤니케이션 스킬 - 2부 똑똑하게 피드백해야 좋은 리더가 된다</sub-title>
+    <desc lang="ko">EBS 비즈니스 리뷰
+부제 : 백종화의 요즘 팀장을 위한 커뮤니케이션 스킬 - 2부 똑똑하게 피드백해야 좋은 리더가 된다
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027232000 +0900" stop="20261027235000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 명강</title>
+    <sub-title lang="ko">한동일의 라틴어 인생수업 10강 - 종교는 정원이다</sub-title>
+    <desc lang="ko">EBS 명강
+부제 : 한동일의 라틴어 인생수업 10강 - 종교는 정원이다
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027235000 +0900" stop="20261027235500 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(1)</title>
+    <sub-title lang="ko">어떻게 하면 잘 먹었다 소문이 날까?</sub-title>
+    <desc lang="ko">지식채널e(1)
+부제 : 어떻게 하면 잘 먹었다 소문이 날까?
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027235500 +0900" stop="20261028000000 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(2)</title>
+    <sub-title lang="ko">박조이 살인사건</sub-title>
+    <desc lang="ko">지식채널e(2)
+부제 : 박조이 살인사건
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028000000 +0900" stop="20261028005000 +0900" channel="E07.wavve">
+    <title lang="ko">생각의 열쇠, 천 개의 키워드</title>
+    <sub-title lang="ko">법치주의</sub-title>
+    <desc lang="ko">생각의 열쇠, 천 개의 키워드
+부제 : 법치주의
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028005000 +0900" stop="20261028010000 +0900" channel="E07.wavve">
+    <title lang="ko">정파 []</title>
+    <desc lang="ko">정파 []
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028060000 +0900" stop="20261028061000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
+    <sub-title lang="ko">발음 강세 Unit 548. 육류</sub-title>
+    <desc lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹
+부제 : 발음 강세 Unit 548. 육류
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028061000 +0900" stop="20261028062000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
+    <sub-title lang="ko">톡톡 618. cook vs. chef</sub-title>
+    <desc lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡
+부제 : 톡톡 618. cook vs. chef
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028062000 +0900" stop="20261028065000 +0900" channel="E07.wavve">
+    <title lang="ko">EBSe 생활영어</title>
+    <sub-title lang="ko">Unit 760. Though it's hard, it's okay to say no.</sub-title>
+    <desc lang="ko">EBSe 생활영어
+부제 : Unit 760. Though it's hard, it's okay to say no.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028065000 +0900" stop="20261028070000 +0900" channel="E07.wavve">
+    <title lang="ko">영어 스토리 타임</title>
+    <sub-title lang="ko">Day 458. Being Cool (3) / Big Cat BAND 10</sub-title>
+    <desc lang="ko">영어 스토리 타임
+부제 : Day 458. Being Cool (3) / Big Cat BAND 10
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028070000 +0900" stop="20261028073000 +0900" channel="E07.wavve">
+    <title lang="ko">왕초보 영어</title>
+    <sub-title lang="ko">제2830회 직업 – 숙제 많이 내주기로 유명한 선생님</sub-title>
+    <desc lang="ko">왕초보 영어
+부제 : 제2830회 직업 – 숙제 많이 내주기로 유명한 선생님
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028073000 +0900" stop="20261028080000 +0900" channel="E07.wavve">
+    <title lang="ko">왕초보 영어</title>
+    <sub-title lang="ko">제2835회 직업 – 축구경기를 앞둔 코치님과 학생</sub-title>
+    <desc lang="ko">왕초보 영어
+부제 : 제2835회 직업 – 축구경기를 앞둔 코치님과 학생
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028080000 +0900" stop="20261028081000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어</title>
+    <sub-title lang="ko">Day 23. 가능한 빨리 진행해 줄 수 있나요?</sub-title>
+    <desc lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어
+부제 : Day 23. 가능한 빨리 진행해 줄 수 있나요?
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028081000 +0900" stop="20261028082000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시</title>
+    <sub-title lang="ko">Unit 53. 가장 좋아하는 캐릭터는 펭수에요.</sub-title>
+    <desc lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시
+부제 : Unit 53. 가장 좋아하는 캐릭터는 펭수에요.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028082000 +0900" stop="20261028083000 +0900" channel="E07.wavve">
+    <title lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again</title>
+    <sub-title lang="ko">Episode 173. ~하는 데 익숙해.</sub-title>
+    <desc lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again
+부제 : Episode 173. ~하는 데 익숙해.
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028083000 +0900" stop="20261028084500 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 평생학교</title>
+    <sub-title lang="ko">배워서 바로 써먹는 슬로우조깅 3강 앞꿈치 착지법</sub-title>
+    <desc lang="ko">EBS 평생학교
+부제 : 배워서 바로 써먹는 슬로우조깅 3강 앞꿈치 착지법
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028084500 +0900" stop="20261028090000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 3강 정의의 두 얼굴과 약속의 무게</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 3강 정의의 두 얼굴과 약속의 무게
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028090000 +0900" stop="20261028093000 +0900" channel="E07.wavve">
+    <title lang="ko">Sesame Street(S54)</title>
+    <sub-title lang="ko">Elmo's Morning Routine</sub-title>
+    <desc lang="ko">Sesame Street(S54)
+부제 : Elmo's Morning Routine
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028093000 +0900" stop="20261028095000 +0900" channel="E07.wavve">
+    <title lang="ko">딩동댕 딩동댕</title>
+    <sub-title lang="ko">강릉의 기운을 품은 하슬랑</sub-title>
+    <desc lang="ko">딩동댕 딩동댕
+부제 : 강릉의 기운을 품은 하슬랑
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028095000 +0900" stop="20261028100000 +0900" channel="E07.wavve">
+    <title lang="ko">페파 피그</title>
+    <sub-title lang="ko">즐거운 캠핑/잠자는 공주</sub-title>
+    <desc lang="ko">페파 피그
+부제 : 즐거운 캠핑/잠자는 공주
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028100000 +0900" stop="20261028101500 +0900" channel="E07.wavve">
+    <title lang="ko">지구 영웅 번개맨</title>
+    <sub-title lang="ko">8화 진짜와 가짜가 헷갈릴 때</sub-title>
+    <desc lang="ko">지구 영웅 번개맨
+부제 : 8화 진짜와 가짜가 헷갈릴 때
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028101500 +0900" stop="20261028103000 +0900" channel="E07.wavve">
+    <title lang="ko">지구 영웅 번개맨</title>
+    <sub-title lang="ko">9화 사랑이를 사랑해</sub-title>
+    <desc lang="ko">지구 영웅 번개맨
+부제 : 9화 사랑이를 사랑해
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028103000 +0900" stop="20261028104500 +0900" channel="E07.wavve">
+    <title lang="ko">최강공룡 미니특공대</title>
+    <sub-title lang="ko">정체불명의 영웅!</sub-title>
+    <desc lang="ko">최강공룡 미니특공대
+부제 : 정체불명의 영웅!
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028104500 +0900" stop="20261028110000 +0900" channel="E07.wavve">
+    <title lang="ko">출동! 타요와 소방구조대</title>
+    <sub-title lang="ko">갈림길 위에 선 구조대</sub-title>
+    <desc lang="ko">출동! 타요와 소방구조대
+부제 : 갈림길 위에 선 구조대
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028110000 +0900" stop="20261028113000 +0900" channel="E07.wavve">
+    <title lang="ko">나의 비밀친구 해치(종합)</title>
+    <sub-title lang="ko">누구나 한 번쯤 실수를 한다/나오심 추적하기</sub-title>
+    <desc lang="ko">나의 비밀친구 해치(종합)
+부제 : 누구나 한 번쯤 실수를 한다/나오심 추적하기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028113000 +0900" stop="20261028120000 +0900" channel="E07.wavve">
+    <title lang="ko">모여라 딩동댕</title>
+    <sub-title lang="ko">가시별 탈출 작전</sub-title>
+    <desc lang="ko">모여라 딩동댕
+부제 : 가시별 탈출 작전
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028120000 +0900" stop="20261028121500 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 3강 정의의 두 얼굴과 약속의 무게</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 3강 정의의 두 얼굴과 약속의 무게
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028121500 +0900" stop="20261028123000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+    <sub-title lang="ko">의무론 8강 마음을 얻는 자가 세상을 얻는다</sub-title>
+    <desc lang="ko">AI 고전 역사를 바꾼 100책
+부제 : 의무론 8강 마음을 얻는 자가 세상을 얻는다
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028123000 +0900" stop="20261028124500 +0900" channel="E07.wavve">
+    <title lang="ko">수상한 방송국</title>
+    <sub-title lang="ko">호빵떡쇼 위인과의 대화 / '에디슨' 편 외</sub-title>
+    <desc lang="ko">수상한 방송국
+부제 : 호빵떡쇼 위인과의 대화 / '에디슨' 편 외
+방송 : 재방송
+등급 : 7세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028124500 +0900" stop="20261028130000 +0900" channel="E07.wavve">
+    <title lang="ko">수상한 방송국</title>
+    <sub-title lang="ko">호빵떡쇼 위인과의 대화 / '모차르트' 편 외</sub-title>
+    <desc lang="ko">수상한 방송국
+부제 : 호빵떡쇼 위인과의 대화 / '모차르트' 편 외
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028130000 +0900" stop="20261028133000 +0900" channel="E07.wavve">
+    <title lang="ko">Sesame Street(S54)</title>
+    <sub-title lang="ko">Elmo's Morning Routine</sub-title>
+    <desc lang="ko">Sesame Street(S54)
+부제 : Elmo's Morning Routine
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028133000 +0900" stop="20261028134500 +0900" channel="E07.wavve">
+    <title lang="ko">EBS AI 문학관</title>
+    <sub-title lang="ko">비밀 : 현진건 B사감과 러브레터 원작</sub-title>
+    <desc lang="ko">EBS AI 문학관
+부제 : 비밀 : 현진건 B사감과 러브레터 원작
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028134500 +0900" stop="20261028140000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS AI 문학관</title>
+    <sub-title lang="ko">닿을 듯 닿지 않는: 이효석 풀잎 원작</sub-title>
+    <desc lang="ko">EBS AI 문학관
+부제 : 닿을 듯 닿지 않는: 이효석 풀잎 원작
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028140000 +0900" stop="20261028142000 +0900" channel="E07.wavve">
+    <title lang="ko">기획강연 청년에게(전주재방)(1)</title>
+    <sub-title lang="ko">허성범 1부 - 스스로 기회를 만들고 포착하는 법</sub-title>
+    <desc lang="ko">기획강연 청년에게(전주재방)(1)
+부제 : 허성범 1부 - 스스로 기회를 만들고 포착하는 법
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028142000 +0900" stop="20261028150000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 평생학교 스페셜</title>
+    <sub-title lang="ko">초보 운전 완전 정복 3강: 비보호와 회전 교차로 외 2편</sub-title>
+    <desc lang="ko">EBS 평생학교 스페셜
+부제 : 초보 운전 완전 정복 3강: 비보호와 회전 교차로 외 2편
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028150000 +0900" stop="20261028153000 +0900" channel="E07.wavve">
+    <title lang="ko">경이로운 자연의 세계</title>
+    <sub-title lang="ko">생존을 위한 변신, 팔라스고양이</sub-title>
+    <desc lang="ko">경이로운 자연의 세계
+부제 : 생존을 위한 변신, 팔라스고양이
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028153000 +0900" stop="20261028154500 +0900" channel="E07.wavve">
+    <title lang="ko">최강공룡 미니특공대</title>
+    <sub-title lang="ko">정체불명의 영웅!</sub-title>
+    <desc lang="ko">최강공룡 미니특공대
+부제 : 정체불명의 영웅!
+방송 : 재방송
+등급 : 7세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028154500 +0900" stop="20261028160000 +0900" channel="E07.wavve">
+    <title lang="ko">출동! 타요와 소방구조대</title>
+    <sub-title lang="ko">갈림길 위에 선 구조대</sub-title>
+    <desc lang="ko">출동! 타요와 소방구조대
+부제 : 갈림길 위에 선 구조대
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028160000 +0900" stop="20261028163000 +0900" channel="E07.wavve">
+    <title lang="ko">강철소방대 파이어로보Z (종합)</title>
+    <sub-title lang="ko">아이스걸과의 조우/위험천만 고드름</sub-title>
+    <desc lang="ko">강철소방대 파이어로보Z (종합)
+부제 : 아이스걸과의 조우/위험천만 고드름
+방송 : 재방송
+등급 : 7세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028163000 +0900" stop="20261028164500 +0900" channel="E07.wavve">
+    <title lang="ko">블록스</title>
+    <sub-title lang="ko">넘버블롭스의 공연</sub-title>
+    <desc lang="ko">블록스
+부제 : 넘버블롭스의 공연
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028164500 +0900" stop="20261028170000 +0900" channel="E07.wavve">
+    <title lang="ko">무지개 강아지 딜런의 모험</title>
+    <sub-title lang="ko">제빵사</sub-title>
+    <desc lang="ko">무지개 강아지 딜런의 모험
+부제 : 제빵사
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028170000 +0900" stop="20261028175500 +0900" channel="E07.wavve">
+    <title lang="ko">명의</title>
+    <sub-title lang="ko">투석까지 가는 만성콩팥병? 치료할 수 있다</sub-title>
+    <desc lang="ko">명의
+부제 : 투석까지 가는 만성콩팥병? 치료할 수 있다
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028175500 +0900" stop="20261028182000 +0900" channel="E07.wavve">
+    <title lang="ko">최고의 요리비결</title>
+    <sub-title lang="ko">김갑수의 순두부비빔밥×들깨두부구이</sub-title>
+    <desc lang="ko">최고의 요리비결
+부제 : 김갑수의 순두부비빔밥×들깨두부구이
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028182000 +0900" stop="20261028183500 +0900" channel="E07.wavve">
+    <title lang="ko">꼬마마법사 주니토니</title>
+    <sub-title lang="ko">나는 커서</sub-title>
+    <desc lang="ko">꼬마마법사 주니토니
+부제 : 나는 커서
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028183500 +0900" stop="20261028185000 +0900" channel="E07.wavve">
+    <title lang="ko">마샤와 곰</title>
+    <sub-title lang="ko">개굴개굴 마법 소동 / 소원을 빌어 봐!</sub-title>
+    <desc lang="ko">마샤와 곰
+부제 : 개굴개굴 마법 소동 / 소원을 빌어 봐!
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028185000 +0900" stop="20261028190000 +0900" channel="E07.wavve">
+    <title lang="ko">페파 피그</title>
+    <sub-title lang="ko">즐거운 캠핑/잠자는 공주</sub-title>
+    <desc lang="ko">페파 피그
+부제 : 즐거운 캠핑/잠자는 공주
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028190000 +0900" stop="20261028192000 +0900" channel="E07.wavve">
+    <title lang="ko">딩동댕 딩동댕</title>
+    <sub-title lang="ko">강릉의 기운을 품은 하슬랑</sub-title>
+    <desc lang="ko">딩동댕 딩동댕
+부제 : 강릉의 기운을 품은 하슬랑
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028192000 +0900" stop="20261028193500 +0900" channel="E07.wavve">
+    <title lang="ko">지구 영웅 번개맨</title>
+    <sub-title lang="ko">8화 진짜와 가짜가 헷갈릴 때</sub-title>
+    <desc lang="ko">지구 영웅 번개맨
+부제 : 8화 진짜와 가짜가 헷갈릴 때
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028193500 +0900" stop="20261028195000 +0900" channel="E07.wavve">
+    <title lang="ko">지구 영웅 번개맨</title>
+    <sub-title lang="ko">9화 사랑이를 사랑해</sub-title>
+    <desc lang="ko">지구 영웅 번개맨
+부제 : 9화 사랑이를 사랑해
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028195000 +0900" stop="20261028200000 +0900" channel="E07.wavve">
+    <title lang="ko">난생처음 인공지능 ? 에이랑 아이랑</title>
+    <sub-title lang="ko">진짜일까, 가짜일까?</sub-title>
+    <desc lang="ko">난생처음 인공지능 ? 에이랑 아이랑
+부제 : 진짜일까, 가짜일까?
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028200000 +0900" stop="20261028201000 +0900" channel="E07.wavve">
+    <title lang="ko">난생처음 인공지능 ? 에이랑 아이랑</title>
+    <sub-title lang="ko">운전대 없는 자동차</sub-title>
+    <desc lang="ko">난생처음 인공지능 ? 에이랑 아이랑
+부제 : 운전대 없는 자동차
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028201000 +0900" stop="20261028202000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 드라마 - 부활수업</title>
+    <sub-title lang="ko">철학자의 인생상담 2부 아르투어 쇼펜하우어</sub-title>
+    <desc lang="ko">AI 드라마 - 부활수업
+부제 : 철학자의 인생상담 2부 아르투어 쇼펜하우어
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028202000 +0900" stop="20261028203000 +0900" channel="E07.wavve">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
+    <sub-title lang="ko">이순신 2부 악동 골목대장 이순신</sub-title>
+    <desc lang="ko">덩이랑 쾡이랑 인물 한국사
+부제 : 이순신 2부 악동 골목대장 이순신
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028203000 +0900" stop="20261028204000 +0900" channel="E07.wavve">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
+    <sub-title lang="ko">이순신 3부 인생의 동반자를 만나다</sub-title>
+    <desc lang="ko">덩이랑 쾡이랑 인물 한국사
+부제 : 이순신 3부 인생의 동반자를 만나다
+등급 : 7세 이상 관람가</desc>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028204000 +0900" stop="20261028210000 +0900" channel="E07.wavve">
+    <title lang="ko">AI 석학 특강-넥스트 비전</title>
+    <sub-title lang="ko">닉보스트롬 &lt;초지능의 탄생&gt; - 비전1 초지능을 통제할 수 있을까</sub-title>
+    <desc lang="ko">AI 석학 특강-넥스트 비전
+부제 : 닉보스트롬 &lt;초지능의 탄생&gt; - 비전1 초지능을 통제할 수 있을까
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028210000 +0900" stop="20261028210500 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(1)</title>
+    <sub-title lang="ko">잘 자라고 그랬어</sub-title>
+    <desc lang="ko">지식채널e(1)
+부제 : 잘 자라고 그랬어
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028210500 +0900" stop="20261028211000 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(2)</title>
+    <sub-title lang="ko">색이 아닌 색</sub-title>
+    <desc lang="ko">지식채널e(2)
+부제 : 색이 아닌 색
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028211000 +0900" stop="20261028220500 +0900" channel="E07.wavve">
+    <title lang="ko">시대목격</title>
+    <sub-title lang="ko">현역 이경규</sub-title>
+    <desc lang="ko">시대목격
+부제 : 현역 이경규
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028220500 +0900" stop="20261028222500 +0900" channel="E07.wavve">
+    <title lang="ko">기획강연 청년에게(1)</title>
+    <sub-title lang="ko">허성범 1부 - 스스로 기회를 만들고 포착하는 법</sub-title>
+    <desc lang="ko">기획강연 청년에게(1)
+부제 : 허성범 1부 - 스스로 기회를 만들고 포착하는 법
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028222500 +0900" stop="20261028230500 +0900" channel="E07.wavve">
+    <title lang="ko">나의 두 번째 교과서</title>
+    <sub-title lang="ko">체육 6강 삶의 질, 운동에 달려있다!</sub-title>
+    <desc lang="ko">나의 두 번째 교과서
+부제 : 체육 6강 삶의 질, 운동에 달려있다!
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028230500 +0900" stop="20261028232000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 비즈니스 리뷰</title>
+    <sub-title lang="ko">백종화의 요즘 팀장을 위한 커뮤니케이션 스킬 - 3부 ‘원온원’하면 팀장의 업무가 늘어날까?</sub-title>
+    <desc lang="ko">EBS 비즈니스 리뷰
+부제 : 백종화의 요즘 팀장을 위한 커뮤니케이션 스킬 - 3부 ‘원온원’하면 팀장의 업무가 늘어날까?
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028232000 +0900" stop="20261028235000 +0900" channel="E07.wavve">
+    <title lang="ko">EBS 명강</title>
+    <sub-title lang="ko">한동일의 라틴어 인생수업 11강 - 만일 신이 주지 않더라도</sub-title>
+    <desc lang="ko">EBS 명강
+부제 : 한동일의 라틴어 인생수업 11강 - 만일 신이 주지 않더라도
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028235000 +0900" stop="20261028235500 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(1)</title>
+    <sub-title lang="ko">근본을 생각하는 시간</sub-title>
+    <desc lang="ko">지식채널e(1)
+부제 : 근본을 생각하는 시간
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028235500 +0900" stop="20261029000000 +0900" channel="E07.wavve">
+    <title lang="ko">지식채널e(2)</title>
+    <sub-title lang="ko">죽은 백인의 옷</sub-title>
+    <desc lang="ko">지식채널e(2)
+부제 : 죽은 백인의 옷
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
 </tv>
