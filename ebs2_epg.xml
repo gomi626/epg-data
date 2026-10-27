@@ -2,6 +2,13 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="epg2xml v2.9.0.dev0">
+  <channel id="297.kt">
+    <display-name>NHK World Premium</display-name>
+    <display-name>KT</display-name>
+    <display-name>297</display-name>
+    <display-name>297 NHK World Premium</display-name>
+    <display-name>297 KT</display-name>
+  </channel>
   <channel id="E07.wavve">
     <display-name>EBS 2</display-name>
     <display-name>WAVVE</display-name>
@@ -10,6 +17,1456 @@
     <display-name>0 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png" />
   </channel>
+  <programme start="20261027002900 +0900" stop="20261027003000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027003000 +0900" stop="20261027003500 +0900" channel="297.kt">
+    <title lang="ko">초보자를 위한 오늘의 요리</title>
+    <desc lang="ko">초보자를 위한 오늘의 요리
+장르 : 취미/레저
+등급 : 전체 관람가</desc>
+    <category lang="ko">취미/레저</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027003500 +0900" stop="20261027004000 +0900" channel="297.kt">
+    <title lang="ko">초보자를 위한 오늘의 요리</title>
+    <desc lang="ko">초보자를 위한 오늘의 요리
+장르 : 취미/레저
+등급 : 전체 관람가</desc>
+    <category lang="ko">취미/레저</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027004000 +0900" stop="20261027004500 +0900" channel="297.kt">
+    <title lang="ko">초보자를 위한 오늘의 요리</title>
+    <desc lang="ko">초보자를 위한 오늘의 요리
+장르 : 취미/레저
+등급 : 전체 관람가</desc>
+    <category lang="ko">취미/레저</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027004500 +0900" stop="20261027011500 +0900" channel="297.kt">
+    <title lang="ko">쑥쑥 육아</title>
+    <desc lang="ko">쑥쑥 육아
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027011500 +0900" stop="20261027014000 +0900" channel="297.kt">
+    <title lang="ko">그레텔의 부뚜막</title>
+    <desc lang="ko">그레텔의 부뚜막
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027014000 +0900" stop="20261027020800 +0900" channel="297.kt">
+    <title lang="ko">J-MELO</title>
+    <desc lang="ko">J-MELO
+장르 : 음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027020800 +0900" stop="20261027021000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027021000 +0900" stop="20261027023000 +0900" channel="297.kt">
+    <title lang="ko">행복한 프랑스어</title>
+    <desc lang="ko">행복한 프랑스어
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027023000 +0900" stop="20261027024000 +0900" channel="297.kt">
+    <title lang="ko">대화가 계속된다 리얼 여행 영어</title>
+    <desc lang="ko">대화가 계속된다 리얼 여행 영어
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027024000 +0900" stop="20261027024500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027024500 +0900" stop="20261027030000 +0900" channel="297.kt">
+    <title lang="ko">키즈 디스커버리</title>
+    <desc lang="ko">키즈 디스커버리
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027030000 +0900" stop="20261027032500 +0900" channel="297.kt">
+    <title lang="ko">엄마와 함께</title>
+    <desc lang="ko">엄마와 함께
+장르 : 교육
+등급 : 전체 관람가</desc>
+    <category lang="ko">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027032500 +0900" stop="20261027033000 +0900" channel="297.kt">
+    <title lang="ko">일본 카메라 눈</title>
+    <desc lang="ko">일본 카메라 눈
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027033000 +0900" stop="20261027034500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027034500 +0900" stop="20261027041200 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027041200 +0900" stop="20261027041500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027041500 +0900" stop="20261027050000 +0900" channel="297.kt">
+    <title lang="ko">쯔루베 가족에 건배</title>
+    <desc lang="ko">쯔루베 가족에 건배
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027050000 +0900" stop="20261027051000 +0900" channel="297.kt">
+    <title lang="ko">TV체조</title>
+    <desc lang="ko">TV체조
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027051000 +0900" stop="20261027052500 +0900" channel="297.kt">
+    <title lang="ko">오늘의 건강</title>
+    <desc lang="ko">오늘의 건강
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027052500 +0900" stop="20261027055000 +0900" channel="297.kt">
+    <title lang="ko">취미원예</title>
+    <desc lang="ko">취미원예
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027055000 +0900" stop="20261027055500 +0900" channel="297.kt">
+    <title lang="ko">교토의 원예점 햇볕집</title>
+    <desc lang="ko">교토의 원예점 햇볕집
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027055500 +0900" stop="20261027060000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027060000 +0900" stop="20261027070000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스(6시대)</title>
+    <desc lang="ko">NHK 뉴스(6시대)
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027070000 +0900" stop="20261027080000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스(7시대)</title>
+    <desc lang="ko">NHK 뉴스(7시대)
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027080000 +0900" stop="20261027081500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027081500 +0900" stop="20261027095400 +0900" channel="297.kt">
+    <title lang="ko">모닝마켓</title>
+    <desc lang="ko">모닝마켓
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027095400 +0900" stop="20261027095500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027095500 +0900" stop="20261027100000 +0900" channel="297.kt">
+    <title lang="ko">우리들의 체조</title>
+    <desc lang="ko">우리들의 체조
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027100000 +0900" stop="20261027100500 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027100500 +0900" stop="20261027105000 +0900" channel="297.kt">
+    <title lang="ko">쯔루베 가족에 건배</title>
+    <desc lang="ko">쯔루베 가족에 건배
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027105000 +0900" stop="20261027111700 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027111700 +0900" stop="20261027112000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027112000 +0900" stop="20261027115000 +0900" channel="297.kt">
+    <title lang="ko">미주알 고주알</title>
+    <desc lang="ko">미주알 고주알
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027115000 +0900" stop="20261027115500 +0900" channel="297.kt">
+    <title lang="ko">우리들의 노래</title>
+    <desc lang="ko">우리들의 노래
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027115500 +0900" stop="20261027120000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027120000 +0900" stop="20261027122000 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027122000 +0900" stop="20261027122800 +0900" channel="297.kt">
+    <title lang="ko">솔깃한 해설</title>
+    <desc lang="ko">솔깃한 해설
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027122800 +0900" stop="20261027123000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027123000 +0900" stop="20261027124500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 히욧코</title>
+    <desc lang="ko">연속TV소설 히욧코
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027124500 +0900" stop="20261027130000 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027130000 +0900" stop="20261027130500 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027130500 +0900" stop="20261027145000 +0900" channel="297.kt">
+    <title lang="ko">열도뉴스</title>
+    <desc lang="ko">열도뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027145000 +0900" stop="20261027145500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027145500 +0900" stop="20261027150000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027150000 +0900" stop="20261027151000 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027151000 +0900" stop="20261027152500 +0900" channel="297.kt">
+    <title lang="ko">오늘의 건강</title>
+    <desc lang="ko">오늘의 건강
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027152500 +0900" stop="20261027154000 +0900" channel="297.kt">
+    <title lang="ko">밤드라마 푸른 꽃 그릇의 숲</title>
+    <desc lang="ko">밤드라마 푸른 꽃 그릇의 숲
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027154000 +0900" stop="20261027155000 +0900" channel="297.kt">
+    <title lang="ko">시점 논점</title>
+    <desc lang="ko">시점 논점
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027155000 +0900" stop="20261027162000 +0900" channel="297.kt">
+    <title lang="ko">빌런의 주장</title>
+    <desc lang="ko">빌런의 주장
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027162000 +0900" stop="20261027164500 +0900" channel="297.kt">
+    <title lang="ko">작은 여행</title>
+    <desc lang="ko">작은 여행
+장르 : 취미/레저
+등급 : 전체 관람가</desc>
+    <category lang="ko">취미/레저</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027164500 +0900" stop="20261027170000 +0900" channel="297.kt">
+    <title lang="ko">노지의 번뜩이는 공방</title>
+    <desc lang="ko">노지의 번뜩이는 공방
+장르 : 교육
+등급 : 전체 관람가</desc>
+    <category lang="ko">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027170000 +0900" stop="20261027171000 +0900" channel="297.kt">
+    <title lang="ko">피타고라스위치</title>
+    <desc lang="ko">피타고라스위치
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027171000 +0900" stop="20261027172000 +0900" channel="297.kt">
+    <title lang="ko">영어로 놀자 세계를 만나다</title>
+    <desc lang="ko">영어로 놀자 세계를 만나다
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027172000 +0900" stop="20261027173500 +0900" channel="297.kt">
+    <title lang="ko">피카브</title>
+    <desc lang="ko">피카브
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027173500 +0900" stop="20261027175900 +0900" channel="297.kt">
+    <title lang="ko">엄마와 함께</title>
+    <desc lang="ko">엄마와 함께
+장르 : 교육
+등급 : 전체 관람가</desc>
+    <category lang="ko">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027175900 +0900" stop="20261027180000 +0900" channel="297.kt">
+    <title lang="ko">SDGs의 노래</title>
+    <desc lang="ko">SDGs의 노래
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027180000 +0900" stop="20261027181000 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027181000 +0900" stop="20261027182500 +0900" channel="297.kt">
+    <title lang="ko">키즈 디스커버리</title>
+    <desc lang="ko">키즈 디스커버리
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027182500 +0900" stop="20261027185500 +0900" channel="297.kt">
+    <title lang="ko">천재 TV군 grow</title>
+    <desc lang="ko">천재 TV군 grow
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027185500 +0900" stop="20261027190000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027190000 +0900" stop="20261027193000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스 7</title>
+    <desc lang="ko">NHK 뉴스 7
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027193000 +0900" stop="20261027195700 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027195700 +0900" stop="20261027204300 +0900" channel="297.kt">
+    <title lang="ko">노래 콘서트</title>
+    <desc lang="ko">노래 콘서트
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027204300 +0900" stop="20261027204500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027204500 +0900" stop="20261027210000 +0900" channel="297.kt">
+    <title lang="ko">수도권 뉴스 845</title>
+    <desc lang="ko">수도권 뉴스 845
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027210000 +0900" stop="20261027220000 +0900" channel="297.kt">
+    <title lang="ko">뉴스워치 9</title>
+    <desc lang="ko">뉴스워치 9
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027220000 +0900" stop="20261027224500 +0900" channel="297.kt">
+    <title lang="ko">드라마10 회사원</title>
+    <desc lang="ko">드라마10 회사원
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027224500 +0900" stop="20261027230000 +0900" channel="297.kt">
+    <title lang="ko">밤드라마 푸른 꽃 그릇의 숲</title>
+    <desc lang="ko">밤드라마 푸른 꽃 그릇의 숲
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027230000 +0900" stop="20261027232700 +0900" channel="297.kt">
+    <title lang="ko">NHK 지역국 소식</title>
+    <desc lang="ko">NHK 지역국 소식
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027232700 +0900" stop="20261027233000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027233000 +0900" stop="20261027234000 +0900" channel="297.kt">
+    <title lang="ko">시론 공론</title>
+    <desc lang="ko">시론 공론
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027234000 +0900" stop="20261027234500 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261027234500 +0900" stop="20261028002900 +0900" channel="297.kt">
+    <title lang="ko">국제보도 2026</title>
+    <desc lang="ko">국제보도 2026
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028002900 +0900" stop="20261028003000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028003000 +0900" stop="20261028011500 +0900" channel="297.kt">
+    <title lang="ko">어른들의 시간 연구소</title>
+    <desc lang="ko">어른들의 시간 연구소
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028011500 +0900" stop="20261028014000 +0900" channel="297.kt">
+    <title lang="ko">오늘의 요리</title>
+    <desc lang="ko">오늘의 요리
+장르 : 취미/레저
+등급 : 전체 관람가</desc>
+    <category lang="ko">취미/레저</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028014000 +0900" stop="20261028020500 +0900" channel="297.kt">
+    <title lang="ko">NHK 단가</title>
+    <desc lang="ko">NHK 단가
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028020500 +0900" stop="20261028021000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028021000 +0900" stop="20261028023000 +0900" channel="297.kt">
+    <title lang="ko">행복한 독일어</title>
+    <desc lang="ko">행복한 독일어
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028023000 +0900" stop="20261028024000 +0900" channel="297.kt">
+    <title lang="ko">대화가 계속된다 리얼 여행 영어</title>
+    <desc lang="ko">대화가 계속된다 리얼 여행 영어
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028024000 +0900" stop="20261028024500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028024500 +0900" stop="20261028030000 +0900" channel="297.kt">
+    <title lang="ko">키즈 디스커버리</title>
+    <desc lang="ko">키즈 디스커버리
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028030000 +0900" stop="20261028032500 +0900" channel="297.kt">
+    <title lang="ko">엄마와 함께</title>
+    <desc lang="ko">엄마와 함께
+장르 : 교육
+등급 : 전체 관람가</desc>
+    <category lang="ko">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028032500 +0900" stop="20261028033000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028033000 +0900" stop="20261028034500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028034500 +0900" stop="20261028041200 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028041200 +0900" stop="20261028041500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028041500 +0900" stop="20261028050000 +0900" channel="297.kt">
+    <title lang="ko">노래 콘서트</title>
+    <desc lang="ko">노래 콘서트
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028050000 +0900" stop="20261028051000 +0900" channel="297.kt">
+    <title lang="ko">TV체조</title>
+    <desc lang="ko">TV체조
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028051000 +0900" stop="20261028052500 +0900" channel="297.kt">
+    <title lang="ko">오늘의 건강</title>
+    <desc lang="ko">오늘의 건강
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028052500 +0900" stop="20261028055500 +0900" channel="297.kt">
+    <title lang="ko">내일부터 사용할 수 있는 시간 가성비 도시락</title>
+    <desc lang="ko">내일부터 사용할 수 있는 시간 가성비 도시락
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028055500 +0900" stop="20261028060000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028060000 +0900" stop="20261028070000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스(6시대)</title>
+    <desc lang="ko">NHK 뉴스(6시대)
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028070000 +0900" stop="20261028080000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스(7시대)</title>
+    <desc lang="ko">NHK 뉴스(7시대)
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028080000 +0900" stop="20261028081500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028081500 +0900" stop="20261028095400 +0900" channel="297.kt">
+    <title lang="ko">모닝마켓</title>
+    <desc lang="ko">모닝마켓
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028095400 +0900" stop="20261028095500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028095500 +0900" stop="20261028100000 +0900" channel="297.kt">
+    <title lang="ko">우리들의 체조</title>
+    <desc lang="ko">우리들의 체조
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028100000 +0900" stop="20261028100500 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028100500 +0900" stop="20261028105000 +0900" channel="297.kt">
+    <title lang="ko">노래 콘서트</title>
+    <desc lang="ko">노래 콘서트
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028105000 +0900" stop="20261028111700 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028111700 +0900" stop="20261028115000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028115000 +0900" stop="20261028115500 +0900" channel="297.kt">
+    <title lang="ko">우리들의 노래</title>
+    <desc lang="ko">우리들의 노래
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028115500 +0900" stop="20261028120000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028120000 +0900" stop="20261028122000 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028122000 +0900" stop="20261028122800 +0900" channel="297.kt">
+    <title lang="ko">솔깃한 해설</title>
+    <desc lang="ko">솔깃한 해설
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028122800 +0900" stop="20261028123000 +0900" channel="297.kt">
+    <title lang="ko">미니프로그램</title>
+    <desc lang="ko">미니프로그램
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028123000 +0900" stop="20261028124500 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 히욧코</title>
+    <desc lang="ko">연속TV소설 히욧코
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028124500 +0900" stop="20261028130000 +0900" channel="297.kt">
+    <title lang="ko">연속TV소설 블라썸</title>
+    <desc lang="ko">연속TV소설 블라썸
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028130000 +0900" stop="20261028130500 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028130500 +0900" stop="20261028145000 +0900" channel="297.kt">
+    <title lang="ko">열도뉴스</title>
+    <desc lang="ko">열도뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028145000 +0900" stop="20261028145500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028145500 +0900" stop="20261028150000 +0900" channel="297.kt">
+    <title lang="ko">명곡앨범</title>
+    <desc lang="ko">명곡앨범
+장르 : 음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028150000 +0900" stop="20261028151000 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028151000 +0900" stop="20261028152500 +0900" channel="297.kt">
+    <title lang="ko">오늘의 건강</title>
+    <desc lang="ko">오늘의 건강
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028152500 +0900" stop="20261028154000 +0900" channel="297.kt">
+    <title lang="ko">밤드라마 호시 신이치의 기이하고 기이한 단편드라마</title>
+    <desc lang="ko">밤드라마 호시 신이치의 기이하고 기이한 단편드라마
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028154000 +0900" stop="20261028155000 +0900" channel="297.kt">
+    <title lang="ko">시점 논점</title>
+    <desc lang="ko">시점 논점
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028155000 +0900" stop="20261028163500 +0900" channel="297.kt">
+    <title lang="ko">어른들의 시간 연구소</title>
+    <desc lang="ko">어른들의 시간 연구소
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028163500 +0900" stop="20261028172000 +0900" channel="297.kt">
+    <title lang="ko">역사탐정</title>
+    <desc lang="ko">역사탐정
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028172000 +0900" stop="20261028173500 +0900" channel="297.kt">
+    <title lang="ko">피카브</title>
+    <desc lang="ko">피카브
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028173500 +0900" stop="20261028175900 +0900" channel="297.kt">
+    <title lang="ko">엄마와 함께</title>
+    <desc lang="ko">엄마와 함께
+장르 : 교육
+등급 : 전체 관람가</desc>
+    <category lang="ko">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028175900 +0900" stop="20261028180000 +0900" channel="297.kt">
+    <title lang="ko">SDGs의 노래</title>
+    <desc lang="ko">SDGs의 노래
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028180000 +0900" stop="20261028181000 +0900" channel="297.kt">
+    <title lang="ko">뉴스</title>
+    <desc lang="ko">뉴스
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028181000 +0900" stop="20261028182500 +0900" channel="297.kt">
+    <title lang="ko">키즈 디스커버리</title>
+    <desc lang="ko">키즈 디스커버리
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028182500 +0900" stop="20261028185500 +0900" channel="297.kt">
+    <title lang="ko">천재 TV군 grow</title>
+    <desc lang="ko">천재 TV군 grow
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028185500 +0900" stop="20261028190000 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028190000 +0900" stop="20261028193000 +0900" channel="297.kt">
+    <title lang="ko">NHK 뉴스 7</title>
+    <desc lang="ko">NHK 뉴스 7
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028193000 +0900" stop="20261028195700 +0900" channel="297.kt">
+    <title lang="ko">클로즈업 현대</title>
+    <desc lang="ko">클로즈업 현대
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028195700 +0900" stop="20261028204300 +0900" channel="297.kt">
+    <title lang="ko">세상을 열어라! 비밀의 문</title>
+    <desc lang="ko">세상을 열어라! 비밀의 문
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028204300 +0900" stop="20261028204500 +0900" channel="297.kt">
+    <title lang="ko">세계의 기상</title>
+    <desc lang="ko">세계의 기상
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028204500 +0900" stop="20261028210000 +0900" channel="297.kt">
+    <title lang="ko">수도권 뉴스 845</title>
+    <desc lang="ko">수도권 뉴스 845
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028210000 +0900" stop="20261028220000 +0900" channel="297.kt">
+    <title lang="ko">뉴스워치 9</title>
+    <desc lang="ko">뉴스워치 9
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028220000 +0900" stop="20261028224500 +0900" channel="297.kt">
+    <title lang="ko">역사탐정</title>
+    <desc lang="ko">역사탐정
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028224500 +0900" stop="20261028233000 +0900" channel="297.kt">
+    <title lang="ko">밤드라마 호시 신이치의 기이하고 기이한 단편드라마</title>
+    <desc lang="ko">밤드라마 호시 신이치의 기이하고 기이한 단편드라마
+장르 : 드라마
+등급 : 전체 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028233000 +0900" stop="20261028234000 +0900" channel="297.kt">
+    <title lang="ko">시론 공론</title>
+    <desc lang="ko">시론 공론
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028234000 +0900" stop="20261028234500 +0900" channel="297.kt">
+    <title lang="ko">뉴스 기상정보</title>
+    <desc lang="ko">뉴스 기상정보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261028234500 +0900" stop="20261029000000 +0900" channel="297.kt">
+    <title lang="ko">국제보도 2026</title>
+    <desc lang="ko">국제보도 2026
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20261027060000 +0900" stop="20261027061000 +0900" channel="E07.wavve">
     <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
     <sub-title lang="ko">발음 강세 Unit 547. 채소</sub-title>
