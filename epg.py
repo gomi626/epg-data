@@ -7,6 +7,7 @@ NHK 番組表API v3 (program-api.nhk.jp) 사용. 환경변수 NHK_API_KEY 필요
   service: g1(総合) e1(Eテレ) r1(AM) r3(FM) 등
   area   : 130(東京) 060(山形) 270(大阪) 등
   kind   : "tv" 또는 "radio"
+  file   : 출력 파일. 같은 file 값을 가진 채널은 한 XML 파일로 합쳐집니다.
 """
 import datetime as dt
 import json
@@ -23,9 +24,9 @@ CHANNELS = [
     {"kind": "tv",    "service": "g1", "area": "060", "id": "NHKG.Yamagata.jp",
      "name": "NHK総合・山形", "short": "NHK G",  "file": "nhk_g1_yamagata.xml"},
     {"kind": "radio", "service": "r1", "area": "130", "id": "NHKAM.Tokyo.jp",
-     "name": "NHK AM・東京",  "short": "NHK AM", "file": "nhk_r1_tokyo.xml"},
+     "name": "NHK AM・東京",  "short": "NHK AM", "file": "nhk_radio_tokyo.xml"},
     {"kind": "radio", "service": "r3", "area": "130", "id": "NHKFM.Tokyo.jp",
-     "name": "NHK FM・東京",  "short": "NHK FM", "file": "nhk_r3_tokyo.xml"},
+     "name": "NHK FM・東京",  "short": "NHK FM", "file": "nhk_radio_tokyo.xml"},
 ]
 
 DAYS = int(os.environ.get("EPG_DAYS", "7"))
@@ -136,15 +137,15 @@ def add_programme(tv, ch, p):
         ET.SubElement(prog, "episode-num", {"system": "nhk-id"}).text = p["id"]
 
 
-def build_channel(key, ch, start):
-    """채널 하나의 XMLTV 파일 생성. 실패 사유 문자열 또는 None 반환."""
+def fetch_channel(key, ch, start):
+    """채널 하나의 프로그램 목록과 채널 정보를 받아온다. 실패하면 사유 문자열을 던진다."""
     seen, programmes, info = set(), [], {}
     for i in range(DAYS):
         date = (start + dt.timedelta(days=i)).isoformat()
         res = fetch_day(key, ch, date)
         if res is None:
             if i == 0:
-                return f"{ch['name']}: 오늘 편성표를 받지 못했습니다."
+                raise ValueError(f"{ch['name']}: 오늘 편성표를 받지 못했습니다.")
             break  # 제공 범위를 넘으면 중단
         pubs, day_info = res
         info = info or day_info
@@ -160,34 +161,36 @@ def build_channel(key, ch, start):
         time.sleep(1)
 
     if not programmes:
-        return f"{ch['name']}: 프로그램을 하나도 받지 못해 기존 파일을 유지합니다."
+        raise ValueError(f"{ch['name']}: 프로그램을 하나도 받지 못했습니다.")
+    programmes.sort(key=lambda p: p["startDate"])
+    return programmes, info
 
+
+def write_file(path, results):
+    """results: [(ch, programmes, info), ...] 를 XMLTV 파일 하나로 저장."""
     tv = ET.Element("tv", {
         "generator-info-name": "nhk-epg-actions",
         "source-info-name": "NHK番組表API v3",
     })
-    c = ET.SubElement(tv, "channel", {"id": ch["id"]})
-    ET.SubElement(c, "display-name", {"lang": "ja"}).text = ch["name"]
-    ET.SubElement(c, "display-name").text = ch["short"]
-    logo = pick_logo(info)
-    if logo:
-        ET.SubElement(c, "icon", {"src": logo})
-        print(f"::notice::{ch['short']} 로고: {logo}")
-    else:
-        print(f"::notice::{ch['short']} logo 원본: " + json.dumps(info.get("logo"), ensure_ascii=False)[:500])
-
-    programmes.sort(key=lambda p: p["startDate"])
-    for p in programmes:
-        add_programme(tv, ch, p)
+    # XMLTV 규칙상 <channel> 들이 먼저, 그다음 <programme> 들
+    for ch, _, info in results:
+        c = ET.SubElement(tv, "channel", {"id": ch["id"]})
+        ET.SubElement(c, "display-name", {"lang": "ja"}).text = ch["name"]
+        ET.SubElement(c, "display-name").text = ch["short"]
+        logo = pick_logo(info)
+        if logo:
+            ET.SubElement(c, "icon", {"src": logo})
+    for ch, programmes, _ in results:
+        for p in programmes:
+            add_programme(tv, ch, p)
 
     ET.indent(tv, space="  ")
-    with open(ch["file"], "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<!DOCTYPE tv SYSTEM "xmltv.dtd">\n')
         f.write(ET.tostring(tv, encoding="unicode") + "\n")
-    print(f"::notice::완료: {ch['file']} ({len(programmes)}개, "
-          f"{programmes[0]['startDate']} ~ {programmes[-1]['endDate']})")
-    return None
+    summary = ", ".join(f"{ch['short']} {len(pr)}개" for ch, pr, _ in results)
+    print(f"::notice::완료: {path} ({summary})")
 
 
 def main():
@@ -199,17 +202,28 @@ def main():
     # 새벽 0~5시는 아직 '전날 방송일'이므로 전날부터 받기
     start = (dt.datetime.now(JST) - dt.timedelta(hours=5)).date()
 
-    errors = []
+    # 출력 파일별로 채널 묶기 (순서 유지)
+    files = {}
     for ch in CHANNELS:
+        files.setdefault(ch["file"], []).append(ch)
+
+    errors = []
+    for path, chans in files.items():
+        results = []
         try:
-            err = build_channel(key, ch, start)
+            for ch in chans:
+                programmes, info = fetch_channel(key, ch, start)
+                results.append((ch, programmes, info))
         except AuthError as e:
             print(f"::error::{e}")
             sys.exit(1)
-        if err:
-            errors.append(err)
+        except ValueError as e:
+            # 한 채널이라도 실패하면 그 파일은 덮어쓰지 않고 기존 파일 유지
+            errors.append(f"{e} → {path} 는 기존 파일을 유지합니다.")
+            continue
+        write_file(path, results)
 
-    # 한 채널이 실패해도 나머지 채널 파일은 저장·커밋되도록 끝에서만 실패 처리
+    # 다른 파일은 저장·커밋되도록 끝에서만 실패 처리
     for e in errors:
         print(f"::error::{e}")
     if errors:
