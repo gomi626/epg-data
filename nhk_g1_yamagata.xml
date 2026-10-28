@@ -4,6 +4,7 @@
   <channel id="NHKG.Yamagata.jp">
     <display-name lang="ja">NHK総合・山形</display-name>
     <display-name>NHK G</display-name>
+    <icon src="https://img.nhk.jp/common/broadcastservice/bs/g1/g1-logo_1080x1080.png" />
   </channel>
   <programme start="20261028050000 +0900" stop="20261028060000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">ＮＨＫニュース　おはよう日本　衆院３１議席削減案　与野党賛否表明へ</title>

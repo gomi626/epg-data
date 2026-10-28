@@ -4,6 +4,7 @@
   <channel id="NHKAM.Tokyo.jp">
     <display-name lang="ja">NHK AM・東京</display-name>
     <display-name>NHK AM</display-name>
+    <icon src="https://img.nhk.jp/common/broadcastservice/bs/r1/am-logo_1080x1080.png" />
   </channel>
   <programme start="20261028050003 +0900" stop="20261028055500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">マイあさ！５時台ニュース／たより富山・愛媛／健康「歴史的音楽家たちの病気」３</title>

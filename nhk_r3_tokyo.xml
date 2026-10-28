@@ -4,6 +4,7 @@
   <channel id="NHKFM.Tokyo.jp">
     <display-name lang="ja">NHK FM・東京</display-name>
     <display-name>NHK FM</display-name>
+    <icon src="https://img.nhk.jp/common/broadcastservice/bs/r3/r3-logo_1080x1080.png" />
   </channel>
   <programme start="20261028050003 +0900" stop="20261028055500 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">古楽の楽しみ　素材をいかして（３）</title>
