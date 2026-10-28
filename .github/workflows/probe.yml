@@ -1,0 +1,25 @@
+name: probe-nhk-v3
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe candidate endpoints
+        env:
+          K: ${{ secrets.NHK_API_KEY }}
+        run: |
+          D=$(TZ=Asia/Tokyo date +%F)
+          for U in \
+            "https://program-api.nhk.jp/v3/papiPgDateTv?service=g1&area=060&date=$D" \
+            "https://api.nhk.or.jp/v3/pg/list/060/g1/$D.json" \
+            "https://api.nhk.or.jp/v3/pg/tv/list/060/g1/$D.json" \
+            "https://api.nhk.or.jp/v3/pg/list/tv/060/g1/$D.json" \
+            "https://api.nhk.or.jp/v3/pg/date/060/g1/$D.json" \
+            "https://api.nhk.or.jp/v3/pg/tv/date/060/g1/$D.json" \
+            "https://api.nhk.or.jp/v3/papiPgDateTv?service=g1&area=060&date=$D" \
+            "https://api.nhk.or.jp/v3/" ; do
+            case "$U" in *\?*) Q="$U&key=$K";; *) Q="$U?key=$K";; esac
+            C=$(curl -s -m 20 -o b.txt -w '%{http_code}' "$Q")
+            B=$(head -c 350 b.txt | tr '\n\r' '  ' | sed "s/$K/***/g")
+            echo "::notice::$C $U => $B"
+          done
