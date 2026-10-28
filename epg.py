@@ -9,6 +9,7 @@ import json
 import os
 import sys
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -68,7 +69,8 @@ def add_programme(tv, p):
     ET.SubElement(prog, "title", {"lang": "ja"}).text = title
 
     sub = ig.get("tvEpisodeName")
-    if sub and sub not in title:
+    nfkc = lambda x: unicodedata.normalize("NFKC", x).replace(" ", "")
+    if sub and nfkc(sub) not in nfkc(title):
         ET.SubElement(prog, "sub-title", {"lang": "ja"}).text = sub
 
     desc = "\n".join(x for x in (p.get("description"), misc.get("freeLine")) if x)
