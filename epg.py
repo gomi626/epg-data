@@ -23,6 +23,12 @@ BASE = "https://api.nhk.or.jp/v2/pg/list/{area}/{service}/{date}.json"
 JST = dt.timezone(dt.timedelta(hours=9))
 
 
+def fail(msg):
+    # GitHub Actions 요약 화면(Annotations)에 원인이 바로 보이도록 출력
+    print(f"::error::{msg}")
+    sys.exit(1)
+
+
 def fetch_day(key, date):
     url = BASE.format(area=AREA, service=SERVICE, date=date)
     url += "?" + urllib.parse.urlencode({"key": key})
@@ -30,10 +36,15 @@ def fetch_day(key, date):
         with urllib.request.urlopen(url, timeout=20) as r:
             return json.load(r).get("list", {}).get(SERVICE, [])
     except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace")[:300].replace("\n", " ")
         if e.code == 404:
-            print(f"[{date}] 데이터 없음 (404)")
+            print(f"::warning::[{date}] 404 데이터 없음: {body}")
             return []
-        sys.exit(f"NHK API 오류 {e.code} ({date})")
+        fail(f"NHK API 오류 HTTP {e.code} ({date}): {body}")
+    except urllib.error.URLError as e:
+        fail(f"NHK API 접속 실패 ({date}): {e.reason}")
+    except json.JSONDecodeError as e:
+        fail(f"NHK API 응답이 JSON이 아님 ({date}): {e}")
 
 
 def xmltv_time(iso):
@@ -43,7 +54,7 @@ def xmltv_time(iso):
 def main():
     key = os.environ.get("NHK_API_KEY")
     if not key:
-        sys.exit("NHK_API_KEY 가 설정되지 않았습니다 (저장소 Secrets 확인).")
+        fail("NHK_API_KEY 가 설정되지 않았습니다 (Settings > Secrets and variables > Actions 확인).")
 
     tv = ET.Element("tv", {
         "generator-info-name": "nhk-epg-actions",
@@ -83,7 +94,7 @@ def main():
         time.sleep(1)
 
     if count == 0:
-        sys.exit("프로그램을 하나도 받지 못해 기존 파일을 유지합니다.")
+        fail("프로그램을 하나도 받지 못해 기존 파일을 유지합니다.")
 
     ET.indent(tv, space="  ")
     with open(OUTFILE, "w", encoding="utf-8") as f:
