@@ -4,22 +4,26 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Probe candidate endpoints
+      - name: Inspect structure
         env:
           K: ${{ secrets.NHK_API_KEY }}
         run: |
           D=$(TZ=Asia/Tokyo date +%F)
-          for U in \
-            "https://program-api.nhk.jp/v3/papiPgDateTv?service=g1&area=060&date=$D" \
-            "https://api.nhk.or.jp/v3/pg/list/060/g1/$D.json" \
-            "https://api.nhk.or.jp/v3/pg/tv/list/060/g1/$D.json" \
-            "https://api.nhk.or.jp/v3/pg/list/tv/060/g1/$D.json" \
-            "https://api.nhk.or.jp/v3/pg/date/060/g1/$D.json" \
-            "https://api.nhk.or.jp/v3/pg/tv/date/060/g1/$D.json" \
-            "https://api.nhk.or.jp/v3/papiPgDateTv?service=g1&area=060&date=$D" \
-            "https://api.nhk.or.jp/v3/" ; do
-            case "$U" in *\?*) Q="$U&key=$K";; *) Q="$U?key=$K";; esac
-            C=$(curl -s -m 20 -o b.txt -w '%{http_code}' "$Q")
-            B=$(head -c 350 b.txt | tr '\n\r' '  ' | sed "s/$K/***/g")
-            echo "::notice::$C $U => $B"
-          done
+          curl -s -m 30 "https://program-api.nhk.jp/v3/papiPgDateTv?service=g1&area=060&date=$D&key=$K" -o r.json
+          python3 - <<'PY'
+          import json
+          d=json.load(open("r.json"))
+          def sk(o,depth=0):
+              if isinstance(o,dict): return {k:(sk(v,depth+1) if depth<2 else type(v).__name__) for k,v in o.items()}
+              if isinstance(o,list): return [sk(o[0],depth+1)] if o else []
+              return type(o).__name__
+          print("::notice::TOP "+json.dumps(sk(d),ensure_ascii=False)[:3000])
+          g=d["g1"]
+          for k,v in g.items():
+              if isinstance(v,list): print(f"::notice::LIST {k} len={len(v)}")
+          pubs=g.get("publication") or []
+          if pubs:
+              p=pubs[0]
+              print("::notice::P0 "+json.dumps(p,ensure_ascii=False)[:6000])
+              print("::notice::LAST "+json.dumps({k:pubs[-1].get(k) for k in ("startDate","endDate","name")},ensure_ascii=False))
+          PY
