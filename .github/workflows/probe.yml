@@ -9,9 +9,9 @@ jobs:
           K: ${{ secrets.NHK_API_KEY }}
         run: |
           D=$(TZ=Asia/Tokyo date +%F)
-          for S in r1 r3 r2; do
+          for S in r1 r3; do
             for E in papiPgDateRadio papiPgDateTv; do
-              C=$(curl -s -m 30 -o r.json -w '%{http_code}' "https://program-api.nhk.jp/v3/$E?service=$S&area=060&date=$D&key=$K")
+              C=$(curl -s -m 30 -o r.json -w '%{http_code}' "https://program-api.nhk.jp/v3/$E?service=$S&area=130&date=$D&key=$K")
               python3 - "$C" "$E" "$S" <<'PY'
           import json,sys
           c,e,s=sys.argv[1:]
@@ -22,7 +22,7 @@ jobs:
           pon=(g.get("publishedOn") or [{}])[0]
           print(f"::notice::{c} {e} {s} keys={list(d)[:5]} n={len(pubs)} name={pon.get('name')} disp={pon.get('broadcastDisplayName')}")
           if pubs:
-              p=pubs[0]; print(f"::notice::{e} {s} P0 keys={list(p)} ig={list((p.get('identifierGroup') or {}))} sample="+json.dumps({k:p.get(k) for k in ('id','name','description','startDate','endDate')},ensure_ascii=False)[:600])
+              p=pubs[0]; print(f"::notice::{e} {s} P0 keys={list(p)} ig={list((p.get('identifierGroup') or {}))} misc={list((p.get('misc') or {}))} sample="+json.dumps({k:p.get(k) for k in ('id','name','description','startDate','endDate')},ensure_ascii=False)[:600])
           elif c!="200": print(f"::notice::{e} {s} body="+json.dumps(d,ensure_ascii=False)[:300])
           PY
             done
