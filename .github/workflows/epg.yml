@@ -1,4 +1,4 @@
-name: Update NHK G Yamagata EPG
+name: Update NHK EPG
 
 on:
   schedule:
@@ -20,6 +20,8 @@ jobs:
           python-version: "3.12"
 
       - name: Generate EPG
+        id: gen
+        continue-on-error: true   # 일부 채널만 실패해도 성공한 파일은 커밋
         env:
           NHK_API_KEY: ${{ secrets.NHK_API_KEY }}
         run: python epg.py
@@ -28,10 +30,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add nhk_g1_yamagata.xml
+          git add nhk_*.xml
           if git diff --cached --quiet; then
             echo "변경 사항 없음"
           else
-            git commit -m "Update EPG $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
+            git commit -m "Update NHK EPG $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
             git push
           fi
+
+      - name: Fail if any channel failed
+        if: steps.gen.outcome == 'failure'
+        run: exit 1
