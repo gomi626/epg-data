@@ -681,12 +681,29 @@
     <category lang="ja">自然・動物・環境</category>
     <episode-num system="nhk-id">g1-060-2026102804227</episode-num>
   </programme>
-  <programme start="20261028235000 +0900" stop="20261029005000 +0900" channel="NHKG.Yamagata.jp">
+  <programme start="20261028235000 +0900" stop="20261029003000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">ＭＬＢ２０２６　ワールドシリーズハイライト　第４戦</title>
     <desc lang="ja">ＭＬＢ２０２６決戦のステージ　ワールドチャンピオンをかけた激闘をハイライトで放送！</desc>
     <category lang="ja">スポーツ</category>
     <category lang="ja">野球</category>
     <episode-num system="nhk-id">g1-060-2026102806473</episode-num>
+  </programme>
+  <programme start="20261029003000 +0900" stop="20261029003700 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース</title>
+    <episode-num system="nhk-id">g1-060-2026102964762</episode-num>
+  </programme>
+  <programme start="20261029003700 +0900" stop="20261029003900 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">イタリア世界遺産</title>
+    <desc lang="ja">▽ピエンツァ歴史地区▽オルチャ渓谷　バーニャ・ビニョーニ、サンタンティモ修道院▽シエナ歴史地区▽サン・ジミニャーノ歴史地区▽ポルトヴェーネレ、チンクエ・テッレと小島群　リオマッジョーレ、ヴェルナッツァ、コルニリア▽サヴォイア王家の王宮と邸宅　王宮、スペルガ大聖堂、リヴォリ城、ストゥピニージ宮殿、ヴェナリア王宮▽オルタ湖のサクロ・モンテ</desc>
+    <episode-num system="nhk-id">g1-060-2026102964765</episode-num>
+  </programme>
+  <programme start="20261029003900 +0900" stop="20261029005000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ホットスポット最後の楽園「カリブ海（１）巨大魚群れる奇跡の海〜メキシコ沖」</title>
+    <desc lang="ja">ユカタン半島とキューバの間にあるユカタン海峡では毎年、大発生するプランクトンを求め、巨大な生物が集まってくる。夏には世界最大のサメ、ジンベイザメが数百匹も集結する。冬になるとイワシの群れを追って、カツオや世界最速の魚、バショウカジキが数十匹の群れで狩りをする。バショウカジキは集団でイワシの群れに襲いかかり長いくちさきをサーベルのように振り回し、イワシをたたいて食べていく。巨大魚が大集結する謎に迫る</desc>
+    <credits>
+      <actor role="語り">桑子真帆</actor>
+    </credits>
+    <episode-num system="nhk-id">g1-060-2026102964766</episode-num>
   </programme>
   <programme start="20261029005000 +0900" stop="20261029014000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">ＮＨＫスペシャル　村上宗隆　躍進の舞台裏　ＭＬＢの知られざる戦略とは　</title>
@@ -747,13 +764,15 @@
     <category lang="ja">番組紹介・お知らせ</category>
     <episode-num system="nhk-id">g1-060-2026102911464</episode-num>
   </programme>
-  <programme start="20261029023500 +0900" stop="20261029033500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">運転席からの風景　ＪＲ武蔵野線</title>
-    <sub-title lang="ja">JR武蔵野線(60分)</sub-title>
-    <desc lang="ja">首都圏の鉄道の魅力をたっぷりと！１９７３年開業のＪＲ武蔵野線は東京都心を大きな半円で囲むように走る路線。東京都府中市の府中本町駅から、埼玉県南部を通り、千葉県船橋市の西船橋駅まで、７１．８キロを結ぶ。沿線には郊外の大きなベッドタウンが広がっている。</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026102911466</episode-num>
+  <programme start="20261029023500 +0900" stop="20261029033400 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＭＬＢ２０２６　ワールドシリーズハイライト　第４戦</title>
+    <desc lang="ja">ＭＬＢ２０２６決戦のステージ　ワールドチャンピオンをかけた激闘をハイライトで放送！</desc>
+    <episode-num system="nhk-id">g1-060-2026102914022</episode-num>
+  </programme>
+  <programme start="20261029033400 +0900" stop="20261029033500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">１分で『刑事フォイル』</title>
+    <desc lang="ja">第二次世界大戦のさなか、イギリス南部の街ヘイスティングスにも戦争の足音が忍び寄っていた。正義を追い求める警視正フォイルは、専属運転手のサム（サマンサ）とともに、難事件に挑む。主演マイケル・キッチン、フォイルの声は山路和弘。企画・脚本はイギリスの人気ミステリー作家、アンソニー・ホロヴィッツ。</desc>
+    <episode-num system="nhk-id">g1-060-2026102914023</episode-num>
   </programme>
   <programme start="20261029033500 +0900" stop="20261029040000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">魂のタキ火「特別編　癒やしの炎３０ｍｉｎ」</title>
