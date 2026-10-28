@@ -45,7 +45,7 @@ def warn(msg):
 
 
 def fetch_day(key, ch, date):
-    """해당 방송일(05:00~익일 05:00)의 프로그램 목록. 실패 시 None."""
+    """해당 방송일(05:00~익일 05:00)의 (프로그램 목록, 채널 정보). 실패 시 None."""
     q = urllib.parse.urlencode({"service": ch["service"], "area": ch["area"],
                                 "date": date, "key": key})
     try:
@@ -60,11 +60,35 @@ def fetch_day(key, ch, date):
     except (urllib.error.URLError, json.JSONDecodeError) as e:
         warn(f"[{ch['service']} {date}] 요청 실패: {e}")
         return None
-    return (data.get(ch["service"]) or {}).get("publication") or []
+    svc = data.get(ch["service"]) or {}
+    return svc.get("publication") or [], (svc.get("publishedOn") or [{}])[0]
 
 
 def xmltv_time(iso):
     return dt.datetime.fromisoformat(iso).strftime("%Y%m%d%H%M%S %z")
+
+
+def pick_logo(info):
+    """채널 정보의 logo 항목에서 가장 큰 이미지 URL 선택."""
+    best = (0, None)
+
+    def walk(o):
+        nonlocal best
+        if isinstance(o, dict):
+            url = o.get("url")
+            if isinstance(url, str) and url.startswith("http") and \
+                    url.lower().split("?")[0].endswith((".png", ".jpg", ".jpeg", ".svg", ".webp")):
+                size = int(o.get("width") or 0) * int(o.get("height") or 0) or 1
+                if size > best[0]:
+                    best = (size, url)
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for v in o:
+                walk(v)
+
+    walk(info.get("logo") or {})
+    return best[1]
 
 
 def nfkc(x):
@@ -114,14 +138,16 @@ def add_programme(tv, ch, p):
 
 def build_channel(key, ch, start):
     """채널 하나의 XMLTV 파일 생성. 실패 사유 문자열 또는 None 반환."""
-    seen, programmes = set(), []
+    seen, programmes, info = set(), [], {}
     for i in range(DAYS):
         date = (start + dt.timedelta(days=i)).isoformat()
-        pubs = fetch_day(key, ch, date)
-        if pubs is None:
+        res = fetch_day(key, ch, date)
+        if res is None:
             if i == 0:
                 return f"{ch['name']}: 오늘 편성표를 받지 못했습니다."
             break  # 제공 범위를 넘으면 중단
+        pubs, day_info = res
+        info = info or day_info
         print(f"[{ch['service']} {date}] {len(pubs)}개")
         if not pubs:
             break
@@ -143,6 +169,12 @@ def build_channel(key, ch, start):
     c = ET.SubElement(tv, "channel", {"id": ch["id"]})
     ET.SubElement(c, "display-name", {"lang": "ja"}).text = ch["name"]
     ET.SubElement(c, "display-name").text = ch["short"]
+    logo = pick_logo(info)
+    if logo:
+        ET.SubElement(c, "icon", {"src": logo})
+        print(f"::notice::{ch['short']} 로고: {logo}")
+    else:
+        print(f"::notice::{ch['short']} logo 원본: " + json.dumps(info.get("logo"), ensure_ascii=False)[:500])
 
     programmes.sort(key=lambda p: p["startDate"])
     for p in programmes:
