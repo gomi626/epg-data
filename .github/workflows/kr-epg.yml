@@ -41,6 +41,22 @@ jobs:
         # [all] = lxml(속도) + curl_cffi(차단 우회) + PyYAML
         run: pip install "epg2xml[all] @ git+https://github.com/epg2xml/epg2xml.git@${EPG2XML_VERSION}"
 
+      - name: Drop empty channel caches
+        # epg2xml은 채널 목록을 4일간 캐시함. 접속 실패로 0개가 저장된 제공자는
+        # 캐시에서 지워 이번 실행에서 다시 받아오게 함
+        run: |
+          python - <<'EOF'
+          import json, os
+          p = os.environ["CHANNELS"]
+          if os.path.exists(p):
+              d = json.load(open(p, encoding="utf-8"))
+              empty = [k for k, v in d.items() if not v.get("CHANNELS")]
+              for k in empty:
+                  del d[k]
+              json.dump(d, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+              print("다시 받을 제공자:", ", ".join(empty) or "없음")
+          EOF
+
       - name: Run epg2xml
         id: gen
         continue-on-error: true
