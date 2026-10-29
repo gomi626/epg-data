@@ -11,806 +11,6 @@
     <display-name>NHK FM</display-name>
     <icon src="https://img.nhk.jp/common/broadcastservice/bs/r3/r3-logo_1080x1080.png" />
   </channel>
-  <programme start="20261029050003 +0900" stop="20261029055500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！木曜５時台ニュース・気象情報／たより静岡・栃木／健康ライフ／何の日</title>
-    <desc lang="ja">「マイあさ！」木曜５時台　▼キャスター：上野速人・福島佑理　▼気象情報：渕岡友美　▽ニュース・気象情報　▽たより「収穫の秋を迎える棚田」堀延弘（静岡）　▽きょうは何の日　▽健康ライフ「歴史にのこる音楽家たちの病気（４）チャイコフスキー」早川智（日本大学　総合科学研究所　教授）　▽たより「地域住民と博物館とが主催する文化フェスタ」木村康夫（栃木）</desc>
-    <credits>
-      <presenter>上野速人</presenter>
-      <presenter>福島佑理</presenter>
-      <actor role="アナウンサー">原口雅臣</actor>
-      <actor role="アナウンサー">渕岡友美</actor>
-      <actor role="リポーター">堀延弘</actor>
-      <actor role="リポーター">木村康夫</actor>
-      <actor role="出演">早川智</actor>
-      <actor role="きき手">星川幸</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971731</episode-num>
-  </programme>
-  <programme start="20261029055500 +0900" stop="20261029060003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午前05時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971732</episode-num>
-  </programme>
-  <programme start="20261029060003 +0900" stop="20261029062500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！６時台ニュース・気象情報／ワールドリポート：国際部／きょうは何の日</title>
-    <sub-title lang="ja">木曜6時台前半 ニュース・気象情報/ワールドリポート:国際部/きょうは何の日</sub-title>
-    <desc lang="ja">「マイあさ！」木曜６時台前半　▼キャスター：上野速人・福島佑理　▼気象情報：渕岡友美　▽ニュース・気象情報　▽ワールドリポート「困窮するイラン経済　今後の情勢は」小野明良（国際部　記者）　▽きょうは何の日　☆『マイあさ！』はＷＥＢ「ＮＨＫＯＮＥ　らじる★らじる」で生配信。聴き逃しサービスも実施中です。</desc>
-    <credits>
-      <presenter>上野速人</presenter>
-      <presenter>福島佑理</presenter>
-      <actor role="アナウンサー">原口雅臣</actor>
-      <actor role="アナウンサー">渕岡友美</actor>
-      <actor role="リポーター">小野明良</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971734</episode-num>
-  </programme>
-  <programme start="20261029062500 +0900" stop="20261029063000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報・交通情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午前06時25分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971735</episode-num>
-  </programme>
-  <programme start="20261029063000 +0900" stop="20261029064000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ体操</title>
-    <sub-title lang="ja">木曜日</sub-title>
-    <desc lang="ja">おなじみの「ラジオ体操の歌」に続いて、「ラジオ体操第１」「ラジオ体操第２」をお送りします。</desc>
-    <credits>
-      <actor role="出演">鈴木大輔</actor>
-      <actor role="出演">能條貴大</actor>
-    </credits>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971736</episode-num>
-  </programme>
-  <programme start="20261029064000 +0900" stop="20261029065500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！６時台　ニュース・気象情報／マイ！Ｂｉｚ「ナイトタイムエコノミー」</title>
-    <sub-title lang="ja">木曜6時台後半 ニュース・気象情報/マイ!Biz「ナイトタイムエコノミー」</sub-title>
-    <desc lang="ja">「マイあさ！」木曜６時台後半　▼キャスター：野村正育・福島佑理・上野速人　▼気象情報：渕岡友美　▽ニュース・気象情報　▽マイ！Ｂｉｚ「『ナイトタイムエコノミー』どう楽しむ？」山田桂一郎（観光カリスマ）　☆『マイあさ！』はＷＥＢ「ＮＨＫＯＮＥ　らじる★らじる」で生配信。聴き逃しサービスも実施中です。</desc>
-    <credits>
-      <presenter>野村正育</presenter>
-      <presenter>福島佑理</presenter>
-      <presenter>上野速人</presenter>
-      <presenter>渕岡友美</presenter>
-      <actor role="出演">山田桂一郎</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971737</episode-num>
-  </programme>
-  <programme start="20261029065500 +0900" stop="20261029070003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午前06時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971738</episode-num>
-  </programme>
-  <programme start="20261029070003 +0900" stop="20261029072000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！▽ＮＨＫけさのニュース</title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971740</episode-num>
-  </programme>
-  <programme start="20261029072000 +0900" stop="20261029072500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午前07時20分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971741</episode-num>
-  </programme>
-  <programme start="20261029072500 +0900" stop="20261029075000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！木曜７時台　聞きたい「“欧州政治動乱”を読み解く」／注目／気象情報</title>
-    <desc lang="ja">「マイあさ！」木曜７時台　▼キャスター：野村正育・福島佑理　▼気象情報：渕岡友美　▽けさの“聞きたい”［“欧州政治動乱”を読み解く」遠藤乾（東京大学法学部　教授）　▽ここに注目！高野洋解説委員　▽気象情報　☆『マイあさ！』はＷＥＢ「ＮＨＫＯＮＥ　らじる★らじる」で生配信。聴き逃しサービスも実施中です。</desc>
-    <credits>
-      <presenter>野村正育</presenter>
-      <presenter>福島佑理</presenter>
-      <presenter>渕岡友美</presenter>
-      <actor role="出演">遠藤乾</actor>
-      <actor role="解説">高野洋</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971742</episode-num>
-  </programme>
-  <programme start="20261029075000 +0900" stop="20261029075800 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報（関東甲信越）</title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971743</episode-num>
-  </programme>
-  <programme start="20261029075800 +0900" stop="20261029080003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">朝の音楽</title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971745</episode-num>
-  </programme>
-  <programme start="20261029080003 +0900" stop="20261029081500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！　木曜８時台　ニュース／Ｄプレ「首里城復興」／気象情報</title>
-    <desc lang="ja">「マイあさ！」木曜８時台　▼キャスター：野村正育・福島佑理　▼気象情報：渕岡友美　▽ニュース　▽Ｄープレゼンテーション「首里城復興に沖縄の若い世代が想うこと」首里のすけ（お笑い芸人）／後藤亜和（宮大工）／大城英晃ディレクター　▽気象情報　☆『マイあさ！』はＷＥＢ「ＮＨＫＯＮＥ　らじる★らじる」で生配信。聴き逃しサービスも実施中です。</desc>
-    <credits>
-      <presenter>野村正育</presenter>
-      <presenter>福島佑理</presenter>
-      <actor role="アナウンサー">原口雅臣</actor>
-      <actor role="アナウンサー">渕岡友美</actor>
-      <actor role="出演">首里のすけ</actor>
-      <actor role="出演">後藤亜和</actor>
-      <actor role="リポーター">大城英晃</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971747</episode-num>
-  </programme>
-  <programme start="20261029081500 +0900" stop="20261029083000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まいにち朗読「ラジオも秀吉！新書太閤記」　第１５４回</title>
-    <desc lang="ja">比叡山で自らの過去の行いを顧みた光秀。坂本城への滞在を終え、光春より一足早く亀山城へ向かいます。道中、密命を受けた四方田又兵衛が戻り、光秀に報告したのは…</desc>
-    <credits>
-      <actor role="朗読">梅原裕一郎</actor>
-      <actor role="朗読">まつだ志緒理</actor>
-      <actor role="語り">礒野佑子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">文学・文芸</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">時代劇</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971748</episode-num>
-  </programme>
-  <programme start="20261029083000 +0900" stop="20261029084000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ体操</title>
-    <sub-title lang="ja">木曜日</sub-title>
-    <desc lang="ja">おなじみの「ラジオ体操の歌」に続いて、「ラジオ体操第１」「ラジオ体操第２」をお送りします。</desc>
-    <credits>
-      <actor role="出演">鈴木大輔</actor>
-      <actor role="出演">能條貴大</actor>
-    </credits>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971749</episode-num>
-  </programme>
-  <programme start="20261029084000 +0900" stop="20261029085500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ふんわり　六角ブラザーズの今週のオレたち！　８時台（１０／２９）</title>
-    <desc lang="ja">今週は六角精児さんはお休み。番組の留守を任されたのは、「ふんわり」木曜日では”六角ブラザーズ”としておなじみ、ミュージシャンの谷口雄さんと音楽ライターの北爪啓之さんです。近況などについて千葉美乃梨アナウンサーとふんわりお話します。質問やメッセージは、番組ＨＰ「木曜日」の投稿フォームからお送りください。</desc>
-    <credits>
-      <actor role="司会">谷口雄</actor>
-      <actor role="出演">北爪啓之</actor>
-      <actor role="アナウンサー">千葉美乃梨</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <episode-num system="nhk-id">r1-130-2026102971750</episode-num>
-  </programme>
-  <programme start="20261029085500 +0900" stop="20261029090003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">全国気象情報・全国交通情報</title>
-    <sub-title lang="ja">2026年10月29日午前08時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971751</episode-num>
-  </programme>
-  <programme start="20261029090003 +0900" stop="20261029090500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午前09時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971753</episode-num>
-  </programme>
-  <programme start="20261029090500 +0900" stop="20261029095500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ふんわり「ふんわり！年の差なんて～テレビドラマ主題歌編」（１）９時台</title>
-    <sub-title lang="ja">「ふんわり!年の差なんて〜テレビドラマ主題歌編」(1)9時台</sub-title>
-    <desc lang="ja">六角さん、音楽ライターの北爪啓之さん、ミュージシャンの谷口雄さん、千葉アナ、世代の違う４人が、テーマに沿って、自分にとっての思い入れのある楽曲をセレクト。当時のエピソードを語り合いつつ、そのジャンルの変遷も改めて楽しもうという企画、「ふんわり！年の差なんて～テレビドラマ主題歌編」です。９時台は、六角さんが１９７０年代、北爪さんが１９８０年代の作品を紹介します。</desc>
-    <credits>
-      <actor role="司会">谷口雄</actor>
-      <actor role="出演">北爪啓之</actor>
-      <actor role="出演">六角精児</actor>
-      <actor role="アナウンサー">千葉美乃梨</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <episode-num system="nhk-id">r1-130-2026102971754</episode-num>
-  </programme>
-  <programme start="20261029095500 +0900" stop="20261029100003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・交通情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午前09時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971756</episode-num>
-  </programme>
-  <programme start="20261029100003 +0900" stop="20261029100500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午前10時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971758</episode-num>
-  </programme>
-  <programme start="20261029100500 +0900" stop="20261029105500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ふんわり「ふんわり！年の差なんて～テレビドラマ主題歌編」（２）１０時台</title>
-    <sub-title lang="ja">「ふんわり!年の差なんて〜テレビドラマ主題歌編」(2) 10時台</sub-title>
-    <desc lang="ja">引き続き「ふんわり！年の差なんて～テレビドラマ主題歌編～」をお送りします。世代が違う４人だからこそ成立するこの企画。１０時台は、ミュージシャンの谷口雄さんと千葉美乃梨アナウンサーが選んだ１９９０年代以降の作品を紹介します。名シーンが思い浮かぶ作品であり、年の差を超えて知っている名曲揃いです。</desc>
-    <credits>
-      <actor role="司会">谷口雄</actor>
-      <actor role="出演">北爪啓之</actor>
-      <actor role="出演">六角精児</actor>
-      <actor role="アナウンサー">千葉美乃梨</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <episode-num system="nhk-id">r1-130-2026102971759</episode-num>
-  </programme>
-  <programme start="20261029105500 +0900" stop="20261029110003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">みんなのうた「フライパンＤＪ！」／「あのドアの向こうに」</title>
-    <desc lang="ja">「フライパンＤＪ！」作詞：桐谷健吾、作曲：桐谷健吾、編曲：金光佑実、うた：チョコレートプラネット＆Ｋｅｎｇｏ．／「あのドアの向こうに」作詞：歳岡孝士、作曲：沢田完、編曲：沢田完、うた：今尾侑夕（ゆーゆ）</desc>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">童謡・キッズ</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">音楽バラエティ</category>
-    <episode-num system="nhk-id">r1-130-2026102971761</episode-num>
-  </programme>
-  <programme start="20261029110003 +0900" stop="20261029110500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午前11時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971763</episode-num>
-  </programme>
-  <programme start="20261029110500 +0900" stop="20261029115000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ふんわり　まいにちリクエスト♪　木曜１１時台（１０／２９）</title>
-    <desc lang="ja">１１時台は【まいにちリクエスト】。誕生日や記念日、誰かに贈りたい！など、みなさんからのリクエストをエピソードとともにご紹介します。どんな曲でも、ジャンルでもＯＫです！　番組ＨＰ「木曜日」の投稿フォームからお寄せください。</desc>
-    <credits>
-      <actor role="司会">谷口雄</actor>
-      <actor role="出演">北爪啓之</actor>
-      <actor role="アナウンサー">千葉美乃梨</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <episode-num system="nhk-id">r1-130-2026102971764</episode-num>
-  </programme>
-  <programme start="20261029115000 +0900" stop="20261029120003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午前11時50分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971766</episode-num>
-  </programme>
-  <programme start="20261029120003 +0900" stop="20261029121500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース　正午のＮＨＫニュース</title>
-    <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971769</episode-num>
-  </programme>
-  <programme start="20261029121500 +0900" stop="20261029122000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後00時15分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971770</episode-num>
-  </programme>
-  <programme start="20261029122000 +0900" stop="20261029123000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ひるのいこい</title>
-    <sub-title lang="ja">2026年10月29日午後00時20分</sub-title>
-    <desc lang="ja">ＮＨＫラジオ正午のニュースに続いて聞こえてくる郷愁を帯びた古関裕而のメロディー。１９５２年（昭和２７年）に放送を開始した『ひるのいこい』のテーマ曲です。リスナーの皆さんからのお便りと「暮らしの文芸」と題した日常の風景を詠んだ俳句や短歌をご紹介。また、懐かしの名曲などもお届けしています。放送開始以来、共感を大切に、ぬくもりある時間をお届けしています。どうぞお楽しみください。</desc>
-    <credits>
-      <actor role="司会">小郷知子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">文学・文芸</category>
-    <category lang="ja">歴史・紀行</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971771</episode-num>
-  </programme>
-  <programme start="20261029123000 +0900" stop="20261029124000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ体操</title>
-    <sub-title lang="ja">木曜日</sub-title>
-    <desc lang="ja">鈴木大輔，幅しげみ</desc>
-    <credits>
-      <actor>鈴木大輔</actor>
-      <actor>幅しげみ</actor>
-    </credits>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r1-130-2026102971772</episode-num>
-  </programme>
-  <programme start="20261029124000 +0900" stop="20261029125500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まんまる　パートナーは保田圭／午後０時台　中継　そのまちのお昼</title>
-    <desc lang="ja">午後０：４０から始まる「まんまる」松尾剛アナとともにお送りするパートナーはタレントの保田圭さんです。お便りは番組ＨＰから。ＦＡＸ、郵便でもお待ちしています。Ｘでの投稿は「＃ＮＨＫまんまる」で！▽午後０時台は【そのまちのお昼】。木曜日は、高山哲哉アナの中継「集まれ！まんまらーの輪」。全国各地の道の駅にお邪魔して、まんまらーの皆さんと触れ合います。きょうは愛知県幸田町の道の駅筆柿の里・幸田からです。</desc>
-    <credits>
-      <actor role="出演">保田圭</actor>
-      <actor role="司会">松尾剛</actor>
-      <actor role="リポーター">高山哲哉</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971773</episode-num>
-  </programme>
-  <programme start="20261029125500 +0900" stop="20261029130003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">全国気象情報・全国交通情報</title>
-    <sub-title lang="ja">2026年10月29日午後00時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971774</episode-num>
-  </programme>
-  <programme start="20261029130003 +0900" stop="20261029130500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後01時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971776</episode-num>
-  </programme>
-  <programme start="20261029130500 +0900" stop="20261029135500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まんまる　午後１時台　ひとのわ　身近な日本犬　柴犬の話</title>
-    <desc lang="ja">１時台はインタビュー【ひとのわ】。現在日本で飼育されている日本犬種の８０％ほどを占めているというのが柴犬。実は昭和１１年には、国の天然記念物に指定されています。国内での人気はもちろん、海外での人気も高く、現在ノルウェー大使館では「ブルーノ」という柴犬も飼われています。そんな柴犬の歴史は？性格は？身近な日本犬、柴犬についてたっぷりとお伝えします！</desc>
-    <credits>
-      <actor role="出演">保田圭</actor>
-      <actor role="司会">松尾剛</actor>
-      <actor role="ゲスト">茂木千恵</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971777</episode-num>
-  </programme>
-  <programme start="20261029135500 +0900" stop="20261029140003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・交通情報（関東・山梨・長野）</title>
-    <sub-title lang="ja">2026年10月29日午後01時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971779</episode-num>
-  </programme>
-  <programme start="20261029140003 +0900" stop="20261029140500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後02時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971781</episode-num>
-  </programme>
-  <programme start="20261029140500 +0900" stop="20261029145500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まんまる　午後２時台　２時またぎアウトロクイズ／列島リレーニュース</title>
-    <desc lang="ja">まんまるの２時台はクイズとともに。１時台のエンディングに出題された「２時またぎアウトロクイズ」。ヒントや長めのアウトロもご紹介したら、いよいよ正解発表です。クイズの参加は「＃ＮＨＫまんまる」で。さらに、高山アナの中継もお届けします。２時台後半はＮＨＫの各地の放送局を結んでお送りする、列島リレーニュースです。</desc>
-    <credits>
-      <actor role="出演">保田圭</actor>
-      <actor role="司会">松尾剛</actor>
-      <actor role="リポーター">高山哲哉</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971782</episode-num>
-  </programme>
-  <programme start="20261029145500 +0900" stop="20261029150003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後02時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971785</episode-num>
-  </programme>
-  <programme start="20261029150003 +0900" stop="20261029150500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後03時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971787</episode-num>
-  </programme>
-  <programme start="20261029150500 +0900" stop="20261029154500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まんまる　午後３時台</title>
-    <desc lang="ja">リスナーの皆さんから寄せられた声とリクエストをお届け。お便りテーマは「かわいい」。「うちの柴犬、かわいい！」「お出迎えしてくれる愛猫、かわいい！」「かぼちゃの見た目がたまらなくかわいい！」などのかわいいエピソードをぜひお送りください。リクエストのテーマは週替わりです。▽お便りは番組のＨＰから。Ｘでは「＃ＮＨＫまんまる」とつけて投稿を。▽リクエストは番組ＨＰ、郵便、ＦＡＸでお寄せ下さい。</desc>
-    <credits>
-      <actor role="出演">保田圭</actor>
-      <actor role="司会">松尾剛</actor>
-      <actor role="リポーター">高山哲哉</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971788</episode-num>
-  </programme>
-  <programme start="20261029154500 +0900" stop="20261029160500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象通報</title>
-    <sub-title lang="ja">2026年10月29日午後03時45分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">r1-130-2026102971790</episode-num>
-  </programme>
-  <programme start="20261029160500 +0900" stop="20261029161000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後04時05分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971791</episode-num>
-  </programme>
-  <programme start="20261029161000 +0900" stop="20261029165500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">【にっぽん列島夕方ラジオ】関西ラジオワイド</title>
-    <sub-title lang="ja">午後4時台</sub-title>
-    <desc lang="ja">「きょうの一皿」「関西街角再発見」などをお送りします。お楽しみに！</desc>
-    <credits>
-      <actor role="司会">秋鹿真人</actor>
-      <actor role="司会">中倉真梨子</actor>
-      <actor role="ゲスト">広里貴子</actor>
-      <actor role="ゲスト">仮屋賢一</actor>
-    </credits>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971792</episode-num>
-  </programme>
-  <programme start="20261029165500 +0900" stop="20261029170003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後04時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971794</episode-num>
-  </programme>
-  <programme start="20261029170003 +0900" stop="20261029170500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後05時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971796</episode-num>
-  </programme>
-  <programme start="20261029170500 +0900" stop="20261029175500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">【にっぽん列島夕方ラジオ】ふくどん！</title>
-    <sub-title lang="ja">午後5時台</sub-title>
-    <desc lang="ja">▼福島情報満載のどんぶりラジオ！▼道の駅情報は喜多方市にある「道の駅・喜多の郷」▼喜多方といえばラーメン！「ラーメンバーガー」や「ラーメン丼」「ラーメンピザ」などラーメンづくしのメニューが並ぶなか、この時期は「新そば」もおススメだとか▼「久美子に聞かせて」ではみなさんからの声を大募集▼お悩みだけでなく、ちょっといい話やプチ自慢なども大歓迎！▼キャンパス情報は「桜の聖母短期大学」▼ふくどん五七五</desc>
-    <credits>
-      <actor role="ゲスト">白鳥久美子</actor>
-      <actor role="ゲスト">引地洋輔</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <episode-num system="nhk-id">r1-130-2026102971797</episode-num>
-  </programme>
-  <programme start="20261029175500 +0900" stop="20261029180003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後05時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971799</episode-num>
-  </programme>
-  <programme start="20261029180003 +0900" stop="20261029180500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後06時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971801</episode-num>
-  </programme>
-  <programme start="20261029180500 +0900" stop="20261029185000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">Ｎらじ</title>
-    <desc lang="ja">山本未果，三橋大樹，西川龍一，兼清麻美，杉田淳，柴田祐規子</desc>
-    <credits>
-      <actor>山本未果</actor>
-      <actor>三橋大樹</actor>
-      <actor>西川龍一</actor>
-      <actor>兼清麻美</actor>
-      <actor>杉田淳</actor>
-      <actor>柴田祐規子</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">解説</category>
-    <category lang="ja">討論・会談</category>
-    <episode-num system="nhk-id">r1-130-2026102971802</episode-num>
-  </programme>
-  <programme start="20261029185000 +0900" stop="20261029190003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後06時50分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971804</episode-num>
-  </programme>
-  <programme start="20261029190003 +0900" stop="20261029193000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース　ＮＨＫきょうのニュース</title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971807</episode-num>
-  </programme>
-  <programme start="20261029193000 +0900" stop="20261029193500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ＮＨＫやさしいことばニュース</title>
-    <sub-title lang="ja">2026年10月29日午後07時30分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971808</episode-num>
-  </programme>
-  <programme start="20261029193500 +0900" stop="20261029195000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">まいにち朗読「ラジオも秀吉！新書太閤記」　第１５４回</title>
-    <desc lang="ja">比叡山で自らの過去の行いを顧みた光秀。坂本城への滞在を終え、光春より一足早く亀山城へ向かいます。道中、密命を受けた四方田又兵衛が戻り、光秀に報告したのは…</desc>
-    <credits>
-      <actor role="朗読">梅原裕一郎</actor>
-      <actor role="朗読">まつだ志緒理</actor>
-      <actor role="語り">礒野佑子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">文学・文芸</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">時代劇</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026102971809</episode-num>
-  </programme>
-  <programme start="20261029195000 +0900" stop="20261029195500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">安心ラジオ　台風が来たときに気をつけることは</title>
-    <desc lang="ja">ことしは、台風がたくさんできて、いろいろな場所で大きい被害が出ています。ＮＨＫ　ＡＭ・ＦＭの「やさしいことばニュース」とコラボして、台風が来たときに気をつけることについて、日本に住んでいる外国人のみなさんや、子どもから大人まで、誰にでもわかりやすいことばでお伝えします。</desc>
-    <credits>
-      <actor>上田早苗</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971810</episode-num>
-  </programme>
-  <programme start="20261029195500 +0900" stop="20261029200003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午後07時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971811</episode-num>
-  </programme>
-  <programme start="20261029200003 +0900" stop="20261029200500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後08時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971813</episode-num>
-  </programme>
-  <programme start="20261029200500 +0900" stop="20261029205500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">東京０３の好きにさせるかッ！　選　アンコール（ゲストななまがり）</title>
-    <sub-title lang="ja">「アンコール:ななまがり」(10月29日放送分)</sub-title>
-    <desc lang="ja">今回は特別に前週放送の「１クールリクエスト」で２位だったお笑い芸人ななまがりのゲスト回をもう一度お届けする。森下直人と初瀬悠太のコンビで５回目の登場。東京０３とコント「恋愛リアリティーショー」で共演する。コントは２人がこのために書き上げた新作台本。２人が演じるのは恋愛リアリティーショーの出演者と番組ＭＣとナレーターの役。トークコーナーでは森下の新たな一面が明らかになる。ナレーションは声優の戸松遥。</desc>
-    <credits>
-      <actor role="司会">東京０３</actor>
-      <actor role="語り">戸松遥</actor>
-      <actor role="ゲスト">ななまがり</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">お笑い・コメディ</category>
-    <episode-num system="nhk-id">r1-130-2026102971814</episode-num>
-  </programme>
-  <programme start="20261029205500 +0900" stop="20261029210003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">全国気象情報・全国交通情報</title>
-    <sub-title lang="ja">2026年10月29日午後08時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971815</episode-num>
-  </programme>
-  <programme start="20261029210003 +0900" stop="20261029210500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後09時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971817</episode-num>
-  </programme>
-  <programme start="20261029210500 +0900" stop="20261029215500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">あさこ・佳代子の大人なラジオ女子会　アーカイブのゲストは吉田沙保里</title>
-    <sub-title lang="ja">「アーカイブコレクション」(14)(10月29日放送分)</sub-title>
-    <desc lang="ja">今回は「アーカイブコレクション」と題して、２０２４年６月２０日に放送した回をもう一度お届けする。ゲストは元レスリング選手の吉田沙保里。４大会連続でオリンピックに出場し３個の金メダルと１個の銀メダルを獲得した吉田と、吉田が高校時代に同じ男の子に６回告白した話や、引退後ゴルフで楽しんでいる話、好きな男性のタイプで吉田がツンデレを好きになりがちなどの話で大いに盛り上がる。ナレーションは声優の茅野愛衣。</desc>
-    <credits>
-      <actor role="司会">大久保佳代子</actor>
-      <actor role="司会">いとうあさこ</actor>
-      <actor role="ゲスト">吉田沙保里</actor>
-      <actor role="語り">茅野愛衣</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <episode-num system="nhk-id">r1-130-2026102971818</episode-num>
-  </programme>
-  <programme start="20261029215500 +0900" stop="20261029220003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・海上気象情報・交通情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午後09時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971819</episode-num>
-  </programme>
-  <programme start="20261029220003 +0900" stop="20261029225500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ＮＨＫジャーナル　国の交付金の配分をめぐる透明性は</title>
-    <desc lang="ja">特集は、国の交付金の配分をめぐる透明性について。専修大学教授でＮＰＯ法人・情報公開クリアリングハウス理事長の三木由希子さんに聞きます。</desc>
-    <credits>
-      <presenter>野村優夫</presenter>
-      <presenter>安藤和馬</presenter>
-      <presenter>堤千春</presenter>
-      <presenter>佐藤可奈子</presenter>
-      <actor role="出演">三木由希子</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">解説</category>
-    <episode-num system="nhk-id">r1-130-2026102971821</episode-num>
-  </programme>
-  <programme start="20261029225500 +0900" stop="20261029230003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午後10時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971822</episode-num>
-  </programme>
-  <programme start="20261029230003 +0900" stop="20261029230500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月29日午後11時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026102971824</episode-num>
-  </programme>
-  <programme start="20261029230500 +0900" stop="20261030000003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽深夜便特集・前半</title>
-    <desc lang="ja">▽深夜便特集・前半　「じっと我慢の俳優人生、その先に」　▽天気概況・明日の日の出</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-      <actor role="出演">遠藤憲一</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026102971825</episode-num>
-  </programme>
-  <programme start="20261030000003 +0900" stop="20261030001000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月30日午前00時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026103071917</episode-num>
-  </programme>
-  <programme start="20261030001000 +0900" stop="20261030010003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽深夜便特集・後半</title>
-    <desc lang="ja">▽深夜便特集・後半　「じっと我慢の俳優人生、その先に」　▽天気概況・世界の天気と予想気温</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-      <actor role="出演">遠藤憲一</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026103071918</episode-num>
-  </programme>
-  <programme start="20261030010003 +0900" stop="20261030010500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月30日午前01時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026103071920</episode-num>
-  </programme>
-  <programme start="20261030010500 +0900" stop="20261030020003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽深夜便アーカイブス</title>
-    <desc lang="ja">▽深夜便アーカイブス　【特選・インタビュー　２０２６年１月・２月】「海難救助“最後の砦”」（初回放送２０２６．２．１０）　▽深夜便のうた・天気概況</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-      <actor role="出演">長南宰司</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026103071921</episode-num>
-  </programme>
-  <programme start="20261030020003 +0900" stop="20261030020500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月30日午前02時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026103071922</episode-num>
-  </programme>
-  <programme start="20261030020500 +0900" stop="20261030030003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽ロマンチックコンサート</title>
-    <desc lang="ja">▽ロマンチックコンサート　「ビンテージ・ロック～ダリル・ホール＆ジョン・オーツ作品集」　▽天気概況</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026103071923</episode-num>
-  </programme>
-  <programme start="20261030030003 +0900" stop="20261030030500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月30日午前03時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026103071924</episode-num>
-  </programme>
-  <programme start="20261030030500 +0900" stop="20261030040003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽にっぽんの歌こころの歌</title>
-    <desc lang="ja">▽にっぽんの歌こころの歌　「作家でつづる流行歌～三木鶏郎作品集」　▽天気概況・各地の天気と予想気温</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026103071925</episode-num>
-  </programme>
-  <programme start="20261030040003 +0900" stop="20261030040500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月30日午前04時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r1-130-2026103071926</episode-num>
-  </programme>
-  <programme start="20261030040500 +0900" stop="20261030050003 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ラジオ深夜便▽母を語るアンコール</title>
-    <desc lang="ja">▽母を語る　アンコール　「実の母と、育ての母と」　漫画家　やなせたかし　▽誕生日の花・番組予告</desc>
-    <credits>
-      <actor role="アンカー">山本哲也</actor>
-      <actor role="出演">やなせたかし</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r1-130-2026103071927</episode-num>
-  </programme>
   <programme start="20261030050003 +0900" stop="20261030055500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">マイあさ！金曜５時台ニュース・気象情報／たより山梨／何の日／音楽家たちの病気</title>
     <desc lang="ja">「マイあさ！」金曜５時台　▼キャスター　眞下貴・星川幸　▼気象情報　渕岡友美　▽ニュース・気象情報　▽マイあさだより「恒例の甲州富士川まつり、まもなく！」窪田真弓（山梨）　▽きょうは何の日　▽健康ライフ「歴史にのこる音楽家たちの病気（５）ドビュッシー」早川智（日本大学　総合科学研究所　教授）　</desc>
@@ -1291,6 +491,7 @@
   </programme>
   <programme start="20261030170500 +0900" stop="20261030175500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">【にっぽん列島夕方ラジオ】沖縄熱中倶楽部</title>
+    <sub-title lang="ja">午後5時台</sub-title>
     <desc lang="ja">沖縄熱中倶楽部１０月号は「おもてなしの城・首里城特集」。１１月、いよいよ７年の歳月をかけて再建された首里城正殿が完成します。番組では最新の研究成果をもとに琉球王国時代の姿をよみがえらせた舞台裏をご紹介。さらに今やお土産の定番となっている「ちんすこう」をはじめ、沖縄の酒「泡盛」、送迎の足「御用馬」まで、王府が賓客をもてなすために磨き上げた「おもてなしの底力」を藤木志ぃさーさんが語りつくします。</desc>
     <credits>
       <actor role="ＤＪ">藤木しぃさー</actor>
@@ -1317,6 +518,7 @@
   </programme>
   <programme start="20261030180500 +0900" stop="20261030185000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">Ｎらじ</title>
+    <sub-title lang="ja">2026年10月30日午後06時05分</sub-title>
     <desc lang="ja">山本未果，三橋大樹，西川龍一，兼清麻美，杉田淳，柴田祐規子</desc>
     <credits>
       <actor>山本未果</actor>
@@ -1591,8 +793,17 @@
     <episode-num system="nhk-id">r1-130-2026103172102</episode-num>
   </programme>
   <programme start="20261031050003 +0900" stop="20261031055500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">土曜5時台 ニュース・気象情報/たより函館・韓国/何の日/松ぼっくり</sub-title>
+    <title lang="ja">マイあさ！５時台ニュース・気象情報／たより北海道・韓国／何の日／松ぼっくり</title>
+    <sub-title lang="ja">土曜5時台 ニュース・気象情報/たより北海道・韓国/何の日/松ぼっくり</sub-title>
+    <desc lang="ja">「マイあさ！」土曜５時台　▽ニュース・気象情報　▽マイあさだより｜ガイド風に伝える　松前町の歴史／飯田幸仁（北海道）　▽きょうは何の日　▽いきもの☆いろいろ｜松ぼっくり／尾崎煙雄（千葉県立中央博物館　上席研究員）　▽海外マイあさだより｜韓国で日本酒ブームって、本当？／キム・ミョンスン（韓国ＫＢＳ日本語放送　アナウンサー）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸　▼気象情報　黒木愛子　</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>黒木愛子</presenter>
+      <actor role="リポーター">飯田幸仁</actor>
+      <actor role="リポーター">キム・ミョンスン</actor>
+      <actor role="出演">尾崎煙雄</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -1610,8 +821,15 @@
     <episode-num system="nhk-id">r1-130-2026103172106</episode-num>
   </programme>
   <programme start="20261031060003 +0900" stop="20261031062500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
+    <title lang="ja">マイあさ！６時台ニュース・気象情報／素晴らしき２０世紀ポップ／きょうは何の日</title>
     <sub-title lang="ja">土曜6時台前半 ニュース・気象情報/素晴らしき20世紀ポップ/きょうは何の日</sub-title>
+    <desc lang="ja">「マイあさ！」土曜６時台前半　▽ニュース・気象情報　▽素晴らしき２０世紀ポップ＜ありがとう＞特集｜［１］ＫＡＮＳＨＡして／林田健司　［２］感謝カンゲキ雨嵐／嵐｜語り　サエキけんぞう（作詞家・アーティスト）　▽きょうは何の日　◆ＷＥＢ配信実施　◆ＮＨＫ「マイあさ！」宛ての所感は、番組サイトの投稿フォームにお寄せください。　▼キャスター　眞下貴・星川幸　▼気象情報　黒木愛子　</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>黒木愛子</presenter>
+      <actor role="出演">サエキけんぞう</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -1644,8 +862,13 @@
     <episode-num system="nhk-id">r1-130-2026103172110</episode-num>
   </programme>
   <programme start="20261031064000 +0900" stop="20261031065300 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">土曜6時台後半 ニュース/漫画家が語る サタデーエッセー</sub-title>
+    <title lang="ja">マイあさ！　土曜６時台後半　ニュース／漫画家が語る　サタデーエッセー</title>
+    <desc lang="ja">「マイあさ！」土曜６時台後半　▽ニュース　▽サタデーエッセー｜展覧会／ヤマザキマリ（漫画家）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸　</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <actor role="出演">ヤマザキマリ</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -1687,8 +910,16 @@
     <episode-num system="nhk-id">r1-130-2026103172116</episode-num>
   </programme>
   <programme start="20261031072000 +0900" stop="20261031075000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">土曜7時台 プロ野球 日本シリーズ/気象情報/週末文化の歩き方</sub-title>
+    <title lang="ja">マイあさ！７時台　プロ野球日本シリーズを振り返る／気象情報／週末文化　音楽室</title>
+    <sub-title lang="ja">土曜7時台 プロ野球・日本シリーズを振り返る/気象情報/週末文化 音楽室</sub-title>
+    <desc lang="ja">「マイあさ！」土曜７時台　▽スポーツトピックス｜プロ野球・日本シリーズを振り返る／筒井亮太郎（アナウンサー）　▽気象情報　▽週末文化の歩き方｜音楽室／ヒャダイン（音楽クリエイター）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸　▼気象情報　黒木愛子　　</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>黒木愛子</presenter>
+      <actor role="リポーター">筒井亮太郎</actor>
+      <actor role="出演">ヒャダイン</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -2193,7 +1424,14 @@
     <episode-num system="nhk-id">r1-130-2026103172187</episode-num>
   </programme>
   <programme start="20261031210500 +0900" stop="20261031215500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ぶいあーる！〜ＶＴｕｂｅｒの音楽Ｒａｄｉｏ〜</title>
+    <title lang="ja">ぶいあーる！～ＶＴｕｂｅｒの音楽Ｒａｄｉｏ～アンコールＳＰ　超かぐや姫！</title>
+    <sub-title lang="ja">アンコールSP 第132回 超かぐや姫!コラボSP</sub-title>
+    <desc lang="ja">５月１６日に放送した第１３２回のアンコール放送をお届け▽アニメ映画『超かぐや姫！』とのコラボＳＰ！▽メインキャラクター・かぐやをゲストに迎え、ＭＣ星街すいせいとの激レア対談をお届け！▽「『超かぐや姫！』を彩った音楽」をテーマに、珠玉の楽曲を聴きながらおしゃべり！裏話や初出しエピソード満載の超貴重なトークは必聴！▽とあるサプライズ演出も…！？▽らじるらじる、ｒａｄｉｋｏ、聴き逃しサービスでも配信</desc>
+    <credits>
+      <actor>星街すいせい</actor>
+      <actor>内田敦子</actor>
+      <actor>かぐやｆｒｏｍ「超かぐや姫！」</actor>
+    </credits>
     <category lang="ja">音楽</category>
     <category lang="ja">国内ロック・ポップス</category>
     <episode-num system="nhk-id">r1-130-2026103172188</episode-num>
@@ -2367,8 +1605,17 @@
     <episode-num system="nhk-id">r1-130-2026110172295</episode-num>
   </programme>
   <programme start="20261101050003 +0900" stop="20261101055500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">日曜5時台 ニュース・気象情報/たより長崎・海外中国/きょうは何の日</sub-title>
+    <title lang="ja">マイあさ！５時台　ニュース・気象情報／たより長崎・海外中国／何の日／食べもの</title>
+    <sub-title lang="ja">日曜5時台 ニュース・気象情報/たより長崎・海外中国/何の日/食べもの</sub-title>
+    <desc lang="ja">「マイあさ！」日曜５時台　▽ニュース・気象情報　▽マイあさだより｜満２０年を迎えた「長崎さるく」／大野真由美（長崎）　▽きょうは何の日　▽全国食べものうまいもの｜チキンオーバーライス／山本謙治（農畜産物流通コンサルタント）　▽海外マイあさだより｜中国の「生成ＡＩ白書」から浮かび上がること／山田泰司（中国）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸　▼気象情報　伊藤みゆき</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>伊藤みゆき</presenter>
+      <actor role="リポーター">大野真由美</actor>
+      <actor role="リポーター">山田泰司</actor>
+      <actor role="出演">山本謙治</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -2386,8 +1633,14 @@
     <episode-num system="nhk-id">r1-130-2026110172299</episode-num>
   </programme>
   <programme start="20261101060003 +0900" stop="20261101062500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">日曜6時台前半 ニュース・気象情報/絵本の時間/きょうは何の日</sub-title>
+    <title lang="ja">マイあさ！日曜６時台前半　ニュース・気象情報／絵本の時間／きょうは何の日</title>
+    <desc lang="ja">「マイあさ！」日曜６時台前半　▽ニュース・気象情報　▽絵本の時間｜「バスが　来ましたよ」文　由美村嬉々　絵　松本春野／語り　落合恵子（作家）　▽きょうは何の日　◆ＷＥＢ配信実施　◆ＮＨＫ「マイあさ！」宛ての所感は、番組サイトの投稿フォームにお寄せください。　▼キャスター　眞下貴・星川幸　▼気象情報　伊藤みゆき</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>伊藤みゆき</presenter>
+      <actor role="出演">落合恵子</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -2420,8 +1673,13 @@
     <episode-num system="nhk-id">r1-130-2026110172303</episode-num>
   </programme>
   <programme start="20261101064000 +0900" stop="20261101065500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">日曜6時台後半 ニュース/小説家が語る サンデーエッセー</sub-title>
+    <title lang="ja">マイあさ！　日曜６時台後半　ニュース／小説家が語る　サンデーエッセー</title>
+    <desc lang="ja">「マイあさ！」日曜６時台後半　▽ニュース　▽サンデーエッセー｜「Ｎコン」から生まれた小説／朝井リョウ（小説家）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <actor role="出演">朝井リョウ</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -2457,8 +1715,16 @@
     <episode-num system="nhk-id">r1-130-2026110172308</episode-num>
   </programme>
   <programme start="20261101072000 +0900" stop="20261101075500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">マイあさ！</title>
-    <sub-title lang="ja">日曜7時台 介護 暴言・暴力 対処法/気象情報/著者からの手紙</sub-title>
+    <title lang="ja">マイあさ！　日曜７時台　くらしのテキスト／気象情報／著者からの手紙</title>
+    <sub-title lang="ja">日曜7時台 介護 暴言・暴力の対処法/気象情報/著者からの手紙</sub-title>
+    <desc lang="ja">「マイあさ！」日曜７時台　▽くらしのテキスト｜介護　暴言・暴力の対処法／髙口光子（介護アドバイザー）　▽気象情報　▽著者からの手紙｜アンチ・スポーツの哲学／難波優輝（美学者）　◆ＷＥＢ配信実施　▼キャスター　眞下貴・星川幸　▼気象情報　伊藤みゆき</desc>
+    <credits>
+      <presenter>眞下貴</presenter>
+      <presenter>星川幸</presenter>
+      <presenter>伊藤みゆき</presenter>
+      <actor role="出演">髙口光子</actor>
+      <actor role="出演">難波優輝</actor>
+    </credits>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -2829,7 +2095,14 @@
     <episode-num system="nhk-id">r1-130-2026110172364</episode-num>
   </programme>
   <programme start="20261101200500 +0900" stop="20261101205500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">らじらー！　サンデー</title>
+    <title lang="ja">らじらー！　サンデー　８時台　川﨑桜（乃木坂４６）</title>
+    <desc lang="ja">『ゆんちゃんの…小さいカタカナで言ってみて』最近小さいカタカナを活用しているという、ゆんちゃんが、カタカナを使ったセリフを小さい声で言ってくれます！◇『アンダーライブ　アフタートーク！』先日開催された、乃木坂４６のアンダーライブのお話をゆんちゃんにしてもらいます！　◇『池田さん、村上さんも、偶然おそろいになりた～い！』ゆんちゃんと偶然おそろいの答えを言うことはできるのか！？チャレンジ！</desc>
+    <credits>
+      <actor role="出演">池田一真</actor>
+      <actor role="出演">川﨑桜</actor>
+      <actor role="出演">柴田柚菜</actor>
+      <actor role="出演">村上</actor>
+    </credits>
     <category lang="ja">バラエティ</category>
     <category lang="ja">トークバラエティ</category>
     <category lang="ja">音楽バラエティ</category>
@@ -2852,7 +2125,15 @@
     <episode-num system="nhk-id">r1-130-2026110172368</episode-num>
   </programme>
   <programme start="20261101210500 +0900" stop="20261101215500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">らじらー！　サンデー</title>
+    <title lang="ja">らじらー！　サンデー　９時台　川﨑桜（乃木坂４６）</title>
+    <desc lang="ja">ラジオを聴きながらメールやＸでのポスト、電話などで番組に参加！ジェットコースターみたいに、怖いけど楽しくて、また乗りたくなる…そんな番組を一緒に作りましょう。</desc>
+    <credits>
+      <actor role="出演">池田一真</actor>
+      <actor role="出演">川﨑桜</actor>
+      <actor role="出演">柴田柚菜</actor>
+      <actor role="出演">弓木奈於</actor>
+      <actor role="出演">村上</actor>
+    </credits>
     <category lang="ja">バラエティ</category>
     <category lang="ja">トークバラエティ</category>
     <category lang="ja">音楽バラエティ</category>
@@ -2876,7 +2157,13 @@
     <episode-num system="nhk-id">r1-130-2026110172372</episode-num>
   </programme>
   <programme start="20261101220500 +0900" stop="20261101225500 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">らじらー！　サンデー</title>
+    <title lang="ja">らじらー！　サンデー　１０時台　川﨑桜　弓木奈於（乃木坂４６）</title>
+    <credits>
+      <actor role="出演">池田一真</actor>
+      <actor role="出演">川﨑桜</actor>
+      <actor role="出演">弓木奈於</actor>
+      <actor role="出演">村上</actor>
+    </credits>
     <category lang="ja">バラエティ</category>
     <category lang="ja">トークバラエティ</category>
     <category lang="ja">音楽バラエティ</category>
@@ -3025,6 +2312,7 @@
   </programme>
   <programme start="20261102050003 +0900" stop="20261102055500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">マイあさ！</title>
+    <sub-title lang="ja">月曜5時台 ニュース・気象情報/たより:北海道・山梨/健康ライフ/何の日</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">ドキュメンタリー/教養</category>
@@ -3487,6 +2775,7 @@
   </programme>
   <programme start="20261102180500 +0900" stop="20261102185000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">Ｎらじ</title>
+    <sub-title lang="ja">2026年11月02日午後06時05分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">解説</category>
@@ -3605,6 +2894,7 @@
   </programme>
   <programme start="20261102220003 +0900" stop="20261102225500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ＮＨＫジャーナル</title>
+    <sub-title lang="ja">防災庁発足 何が変わる?</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">解説</category>
     <episode-num system="nhk-id">r1-130-2026110272569</episode-num>
@@ -3734,6 +3024,7 @@
   </programme>
   <programme start="20261103040500 +0900" stop="20261103050003 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ラジオ深夜便▽明日へのことば</title>
+    <desc lang="ja">▽明日へのことば　「お姫様になる」という夢をかなえた私が、今見ている夢は・・・　　翻訳家・出版社終身名誉社長　松岡佑子　▽誕生日の花・番組予告</desc>
     <credits>
       <actor role="アンカー">松井治伸</actor>
       <actor role="出演">松岡佑子</actor>
@@ -4650,14 +3941,14 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472851</episode-num>
   </programme>
-  <programme start="20261104090003 +0900" stop="20261104090500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104090003 +0900" stop="20261104091500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午前09時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472853</episode-num>
   </programme>
-  <programme start="20261104090500 +0900" stop="20261104095500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104091500 +0900" stop="20261104095500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ふんわり　作詞家・作曲家・シンガーソングライター　木村竜蔵さん　９時台</title>
     <desc lang="ja">なっちゃんの４５周年記念曲「流転の花」の作詞作曲を担当されるなど、演歌界の若手作詞作曲家として注目されている木村竜蔵さん。今回は『竜蔵流　演歌塾』と題して、どのように曲が作られるのか。楽曲制作の過程や、竜蔵さんが”すごい”と感じた演歌の名曲を、演奏を交えながら詳しく解説して頂きます。木村ファミリー（父・鳥羽一郎、叔父・山川豊、弟・木村徹二）の楽曲制作裏話も！？</desc>
     <credits>
@@ -4676,14 +3967,14 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472856</episode-num>
   </programme>
-  <programme start="20261104100003 +0900" stop="20261104100500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104100003 +0900" stop="20261104101500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午前10時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472858</episode-num>
   </programme>
-  <programme start="20261104100500 +0900" stop="20261104105500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104101500 +0900" stop="20261104105500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ふんわり　作詞家・作曲家・シンガーソングライター木村竜蔵さん　１０時台</title>
     <desc lang="ja">なっちゃんの４５周年記念曲「流転の花」の作詞作曲を担当されるなど、演歌界の若手作詞作曲家として注目されている木村竜蔵さん。今回は『竜蔵流　演歌塾』と題して、どのように曲が作られるのか。楽曲制作の過程や、竜蔵さんが”すごい”と感じた演歌の名曲を、演奏を交えながら詳しく解説して頂きます。木村ファミリー（父・鳥羽一郎、叔父・山川豊、弟・木村徹二）の楽曲制作裏話も！？</desc>
     <credits>
@@ -4705,14 +3996,14 @@
     <category lang="ja">音楽バラエティ</category>
     <episode-num system="nhk-id">r1-130-2026110472861</episode-num>
   </programme>
-  <programme start="20261104110003 +0900" stop="20261104110500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104110003 +0900" stop="20261104111500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午前11時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472863</episode-num>
   </programme>
-  <programme start="20261104110500 +0900" stop="20261104115000 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104111500 +0900" stop="20261104115000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ふんわり　まいにちリクエスト♪　水曜１１時台（１１／４）</title>
     <desc lang="ja">１１時台は【まいにちリクエスト♪】「１１月４日に聴きたい！」という曲を、エピソードを添えてお送りください♪　思い入れたっぷりのエピソードがある曲でも、「久しぶりに、聴いてみたいなぁ～」という曲でもＯＫ。あなたの聴きたい曲を、どしどしお寄せください。お待ちしています♪</desc>
     <credits>
@@ -4730,34 +4021,20 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472866</episode-num>
   </programme>
-  <programme start="20261104120003 +0900" stop="20261104121500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104120003 +0900" stop="20261104122500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース　正午のＮＨＫニュース</title>
     <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472869</episode-num>
   </programme>
-  <programme start="20261104121500 +0900" stop="20261104122000 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104122500 +0900" stop="20261104123000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース（関東）</title>
-    <sub-title lang="ja">2026年11月04日午後00時15分</sub-title>
+    <sub-title lang="ja">2026年11月04日午後00時25分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472870</episode-num>
-  </programme>
-  <programme start="20261104122000 +0900" stop="20261104123000 +0900" channel="NHKAM.Tokyo.jp">
-    <title lang="ja">ひるのいこい</title>
-    <sub-title lang="ja">2026年11月04日午後00時20分</sub-title>
-    <desc lang="ja">ＮＨＫラジオ正午のニュースに続いて聞こえてくる郷愁を帯びた古関裕而のメロディー。１９５２年（昭和２７年）に放送を開始した『ひるのいこい』のテーマ曲です。リスナーの皆さんからのお便りと「暮らしの文芸」と題した日常の風景を詠んだ俳句や短歌をご紹介。また、懐かしの名曲などもお届けしています。放送開始以来、共感を大切に、ぬくもりある時間をお届けしています。どうぞお楽しみください。</desc>
-    <credits>
-      <actor role="司会">小郷知子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">文学・文芸</category>
-    <category lang="ja">歴史・紀行</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r1-130-2026110472871</episode-num>
   </programme>
   <programme start="20261104123000 +0900" stop="20261104124000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ラジオ体操</title>
@@ -4794,14 +4071,14 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472874</episode-num>
   </programme>
-  <programme start="20261104130003 +0900" stop="20261104130500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104130003 +0900" stop="20261104131500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午後01時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472876</episode-num>
   </programme>
-  <programme start="20261104130500 +0900" stop="20261104135500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104131500 +0900" stop="20261104135500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">まんまる　午後１時台　ひとのわ　食欲の秋！お米をおいしく食べるには</title>
     <desc lang="ja">１時台はインタビュー【ひとのわ】。ゲストは５ツ星お米マイスターの澁谷梨絵さんです。全国で新米が出そろい、ご飯がおいしい季節！家業の精米店を３代目として継ぎ、全国２００カ所以上の田んぼを自ら訪ねてきた“お米のプロ”に、おいしいお米の選び方や炊き方を伺います。おすすめのレシピや、ご飯がもっと進む絶品のお供も紹介。食欲の秋に役立つ、お米の魅力をたっぷりお届けします。</desc>
     <credits>
@@ -4823,14 +4100,14 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472879</episode-num>
   </programme>
-  <programme start="20261104140003 +0900" stop="20261104140500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104140003 +0900" stop="20261104141500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午後02時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472881</episode-num>
   </programme>
-  <programme start="20261104140500 +0900" stop="20261104145500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104141500 +0900" stop="20261104145500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">まんまる　午後２時台　２時またぎアウトロクイズ／列島リレーニュース</title>
     <desc lang="ja">まんまるの２時台はクイズとともに。１時台のエンディングに出題された「２時またぎアウトロクイズ」。ヒントや長めのアウトロもご紹介したら、いよいよ正解発表です。クイズの参加は「＃ＮＨＫまんまる」で。２時台後半はＮＨＫの各地の放送局を結んでお送りする、列島リレーニュースです。</desc>
     <credits>
@@ -4851,14 +4128,14 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472885</episode-num>
   </programme>
-  <programme start="20261104150003 +0900" stop="20261104150500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104150003 +0900" stop="20261104151500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース</title>
     <sub-title lang="ja">2026年11月04日午後03時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r1-130-2026110472887</episode-num>
   </programme>
-  <programme start="20261104150500 +0900" stop="20261104154500 +0900" channel="NHKAM.Tokyo.jp">
+  <programme start="20261104151500 +0900" stop="20261104154500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">まんまる　午後３時台</title>
     <desc lang="ja">３時台は、リスナーの皆さんから寄せられた声とリクエストをお届けします。きょうのお便りテーマは「ご飯のお供」。のりに漬物、ラー油に卵…白米と食べると最高に美味しい一品、意外なコンビネーションなど、あなたの好きなご飯のおとも、教えてください。リクエストのテーマは週替わりです。▽お便りは番組のＨＰから。Ｘでは「＃ＮＨＫまんまる」とつけて投稿を。▽リクエストは番組ＨＰ、郵便、ＦＡＸでお寄せ下さい。</desc>
     <credits>
@@ -4943,6 +4220,7 @@
   </programme>
   <programme start="20261104180500 +0900" stop="20261104185000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">Ｎらじ</title>
+    <sub-title lang="ja">2026年11月04日午後06時05分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <category lang="ja">解説</category>
@@ -5204,102 +4482,76 @@
     <category lang="ja">カルチャー・伝統文化</category>
     <episode-num system="nhk-id">r1-130-2026110573010</episode-num>
   </programme>
-  <programme start="20261029050003 +0900" stop="20261029055500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">古楽の楽しみ　素材をいかして（４）</title>
-    <desc lang="ja">ご案内：赤塚健太郎／４日目は、マルティン・ルターのコラール「神はわがやぐら」と、その旋律を用いた様々な楽曲をお送りします。</desc>
-    <credits>
-      <actor>赤塚健太郎</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">音楽・美術・工芸</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026102971852</episode-num>
+  <programme start="20261105050003 +0900" stop="20261105055500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">マイあさ！</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573013</episode-num>
   </programme>
-  <programme start="20261029055500 +0900" stop="20261029060003 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105055500 +0900" stop="20261105060003 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">気象情報（関東甲信越）</title>
-    <sub-title lang="ja">2026年10月29日午前05時55分</sub-title>
+    <sub-title lang="ja">2026年11月05日午前05時55分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971732</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573014</episode-num>
   </programme>
-  <programme start="20261029060003 +0900" stop="20261029060500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">エンジョイ・シンプル・イングリッシュ「カレンダーの空白が怖い」</title>
-    <desc lang="ja">森崎ウィン</desc>
+  <programme start="20261105060003 +0900" stop="20261105062500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">マイあさ！</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573016</episode-num>
+  </programme>
+  <programme start="20261105062500 +0900" stop="20261105063000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報・交通情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午前06時25分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573017</episode-num>
+  </programme>
+  <programme start="20261105063000 +0900" stop="20261105064000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ体操</title>
+    <sub-title lang="ja">木曜日</sub-title>
+    <desc lang="ja">おなじみの「ラジオ体操の歌」に続いて、「ラジオ体操第１」「ラジオ体操第２」をお送りします。</desc>
     <credits>
-      <actor role="司会">森崎ウィン</actor>
+      <actor role="出演">鈴木大輔</actor>
+      <actor role="出演">能條貴大</actor>
     </credits>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">その他</category>
     <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026102971854</episode-num>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573018</episode-num>
   </programme>
-  <programme start="20261029060500 +0900" stop="20261029061500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">小学生の基礎英語（８３）</title>
-    <desc lang="ja">【したいこと】</desc>
-    <credits>
-      <actor role="講師">居村啓子</actor>
-      <actor role="出演">サンシャイン池崎</actor>
-      <actor role="出演">カイル・カード</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">幼児・小学生</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <episode-num system="nhk-id">r3-130-2026102971855</episode-num>
+  <programme start="20261105064000 +0900" stop="20261105065500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">マイあさ！</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573019</episode-num>
   </programme>
-  <programme start="20261029061500 +0900" stop="20261029063000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">基礎英語　レベル１（１１９）</title>
-    <desc lang="ja">【注意しなきゃ】</desc>
-    <credits>
-      <actor role="講師">中島真紀子</actor>
-      <actor role="出演">鈴木楽</actor>
-      <actor role="出演">クリス・ネルソン</actor>
-      <actor role="声">ソネス・スティーヴンス</actor>
-      <actor role="声">Ｊ　Ｔａｋａ</actor>
-      <actor role="声">マックスウェル・パワーズ</actor>
-      <actor role="声">ダイアナ・ガーネット</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">中学生・高校生</category>
-    <episode-num system="nhk-id">r3-130-2026102971856</episode-num>
+  <programme start="20261105065500 +0900" stop="20261105070003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午前06時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573020</episode-num>
   </programme>
-  <programme start="20261029063000 +0900" stop="20261029064500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">基礎英語　レベル２（１１９）</title>
-    <desc lang="ja">【講師】東京外国語大学大学院総合国際学研究科教授…工藤洋路，【出演】藤森慎吾，ナーリー，Ｍｉｒａ　Ｉ，Ａｄｒｉａｎ　Ｈ</desc>
-    <credits>
-      <actor role="講師">工藤洋路</actor>
-      <actor role="出演">藤森慎吾</actor>
-      <actor role="出演">ナーリー</actor>
-      <actor role="出演">Ｍｉｒａ　Ｉ</actor>
-      <actor role="出演">Ａｄｒｉａｎ　Ｈ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">中学生・高校生</category>
-    <episode-num system="nhk-id">r3-130-2026102971857</episode-num>
-  </programme>
-  <programme start="20261029064500 +0900" stop="20261029070003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ラジオ英会話　ハートでつかめ！英語の極意（１３９）</title>
-    <credits>
-      <actor role="講師">大西泰斗</actor>
-      <actor role="出演">デイビット・エバンス</actor>
-      <actor role="出演">秋乃ろーざ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026102971858</episode-num>
-  </programme>
-  <programme start="20261029070003 +0900" stop="20261029072000 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105070003 +0900" stop="20261105072000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">マイあさ！▽ＮＨＫけさのニュース</title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
@@ -5307,181 +4559,133 @@
     <category lang="ja">社会・時事</category>
     <category lang="ja">情報/ワイドショー</category>
     <category lang="ja">健康・医療</category>
-    <episode-num system="nhk-id">r3-130-2026102971740</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573022</episode-num>
   </programme>
-  <programme start="20261029072000 +0900" stop="20261029072500 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105072000 +0900" stop="20261105072500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース・気象情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午前07時20分</sub-title>
+    <sub-title lang="ja">2026年11月05日午前07時20分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971741</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573023</episode-num>
   </programme>
-  <programme start="20261029072500 +0900" stop="20261029091500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">クラシックの庭　モーツァルトの交響曲第４１番「ジュピター」</title>
-    <desc lang="ja">登レイナ</desc>
-    <credits>
-      <actor>登レイナ</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <episode-num system="nhk-id">r3-130-2026102971860</episode-num>
+  <programme start="20261105072500 +0900" stop="20261105075000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">マイあさ！</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573024</episode-num>
   </programme>
-  <programme start="20261029091500 +0900" stop="20261029095500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">音楽遊覧飛行　映画音楽ワールドツアー　～リクエスト特集</title>
-    <sub-title lang="ja">映画音楽ワールドツアー 〜リクエスト特集</sub-title>
-    <desc lang="ja">「ナイトメアー・ビフォア・クリスマス」「パリ、テキサス」「黒い司法　０％からの奇跡」「セント・オブ・ウーマン　夢の香り」「ハリー・ポッターと賢者の石」ほか</desc>
+  <programme start="20261105075000 +0900" stop="20261105075800 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報（関東甲信越）</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573025</episode-num>
+  </programme>
+  <programme start="20261105075800 +0900" stop="20261105080003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">朝の音楽</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573027</episode-num>
+  </programme>
+  <programme start="20261105080003 +0900" stop="20261105081500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">マイあさ！</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573029</episode-num>
+  </programme>
+  <programme start="20261105081500 +0900" stop="20261105083000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まいにち朗読「ラジオも秀吉！新書太閤記」　第１５９回</title>
+    <desc lang="ja">亀山城から出兵した光秀軍は、西国と京の分かれ目・老坂に差し掛かります。多くの臣下は依然として、西へ向かうものと思っていましたが、光秀が命じたのは…</desc>
     <credits>
-      <actor>紺野美沙子</actor>
+      <actor role="朗読">梅原裕一郎</actor>
+      <actor role="朗読">まつだ志緒理</actor>
+      <actor role="語り">礒野佑子</actor>
     </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">民族音楽・ワールドミュージック</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">文学・文芸</category>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">時代劇</category>
     <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026102971861</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573030</episode-num>
   </programme>
-  <programme start="20261029095500 +0900" stop="20261029101500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">弾き語りフォーユー</title>
-    <sub-title lang="ja">2026年10月29日午前09時55分</sub-title>
-    <desc lang="ja">２８年目に突入し、ますます演奏と語りに磨きがかかった小原孝。どんな曲でもピアノ曲にしてしまうマジックで、クラシック、ジャズ、ポップス、映画音楽、歌謡曲、叙情歌など名曲の数々を！リスナーからのリクエストやメッセージも紹介！「モンスター」「りんごのにおいと風の国」「シンデレラのスープ」「パンプキン・パイとシナモン・ティー」</desc>
+  <programme start="20261105083000 +0900" stop="20261105084000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ体操</title>
+    <sub-title lang="ja">木曜日</sub-title>
+    <desc lang="ja">おなじみの「ラジオ体操の歌」に続いて、「ラジオ体操第１」「ラジオ体操第２」をお送りします。</desc>
     <credits>
-      <actor>小原孝</actor>
+      <actor role="出演">鈴木大輔</actor>
+      <actor role="出演">能條貴大</actor>
     </credits>
+    <category lang="ja">スポーツ</category>
     <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026102971862</episode-num>
-  </programme>
-  <programme start="20261029101500 +0900" stop="20261029110003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ミュージックライン　ＲＯＩＲＯＭ</title>
-    <desc lang="ja">今夜のゲストはＲＯＩＲＯＭ。ある動画でのＭＡＺＺＥＬとのつながりをＮＡＯＹＡがチェック＆ファン目線の要望。１０曲が初披露曲！横浜アリーナ単独ライブ“ある演出”の裏側にＥＩＫＩが迫る！楽曲制作ってどうしてる？お互い気になる情報交換や、１ｓｔ　Ｓｉｎｇｌｅに収録の「キミにＨＯＬＩＣ」では５０テイクも…！レコーディング裏話。リクエスト・メッセージは番組ホームページから、感想は＃ミュージックラインで！</desc>
-    <credits>
-      <actor role="ＤＪ">ＭＡＺＺＥＬ</actor>
-      <actor role="ゲスト">ＲＯＩＲＯＭ</actor>
-    </credits>
-    <category lang="ja">その他</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971863</episode-num>
-  </programme>
-  <programme start="20261029110003 +0900" stop="20261029115000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ＦＭ能楽堂　狂言「水汲」～和泉流～・「魚説経」～大蔵流～</title>
-    <sub-title lang="ja">狂言「水汲」〜和泉流〜・「魚説経」〜大蔵流〜</sub-title>
-    <credits>
-      <actor role="出演">小笠原由祠</actor>
-      <actor role="出演">小笠原弘晃</actor>
-      <actor role="出演">善竹隆司</actor>
-      <actor role="出演">善竹隆平</actor>
-      <actor role="解説">上杉遥</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">民謡・邦楽</category>
     <category lang="ja">趣味/教育</category>
-    <category lang="ja">音楽・美術・工芸</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">r3-130-2026102971865</episode-num>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573031</episode-num>
   </programme>
-  <programme start="20261029115000 +0900" stop="20261029120003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午前11時50分</sub-title>
+  <programme start="20261105084000 +0900" stop="20261105085500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ふんわり</title>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">r1-130-2026110573032</episode-num>
+  </programme>
+  <programme start="20261105085500 +0900" stop="20261105090003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">全国気象情報・全国交通情報</title>
+    <sub-title lang="ja">2026年11月05日午前08時55分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971766</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573033</episode-num>
   </programme>
-  <programme start="20261029120003 +0900" stop="20261029121500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ニュース　正午のＮＨＫニュース</title>
-    <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
+  <programme start="20261105090003 +0900" stop="20261105090500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午前09時00分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971769</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573035</episode-num>
   </programme>
-  <programme start="20261029121500 +0900" stop="20261029122000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ニュース（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後00時15分</sub-title>
+  <programme start="20261105090500 +0900" stop="20261105095500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ふんわり</title>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">r1-130-2026110573036</episode-num>
+  </programme>
+  <programme start="20261105095500 +0900" stop="20261105100003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・交通情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午前09時55分</sub-title>
     <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971770</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573038</episode-num>
   </programme>
-  <programme start="20261029122000 +0900" stop="20261029123000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">名曲スケッチ「ピアノ協奏曲」</title>
-    <sub-title lang="ja">「ピアノ協奏曲」「ピアノ協奏曲 第5番“エジプト風”第2楽章から」</sub-title>
-    <desc lang="ja">斎藤雅広，尾高忠明，藤井一興，小林研一郎</desc>
-    <credits>
-      <actor>斎藤雅広</actor>
-      <actor>尾高忠明</actor>
-      <actor>藤井一興</actor>
-      <actor>小林研一郎</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <episode-num system="nhk-id">r3-130-2026102971868</episode-num>
+  <programme start="20261105100003 +0900" stop="20261105100500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午前10時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573040</episode-num>
   </programme>
-  <programme start="20261029123000 +0900" stop="20261029140003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">歌謡スクランブル▽素敵なハーモニー（１）</title>
-    <desc lang="ja">深沢　彩子</desc>
-    <credits>
-      <actor role="出演">深沢彩子</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">歌謡曲・演歌</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971869</episode-num>
+  <programme start="20261105100500 +0900" stop="20261105105500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ふんわり</title>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">r1-130-2026110573041</episode-num>
   </programme>
-  <programme start="20261029140003 +0900" stop="20261029155000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">クラシックの庭　グラズノフのバイオリン協奏曲イ短調</title>
-    <desc lang="ja">田添菜穂子</desc>
-    <credits>
-      <actor>田添菜穂子</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <episode-num system="nhk-id">r3-130-2026102971871</episode-num>
-  </programme>
-  <programme start="20261029155000 +0900" stop="20261029155500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">音の風景「峠の国盗り綱引き合戦～長野・静岡～」</title>
-    <sub-title lang="ja">「峠の国盗り綱引き合戦〜長野・静岡〜」</sub-title>
-    <desc lang="ja">【初回放送】２０１８年１１月２５日【語り】久保田祐佳　▽毎年１０月の第４日曜日、静岡と長野の県境、兵越峠で県境をかけて行われる綱引き合戦。県境をかけるとは壮大な冗談。市長も陣羽織姿で合戦の口上を述べるなど、県をまたぎ盛り上がるイベントの様子をお伝えします。</desc>
-    <credits>
-      <actor role="語り">久保田祐佳</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <episode-num system="nhk-id">r3-130-2026102971872</episode-num>
-  </programme>
-  <programme start="20261029155500 +0900" stop="20261029160003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
-    <desc lang="ja">「絶対晴天！！」作詞：Ｐ丸様。／　Ｒｙｏｔａ　Ｓａｉｔｏ、作曲：ＮＯＶＥＣＨＩＫＡ　／　野口大志、編曲：野口大志、うた：Ｐ丸様。／「おっちょこブラザーズ」作詞：藤森元生、作曲：藤森元生、うた：ＳＡＫＡＮＡＭＯＮ</desc>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">童謡・キッズ</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">音楽バラエティ</category>
-    <episode-num system="nhk-id">r3-130-2026102971873</episode-num>
-  </programme>
-  <programme start="20261029160003 +0900" stop="20261029174000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ウィークエンドサンシャイン　Ｅｌｖｉｓ　Ｃｏｓｔｅｌｌｏ　特集</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="ＤＪ">ピーター・バラカン</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971875</episode-num>
-  </programme>
-  <programme start="20261029174000 +0900" stop="20261029175000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">名曲スケッチ「“四季”から“春”」</title>
-    <sub-title lang="ja">「“四季”から“春”」「ラルゴ」</sub-title>
-    <desc lang="ja">徳永二男，岩城宏之，大友直人</desc>
-    <credits>
-      <actor>徳永二男</actor>
-      <actor>岩城宏之</actor>
-      <actor>大友直人</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <episode-num system="nhk-id">r3-130-2026102971876</episode-num>
-  </programme>
-  <programme start="20261029175000 +0900" stop="20261029175500 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105105500 +0900" stop="20261105110003 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">みんなのうた「フライパンＤＪ！」／「あのドアの向こうに」</title>
     <desc lang="ja">「フライパンＤＪ！」作詞：桐谷健吾、作曲：桐谷健吾、編曲：金光佑実、うた：チョコレートプラネット＆Ｋｅｎｇｏ．／「あのドアの向こうに」作詞：歳岡孝士、作曲：沢田完、編曲：沢田完、うた：今尾侑夕（ゆーゆ）</desc>
     <category lang="ja">音楽</category>
@@ -5489,397 +4693,505 @@
     <category lang="ja">童謡・キッズ</category>
     <category lang="ja">バラエティ</category>
     <category lang="ja">音楽バラエティ</category>
-    <episode-num system="nhk-id">r3-130-2026102971877</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573043</episode-num>
   </programme>
-  <programme start="20261029175500 +0900" stop="20261029180003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">音の風景「長谷寺の朝～奈良～」</title>
-    <sub-title lang="ja">「長谷寺の朝〜奈良〜」</sub-title>
-    <desc lang="ja">【初回放送】２０２６年１０月２６日【語り】後藤佑太郎　▽奈良県・長谷寺。夜明け前から修行僧が作務に勤しみます。朝６時、張り詰めた空気の中に響く鐘の音。本堂では太鼓の音を合図に朝の勤行の準備が始まり、本尊の十一面観世音菩薩（ぼさつ）に向けて祈りが捧げられます。そして外舞台では山々の神仏に向かって拝礼したあと、３９９段の石段を勢いよく下駄でくだります。朝の長谷寺の境内には清々しい音が満ち溢れています。</desc>
-    <credits>
-      <actor role="語り">後藤佑太郎</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <episode-num system="nhk-id">r3-130-2026102971878</episode-num>
+  <programme start="20261105110003 +0900" stop="20261105110500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午前11時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573045</episode-num>
   </programme>
-  <programme start="20261029180003 +0900" stop="20261029185000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">マイ・フェイバリット・アルバム　「Ｒｏｃｋ‘ｎ　Ｓｏｕｌ　Ｐａｒｔ１」</title>
-    <desc lang="ja">今週のテーマ：引っ越しで見つかった懐かしい名盤▽ＤＪスガシカオ▽アルバム「Ｒｏｃｋ‘ｎ　Ｓｏｕｌ　Ｐａｒｔ１」ダリル・ホール＆ジョン・オーツ▽スガシカオのフェイバリットな音楽をたっぷりとお届けします！
-「Ｒｏｃｋ‘ｎ　Ｓｏｕｌ　Ｐａｒｔ１」
-ダリル・ホール　＆　ジョン・オーツ</desc>
-    <credits>
-      <actor role="ＤＪ">スガシカオ</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971880</episode-num>
+  <programme start="20261105110500 +0900" stop="20261105115000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ふんわり</title>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">r1-130-2026110573046</episode-num>
   </programme>
-  <programme start="20261029185000 +0900" stop="20261029190003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ニュース・気象情報・交通情報（関東）</title>
-    <sub-title lang="ja">2026年10月29日午後06時50分</sub-title>
+  <programme start="20261105115000 +0900" stop="20261105120003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午前11時50分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573048</episode-num>
+  </programme>
+  <programme start="20261105120003 +0900" stop="20261105121500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース　正午のＮＨＫニュース</title>
+    <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573051</episode-num>
+  </programme>
+  <programme start="20261105121500 +0900" stop="20261105122000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後00時15分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971804</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573052</episode-num>
   </programme>
-  <programme start="20261029190003 +0900" stop="20261029193000 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105122000 +0900" stop="20261105123000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ひるのいこい</title>
+    <sub-title lang="ja">2026年11月05日午後00時20分</sub-title>
+    <desc lang="ja">ＮＨＫラジオ正午のニュースに続いて聞こえてくる郷愁を帯びた古関裕而のメロディー。１９５２年（昭和２７年）に放送を開始した『ひるのいこい』のテーマ曲です。リスナーの皆さんからのお便りと「暮らしの文芸」と題した日常の風景を詠んだ俳句や短歌をご紹介。また、懐かしの名曲などもお届けしています。放送開始以来、共感を大切に、ぬくもりある時間をお届けしています。どうぞお楽しみください。</desc>
+    <credits>
+      <actor role="司会">小郷知子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">文学・文芸</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573053</episode-num>
+  </programme>
+  <programme start="20261105123000 +0900" stop="20261105124000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ体操</title>
+    <sub-title lang="ja">木曜日</sub-title>
+    <desc lang="ja">鈴木大輔，幅しげみ</desc>
+    <credits>
+      <actor>鈴木大輔</actor>
+      <actor>幅しげみ</actor>
+    </credits>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r1-130-2026110573054</episode-num>
+  </programme>
+  <programme start="20261105124000 +0900" stop="20261105125500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まんまる　パートナーは伊藤かずえ／午後０時台　中継　そのまちのお昼</title>
+    <desc lang="ja">午後０：４０から始まる「まんまる」松尾剛アナとともにお送りするパートナーは、俳優の伊藤かずえさんです。お便りは番組ＨＰから。ＦＡＸ、郵便でもお待ちしています。Ｘでの投稿は「＃ＮＨＫまんまる」で！▽午後０時台は【そのまちのお昼】。木曜日は、高山哲哉アナの中継「めざせ！１万人の輪」全国各地の道の駅にお邪魔して、まんまらーの皆さんと触れ合います。</desc>
+    <credits>
+      <actor role="出演">伊藤かずえ</actor>
+      <actor role="出演">高山哲哉</actor>
+      <actor role="司会">松尾剛</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573055</episode-num>
+  </programme>
+  <programme start="20261105125500 +0900" stop="20261105130003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">全国気象情報・全国交通情報</title>
+    <sub-title lang="ja">2026年11月05日午後00時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573056</episode-num>
+  </programme>
+  <programme start="20261105130003 +0900" stop="20261105130500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後01時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573058</episode-num>
+  </programme>
+  <programme start="20261105130500 +0900" stop="20261105135500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まんまる　午後１時台　ひとのわ　おばたのお兄さんに聞く　スキーの魅力</title>
+    <desc lang="ja">１時台はインタビュー【ひとのわ】。日本の身近なウインタースポーツ、スキー。かつて多くの人に親しまれましたが、近年は競技人口の減少が続いています。そんな中、「スキー界を盛り上げたい！スキーに恩返しがしたい！！」と、幼い頃に親しんだスキー競技への本格復帰を果たしたのが、お笑い芸人のおばたのお兄さん。スキーへの熱い思いや、その魅力をたっぷり伺います。</desc>
+    <credits>
+      <actor role="出演">伊藤かずえ</actor>
+      <actor role="出演">高山哲哉</actor>
+      <actor role="司会">松尾剛</actor>
+      <actor role="ゲスト">おばたのお兄さん</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573059</episode-num>
+  </programme>
+  <programme start="20261105135500 +0900" stop="20261105140003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・交通情報（関東・山梨・長野）</title>
+    <sub-title lang="ja">2026年11月05日午後01時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573061</episode-num>
+  </programme>
+  <programme start="20261105140003 +0900" stop="20261105140500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後02時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573063</episode-num>
+  </programme>
+  <programme start="20261105140500 +0900" stop="20261105145500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まんまる　午後２時台　２時またぎアウトロクイズ／列島リレーニュース</title>
+    <desc lang="ja">まんまるの２時台はクイズとともに。１時台のエンディングに出題された「２時またぎアウトロクイズ」。ヒントや長めのアウトロもご紹介したら、いよいよ正解発表です。クイズの参加は「＃ＮＨＫまんまる」で。さらに、高山アナの中継もお届けします。２時台後半はＮＨＫの各地の放送局を結んでお送りする、列島リレーニュースです。</desc>
+    <credits>
+      <actor role="出演">伊藤かずえ</actor>
+      <actor role="出演">高山哲哉</actor>
+      <actor role="司会">松尾剛</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573064</episode-num>
+  </programme>
+  <programme start="20261105145500 +0900" stop="20261105150003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後02時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573067</episode-num>
+  </programme>
+  <programme start="20261105150003 +0900" stop="20261105150500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後03時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573069</episode-num>
+  </programme>
+  <programme start="20261105150500 +0900" stop="20261105154500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まんまる　午後３時台</title>
+    <desc lang="ja">３時台は皆さんから寄せられた声とリクエストをお届けします。きょうのお便りテーマは「ウインタースポーツ」。「子どもの頃、毎週末スケートを楽しんでいた」「初めてカーリングを体験してはまりそう！」など、ウインタースポーツの思い出やエピソードをお寄せください。リクエストテーマは週替わり。▽お便りは番組のＨＰから。Ｘでは「＃ＮＨＫまんまる」とつけて投稿を。▽リクエストは番組ＨＰ、郵便、ＦＡＸでお寄せ下さい。</desc>
+    <credits>
+      <actor role="出演">伊藤かずえ</actor>
+      <actor role="出演">高山哲哉</actor>
+      <actor role="司会">松尾剛</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573070</episode-num>
+  </programme>
+  <programme start="20261105154500 +0900" stop="20261105160500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象通報</title>
+    <sub-title lang="ja">2026年11月05日午後03時45分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">r1-130-2026110573072</episode-num>
+  </programme>
+  <programme start="20261105160500 +0900" stop="20261105161000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後04時05分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573073</episode-num>
+  </programme>
+  <programme start="20261105161000 +0900" stop="20261105165500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">【にっぽん列島夕方ラジオ】関西ラジオワイド</title>
+    <sub-title lang="ja">午後4時台</sub-title>
+    <desc lang="ja">「中継」「夕刊ポエム」などをお送りします。お楽しみに！</desc>
+    <credits>
+      <actor role="司会">宮﨑浩輔</actor>
+      <actor role="司会">中倉真梨子</actor>
+      <actor role="ゲスト">増田英彦</actor>
+    </credits>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r1-130-2026110573074</episode-num>
+  </programme>
+  <programme start="20261105165500 +0900" stop="20261105170003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後04時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573076</episode-num>
+  </programme>
+  <programme start="20261105170003 +0900" stop="20261105170500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後05時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573078</episode-num>
+  </programme>
+  <programme start="20261105170500 +0900" stop="20261105175500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">【にっぽん列島夕方ラジオ】北海道まるごとラジオ</title>
+    <sub-title lang="ja">午後5時台 プロバレーボールチーム「ヴォレアス北海道」</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <episode-num system="nhk-id">r1-130-2026110573079</episode-num>
+  </programme>
+  <programme start="20261105175500 +0900" stop="20261105180003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後05時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573081</episode-num>
+  </programme>
+  <programme start="20261105180003 +0900" stop="20261105180500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後06時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573083</episode-num>
+  </programme>
+  <programme start="20261105180500 +0900" stop="20261105185000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">Ｎらじ</title>
+    <sub-title lang="ja">2026年11月05日午後06時05分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">解説</category>
+    <category lang="ja">討論・会談</category>
+    <episode-num system="nhk-id">r1-130-2026110573084</episode-num>
+  </programme>
+  <programme start="20261105185000 +0900" stop="20261105190003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後06時50分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573086</episode-num>
+  </programme>
+  <programme start="20261105190003 +0900" stop="20261105193000 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ニュース　ＮＨＫきょうのニュース</title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971807</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573089</episode-num>
   </programme>
-  <programme start="20261029193000 +0900" stop="20261029193500 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261105193000 +0900" stop="20261105193500 +0900" channel="NHKAM.Tokyo.jp">
     <title lang="ja">ＮＨＫやさしいことばニュース</title>
-    <sub-title lang="ja">2026年10月29日午後07時30分</sub-title>
+    <sub-title lang="ja">2026年11月05日午後07時30分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">r3-130-2026102971808</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573090</episode-num>
   </programme>
-  <programme start="20261029193500 +0900" stop="20261029211500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ベストオブクラシック　Ｎ響　第２０７２回定期公演</title>
-    <desc lang="ja">【曲目】交響曲　第５番　変ロ長調（ブルックナー）【出演】マティアス・バーメルト（指揮）／ＮＨＫ交響楽団（管弦楽）【収録】２０２６年１０月１７日　ＮＨＫホール【解説】舩木篤也（音楽評論家）【案内】金子奈緒</desc>
+  <programme start="20261105193500 +0900" stop="20261105195000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">まいにち朗読「ラジオも秀吉！新書太閤記」　第１５９回</title>
+    <desc lang="ja">亀山城から出兵した光秀軍は、西国と京の分かれ目・老坂に差し掛かります。多くの臣下は依然として、西へ向かうものと思っていましたが、光秀が命じたのは…</desc>
     <credits>
-      <actor role="司会">金子奈緒</actor>
-      <actor role="出演">ＮＨＫ交響楽団</actor>
-      <actor role="出演">マティアス・バーメルト</actor>
-      <actor role="解説">舩木篤也</actor>
+      <actor role="朗読">梅原裕一郎</actor>
+      <actor role="朗読">まつだ志緒理</actor>
+      <actor role="語り">礒野佑子</actor>
     </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <category lang="ja">ライブ・コンサート</category>
-    <episode-num system="nhk-id">r3-130-2026102971883</episode-num>
-  </programme>
-  <programme start="20261029211500 +0900" stop="20261029213000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">朗読の世界　江戸川乱歩「魔術師」（１９）</title>
-    <desc lang="ja">「魔術師」は名探偵・明智小五郎が、大宝石商の玉村家を執拗に狙う怪賊『魔術師』の連続犯罪に挑む乱歩の傑作推理小説です。不気味なカウントダウン予告から始まり、密室殺人や生首の獄門舟といった猟奇的な復讐劇が続きます。明智も誘拐拉致されますが、賊の娘・文代の協力で脱出し、波乱万丈の死闘に立ち向かってゆきます。そしてアッと驚く大どんでん返しが明智を待ち構えています。</desc>
-    <credits>
-      <actor role="朗読">篠田三郎</actor>
-    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">文学・文芸</category>
     <category lang="ja">ドラマ</category>
+    <category lang="ja">時代劇</category>
     <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026102971884</episode-num>
+    <episode-num system="nhk-id">r1-130-2026110573091</episode-num>
   </programme>
-  <programme start="20261029213000 +0900" stop="20261029214500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">青春アドベンチャー　選「シンクホール」（９）</title>
-    <desc lang="ja">【作】藤井香織，【演出】真銅健嗣，【出演】渋谷はるか，菅生隆之，山賀教弘，下條アトム，松永玲子，下之園嵐史，木村日翠，藤川一歩，野々村のん，【音楽】坂東邑真</desc>
+  <programme start="20261105195000 +0900" stop="20261105195500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">安心ラジオ　雨がたくさん降っているときに気をつけること</title>
+    <desc lang="ja">ことしは、とても強い雨が降って、千葉県などで大きい被害が出ています。ＮＨＫ　ＡＭ・ＦＭの「やさしいことばニュース」とコラボして、雨がたくさん降っているとき、車の運転などで気をつけることについて、日本に住んでいる外国人のみなさんや、子どもから大人まで、誰にでもわかりやすいことばでお伝えします。</desc>
     <credits>
-      <actor role="作">藤井香織</actor>
-      <actor role="音楽">坂東邑真</actor>
-      <actor role="出演">渋谷はるか</actor>
-      <actor role="出演">菅生隆之</actor>
-      <actor role="出演">山賀教弘</actor>
-      <actor role="出演">下條アトム</actor>
-      <actor role="出演">松永玲子</actor>
-      <actor role="出演">下之園嵐史</actor>
-      <actor role="出演">木村日翠</actor>
-      <actor role="出演">藤川一歩</actor>
-      <actor role="出演">野々村のん</actor>
-      <actor role="演出">真銅健嗣</actor>
+      <actor>上田早苗</actor>
     </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026102971885</episode-num>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573092</episode-num>
   </programme>
-  <programme start="20261029214500 +0900" stop="20261029223000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ミュージックライン　ビッケブランカ</title>
-    <desc lang="ja">今夜のゲストはビッケブランカ。中南米でつかんだ確信、サウジアラビアならではの観客のリアクション…世界でのライブ体験談や、日本で披露した手作りのベースのこだわり。新曲「完璧のペキ」は“幼い頃から作品が自分の中に根づいている”テレビアニメのエンディングテーマ。自身で“曲の完成を決めるタイミング”について語る！リクエスト・メッセージは番組ホームページから、感想は＃ミュージックラインで！</desc>
+  <programme start="20261105195500 +0900" stop="20261105200003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午後07時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573093</episode-num>
+  </programme>
+  <programme start="20261105200003 +0900" stop="20261105200500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後08時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573095</episode-num>
+  </programme>
+  <programme start="20261105200500 +0900" stop="20261105205500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">東京０３の好きにさせるかッ！　ゲスト：松井奏＆鈴木大河＆影山拓也</title>
+    <sub-title lang="ja">ゲスト:松井奏&amp;鈴木大河&amp;影山拓也(11月5日放送分)</sub-title>
+    <desc lang="ja">今回のゲストは人気男性グループＩＭＰ．メンバーの松井奏と鈴木大河と影山拓也。松井は３回目、鈴木と影山は初登場。東京０３とコント「第２の、、、」で共演する。３人が演じるのはオーディションに参加した３人組の役。コントの後は「メンバーの鈴木くんと影山くんを紹介します」と題して松井がメンバーの鈴木と影山を東京０３に紹介し、自分たちのグループＩＭＰ．をより知ってもらおうと努める。ナレーションは声優の戸松遥。</desc>
     <credits>
-      <actor role="ＤＪ">譜久村聖</actor>
-      <actor role="ゲスト">ビッケブランカ</actor>
+      <actor role="司会">東京０３</actor>
+      <actor role="語り">戸松遥</actor>
+      <actor role="ゲスト">松井奏</actor>
+      <actor role="ゲスト">鈴木大河</actor>
+      <actor role="ゲスト">影山拓也</actor>
     </credits>
-    <category lang="ja">その他</category>
-    <category lang="ja">音楽</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971886</episode-num>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">お笑い・コメディ</category>
+    <episode-num system="nhk-id">r1-130-2026110573096</episode-num>
   </programme>
-  <programme start="20261029223000 +0900" stop="20261029232000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">マイ・フェイバリット・アルバム　「ＭＴＶ　Ｕｎｐｌｕｇｇｅｄ」</title>
-    <sub-title lang="ja">「MTV Unplugged」Maxwell</sub-title>
-    <desc lang="ja">今週のテーマ：知念里奈の心の奥が動き出す大切なアルバムたち！▽ＤＪ知念里奈▽アルバム「ＭＴＶ　Ｕｎｐｌｕｇｇｅｄ」Ｍａｘｗｅｌｌ▽知念里奈のフェイバリットな音楽をたっぷりとお届けします！</desc>
+  <programme start="20261105205500 +0900" stop="20261105210003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">全国気象情報・全国交通情報</title>
+    <sub-title lang="ja">2026年11月05日午後08時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573097</episode-num>
+  </programme>
+  <programme start="20261105210003 +0900" stop="20261105210500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後09時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573099</episode-num>
+  </programme>
+  <programme start="20261105210500 +0900" stop="20261105215500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">あさこ・佳代子の大人なラジオ女子会　ゲストは俳優のかたせ梨乃</title>
+    <sub-title lang="ja">ゲスト:かたせ梨乃(11月5日放送分)</sub-title>
+    <desc lang="ja">今回のゲストは俳優のかたせ梨乃。いとうの小中高の先輩であるかたせと、同じ学校出身だからの共通点の話や共演しているロケ番組の裏話、かたせが体力作りでプールに通っている話などで盛り上がる。また番組ホームページで募集したリスナーからのエピソード「私なりの、小さな一歩」を二人が共感を交えて紹介する。今回の「私の取扱説明書」は「さ」から始まる自分の取扱説明書を大久保が発表する。ナレーションは声優の茅野愛衣。</desc>
     <credits>
-      <actor role="ＤＪ">知念里奈</actor>
+      <actor role="司会">大久保佳代子</actor>
+      <actor role="司会">いとうあさこ</actor>
+      <actor role="ゲスト">かたせ梨乃</actor>
+      <actor role="語り">茅野愛衣</actor>
     </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026102971887</episode-num>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <episode-num system="nhk-id">r1-130-2026110573100</episode-num>
   </programme>
-  <programme start="20261029232000 +0900" stop="20261029233500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ラジオビジネス英語　Ｌｅｓｓｏｎ（１６）</title>
-    <desc lang="ja">　</desc>
+  <programme start="20261105215500 +0900" stop="20261105220003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・海上気象情報・交通情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午後09時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573101</episode-num>
+  </programme>
+  <programme start="20261105220003 +0900" stop="20261105225500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ＮＨＫジャーナル</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">解説</category>
+    <episode-num system="nhk-id">r1-130-2026110573103</episode-num>
+  </programme>
+  <programme start="20261105225500 +0900" stop="20261105230003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午後10時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573104</episode-num>
+  </programme>
+  <programme start="20261105230003 +0900" stop="20261105230500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月05日午後11時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110573106</episode-num>
+  </programme>
+  <programme start="20261105230500 +0900" stop="20261106000003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽ミッドナイトトーク・前半</title>
+    <desc lang="ja">▽ミッドナイトトーク・前半　「私の本棚」　▽天気概況・明日の日の出</desc>
     <credits>
-      <actor role="講師">柴田真一</actor>
-      <actor role="出演">ジェニー・シルバー</actor>
+      <actor role="アンカー">畠山智之</actor>
+      <actor role="出演">秋野暢子</actor>
     </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026102971888</episode-num>
-  </programme>
-  <programme start="20261029233500 +0900" stop="20261029235000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ニュースで学ぶ「現代英語」インドネシア　刑務所内の豪華住居　取り壊し</title>
-    <desc lang="ja">ＮＨＫワールドＪＡＰＡＮの英語ニュースをもとに、国際情勢や取材の現場を熟知した専門家が、ニュースの背景とともに現場で実際に使われる英語を深く読み解きます。世界や日本の“今”を理解すると同時に、生きた英語『現代英語』も身につけられる構成です。ＭＣ：トラウデン直美▽講師：大門小百合（ジャーナリスト）▽パートナー：トム・ケイン▽番組サイトでは、皆さんの質問や勉強法、活用法も募集中です！</desc>
-    <credits>
-      <actor role="司会">トラウデン直美</actor>
-      <actor role="講師">大門小百合</actor>
-      <actor role="出演">トム・ケイン</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026102971889</episode-num>
-  </programme>
-  <programme start="20261029235000 +0900" stop="20261030000003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">英会話タイムトライアル「１０月ＤＡＹ１４」</title>
-    <credits>
-      <actor role="講師">スティーブ・ソレイシィ</actor>
-      <actor role="出演">ジェニー・スキッドモア</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">中学生・高校生</category>
-    <episode-num system="nhk-id">r3-130-2026102971890</episode-num>
-  </programme>
-  <programme start="20261030000003 +0900" stop="20261030001500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">基礎英語　レベル１（１１９）</title>
-    <desc lang="ja">【注意しなきゃ】</desc>
-    <credits>
-      <actor role="講師">中島真紀子</actor>
-      <actor role="出演">鈴木楽</actor>
-      <actor role="出演">クリス・ネルソン</actor>
-      <actor role="声">ソネス・スティーヴンス</actor>
-      <actor role="声">Ｊ　Ｔａｋａ</actor>
-      <actor role="声">マックスウェル・パワーズ</actor>
-      <actor role="声">ダイアナ・ガーネット</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">中学生・高校生</category>
-    <episode-num system="nhk-id">r3-130-2026103072025</episode-num>
-  </programme>
-  <programme start="20261030001500 +0900" stop="20261030003000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">基礎英語　レベル２（１１９）</title>
-    <desc lang="ja">【講師】東京外国語大学大学院総合国際学研究科教授…工藤洋路，【出演】藤森慎吾，ナーリー，Ｍｉｒａ　Ｉ，Ａｄｒｉａｎ　Ｈ</desc>
-    <credits>
-      <actor role="講師">工藤洋路</actor>
-      <actor role="出演">藤森慎吾</actor>
-      <actor role="出演">ナーリー</actor>
-      <actor role="出演">Ｍｉｒａ　Ｉ</actor>
-      <actor role="出演">Ａｄｒｉａｎ　Ｈ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">中学生・高校生</category>
-    <episode-num system="nhk-id">r3-130-2026103072026</episode-num>
-  </programme>
-  <programme start="20261030003000 +0900" stop="20261030004500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ラジオ英会話　ハートでつかめ！英語の極意（１３９）</title>
-    <credits>
-      <actor role="講師">大西泰斗</actor>
-      <actor role="出演">デイビット・エバンス</actor>
-      <actor role="出演">秋乃ろーざ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026103072027</episode-num>
-  </programme>
-  <programme start="20261030004500 +0900" stop="20261030005000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">エンジョイ・シンプル・イングリッシュ「カレンダーの空白が怖い」</title>
-    <desc lang="ja">森崎ウィン</desc>
-    <credits>
-      <actor role="司会">森崎ウィン</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026103072028</episode-num>
-  </programme>
-  <programme start="20261030005000 +0900" stop="20261030010003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">音楽</title>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
     <category lang="ja">音楽</category>
     <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026103072029</episode-num>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110573107</episode-num>
   </programme>
-  <programme start="20261030010003 +0900" stop="20261030011500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちハングル講座　あなたと語る１００のことば（２０）</title>
-    <desc lang="ja">【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン</desc>
+  <programme start="20261106000003 +0900" stop="20261106001000 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月06日午前00時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110673181</episode-num>
+  </programme>
+  <programme start="20261106001000 +0900" stop="20261106010003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽ミッドナイトトーク・後半</title>
+    <desc lang="ja">▽ミッドナイトトーク・後半　「私の本棚」　▽天気概況・世界の天気と予想気温</desc>
     <credits>
-      <actor role="講師">辻野裕紀</actor>
-      <actor role="出演">イ・ユンジョン</actor>
-      <actor role="出演">イ・ドンホン</actor>
+      <actor role="アンカー">畠山智之</actor>
+      <actor role="出演">秋野暢子</actor>
     </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072032</episode-num>
-  </programme>
-  <programme start="20261030011500 +0900" stop="20261030013000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにち中国語　言いたいことを「完コピ」しよう！文型のチェック＆今月の表現</title>
-    <sub-title lang="ja">言いたいことを「完コピ」しよう! 4月文型のチェック&amp;今月の表現</sub-title>
-    <desc lang="ja">文型のチェック＆今月の表現</desc>
-    <credits>
-      <actor role="講師">高木美鳥</actor>
-      <actor role="出演">呉志剛</actor>
-      <actor role="出演">劉セイラ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072033</episode-num>
-  </programme>
-  <programme start="20261030013000 +0900" stop="20261030014500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちドイツ語　応用編　多和田葉子を読む（８）</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="講師">松永美穂</actor>
-      <actor role="出演">クラウスマヌエル</actor>
-      <actor role="出演">綿谷エリナ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072034</episode-num>
-  </programme>
-  <programme start="20261030014500 +0900" stop="20261030020003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちスペイン語　応用編　フリーダ・カーロの世界　人生万歳！（８）</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="講師">吉川恵美子</actor>
-      <actor role="講師">長谷川ニナ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072035</episode-num>
-  </programme>
-  <programme start="20261030020003 +0900" stop="20261030021500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちフランス語　応用編　ラ・ブリュイエールを読む（８）</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="講師">逸見龍生</actor>
-      <actor role="講師">ロラン・スレット</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026103072037</episode-num>
-  </programme>
-  <programme start="20261030021500 +0900" stop="20261030023000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちイタリア語　応用編　美術にみるイタリアの女性像（８）</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="講師">池上英洋</actor>
-      <actor role="出演">マリアンジェラ・ラーゴ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026103072038</episode-num>
-  </programme>
-  <programme start="20261030023000 +0900" stop="20261030024500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">まいにちロシア語　応用編　知られざるソ連への旅（８）</title>
-    <desc lang="ja">　</desc>
-    <credits>
-      <actor role="講師">神岡理恵子</actor>
-      <actor role="出演">ナターリヤ・バルシャイ</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072039</episode-num>
-  </programme>
-  <programme start="20261030024500 +0900" stop="20261030030003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">朗読の世界　江戸川乱歩「魔術師」（１９）</title>
-    <desc lang="ja">「魔術師」は名探偵・明智小五郎が、大宝石商の玉村家を執拗に狙う怪賊『魔術師』の連続犯罪に挑む乱歩の傑作推理小説です。不気味なカウントダウン予告から始まり、密室殺人や生首の獄門舟といった猟奇的な復讐劇が続きます。明智も誘拐拉致されますが、賊の娘・文代の協力で脱出し、波乱万丈の死闘に立ち向かってゆきます。そしてアッと驚く大どんでん返しが明智を待ち構えています。</desc>
-    <credits>
-      <actor role="朗読">篠田三郎</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026103072040</episode-num>
-  </programme>
-  <programme start="20261030030003 +0900" stop="20261030032000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ＮＨＫ高校講座　英語コミュニケーションⅢ　Ｌｅｓｓｏｎ　７（５）</title>
-    <desc lang="ja">「英語コミュニケーションⅢ」に対応した番組です。４技能・５領域の学習に対応し、より実用的な英語力を育みます。第２６回「Ｌｅｓｓｏｎ７（５）Ｇｒｅｅｎ　Ｃｈａｌｌｅｎｇｅｓ」では、再生可能エネルギーについて国や地域を比較して英語でプレゼンテーションをすることができる、再生可能エネルギー、再生可能エネルギーについて調べて国や地域を比較してプレゼンテーションをするの３つのポイントを学習します。</desc>
-    <credits>
-      <actor role="講師">豊嶋正貴</actor>
-      <actor role="出演">サフィヤ</actor>
-      <actor role="出演">栗島陽音</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">会話・語学</category>
-    <category lang="ja">大学生・受験</category>
-    <episode-num system="nhk-id">r3-130-2026103072042</episode-num>
-  </programme>
-  <programme start="20261030032000 +0900" stop="20261030034000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ＮＨＫ高校講座　論理国語　言語活動【書く】　仮説を立てて検証しよう（１）</title>
-    <desc lang="ja">今回から３回は言語活動【書く】「仮説を立てて検証しよう」というテーマで学んでいきます。第１回の学習のポイントは、（１）仮説とは何か？　（２）現象を把握する　（３）論点を整理する　です。</desc>
-    <credits>
-      <actor role="講師">齋藤祐</actor>
-      <actor role="出演">藤原寛輔</actor>
-      <actor role="出演">小山りな</actor>
-      <actor role="朗読">木本景子</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">大学生・受験</category>
-    <category lang="ja">生涯教育・資格</category>
-    <episode-num system="nhk-id">r3-130-2026103072043</episode-num>
-  </programme>
-  <programme start="20261030034000 +0900" stop="20261030040003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ＮＨＫ高校講座　音楽Ⅰ　ラヴェルのバレエ音楽「ボレロ」～鑑賞（２）～</title>
-    <sub-title lang="ja">ラヴェルのバレエ音楽「ボレロ」 〜鑑賞(2)〜</sub-title>
-    <desc lang="ja">「音楽Ⅰ」の第２６回は、「ラヴェルのバレエ音楽「ボレロ」　〜鑑賞（２）〜」です。「管弦楽の魔術師」と呼ばれるラヴェルの作曲による「ボレロ」を聴き、オーケストラを構成する楽器、リズムの特徴、作曲の技法などについて、楽曲を鑑賞しながら学びます。学習のポイントは、（１）オーケストラの各楽器について知る　（２）舞曲をリズム面から考える　（３）オーケストレイションの技法を知る　です。</desc>
-    <credits>
-      <actor role="講師">青島広志</actor>
-      <actor role="声">高山久美子</actor>
-    </credits>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">中学生・高校生</category>
-    <category lang="ja">生涯教育・資格</category>
-    <category lang="ja">音楽・美術・工芸</category>
-    <episode-num system="nhk-id">r3-130-2026103072044</episode-num>
-  </programme>
-  <programme start="20261030040003 +0900" stop="20261030045000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">リワインドタイム　よろこび</title>
-    <desc lang="ja">“あのころの私・・・”　いつか聴いたメロディーが、過ぎ去った日の自身を思い浮かばせます。”この曲は・・・なに？”　初めて聴いた歌声から、きっと何かが見つかります。</desc>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026103072046</episode-num>
-  </programme>
-  <programme start="20261030045000 +0900" stop="20261030045500 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">名曲の小箱「エンターテイナー」</title>
-    <desc lang="ja">上柴はじめ「エンターテイナー」スコット・ジョプリン：作曲，上柴はじめ：編曲，（ピアノ）上柴はじめ，（演奏）ラグバッファローズ</desc>
-    <credits>
-      <actor>上柴はじめ</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <episode-num system="nhk-id">r3-130-2026103072047</episode-num>
-  </programme>
-  <programme start="20261030045500 +0900" stop="20261030050003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">音楽</title>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
     <category lang="ja">音楽</category>
     <category lang="ja">その他</category>
-    <episode-num system="nhk-id">r3-130-2026103072048</episode-num>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110673182</episode-num>
+  </programme>
+  <programme start="20261106010003 +0900" stop="20261106010500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月06日午前01時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110673184</episode-num>
+  </programme>
+  <programme start="20261106010500 +0900" stop="20261106020003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽深夜便アーカイブス</title>
+    <desc lang="ja">▽深夜便アーカイブス　【特選・インタビュー　２０２６年３月・４月】太神楽で、芸術選奨　大衆芸能部門文部科学大臣新人賞！　▽深夜便のうた・天気概況</desc>
+    <credits>
+      <actor role="アンカー">畠山智之</actor>
+      <actor role="出演">翁家和助</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110673185</episode-num>
+  </programme>
+  <programme start="20261106020003 +0900" stop="20261106020500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月06日午前02時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110673186</episode-num>
+  </programme>
+  <programme start="20261106020500 +0900" stop="20261106030003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽ロマンチックコンサート</title>
+    <desc lang="ja">▽ロマンチックコンサート　「ビンテージ・ロック～ニール・ヤング作品集」　▽天気概況</desc>
+    <credits>
+      <actor role="アンカー">畠山智之</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110673187</episode-num>
+  </programme>
+  <programme start="20261106030003 +0900" stop="20261106030500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月06日午前03時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110673188</episode-num>
+  </programme>
+  <programme start="20261106030500 +0900" stop="20261106040003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽にっぽんの歌こころの歌</title>
+    <desc lang="ja">▽にっぽんの歌こころの歌　「郷愁のうた：北原白秋作品集」　▽天気概況・各地の天気と予想気温</desc>
+    <credits>
+      <actor role="アンカー">畠山智之</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110673189</episode-num>
+  </programme>
+  <programme start="20261106040003 +0900" stop="20261106040500 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月06日午前04時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r1-130-2026110673190</episode-num>
+  </programme>
+  <programme start="20261106040500 +0900" stop="20261106050003 +0900" channel="NHKAM.Tokyo.jp">
+    <title lang="ja">ラジオ深夜便▽明日へのことば</title>
+    <desc lang="ja">▽明日へのことば　「父・渡辺淳一のことばを届けたい」　映画監督　渡邉直子　▽誕生日の花・番組予告</desc>
+    <credits>
+      <actor role="アンカー">畠山智之</actor>
+      <actor role="出演">渡邉直子</actor>
+      <actor role="きき手">迎康子</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r1-130-2026110673191</episode-num>
   </programme>
   <programme start="20261030050003 +0900" stop="20261030055500 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">古楽の楽しみ　素材をいかして（５）</title>
@@ -6596,7 +5908,12 @@
     <episode-num system="nhk-id">r3-130-2026103172228</episode-num>
   </programme>
   <programme start="20261031110003 +0900" stop="20261031112000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">ライブジャポニズム！福之音（フクノート）</title>
+    <title lang="ja">ライブジャポニズム！福之音（フクノート）お便り紹介・名演奏アンコール</title>
+    <sub-title lang="ja">一人回シリーズ第2弾!お便り紹介・名演奏アンコール</sub-title>
+    <desc lang="ja">福さんのひとり語りでお送りするシリーズ第２弾！リスナーの皆さんから頂いたお便りをご紹介しながら、これまでの福之音を振り返ります。ゲストによる名演のアンコールや、番組で放送しきれなかった楽曲もご紹介。さらに福さんが印象に残ったゲストとのエピソードや、尊敬する和楽器演奏家についての話題も。ソロトークと音楽満載でお送りします！</desc>
+    <credits>
+      <actor role="司会">鈴木福</actor>
+    </credits>
     <category lang="ja">音楽</category>
     <category lang="ja">民謡・邦楽</category>
     <episode-num system="nhk-id">r3-130-2026103172230</episode-num>
@@ -6785,8 +6102,12 @@
     <episode-num system="nhk-id">r3-130-2026103172178</episode-num>
   </programme>
   <programme start="20261031192500 +0900" stop="20261031210003 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">クラシックの迷宮</title>
+    <title lang="ja">クラシックの迷宮　Ｎ響１００年名演集ウィルヘルム・シュヒター編パート２</title>
     <sub-title lang="ja">N響100年名演集 ウィルヘルム・シュヒター編 PART2</sub-title>
+    <desc lang="ja">片山杜秀</desc>
+    <credits>
+      <actor role="出演">片山杜秀</actor>
+    </credits>
     <category lang="ja">音楽</category>
     <category lang="ja">クラシック・オペラ</category>
     <category lang="ja">趣味/教育</category>
@@ -6902,7 +6223,7 @@
   <programme start="20261101020003 +0900" stop="20261101030003 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">日曜カルチャー　ハプスブルク帝国の皇妃と皇女たち（１）帝国の成立</title>
     <sub-title lang="ja">ハプスブルク帝国の皇妃と皇女たち (1)ハプスブルク帝国の成立</sub-title>
-    <desc lang="ja">ハプスブルク帝国の歴史を彩る女帝マリア・テレジアほか代表的な女性三人を中心に、その人物像や時代背景を読み解きながら、激動の歴史の本質に迫る。</desc>
+    <desc lang="ja">スイスの小領主だったハプスブルク家は、やがて神聖ローマ帝国の皇帝位をほぼ独占し、ヨーロッパ屈指の大帝国を築き上げました。今回は、帝国の成立と躍進の過程を、「結婚」という視点から読み解きます。「戦争は他家に任せておけ、幸いなオーストリアよ、汝は結婚せよ」とも言われる婚姻政策はどのようなものだったのか、そして帝国の躍進を陰で支えた皇女マルガレーテに注目し、彼女の果たした役割についてお話しします。</desc>
     <credits>
       <actor role="出演">大井知範</actor>
     </credits>
@@ -7497,7 +6818,7 @@
   </programme>
   <programme start="20261102030003 +0900" stop="20261102031500 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">おしゃべりな古典教室　百喩経（ひゃくゆきょう）（１）</title>
-    <desc lang="ja">落語の源流ともいわれる百喩経（ひゃくゆきょう）。百近くの小噺（こばなし）と、その話の教えを伝える合法（がっぽう」からなるお経集です。木ノ下裕一さんはその中のある話を読んで「自分のことだ！」と感じ、自分を少し変えることができたそうです。「ラクダの首を切る」「三階建ての家」などの話について語り合います。（参考『ブッダの小ばなし　超訳百喩経』　釈徹宗監修、多田修編訳）</desc>
+    <desc lang="ja">落語の源流ともいわれる百喩経（ひゃくゆきょう）。百近くの小噺（こばなし）と、その話の教えを伝える合法（がっぽう）からなるお経集です。木ノ下裕一さんはその中のある話を読んで「自分のことだ！」と感じ、自分を少し変えることができたそうです。「ラクダの首を切る」「三階建ての家」などの話について語り合います。（参考『ブッダの小ばなし　超訳百喩経』　釈徹宗監修、多田修編訳）</desc>
     <credits>
       <actor role="出演">木ノ下裕一</actor>
       <actor role="出演">南沢奈央</actor>
@@ -9107,31 +8428,20 @@
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r3-130-2026110472866</episode-num>
   </programme>
-  <programme start="20261104120003 +0900" stop="20261104121500 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261104120003 +0900" stop="20261104122500 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">ニュース　正午のＮＨＫニュース</title>
     <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r3-130-2026110472869</episode-num>
   </programme>
-  <programme start="20261104121500 +0900" stop="20261104122000 +0900" channel="NHKFM.Tokyo.jp">
+  <programme start="20261104122500 +0900" stop="20261104123000 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">ニュース（関東）</title>
-    <sub-title lang="ja">2026年11月04日午後00時15分</sub-title>
+    <sub-title lang="ja">2026年11月04日午後00時25分</sub-title>
     <category lang="ja">ニュース/報道</category>
     <category lang="ja">ローカル・地域</category>
     <category lang="ja">定時・総合</category>
     <episode-num system="nhk-id">r3-130-2026110472870</episode-num>
-  </programme>
-  <programme start="20261104122000 +0900" stop="20261104123000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">名曲スケッチ「ぞうさん〜やぎさんゆうびん」「シャボン玉〜七つの子」</title>
-    <desc lang="ja">「シャボン玉〜七つの子」野口雨情：作詞，シャボン玉：中山晋平／七つの子：本居長世：作曲，長生淳：編曲，（歌）与那城敬，（管弦楽）東京フィルハーモニー交響楽団，（指揮）円光寺雅彦</desc>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">音楽・美術・工芸</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">r3-130-2026110472967</episode-num>
   </programme>
   <programme start="20261104123000 +0900" stop="20261104140003 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">歌謡スクランブル▽ハートフルソング集（３）</title>
@@ -9271,12 +8581,16 @@
     <episode-num system="nhk-id">r3-130-2026110472982</episode-num>
   </programme>
   <programme start="20261104223000 +0900" stop="20261104232000 +0900" channel="NHKFM.Tokyo.jp">
-    <title lang="ja">マイ・フェイバリット・アルバム</title>
+    <title lang="ja">マイ・フェイバリット・アルバム　選　「Ｏ」ダミアン・ライス</title>
+    <desc lang="ja">再放送▽今週のテーマ：引っ越しで見つかった懐かしい名盤▽ＤＪスガシカオ▽アルバム「Ｏ」ダミアン・ライス▽スガシカオのフェイバリットな音楽をたっぷりとお届けします！▽初回放送：２０２６年１０月２１日▽番組内容は初回放送時のものです</desc>
+    <credits>
+      <actor role="ＤＪ">スガシカオ</actor>
+    </credits>
     <category lang="ja">音楽</category>
     <category lang="ja">その他</category>
     <category lang="ja">国内ロック・ポップス</category>
     <category lang="ja">海外ロック・ポップス</category>
-    <episode-num system="nhk-id">r3-130-2026110472983</episode-num>
+    <episode-num system="nhk-id">r3-130-2026110474664</episode-num>
   </programme>
   <programme start="20261104232000 +0900" stop="20261104233500 +0900" channel="NHKFM.Tokyo.jp">
     <title lang="ja">ラジオビジネス英語　Ｌｅｓｓｏｎ（１９）</title>
@@ -9554,5 +8868,662 @@
     <category lang="ja">音楽</category>
     <category lang="ja">その他</category>
     <episode-num system="nhk-id">r3-130-2026110573130</episode-num>
+  </programme>
+  <programme start="20261105050003 +0900" stop="20261105055500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">古楽の楽しみ　継承：レオンハルトのチェンバロ（４）</title>
+    <desc lang="ja">ご案内：濱田あや／４日目は、レオンハルトが１９６０年代前半に手に入れた２台のチェンバロによる録音をご紹介します。</desc>
+    <credits>
+      <actor>濱田あや</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">音楽・美術・工芸</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110573133</episode-num>
+  </programme>
+  <programme start="20261105055500 +0900" stop="20261105060003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">気象情報（関東甲信越）</title>
+    <sub-title lang="ja">2026年11月05日午前05時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573014</episode-num>
+  </programme>
+  <programme start="20261105060003 +0900" stop="20261105060500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">エンジョイ・シンプル・イングリッシュ「なんで勉強しなきゃいけないの？」</title>
+    <desc lang="ja">森崎ウィン</desc>
+    <credits>
+      <actor role="司会">森崎ウィン</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110573135</episode-num>
+  </programme>
+  <programme start="20261105060500 +0900" stop="20261105061500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">小学生の基礎英語（８６）</title>
+    <desc lang="ja">【何をしたの？】</desc>
+    <credits>
+      <actor role="講師">居村啓子</actor>
+      <actor role="出演">サンシャイン池崎</actor>
+      <actor role="出演">カイル・カード</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">幼児・小学生</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <episode-num system="nhk-id">r3-130-2026110573136</episode-num>
+  </programme>
+  <programme start="20261105061500 +0900" stop="20261105063000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">基礎英語　レベル１（１２４）</title>
+    <desc lang="ja">【サーファーだった】</desc>
+    <credits>
+      <actor role="講師">中島真紀子</actor>
+      <actor role="出演">鈴木楽</actor>
+      <actor role="出演">クリス・ネルソン</actor>
+      <actor role="声">ソネス・スティーヴンス</actor>
+      <actor role="声">Ｊ　Ｔａｋａ</actor>
+      <actor role="声">マックスウェル・パワーズ</actor>
+      <actor role="声">ダイアナ・ガーネット</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">中学生・高校生</category>
+    <episode-num system="nhk-id">r3-130-2026110573137</episode-num>
+  </programme>
+  <programme start="20261105063000 +0900" stop="20261105064500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">基礎英語　レベル２（１２４）</title>
+    <desc lang="ja">【講師】東京外国語大学大学院総合国際学研究科教授…工藤洋路，【出演】藤森慎吾，ナーリー，Ａｄｒｉａｎ　Ｈ</desc>
+    <credits>
+      <actor role="講師">工藤洋路</actor>
+      <actor role="出演">藤森慎吾</actor>
+      <actor role="出演">ナーリー</actor>
+      <actor role="出演">Ａｄｒｉａｎ　Ｈ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">中学生・高校生</category>
+    <episode-num system="nhk-id">r3-130-2026110573138</episode-num>
+  </programme>
+  <programme start="20261105064500 +0900" stop="20261105070003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ラジオ英会話　ハートでつかめ！英語の極意（１４４）</title>
+    <credits>
+      <actor role="講師">大西泰斗</actor>
+      <actor role="出演">デイビット・エバンス</actor>
+      <actor role="出演">秋乃ろーざ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110573139</episode-num>
+  </programme>
+  <programme start="20261105070003 +0900" stop="20261105072000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">マイあさ！▽ＮＨＫけさのニュース</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">健康・医療</category>
+    <episode-num system="nhk-id">r3-130-2026110573022</episode-num>
+  </programme>
+  <programme start="20261105072000 +0900" stop="20261105072500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午前07時20分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573023</episode-num>
+  </programme>
+  <programme start="20261105072500 +0900" stop="20261105091500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">クラシックの庭　グラズノフのバイオリン協奏曲イ短調</title>
+    <desc lang="ja">田添菜穂子</desc>
+    <credits>
+      <actor>田添菜穂子</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <episode-num system="nhk-id">r3-130-2026110573141</episode-num>
+  </programme>
+  <programme start="20261105091500 +0900" stop="20261105095500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">音楽遊覧飛行　ふるさとのうた　心の旅　～　リクエスト＋ちょっと気ままに</title>
+    <sub-title lang="ja">ふるさとのうた 心の旅 〜 リクエスト+ちょっと気ままに</sub-title>
+    <desc lang="ja">番組へのリクエストを中心に、榊原広子のお勧めの一曲も交えて、ゆる～くお送りする▽今月のお勧め「ドント・ウォーリー・ビー・ハッピー」（ボビー・マクファーリン）</desc>
+    <credits>
+      <actor role="出演">榊原広子</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">民族音楽・ワールドミュージック</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110573142</episode-num>
+  </programme>
+  <programme start="20261105095500 +0900" stop="20261105101500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">弾き語りフォーユー</title>
+    <desc lang="ja">２８年目に突入し、ますます演奏と語りに磨きがかかった小原孝。どんな曲でもピアノ曲にしてしまうマジックで、クラシック、ジャズ、ポップス、映画音楽、歌謡曲、叙情歌など名曲の数々を！リスナーからのリクエストやメッセージも紹介！「明日に架ける橋」「恋はみずいろ」「ある愛の詩」「君の友だち」</desc>
+    <credits>
+      <actor>小原孝</actor>
+    </credits>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110573143</episode-num>
+  </programme>
+  <programme start="20261105101500 +0900" stop="20261105110003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ミュージックライン</title>
+    <sub-title lang="ja">2026年11月04日午後09時45分</sub-title>
+    <category lang="ja">その他</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573144</episode-num>
+  </programme>
+  <programme start="20261105110003 +0900" stop="20261105115000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ＦＭ能楽堂　観世流「融」「岩船（部分）」</title>
+    <credits>
+      <actor role="出演">観世恭秀</actor>
+      <actor role="出演">関根知孝</actor>
+      <actor role="出演">清水義也</actor>
+      <actor role="出演">坂井音雅</actor>
+      <actor role="解説">高桑いづみ</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">民謡・邦楽</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">音楽・美術・工芸</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">r3-130-2026110573146</episode-num>
+  </programme>
+  <programme start="20261105115000 +0900" stop="20261105120003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午前11時50分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573048</episode-num>
+  </programme>
+  <programme start="20261105120003 +0900" stop="20261105121500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュース　正午のＮＨＫニュース</title>
+    <desc lang="ja">▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573051</episode-num>
+  </programme>
+  <programme start="20261105121500 +0900" stop="20261105122000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュース（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後00時15分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573052</episode-num>
+  </programme>
+  <programme start="20261105122000 +0900" stop="20261105123000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">名曲スケッチ「サウンド・オブ・ミュージック」</title>
+    <sub-title lang="ja">「サウンド・オブ・ミュージック」「アルプス交響曲」</sub-title>
+    <desc lang="ja">「サウンド・オブ・ミュージック」オスカー・ハマースタインⅡ世：作詞，リチャード・ロジャーズ：作曲，栗山和樹：編曲，（ソプラノ）森麻季，（合唱）二期会合唱団，（指揮）円光寺雅彦，（管弦楽）東京フィルハーモニー交響楽団，「アルプス交響曲」リヒャルト・シュトラウス：作曲，（指揮）田中良和，（管弦楽）東京フィルハーモニー交響楽団</desc>
+    <credits>
+      <actor>森麻季</actor>
+      <actor>二期会合唱団</actor>
+      <actor>円光寺雅彦</actor>
+      <actor>東京フィルハーモニー交響楽団</actor>
+      <actor>田中良和</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <episode-num system="nhk-id">r3-130-2026110573149</episode-num>
+  </programme>
+  <programme start="20261105123000 +0900" stop="20261105140003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">歌謡スクランブル▽ハートフルソング集（４）</title>
+    <desc lang="ja">逢地　真理子</desc>
+    <credits>
+      <actor role="出演">逢地真理子</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">歌謡曲・演歌</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573150</episode-num>
+  </programme>
+  <programme start="20261105140003 +0900" stop="20261105155000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">クラシックの庭　チャイコフスキーの交響曲第５番</title>
+    <desc lang="ja">登レイナ</desc>
+    <credits>
+      <actor>登レイナ</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <episode-num system="nhk-id">r3-130-2026110573152</episode-num>
+  </programme>
+  <programme start="20261105155000 +0900" stop="20261105155500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">音の風景「棚田の稲刈り～静岡～」</title>
+    <sub-title lang="ja">「棚田の稲刈り〜静岡〜」</sub-title>
+    <desc lang="ja">【初回放送】２０２４年１２月１６日【語り】荒木　さくら　▽静岡県浜松市・奥浜名湖、井伊直虎ゆかりの地にある竜ヶ石山（りゅうがしやま）中腹に広がる「白橿（しらかし）の棚田）」。地域おこしで復元された棚田でにぎやかに行われる、昔ながらの稲刈りの音をお楽しみください。</desc>
+    <credits>
+      <actor role="語り">荒木さくら</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">ドキュメンタリー全般</category>
+    <episode-num system="nhk-id">r3-130-2026110573153</episode-num>
+  </programme>
+  <programme start="20261105155500 +0900" stop="20261105160003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
+    <desc lang="ja">「絶対晴天！！」作詞：Ｐ丸様。／　Ｒｙｏｔａ　Ｓａｉｔｏ、作曲：ＮＯＶＥＣＨＩＫＡ　／　野口大志、編曲：野口大志、うた：Ｐ丸様。／「おっちょこブラザーズ」作詞：藤森元生、作曲：藤森元生、うた：ＳＡＫＡＮＡＭＯＮ</desc>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">童謡・キッズ</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">音楽バラエティ</category>
+    <episode-num system="nhk-id">r3-130-2026110573154</episode-num>
+  </programme>
+  <programme start="20261105160003 +0900" stop="20261105174000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ウィークエンドサンシャイン</title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573156</episode-num>
+  </programme>
+  <programme start="20261105174000 +0900" stop="20261105175000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">名曲スケッチ「聖者が街にやってくる」</title>
+    <sub-title lang="ja">「聖者が街にやってくる」「ボギー大佐」</sub-title>
+    <desc lang="ja">小松一彦，円光寺雅彦</desc>
+    <credits>
+      <actor>小松一彦</actor>
+      <actor>円光寺雅彦</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <episode-num system="nhk-id">r3-130-2026110573157</episode-num>
+  </programme>
+  <programme start="20261105175000 +0900" stop="20261105175500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">みんなのうた「フライパンＤＪ！」／「あのドアの向こうに」</title>
+    <desc lang="ja">「フライパンＤＪ！」作詞：桐谷健吾、作曲：桐谷健吾、編曲：金光佑実、うた：チョコレートプラネット＆Ｋｅｎｇｏ．／「あのドアの向こうに」作詞：歳岡孝士、作曲：沢田完、編曲：沢田完、うた：今尾侑夕（ゆーゆ）</desc>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">童謡・キッズ</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">音楽バラエティ</category>
+    <episode-num system="nhk-id">r3-130-2026110573158</episode-num>
+  </programme>
+  <programme start="20261105175500 +0900" stop="20261105180003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">音の風景「長谷寺　時の貝～奈良～」</title>
+    <sub-title lang="ja">「長谷寺 時の貝〜奈良〜」</sub-title>
+    <desc lang="ja">【初回放送】２０２６年１１月２日【語り】後藤佑太郎　▽奈良県桜井市の山あいに佇む長谷寺には、千年の時を経て今も続く「時の貝」と言われる時報があります。正午の時報は鐘とホラ貝の共演。一方、夜８時は静かな山々にホラ貝の音だけがこだまします。枕草子の作者、清少納言を驚かしたと言われるホラ貝の音色と、初秋の気配が漂う自然音に耳を傾け、悠久の時の流れに思いをはせます。</desc>
+    <credits>
+      <actor role="語り">後藤佑太郎</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">ドキュメンタリー全般</category>
+    <episode-num system="nhk-id">r3-130-2026110573159</episode-num>
+  </programme>
+  <programme start="20261105180003 +0900" stop="20261105185000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">マイ・フェイバリット・アルバム　「ＭＴＶ　Ｕｎｐｌｕｇｇｅｄ」</title>
+    <sub-title lang="ja">「MTV Unplugged」Maxwell</sub-title>
+    <desc lang="ja">今週のテーマ：知念里奈の心の奥が動き出す大切なアルバムたち！▽ＤＪ知念里奈▽アルバム「ＭＴＶ　Ｕｎｐｌｕｇｇｅｄ」Ｍａｘｗｅｌｌ▽知念里奈のフェイバリットな音楽をたっぷりとお届けします！</desc>
+    <credits>
+      <actor role="ＤＪ">知念里奈</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573161</episode-num>
+  </programme>
+  <programme start="20261105185000 +0900" stop="20261105190003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュース・気象情報・交通情報（関東）</title>
+    <sub-title lang="ja">2026年11月05日午後06時50分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573086</episode-num>
+  </programme>
+  <programme start="20261105190003 +0900" stop="20261105193000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュース　ＮＨＫきょうのニュース</title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573089</episode-num>
+  </programme>
+  <programme start="20261105193000 +0900" stop="20261105193500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ＮＨＫやさしいことばニュース</title>
+    <sub-title lang="ja">2026年11月05日午後07時30分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">r3-130-2026110573090</episode-num>
+  </programme>
+  <programme start="20261105193500 +0900" stop="20261105211500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ベストオブクラシック　選　テオドーロ・バウ＆アンドレア・ブッカレッラ</title>
+    <sub-title lang="ja">テオドーロ・バウ&amp;アンドレア・ブッカレッラ デュオ・リサイタル</sub-title>
+    <desc lang="ja">【曲目】ソナタ　作品５第１１（コレッリ）ヴィオラ・ダ・ガンバとチェンバロのためのソナタ　ＢＷＶ１０２９（バッハ）ソナタ　作品５第１２「フォリア」（コレッリ）ほか【出演】テオドーロ・バウ（ヴィオラ・ダ・ガンバ）アンドレア・ブッカレッラ（チェンバロ）【収録】２０２５年１１月１０日　武蔵野市民文化会館小ホール【案内】大林奈津子</desc>
+    <credits>
+      <actor role="出演">大林奈津子</actor>
+      <actor role="出演">テオドーロ・バウ</actor>
+      <actor role="出演">アンドレア・ブッカレッラ</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <category lang="ja">ライブ・コンサート</category>
+    <episode-num system="nhk-id">r3-130-2026110573164</episode-num>
+  </programme>
+  <programme start="20261105211500 +0900" stop="20261105213000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">朗読の世界　江戸川乱歩「魔術師」（２４）</title>
+    <desc lang="ja">「魔術師」は名探偵・明智小五郎が、大宝石商の玉村家を執拗に狙う怪賊『魔術師』の連続犯罪に挑む乱歩の傑作推理小説です。不気味なカウントダウン予告から始まり、密室殺人や生首の獄門舟といった猟奇的な復讐劇が続きます。明智も誘拐拉致されますが、賊の娘・文代の協力で脱出し、波乱万丈の死闘に立ち向かってゆきます。そしてアッと驚く大どんでん返しが明智を待ち構えています。</desc>
+    <credits>
+      <actor role="朗読">篠田三郎</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110573165</episode-num>
+  </programme>
+  <programme start="20261105213000 +0900" stop="20261105214500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">青春アドベンチャー「お梅は呪いたい」（４）</title>
+    <desc lang="ja">【原作】藤崎翔，【脚色】オカモト國ヒコ，【演出】佃尚能，【出演】あの，花岡すみれ，佐竹桃華，藤田健彦</desc>
+    <credits>
+      <actor role="原作">藤崎翔</actor>
+      <actor role="脚色">オカモト國ヒコ</actor>
+      <actor role="出演">あの</actor>
+      <actor role="出演">花岡すみれ</actor>
+      <actor role="出演">佐竹桃華</actor>
+      <actor role="出演">藤田健彦</actor>
+      <actor role="演出">佃尚能</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110573166</episode-num>
+  </programme>
+  <programme start="20261105214500 +0900" stop="20261105223000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ミュージックライン</title>
+    <sub-title lang="ja">2026年11月05日午後09時45分</sub-title>
+    <category lang="ja">その他</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573167</episode-num>
+  </programme>
+  <programme start="20261105223000 +0900" stop="20261105232000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">マイ・フェイバリット・アルバム</title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110573168</episode-num>
+  </programme>
+  <programme start="20261105232000 +0900" stop="20261105233500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ラジオビジネス英語　Ｌｅｓｓｏｎ（２０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">柴田真一</actor>
+      <actor role="出演">ジェニー・シルバー</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110573169</episode-num>
+  </programme>
+  <programme start="20261105233500 +0900" stop="20261105235000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ニュースで学ぶ「現代英語」　エルニーニョ現象　過去最大</title>
+    <desc lang="ja">ＮＨＫワールドＪＡＰＡＮの英語ニュースをもとに、国際情勢や取材の現場を熟知した専門家が、ニュースの背景とともに現場で実際に使われる英語を深く読み解きます。世界や日本の“今”を理解すると同時に、生きた英語『現代英語』も身につけられる構成です。ＭＣ：トラウデン直美▽講師：前嶋和弘（上智大学教授）▽パートナー：トム・ケイン</desc>
+    <credits>
+      <actor role="司会">トラウデン直美</actor>
+      <actor role="講師">前嶋和弘</actor>
+      <actor role="出演">トム・ケイン</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110573170</episode-num>
+  </programme>
+  <programme start="20261105235000 +0900" stop="20261106000003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">英会話タイムトライアル「１１月ＤＡＹ４」</title>
+    <credits>
+      <actor role="講師">スティーブ・ソレイシィ</actor>
+      <actor role="出演">ジェニー・スキッドモア</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">中学生・高校生</category>
+    <episode-num system="nhk-id">r3-130-2026110573171</episode-num>
+  </programme>
+  <programme start="20261106000003 +0900" stop="20261106001500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">基礎英語　レベル１（１２４）</title>
+    <desc lang="ja">【サーファーだった】</desc>
+    <credits>
+      <actor role="講師">中島真紀子</actor>
+      <actor role="出演">鈴木楽</actor>
+      <actor role="出演">クリス・ネルソン</actor>
+      <actor role="声">ソネス・スティーヴンス</actor>
+      <actor role="声">Ｊ　Ｔａｋａ</actor>
+      <actor role="声">マックスウェル・パワーズ</actor>
+      <actor role="声">ダイアナ・ガーネット</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">中学生・高校生</category>
+    <episode-num system="nhk-id">r3-130-2026110673288</episode-num>
+  </programme>
+  <programme start="20261106001500 +0900" stop="20261106003000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">基礎英語　レベル２（１２４）</title>
+    <desc lang="ja">【講師】東京外国語大学大学院総合国際学研究科教授…工藤洋路，【出演】藤森慎吾，ナーリー，Ａｄｒｉａｎ　Ｈ</desc>
+    <credits>
+      <actor role="講師">工藤洋路</actor>
+      <actor role="出演">藤森慎吾</actor>
+      <actor role="出演">ナーリー</actor>
+      <actor role="出演">Ａｄｒｉａｎ　Ｈ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">中学生・高校生</category>
+    <episode-num system="nhk-id">r3-130-2026110673289</episode-num>
+  </programme>
+  <programme start="20261106003000 +0900" stop="20261106004500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ラジオ英会話　ハートでつかめ！英語の極意（１４４）</title>
+    <credits>
+      <actor role="講師">大西泰斗</actor>
+      <actor role="出演">デイビット・エバンス</actor>
+      <actor role="出演">秋乃ろーざ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110673290</episode-num>
+  </programme>
+  <programme start="20261106004500 +0900" stop="20261106005000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">エンジョイ・シンプル・イングリッシュ「なんで勉強しなきゃいけないの？」</title>
+    <desc lang="ja">森崎ウィン</desc>
+    <credits>
+      <actor role="司会">森崎ウィン</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110673291</episode-num>
+  </programme>
+  <programme start="20261106005000 +0900" stop="20261106010003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">名曲スケッチ「天使の夢」</title>
+    <sub-title lang="ja">「天使の夢」「音楽の玉手箱」</sub-title>
+    <desc lang="ja">大町陽一郎，海老彰子，沼尻竜典</desc>
+    <credits>
+      <actor>大町陽一郎</actor>
+      <actor>海老彰子</actor>
+      <actor>沼尻竜典</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <episode-num system="nhk-id">r3-130-2026110673292</episode-num>
+  </programme>
+  <programme start="20261106010003 +0900" stop="20261106011500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちハングル講座　あなたと語る１００のことば（２５）</title>
+    <desc lang="ja">【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン</desc>
+    <credits>
+      <actor role="講師">辻野裕紀</actor>
+      <actor role="出演">イ・ユンジョン</actor>
+      <actor role="出演">イ・ドンホン</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673294</episode-num>
+  </programme>
+  <programme start="20261106011500 +0900" stop="20261106013000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにち中国語　言いたいことを「完コピ」しよう！　第１週の復習</title>
+    <sub-title lang="ja">言いたいことを「完コピ」しよう! 5月第1週の復習</sub-title>
+    <desc lang="ja">１週の復習</desc>
+    <credits>
+      <actor role="講師">高木美鳥</actor>
+      <actor role="出演">呉志剛</actor>
+      <actor role="出演">劉セイラ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673295</episode-num>
+  </programme>
+  <programme start="20261106013000 +0900" stop="20261106014500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちドイツ語　応用編　多和田葉子を読む（１０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">松永美穂</actor>
+      <actor role="出演">クラウス・マヌエル</actor>
+      <actor role="出演">綿谷エリナ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673296</episode-num>
+  </programme>
+  <programme start="20261106014500 +0900" stop="20261106020003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちスペイン語　応用編　フリーダ・カーロの世界　人生万歳！（１０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">吉川恵美子</actor>
+      <actor role="講師">長谷川ニナ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673297</episode-num>
+  </programme>
+  <programme start="20261106020003 +0900" stop="20261106021500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちフランス語　応用編　ラ・ブリュイエールを読む（１０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">逸見龍生</actor>
+      <actor role="講師">ロラン・スレット</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110673299</episode-num>
+  </programme>
+  <programme start="20261106021500 +0900" stop="20261106023000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちイタリア語　応用編　美術にみるイタリアの女性像（１０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">池上英洋</actor>
+      <actor role="出演">マリアンジェラ・ラーゴ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110673300</episode-num>
+  </programme>
+  <programme start="20261106023000 +0900" stop="20261106024500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">まいにちロシア語　応用編　知られざるソ連への旅（１０）</title>
+    <desc lang="ja">　</desc>
+    <credits>
+      <actor role="講師">神岡理恵子</actor>
+      <actor role="出演">ナターリヤ・バルシャイ</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673301</episode-num>
+  </programme>
+  <programme start="20261106024500 +0900" stop="20261106030003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">朗読の世界　江戸川乱歩「魔術師」（２４）</title>
+    <desc lang="ja">「魔術師」は名探偵・明智小五郎が、大宝石商の玉村家を執拗に狙う怪賊『魔術師』の連続犯罪に挑む乱歩の傑作推理小説です。不気味なカウントダウン予告から始まり、密室殺人や生首の獄門舟といった猟奇的な復讐劇が続きます。明智も誘拐拉致されますが、賊の娘・文代の協力で脱出し、波乱万丈の死闘に立ち向かってゆきます。そしてアッと驚く大どんでん返しが明智を待ち構えています。</desc>
+    <credits>
+      <actor role="朗読">篠田三郎</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110673302</episode-num>
+  </programme>
+  <programme start="20261106030003 +0900" stop="20261106032000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ＮＨＫ高校講座　英語コミュニケーションⅢ　Ｌｅｓｓｏｎ　８（１）</title>
+    <desc lang="ja">「英語コミュニケーションⅢ」に対応した番組です。聞く・読む・話す（やり取り／発表）・書くの４技能・５領域の学習に対応し、より実用的な英語力を育みます。第２７回「Ｌｅｓｓｏｎ８（１）Ｗｉｔｎｅｓｓｅｓ　ｏｆ　Ｗａｒ」では、経験したことや考えたことについて英語でまとまりのある文章を書くことができる、原爆被爆者、疑問詞ｔｏ不定詞の３つのポイントを学習します。</desc>
+    <credits>
+      <actor role="講師">臼倉美里</actor>
+      <actor role="出演">サフィヤ</actor>
+      <actor role="出演">山田優翔</actor>
+      <actor role="ゲスト">坂田久美子</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">大学生・受験</category>
+    <episode-num system="nhk-id">r3-130-2026110673304</episode-num>
+  </programme>
+  <programme start="20261106032000 +0900" stop="20261106034000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ＮＨＫ高校講座　論理国語　言語活動【書く】　仮説を立てて検証しよう（３）</title>
+    <desc lang="ja">「仮説を立てて検証しよう」の第３回です。立てた仮説を見直して検証し、報告文にまとめます。学習のポイントは、（１）仮説を見直す　（２）検討の過程を整理する　（３）報告文にまとめる　です。</desc>
+    <credits>
+      <actor role="講師">齋藤祐</actor>
+      <actor role="出演">藤原寛輔</actor>
+      <actor role="出演">小山りな</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">大学生・受験</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">r3-130-2026110673305</episode-num>
+  </programme>
+  <programme start="20261106034000 +0900" stop="20261106040003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">ＮＨＫ高校講座　音楽Ⅰ　キーボード・アンサンブル　～楽しく演奏（４）～</title>
+    <sub-title lang="ja">キーボード・アンサンブル 〜楽しく演奏(4)〜</sub-title>
+    <desc lang="ja">「音楽Ⅰ」の第２７回は、「キーボード・アンサンブル　〜楽しく演奏（４）〜」です。キーボードの基本的な弾き方を学び、コンピュータを活用して音楽の表現の幅を広げることにも挑戦します。学習のポイントは、（１）鍵盤楽器の基礎的な奏法を身に着ける　（２）コンピュータを活用しよう　（３）キーボードとコンピュータのコラボレーションで音楽の可能性を広げよう　です。</desc>
+    <credits>
+      <actor role="講師">末石忠史</actor>
+      <actor role="講師">清水昭夫</actor>
+      <actor role="声">高山久美子</actor>
+    </credits>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">中学生・高校生</category>
+    <category lang="ja">生涯教育・資格</category>
+    <category lang="ja">音楽・美術・工芸</category>
+    <episode-num system="nhk-id">r3-130-2026110673306</episode-num>
+  </programme>
+  <programme start="20261106040003 +0900" stop="20261106045000 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">リワインドタイム　懐かしいテレビドラマ</title>
+    <desc lang="ja">“あのころの私・・・”　いつか聴いたメロディーが、過ぎ去った日の自身を思い浮かばせます。“この曲は・・・なに？”　初めて聴いた歌声から、きっと何かが見つかります。</desc>
+    <category lang="ja">音楽</category>
+    <category lang="ja">海外ロック・ポップス</category>
+    <episode-num system="nhk-id">r3-130-2026110673308</episode-num>
+  </programme>
+  <programme start="20261106045000 +0900" stop="20261106045500 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">エターナル　ナンバーズ５ｍｉｎ．　▽＃１　イマジン</title>
+    <desc lang="ja">中條誠子</desc>
+    <credits>
+      <actor role="アナウンサー">中條誠子</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110673309</episode-num>
+  </programme>
+  <programme start="20261106045500 +0900" stop="20261106050003 +0900" channel="NHKFM.Tokyo.jp">
+    <title lang="ja">音楽</title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">r3-130-2026110673310</episode-num>
   </programme>
 </tv>
