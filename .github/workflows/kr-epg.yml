@@ -78,7 +78,10 @@ jobs:
             epg2xml update_channels --config "$CONFIG" --channelfile "$CHANNELS" 2>&1 | tee epg2xml.log
           else
             epg2xml run --config "$CONFIG" --channelfile "$CHANNELS" \
-              --xmlfile "$RUNNER_TEMP/new.xml" --parallel 2>&1 | tee epg2xml.log
+              --xmlfile "$RUNNER_TEMP/new.xml" --parallel 2>&1 | tee epg2xml.log || true
+            # 편성 데이터를 하나도 못 받은 제공자(간헐적 403 등)만 90초 뒤 한 번 더 수집
+            python kr-epg/retry_failed.py "$CONFIG" "$CHANNELS" \
+              "$RUNNER_TEMP/new.xml" "$RUNNER_TEMP/retry.xml" 90 2>&1 | tee -a epg2xml.log
           fi
 
       - name: Surface epg2xml errors
@@ -94,7 +97,8 @@ jobs:
         # 실패(빈 결과·손상)하면 기존 kr_epg.xml은 그대로 두고 이 단계만 실패 처리
         run: |
           set +e
-          python kr-epg/merge.py "$RUNNER_TEMP/new.xml" "$RUNNER_TEMP/merged.xml" kr-epg/REPORT.md
+          python kr-epg/merge.py "$RUNNER_TEMP/merged.xml" kr-epg/REPORT.md \
+            "$RUNNER_TEMP/new.xml" "$RUNNER_TEMP/retry.xml"
           rc=$?
           [ -f kr-epg/REPORT.md ] && cat kr-epg/REPORT.md >> "$GITHUB_STEP_SUMMARY"
           [ $rc -eq 0 ] && mv "$RUNNER_TEMP/merged.xml" "$OUTPUT"

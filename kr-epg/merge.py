@@ -7,7 +7,8 @@
   → 상위 제공자가 차단·장애로 비어 있으면 자동으로 다음 제공자로 넘어간다.
 - 채널 ID는 제공자와 무관한 고정 ID로 바꾼다 → 제공자가 바뀌어도 IPTV 앱 매핑 유지.
 
-사용법: python merge.py RAW_XML OUT_XML [REPORT_MD]
+사용법: python merge.py OUT_XML REPORT_MD RAW_XML [RAW_XML ...]
+(RAW_XML 여러 개 = 첫 수집 + 재수집 결과를 함께 병합)
 """
 import json
 import re
@@ -26,9 +27,16 @@ def normalize(name: str) -> str:
     """'KBS 1TV', 'KBS1 HD', 'kbs1' → 'kbs1' 처럼 표기 차이를 없앤 비교용 키."""
     s = unicodedata.normalize("NFKC", name).lower()
     s = re.sub(r"[\s\-_.·:'\"()\[\]/]", "", s)  # 공백·구두점 제거 ('+', '&'는 의미가 있어 유지)
-    s = re.sub(r"(?:uhd|fhd|hd)$", "", s)  # 화질 표기 제거
-    if s.endswith("tv") and len(s) - 2 >= 3:  # 'kbs1tv'→'kbs1' (단, 'ktv' 같은 짧은 이름은 유지)
-        s = s[:-2]
+    s = s.replace("플러스", "+").replace("plus", "+")  # 'MBN Plus' = 'MBN 플러스' = 'MBN+'
+    s = re.sub(r"(?:uhd|fhd|hd)$", "", s)  # 끝의 화질 표기
+    if s.startswith("hd") and len(s) >= 5:  # 앞의 화질 표기 ('HD OBS W')
+        s = s[2:]
+    if re.search(r"(?:채널|channel)$", s) and len(re.sub(r"(?:채널|channel)$", "", s)) >= 2:
+        s = re.sub(r"(?:채널|channel)$", "", s)  # '히스토리채널'→'히스토리', 'Fox News Channel'→'foxnews'
+    if s.endswith("tv"):  # 'kbs1tv'→'kbs1', '디원TV'→'디원' (단, 'ktv'·'jtv' 같은 짧은 이름은 유지)
+        rest = s[:-2]
+        if len(rest) >= 3 or len(re.findall(r"[가-힣]", rest)) >= 2:
+            s = rest
     return s
 
 
@@ -51,11 +59,20 @@ def load_aliases():
     return by_key, by_srcid, exclude, patterns
 
 
-def main(raw_path, out_path, report_path=None):
-    try:
-        root = ET.parse(raw_path).getroot()
-    except Exception as e:  # 빈 파일·손상
-        print(f"::error::epg2xml 결과를 읽을 수 없습니다: {e}")
+def main(out_path, report_path, *raw_paths):
+    root = None
+    for rp in raw_paths:
+        try:
+            r = ET.parse(rp).getroot()
+        except Exception as e:  # 빈 파일·손상·없음
+            print(f"{rp}: 읽을 수 없어 건너뜀 ({e})")
+            continue
+        if root is None:
+            root = r
+        else:
+            root.extend(list(r))
+    if root is None:
+        print("::error::epg2xml 결과를 읽을 수 없습니다")
         return 1
 
     by_key, by_srcid, exclude, patterns = load_aliases()
@@ -159,7 +176,7 @@ def main(raw_path, out_path, report_path=None):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
         print(__doc__)
         sys.exit(2)
-    sys.exit(main(*sys.argv[1:4]))
+    sys.exit(main(*sys.argv[1:]))
