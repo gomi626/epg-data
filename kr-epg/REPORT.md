@@ -1,6 +1,6 @@
 # KR EPG 중복 제거 결과
 
-우선순위: WAVVE > TVING > LG > SK > NAVER · 채널 643개 · WAVVE 154/154 · TVING 137/176 · LG 264/346 · SK 45/268 · NAVER 43/470
+우선순위: WAVVE > TVING > LG > SK > NAVER · 채널 599개 · WAVVE 154/154 · TVING 137/176 · LG 252/346 · SK 19/268 · NAVER 37/470
 
 제공자 옆 숫자는 `채택/수집` 채널 수. 표 안 괄호는 받은 프로그램 수, **굵게** 표시가 채택된 쪽.
 
@@ -8,94 +8,106 @@
 
 | 고정 ID | 채널명 | 채택 | WAVVE | TVING | LG | SK | NAVER |
 |---|---|---|---|---|---|---|---|
-| 9colors | 9colors | SK |  |  |  | **285.sk (79)** | 815049.naver (79) |
 | <대탈출더스토리>같이볼래? | <대탈출 : 더 스토리> 같이볼래? | TVING |  | **C52338.tving (9)** |  |  |  |
+| BBS 불교방송 | BBS | LG |  |  | **759.lg (114)** | 722.sk (114) | 815103.naver (114) |
+| BTN 불교TV | BTN | LG |  |  | **702.lg (103)** | 726.sk (103) | 815112.naver (103) |
 | CJ 온스타일 | CJ ONSTYLE | WAVVE | **C3515.wavve (77)** | C52443.tving (59) | 672.lg (58) | 324.sk (58) | 815096.naver (58) |
 | CJ 온스타일+ | CJ ONSTYLE PLUS | WAVVE | **C3516.wavve (162)** | C00601.tving (71) | 781.lg (70) | 340.sk (70) | 18608759.naver (70) |
+| CJB 청주방송 | CJB | LG |  |  | **562.lg (82)** |  | 814684.naver (82) |
 | CPBC 평화방송 | 가톨릭평화방송 | LG |  |  | **721.lg (134)** | 724.sk (134) | 815115.naver (134) |
 | CTS 기독교TV | CTS | LG |  |  | **769.lg (132)** | 725.sk (132) | 815110.naver (132) |
 | C채널 | C채널 | LG |  |  | **745.lg (118)** | 721.sk (118) | 815109.naver (118) |
 | EBS KIDS | EBS 키즈 | WAVVE | **E05.wavve (146)** |  | 607.lg (143) | 372.sk (143) | 815547.naver (143) |
 | EBS1 | EBS 1 | WAVVE | **E01.wavve (133)** | C00772.tving (133) | 505.lg (132) | 15.sk (132) | 814595.naver (132) |
 | EBS2 | EBS 2 | WAVVE | **E07.wavve (145)** |  | 506.lg (148) | 63.sk (148) | 2438226.naver (148) |
+| EDGE ON | 엣지 온 | LG |  |  | **164.lg (69)** | 456.sk (69) | 36712681.naver (69) |
+| EDGE TV | EDGETV | WAVVE | **X01.wavve (68)** |  | 713.lg (80) | 128.sk (80) | 815028.naver (80) |
 | ETN연예TV | ETN연예TV | SK |  |  |  | **897.sk (74)** | 814801.naver (74) |
+| FUN TV | FUNTV | WAVVE | **X02.wavve (67)** |  | 807.lg (66) | 887.sk (66) | 8246644.naver (66) |
+| G1 방송 | G1 | LG |  |  | **581.lg (84)** |  | 814614.naver (84) |
+| GOLF & PBA | 골프앤PBA | LG |  |  | **647.lg (38)** | 135.sk (38) | 9869929.naver (38) |
+| GS MY SHOP | GS MY SHOP | WAVVE | **C4202.wavve (108)** |  | 740.lg (133) | 343.sk (133) |  |
+| GS SHOP | GS SHOP | WAVVE | **C4201.wavve (67)** |  | 676.lg (70) | 320.sk (70) | 815097.naver (70) |
+| IB SPORTS | IB스포츠 | LG |  |  | **637.lg (42)** | 123.sk (42) | 6251521.naver (42) |
+| JIBS 제주방송 | JIBS | LG |  |  | **573.lg (79)** |  | 814703.naver (79) |
 | JTBC | JTBC | WAVVE | **C2311.wavve (26)** | C01582.tving (64) | 747.lg (63) | 240.sk (63) | 815576.naver (63) |
+| JTBC GOLF | JTBC골프 | LG |  |  | **602.lg (35)** | 127.sk (35) | 814876.naver (35) |
 | JTV 전주방송 | JTV | WAVVE | **J4901.wavve (59)** |  | 572.lg (79) |  | 814661.naver (79) |
+| K-STAR | k-star | WAVVE | **F6301.wavve (53)** |  | 662.lg (52) | 884.sk (52) | 814827.naver (52) |
+| KBC 광주방송 | KBC | LG |  |  | **571.lg (83)** |  | 814652.naver (83) |
 | KBS COOL FM | KBSCOOLFM | WAVVE | **K08.wavve (137)** |  |  |  | 815457.naver (137) |
 | KBS DRAMA | KBS DRAMA | WAVVE | **K06.wavve (68)** |  | 617.lg (67) | 902.sk (67) | 814763.naver (67) |
-| KBS N SPORTS | KBSN 스포츠 | LG |  |  | **618.lg (45)** | 132.sk (45) | 814837.naver (45) |
+| KBS JOY | KBS JOY | WAVVE | **K04.wavve (54)** |  | 619.lg (53) | 880.sk (53) | 814811.naver (53) |
+| KBS KIDS | KBS키즈 | LG |  |  | **608.lg (206)** | 382.sk (206) | 815543.naver (206) |
+| KBS N SPORTS | KBSN스포츠 | LG |  |  | **618.lg (45)** | 132.sk (45) | 814837.naver (45) |
 | KBS1 | KBS 1TV | WAVVE | **K01.wavve (101)** | C00709.tving (101) | 501.lg (101) | 11.sk (101) | 814574.naver (101) |
 | KBS1 라디오 | KBS1RADIO | WAVVE | **K07.wavve (246)** |  |  |  | 815455.naver (246) |
 | KBS2 | KBS 2TV | WAVVE | **K02.wavve (66)** | C00710.tving (69) | 181.lg (68) | 12.sk (68) | 814582.naver (68) |
 | KNN | KNN | WAVVE | **J5001.wavve (20)** |  | 576.lg (82) |  | 814628.naver (82) |
-| KTV 국민방송 | KTV | SK |  |  |  | **222.sk (135)** | 815090.naver (135) |
+| KTV 국민방송 | 국민방송 | LG |  |  | **177.lg (135)** | 222.sk (135) | 815090.naver (135) |
 | MBC | MBC | WAVVE | **M01.wavve (75)** | C00711.tving (78) | 503.lg (77) | 13.sk (77) | 814588.naver (77) |
-| MBC SPORTS+ | MBC Sports+ | LG |  |  | **622.lg (51)** | 131.sk (51) | 814861.naver (51) |
+| MBC Every1 | MBC Every1 | WAVVE | **M03.wavve (45)** |  | 626.lg (44) | 881.sk (44) | 814817.naver (44) |
+| MBC SPORTS+ | MBC스포츠+ | LG |  |  | **622.lg (51)** | 131.sk (51) | 814861.naver (51) |
 | MBC 드라마넷 | MBC Drama | WAVVE | **M02.wavve (66)** |  | 621.lg (65) | 900.sk (65) | 814768.naver (65) |
 | MBN | MBN | WAVVE | **C2401.wavve (58)** | C00708.tving (68) | 750.lg (67) | 241.sk (67) | 815574.naver (67) |
+| Mnet | Mnet | TVING |  | **C00579.tving (59)** | 687.lg (58) | 873.sk (58) | 814819.naver (58) |
+| NBS 한국농업방송 | 한국농업방송 | LG |  |  | **814.lg (88)** | 443.sk (88) | 814961.naver (88) |
+| NS SHOP+ | NS SHOP+ | WAVVE | **C8302.wavve (57)** |  | 812.lg (50) | 341.sk (50) | 29770878.naver (50) |
 | OBS 경인TV | OBS | LG |  |  | **596.lg (80)** | 70.sk (80) | 814599.naver (80) |
 | SBS | SBS | LG |  |  | **504.lg (74)** | 14.sk (74) | 814592.naver (73) |
-| SBS GOLF | SBS GOLF | LG |  |  | **614.lg (38)** | 133.sk (38) | 814879.naver (38) |
-| SBS Sports | SBS Sports | LG |  |  | **613.lg (48)** | 130.sk (48) | 814863.naver (48) |
-| SK스토아 | SK스토아 | WAVVE | **F2701.wavve (47)** |  | 738.lg (50) | 345.sk (50) | 19356905.naver (50) |
-| TBS | TBSTV | LG |  |  | **720.lg (123)** | 420.sk (123) | 815468.naver (124) |
+| SBS GOLF | SBS골프 | LG |  |  | **614.lg (38)** | 133.sk (38) | 814879.naver (38) |
+| SBS Sports | SBS스포츠 | LG |  |  | **613.lg (48)** | 130.sk (48) | 814863.naver (48) |
+| SBS fun E | SBS퍼니 | LG |  |  | **615.lg (45)** | 882.sk (45) | 814799.naver (45) |
+| SK스토아 | SK스토아 | WAVVE | **F2701.wavve (66)** |  | 738.lg (50) | 345.sk (50) | 19356905.naver (50) |
+| SPOTV | 스포티비 | LG |  |  | **667.lg (42)** | 125.sk (42) | 2876055.naver (42) |
+| SPOTV2 | 스포티비2 | LG |  |  | **638.lg (46)** | 424.sk (46) | 5286701.naver (46) |
+| TBC 대구방송 | TBC | LG |  |  | **566.lg (80)** |  | 814639.naver (80) |
+| TBS | tbsTV | LG |  |  | **720.lg (123)** | 420.sk (123) | 815468.naver (124) |
+| THE MOVIE | THE MOVIE | WAVVE | **F2501.wavve (70)** |  | 724.lg (69) | 198.sk (69) | 3913619.naver (69) |
+| TV5MONDE | TV5몽드 | LG |  |  | **540.lg (139)** | 780.sk (139) | 815171.naver (139) |
 | TV조선 | TV CHOSUN | WAVVE | **C2601.wavve (71)** | C01581.tving (71) | 746.lg (70) | 243.sk (70) | 815572.naver (70) |
 | TV조선2 | TV CHOSUN2 | WAVVE | **C2602.wavve (49)** | C00585.tving (49) | 775.lg (48) | 631.sk (48) | 814914.naver (48) |
-| TV조선3 | TVCHOSUN3 | LG |  |  | **146.lg (46)** | 867.sk (46) | 18120176.naver (46) |
+| TV조선3 | TV조선3 | LG |  |  | **146.lg (46)** | 867.sk (46) | 18120176.naver (46) |
+| UBC 울산방송 | UBC | LG |  |  | **577.lg (82)** |  | 814694.naver (82) |
+| Viki | 비키 | LG |  |  | **751.lg (75)** | 188.sk (6) |  |
 | YTN | YTN | WAVVE | **C2101.wavve (60)** | C00593.tving (60) | 698.lg (59) | 570.sk (59) | 814912.naver (59) |
 | YTN 라디오 | YTN 라디오 | WAVVE | **C2107.wavve (342)** |  |  |  | 2074615.naver (218) |
 | animalplanet | Animal Planet | LG |  |  | **155.lg (87)** |  | 815374.naver (87) |
 | asia | Asia UHD | LG |  |  | **143.lg (75)** | 878.sk (75) | 4124120.naver (75) |
 | asiam | AsiaM | LG |  |  | **594.lg (75)** | 174.sk (75) | 9783138.naver (75) |
-| asian | Asia N | SK |  |  |  | **177.sk (63)** | 814748.naver (63) |
-| asports | AsportsTV | WAVVE | **J7801.wavve (66)** |  |  |  | 14378466.naver (66) |
 | australia+ | Australia Plus | NAVER |  |  |  |  | **815118.naver (79)** |
 | ball | BallTV | WAVVE | **J3901.wavve (21)** |  | 659.lg (52) | 452.sk (52) |  |
-| bbcearth | BBC earth | LG |  |  | **773.lg (76)** | 472.sk (76) | 815121.naver (76) |
+| bbcearth | BBC Earth | LG |  |  | **773.lg (76)** | 472.sk (76) | 815121.naver (76) |
 | bbclifestyle | BBC Lifestyle | LG |  |  | **733.lg (86)** |  |  |
 | bbcnews | BBC News | LG |  |  | **709.lg (154)** | 778.sk (154) | 815122.naver (154) |
-| bbs | BBS | LG |  |  | **759.lg (114)** |  |  |
-| bbs불교방송 | BBS 불교방송 | SK |  |  |  | **722.sk (114)** | 815103.naver (114) |
-| bloomberg | BLOOMBERG TV | WAVVE | **J7701.wavve (65)** |  |  | 775.sk (65) | 815124.naver (65) |
-| btn | BTN | LG |  |  | **702.lg (103)** |  |  |
-| btn불교 | BTN 불교TV | SK |  |  |  | **726.sk (103)** | 815112.naver (103) |
 | btvtoday | B tv Today | SK |  |  |  | **326.sk (350)** |  |
 | btvtoday2 | B tv Today2 | SK |  |  |  | **325.sk (350)** |  |
-| cbeebies | CBeebies | LG |  |  | **515.lg (506)** |  | 814991.naver (506) |
+| cbeebies | Cbeebies | LG |  |  | **515.lg (506)** |  | 814991.naver (506) |
 | cbs | CBS | LG |  |  | **711.lg (118)** | 727.sk (118) | 815104.naver (118) |
 | cbs음악fm | CBS 음악FM | WAVVE | **J6602.wavve (72)** |  |  |  | 815449.naver (42) |
 | cbs표준fm | CBS 표준FM | WAVVE | **J6601.wavve (123)** |  |  |  | 815451.naver (116) |
 | cctv4 | CCTV4 | WAVVE | **K12.wavve (124)** |  | 178.lg (121) | 779.sk (121) | 815127.naver (121) |
-| celestialmovies | Celestial Movies | SK |  |  |  | **877.sk (47)** |  |
 | cgn | CGN | LG |  |  | **754.lg (126)** | 723.sk (126) | 815106.naver (126) |
 | cgtn | CGTN | WAVVE | **K25.wavve (132)** |  | 176.lg (132) | 771.sk (132) | 815125.naver (132) |
 | channelnewsasia | Channel News Asia | SK |  |  |  | **777.sk (90)** | 814932.naver (90) |
-| chu | CH U | SK |  |  |  | **176.sk (67)** | 814760.naver (67) |
-| cjb | CJB | LG |  |  | **562.lg (82)** |  |  |
-| cjb청주방송 | CJB 청주방송 | NAVER |  |  |  |  | **814684.naver (82)** |
 | cmc | CMCTV | LG |  |  | **806.lg (81)** | 876.sk (81) | 814797.naver (81) |
 | cmtv | CMTV | NAVER |  |  |  |  | **2843917.naver (91)** |
 | cnbc | CNBC | LG |  |  | **174.lg (61)** |  | 815128.naver (61) |
 | cnnheadlinenews | CNN Headline News | NAVER |  |  |  |  | **815131.naver (54)** |
 | cnninternational | CNN International | WAVVE | **J2802.wavve (90)** |  | 729.lg (90) | 774.sk (90) |  |
 | cnnint’l | CNN Int’l | NAVER |  |  |  |  | **815130.naver (90)** |
-| cnnus | CNN US HD | LG |  |  | **815.lg (72)** |  | 2089085.naver (72) |
+| cnnus | CNN US | LG |  |  | **815.lg (72)** |  | 2089085.naver (72) |
 | cntv | CNTV | LG |  |  | **609.lg (65)** | 175.sk (65) | 814709.naver (65) |
 | davincilearning | Davinci Learning | LG |  |  | **735.lg (255)** |  |  |
-| dealsite경제 | DealSite경제TV | SK |  |  |  | **454.sk (57)** | 31297333.naver (57) |
 | dima | DIMATV | SK |  |  |  | **446.sk (101)** |  |
 | discoveryscience | Discovery Science | NAVER |  |  |  |  | **14364036.naver (118)** |
 | dog | DOG TV | LG |  |  | **774.lg (66)** | 255.sk (66) | 2020583.naver (66) |
 | dramax | Dramax | LG |  |  | **797.lg (54)** | 904.sk (54) | 814782.naver (54) |
-| dreamworks | DreamWorks | SK |  |  |  | **790.sk (192)** |  |
 | dwtv | DWTV | NAVER |  |  |  |  | **814934.naver (220)** |
-| ebs+1 | EBS +1 | LG |  |  | **172.lg (95)** | 820.sk (95) | 814967.naver (95) |
-| ebs+2 | EBS +2 | LG |  |  | **173.lg (132)** | 821.sk (132) | 814969.naver (132) |
+| ebs+1 | EBS+1 | LG |  |  | **172.lg (95)** | 820.sk (95) | 814967.naver (95) |
+| ebs+2 | EBS+2 | LG |  |  | **173.lg (132)** | 821.sk (132) | 814969.naver (132) |
 | ebsenglish | EBS English | LG |  |  | **768.lg (210)** | 822.sk (210) | 814963.naver (210) |
 | ebs교육방송 | EBS교육방송 | NAVER |  |  |  |  | **815452.naver (91)** |
-| edge | EDGETV | WAVVE | **X01.wavve (68)** |  |  | 128.sk (80) | 815028.naver (80) |
-| edgeon | EDGE ON | SK |  |  |  | **456.sk (69)** | 36712681.naver (69) |
-| edu | edu TV | SK |  |  |  | **823.sk (95)** |  |
 | elike | E LIKE | LG |  |  | **568.lg (54)** | 274.sk (54) | 815026.naver (54) |
 | ena | ENA | LG |  |  | **694.lg (48)** | 871.sk (48) | 814807.naver (48) |
 | enadrama | ENA DRAMA | LG |  |  | **802.lg (50)** | 875.sk (50) | 814794.naver (50) |
@@ -103,55 +115,35 @@
 | enasports | ENA SPORTS | LG |  |  | **692.lg (38)** | 282.sk (38) | 5561517.naver (38) |
 | enastory | ENA STORY | LG |  |  | **569.lg (54)** | 288.sk (54) | 815040.naver (54) |
 | euronews | Euronews | NAVER |  |  |  |  | **814935.naver (576)** |
-| eurosport | Eurosport | SK |  |  |  | **120.sk (55)** | 2741330.naver (54) |
 | eurosportsnews | Euro Sports News | NAVER |  |  |  |  | **815135.naver (72)** |
 | e채널 | E채널 | LG |  |  | **712.lg (45)** | 886.sk (45) | 814803.naver (45) |
 | e채널토요일은밥이좋아 | E채널 토요일은 밥이 좋아 | WAVVE | **C5702.wavve (50)** |  |  |  |  |
 | foxnews | FOX News Channel | SK |  |  |  | **791.sk (72)** | 815141.naver (72) |
 | france24 | FRANCE 24 | SK |  |  |  | **793.sk (343)** |  |
 | ftv | FTV | LG |  |  | **665.lg (95)** | 530.sk (95) | 814887.naver (95) |
-| fun | FUNTV | WAVVE | **X02.wavve (67)** |  |  | 887.sk (66) | 8246644.naver (66) |
-| g1 | G1 | LG |  |  | **581.lg (84)** |  |  |
-| g1방송 | G1 방송 | NAVER |  |  |  |  | **814614.naver (84)** |
 | gmtv | GMTV | LG |  |  | **688.lg (53)** | 671.sk (53) | 814815.naver (53) |
-| golf&pba | GOLF & PBA | SK |  |  |  | **135.sk (38)** | 9869929.naver (38) |
-| good | GOOD TV | LG |  |  | **565.lg (122)** | 720.sk (122) | 815108.naver (122) |
-| gsmyshop | GS MY SHOP | WAVVE | **C4202.wavve (108)** |  |  | 343.sk (133) |  |
-| gsshop | GS SHOP | WAVVE | **C4201.wavve (67)** |  |  | 320.sk (70) | 815097.naver (70) |
-| gs마이샵 | GS마이샵 | LG |  |  | **740.lg (133)** |  |  |
-| gs샵 | GS샵 | LG |  |  | **676.lg (70)** |  |  |
-| gtv | Gtv | LG |  |  | **748.lg (52)** | 284.sk (52) | 815032.naver (52) |
+| good | GOODTV | LG |  |  | **565.lg (122)** | 720.sk (122) | 815108.naver (122) |
+| gtv | GTV | LG |  |  | **748.lg (52)** | 284.sk (52) | 815032.naver (52) |
 | hgtv | HGTV | LG |  |  | **539.lg (123)** |  |  |
 | hits | HITS | LG |  |  | **154.lg (91)** |  |  |
 | hq+ | HQplus | LG |  |  | **599.lg (67)** | 908.sk (67) | 3566359.naver (67) |
-| ibsports | IB Sports | SK |  |  |  | **123.sk (42)** | 6251521.naver (42) |
-| ib스포츠 | IB스포츠 | LG |  |  | **637.lg (42)** |  |  |
 | ihq뚱 | iHQ 뚱TV | WAVVE | **C5203.wavve (65)** |  |  |  |  |
 | ihq맛있는녀석들 | iHQ 맛있는녀석들 | WAVVE | **C5202.wavve (62)** |  |  |  |  |
-| inetlife | INETLIFE | LG |  |  | **770.lg (69)** |  |  |
-| inultra | InUltra | LG |  |  | **145.lg (112)** | 890.sk (112) |  |
+| inultra | INULTRA | LG |  |  | **145.lg (112)** | 890.sk (112) |  |
 | iplay | i play | LG |  |  | **147.lg (68)** | 277.sk (68) | 7698502.naver (68) |
 | ishow | i show | LG |  |  | **563.lg (62)** | 905.sk (62) | 1725243.naver (62) |
-| jeienglish | JEI English TV | LG |  |  | **793.lg (166)** |  | 814973.naver (166) |
-| jei재능 | JEI 재능TV | LG |  |  | **776.lg (185)** | 378.sk (185) | 814993.naver (185) |
+| jeienglish | JEI EnglishTV | LG |  |  | **793.lg (166)** |  | 814973.naver (166) |
+| jei재능 | JEI재능TV | LG |  |  | **776.lg (185)** | 378.sk (185) | 814993.naver (185) |
 | jei재능english | JEI 재능 English | SK |  |  |  | **825.sk (166)** |  |
-| jibs | JIBS | LG |  |  | **573.lg (79)** |  |  |
-| jibs제주방송 | JIBS 제주방송 | NAVER |  |  |  |  | **814703.naver (79)** |
 | jtbc2 | JTBC2 | TVING |  | **C15741.tving (45)** | 606.lg (44) | 874.sk (44) | 814823.naver (44) |
 | jtbc4 | JTBC4 | TVING |  | **C22041.tving (52)** | 767.lg (51) | 259.sk (51) | 8179180.naver (51) |
-| jtbcgolf | JTBC GOLF | SK |  |  |  | **127.sk (35)** | 814876.naver (35) |
 | jtbcnewsnow | JTBC NEWS NOW | WAVVE | **C2312.wavve (16)** | C52328.tving (3) |  |  |  |
 | jtbcnews아카이브 | JTBC news 아카이브 | TVING |  | **C52300.tving (3)** |  |  |  |
 | jtbcsports | JTBC SPORTS | LG |  |  | **795.lg (45)** | 436.sk (45) | 815499.naver (45) |
-| jtbc골프 | JTBC골프 | LG |  |  | **602.lg (35)** |  |  |
-| kbc | KBC | LG |  |  | **571.lg (83)** |  |  |
-| kbc광주방송 | KBC 광주방송 | NAVER |  |  |  |  | **814652.naver (83)** |
 | kbs1fm | KBS1FM | NAVER |  |  |  |  | **815454.naver (46)** |
 | kbs1박2일 | KBS 1박 2일 | WAVVE | **K15.wavve (55)** | C52381.tving (55) |  |  |  |
 | kbs2r | KBS2R | NAVER |  |  |  |  | **815458.naver (84)** |
 | kbs3r | KBS3R | NAVER |  |  |  |  | **815460.naver (130)** |
-| kbsjoy | KBS JOY | WAVVE | **K04.wavve (54)** |  |  | 880.sk (53) | 814811.naver (53) |
-| kbskids | KBS KIDS | SK |  |  |  | **382.sk (206)** | 815543.naver (206) |
 | kbslife | KBS Life | WAVVE | **K05.wavve (63)** |  | 582.lg (63) | 292.sk (63) | 814942.naver (63) |
 | kbsnews24 | KBS NEWS 24 | WAVVE | **K38.wavve (106)** | C52286.tving (106) |  |  |  |
 | kbsstory | KBS Story | WAVVE | **K09.wavve (73)** |  | 620.lg (72) | 425.sk (72) | 815555.naver (72) |
@@ -161,10 +153,8 @@
 | kbs사랑과전쟁 | KBS 사랑과전쟁 | WAVVE | **K31.wavve (71)** | C52380.tving (71) |  |  |  |
 | kbs역사저널그날 | KBS 역사저널 그날 | WAVVE | **K36.wavve (90)** | C52366.tving (90) |  |  |  |
 | kbs인간극장 | KBS 인간극장 | WAVVE | **K37.wavve (134)** | C52365.tving (134) |  |  |  |
-| kbs조이 | KBS조이 | LG |  |  | **619.lg (53)** |  |  |
 | kbs주말드라마명작 | KBS 주말드라마 명작 | TVING |  | **C52368.tving (62)** |  |  |  |
 | kbs주말명작 | KBS 주말명작 | WAVVE | **K30.wavve (62)** |  |  |  |  |
-| kbs키즈 | KBS키즈 | LG |  |  | **608.lg (206)** |  |  |
 | kbs한민족 | KBS한민족 | NAVER |  |  |  |  | **815461.naver (139)** |
 | kfn | KFN | LG |  |  | **704.lg (77)** | 445.sk (77) | 815082.naver (77) |
 | kiss2010년대가요 | KISS - 2010년대 가요 | WAVVE | **C2705.wavve (36)** |  |  |  |  |
@@ -177,26 +167,22 @@
 | kiss키스인기트로트 | KISS - 키스 인기 트로트 | WAVVE | **C2710.wavve (36)** |  |  |  |  |
 | kiss탑골kpop | KISS - 탑골 K-POP | WAVVE | **C2713.wavve (36)** |  |  |  |  |
 | ksports | K sports TV | WAVVE | **J3903.wavve (15)** |  |  |  |  |
-| kstar | k-star | WAVVE | **F6301.wavve (53)** |  |  | 884.sk (52) | 814827.naver (52) |
 | kt알파쇼핑 | KT알파 쇼핑 | WAVVE | **F1401.wavve (34)** |  | 811.lg (48) | 333.sk (48) | 26445690.naver (48) |
 | k명작상영회 | K명작 상영회 | TVING |  | **C52458.tving (19)** |  |  |  |
-| k바둑 | K 바둑 | LG |  |  | **663.lg (26)** | 253.sk (26) | 814894.naver (26) |
-| k스타 | K스타 | LG |  |  | **662.lg (52)** |  |  |
+| k바둑 | K바둑 | LG |  |  | **663.lg (26)** | 253.sk (26) | 814894.naver (26) |
 | lac | LAC | NAVER |  |  |  |  | **815152.naver (72)** |
 | livewire | LIVE WIRE | TVING |  | **C52369.tving (18)** |  |  |  |
 | lovenature | LOVE NATURE | LG |  |  | **157.lg (81)** |  |  |
 | maxports | MAXPORTS | SK |  |  |  | **266.sk (50)** | 32346801.naver (50) |
-| mbcevery1 | MBC Every1 | WAVVE | **M03.wavve (45)** |  |  | 881.sk (44) | 814817.naver (44) |
 | mbcfm4u | MBC FM4U | WAVVE | **M08.wavve (123)** |  |  |  | 815463.naver (45) |
 | mbcm | MBC M | WAVVE | **M06.wavve (55)** |  | 624.lg (54) | 250.sk (54) | 814870.naver (54) |
-| mbcnet | MBC NET | LG |  |  | **611.lg (72)** | 281.sk (72) | 815052.naver (72) |
+| mbcnet | MBCNET | LG |  |  | **611.lg (72)** | 281.sk (72) | 815052.naver (72) |
 | mbcon | MBC ON | WAVVE | **M14.wavve (79)** |  | 623.lg (78) | 531.sk (78) | 814944.naver (78) |
 | mbc강원영동 | MBC 강원영동 | NAVER |  |  |  |  | **814606.naver (77)** |
 | mbc경남 | MBC 경남 | NAVER |  |  |  |  | **814626.naver (88)** |
 | mbc뉴스 | MBC 뉴스 | TVING |  | **C52389.tving (37)** |  |  |  |
 | mbc라디오시사 | MBC 라디오 시사 | WAVVE | **M36.wavve (36)** | C52299.tving (36) |  |  |  |
 | mbc라디오예능 | MBC 라디오 예능 | WAVVE | **M37.wavve (48)** | C52379.tving (43) |  |  |  |
-| mbc에브리원 | MBC에브리원 | LG |  |  | **626.lg (44)** |  |  |
 | mbc오은영리포트결혼지옥 | MBC 오은영리포트 결혼지옥 | TVING |  | **C52477.tving (46)** |  |  |  |
 | mbc전지적참견시점 | MBC 전지적 참견 시점 | TVING |  | **C52475.tving (44)** |  |  |  |
 | mbc충북 | MBC 충북 | NAVER |  |  |  |  | **814678.naver (81)** |
@@ -206,19 +192,14 @@
 | mbn실제상황 | MBN 실제상황 | WAVVE | **C2412.wavve (68)** |  |  |  |  |
 | mbn특종세상 | MBN 특종세상 | WAVVE | **C2411.wavve (79)** |  |  |  |  |
 | mgtv | MGTV | LG |  |  | **170.lg (77)** | 442.sk (77) | 815094.naver (77) |
-| mnet | Mnet | TVING |  | **C00579.tving (59)** |  | 873.sk (58) | 814819.naver (58) |
-| mplex | Mplex | SK |  |  |  | **171.sk (53)** | 814712.naver (53) |
 | museum | MUSEUM | LG |  |  | **156.lg (103)** |  |  |
 | mx | MX | SK |  |  |  | **194.sk (56)** | 814805.naver (56) |
-| nbs한국농업방송 | NBS 한국농업방송 | SK |  |  |  | **443.sk (88)** | 814961.naver (88) |
-| nhkworldjapan | NHK WORLD JAPAN | LG |  |  | **669.lg (174)** | 783.sk (174) | 8744820.naver (174) |
+| nhkworldjapan | NHK World-JAPAN | LG |  |  | **669.lg (174)** | 783.sk (174) | 8744820.naver (174) |
 | nhkworldpremium | NHK World Premium | LG |  |  | **633.lg (196)** | 772.sk (196) | 815158.naver (196) |
-| now제주 | Now제주TV | LG |  |  | **585.lg (89)** | 290.sk (89) |  |
-| nsshop+ | NS SHOP+ | WAVVE | **C8302.wavve (57)** |  |  | 341.sk (50) | 29770878.naver (50) |
-| ns샵+ | NS샵+ | LG |  |  | **812.lg (50)** |  |  |
+| now제주 | Now 제주채널 | LG |  |  | **585.lg (89)** | 290.sk (89) |  |
 | ns홈쇼핑 | NS홈쇼핑 | WAVVE | **C8301.wavve (74)** |  | 673.lg (79) | 322.sk (79) | 815099.naver (79) |
 | nxt | NXT | LG |  |  | **744.lg (62)** | 195.sk (62) | 814707.naver (62) |
-| obsw | OBSW | LG |  |  | **648.lg (88)** | 423.sk (88) | 815359.naver (88) |
+| obsw | OBS W | LG |  |  | **648.lg (88)** | 423.sk (88) | 815359.naver (88) |
 | ocn | OCN | TVING |  | **C07381.tving (36)** | 684.lg (35) | 178.sk (35) | 814715.naver (35) |
 | ocnmovies | OCN Movies | TVING |  | **C04601.tving (32)** | 686.lg (31) | 187.sk (31) | 814734.naver (31) |
 | ocnmovies2 | OCN Movies2 | TVING |  | **C07382.tving (38)** | 685.lg (37) | 179.sk (37) | 814718.naver (37) |
@@ -229,46 +210,36 @@
 | ont | ONT | SK |  |  |  | **256.sk (72)** | 815483.naver (72) |
 | original영화 | Original 영화 | WAVVE | **F1221.wavve (153)** |  |  |  |  |
 | original피의게임 | Original 피의게임 | WAVVE | **F1214.wavve (43)** |  |  |  |  |
-| oun | OUN | SK |  |  |  | **220.sk (92)** | 814975.naver (92) |
 | playy액션영화 | PLAYY 액션영화 | WAVVE | **H07.wavve (53)** |  |  |  |  |
 | playy웰메이드영화 | PLAYY 웰메이드 영화 | WAVVE | **H01.wavve (48)** |  |  |  |  |
 | playy프리미엄영화 | PLAYY 프리미엄 영화 | WAVVE | **H02.wavve (48)** |  |  |  |  |
 | rna | RNA | LG |  |  | **148.lg (106)** |  | 18147999.naver (106) |
 | rtv | RTV | NAVER |  |  |  |  | **814948.naver (66)** |
 | safe | SAFE TV | NAVER |  |  |  |  | **815484.naver (104)** |
-| sbs+ | SBS 플러스 | LG |  |  | **612.lg (44)** | 901.sk (44) | 814774.naver (44) |
+| sbs+ | SBS플러스 | LG |  |  | **612.lg (44)** | 901.sk (44) | 814774.naver (44) |
 | sbsbiz | SBS Biz | WAVVE | **S06.wavve (81)** | C15846.tving (81) | 616.lg (80) | 625.sk (80) | 814910.naver (80) |
-| sbsfune | SBS fun E | SK |  |  |  | **882.sk (45)** | 814799.naver (45) |
 | sbsgolf2 | SBS Golf2 | LG |  |  | **635.lg (32)** | 383.sk (32) | 815006.naver (32) |
 | sbslife | SBS LIFE | LG |  |  | **739.lg (50)** | 896.sk (50) | 10252080.naver (50) |
 | sbsnex | SBS NEX | LG |  |  | **514.lg (69)** | 909.sk (69) | 5332390.naver (69) |
 | sbsno1뉴스라이브 | SBS No.1 뉴스라이브 | WAVVE | **S27.wavve (117)** | C52348.tving (117) |  |  |  |
 | sbs러브fm | SBS러브FM | NAVER |  |  |  |  | **815465.naver (62)** |
 | sbs파워fm | SBS파워FM | NAVER |  |  |  |  | **815467.naver (39)** |
-| sbs퍼니 | SBS퍼니 | LG |  |  | **615.lg (45)** |  |  |
-| sky | skyUHD | LG |  |  | **144.lg (62)** |  | 5332391.naver (62) |
+| sky | SKY UHD | LG |  |  | **144.lg (62)** |  | 5332391.naver (62) |
 | smiletv+ | SmileTV Plus | WAVVE | **F5602.wavve (22)** |  |  | 894.sk (70) | 814939.naver (70) |
 | smithsonian | Smithsonian Channel | SK |  |  |  | **792.sk (102)** |  |
 | soop | SOOP | LG |  |  | **741.lg (32)** | 265.sk (32) | 9734681.naver (33) |
-| spo | SPOTV | SK |  |  |  | **125.sk (42)** | 2876055.naver (42) |
 | spotv+ | SPOTV PLUS | LG |  |  | **727.lg (64)** |  | 1876333.naver (64) |
-| spotv2 | SPOTV2 | SK |  |  |  | **424.sk (46)** | 5286701.naver (46) |
 | spotvgolf+ | SPOTV GOLF PLUS | LG |  |  | **650.lg (26)** | 134.sk (26) | 815548.naver (26) |
-| spotvprime | SPOTV Prime | LG |  |  | **162.lg (46)** | 136.sk (46) | 28678660.naver (46) |
-| spotvprime+ | SPOTV Prime+ | LG |  |  | **800.lg (39)** | 139.sk (39) | 18120178.naver (39) |
-| spotvprime2 | SPOTV Prime2 | LG |  |  | **163.lg (46)** | 137.sk (46) | 28678659.naver (46) |
+| spotvprime | SPOTV PRIME | LG |  |  | **162.lg (46)** | 136.sk (46) | 28678660.naver (46) |
+| spotvprime+ | SPOTV PRIME+ | LG |  |  | **800.lg (39)** | 139.sk (39) | 18120178.naver (39) |
+| spotvprime2 | SPOTV PRIME2 | LG |  |  | **163.lg (46)** | 137.sk (46) | 28678659.naver (46) |
 | stc | STC | NAVER |  |  |  |  | **815167.naver (54)** |
-| stingraycmusic | Stingray CMusic | LG |  |  | **732.lg (51)** | 672.sk (51) |  |
+| stingraycmusic | STINGRAY cmusic | LG |  |  | **732.lg (51)** | 672.sk (51) |  |
 | stn | STN | NAVER |  |  |  |  | **28914223.naver (50)** |
 | story | StoryTV | LG |  |  | **564.lg (66)** | 289.sk (66) | 40499536.naver (66) |
-| tbc | TBC | LG |  |  | **566.lg (80)** |  |  |
-| tbc대구방송 | TBC 대구방송 | NAVER |  |  |  |  | **814639.naver (80)** |
 | them | The M | WAVVE | **J1702.wavve (62)** |  | 634.lg (61) | 883.sk (61) | 814821.naver (61) |
-| themovie | THE MOVIE | WAVVE | **F2501.wavve (70)** |  |  | 198.sk (69) | 3913619.naver (69) |
 | tjb | TJB | LG |  |  | **561.lg (86)** |  | 814671.naver (85) |
 | tlc여행레저 | TLC여행레저채널 | NAVER |  |  |  |  | **26450914.naver (72)** |
-| tv5monde | TV5Monde | SK |  |  |  | **780.sk (139)** | 815171.naver (139) |
-| tv5몽드 | TV5몽드 | LG |  |  | **540.lg (139)** |  |  |
 | tvN | tvN | TVING |  | **C00551.tving (49)** | 682.lg (48) | 872.sk (48) | 814825.naver (48) |
 | tvasia+ | TVasia Plus | WAVVE | **F5601.wavve (26)** |  |  |  | 814777.naver (76) |
 | tvchosunnews24 | TV CHOSUN NEWS24 | TVING |  | **C52302.tving (63)** |  |  |  |
@@ -283,13 +254,10 @@
 | tv조선라이브뉴스24시 | TV조선 라이브 뉴스 24시 | WAVVE | **C2605.wavve (36)** |  |  |  |  |
 | u+tv라이브 | U+tv 라이브 | LG |  |  | **530.lg (36)** |  |  |
 | u+투데이 | U+투데이 | LG |  |  | **677.lg (75)** |  |  |
-| ubc | UBC | LG |  |  | **577.lg (82)** |  |  |
-| ubc울산방송 | UBC 울산방송 | NAVER |  |  |  |  | **814694.naver (82)** |
 | ufc하이라이트 | UFC 하이라이트 | TVING |  | **C51421.tving (97)** |  |  |  |
 | uhddream | UHD Dream TV | LG |  |  | **805.lg (94)** | 879.sk (94) |  |
 | umax | UMAX | LG |  |  | **810.lg (65)** | 910.sk (65) | 9161626.naver (65) |
-| uxn | UXN | LG |  |  | **818.lg (55)** | 888.sk (55) | 2843916.naver (55) |
-| viki | Viki | SK |  |  |  | **188.sk (6)** |  |
+| uxn | UXN-UHD | LG |  |  | **818.lg (55)** | 888.sk (55) | 2843916.naver (55) |
 | warner | Warner TV | SK |  |  |  | **205.sk (116)** |  |
 | wavvegolf1 | Wavve Golf 1 | WAVVE | **S29.wavve (35)** |  |  |  |  |
 | wavvegolf2 | Wavve Golf 2 | WAVVE | **S30.wavve (31)** |  |  |  |  |
@@ -314,13 +282,11 @@
 | 경인kbs2 | 경인 KBS2 | LG |  |  | **182.lg (68)** |  |  |
 | 경인방송 | 경인방송 | NAVER |  |  |  |  | **1974895.naver (57)** |
 | 고나리돌newstep | 고나리돌 : NEW STEP | TVING |  | **C52412.tving (49)** |  |  |  |
-| 골프앤pba | 골프앤PBA | LG |  |  | **647.lg (38)** |  |  |
 | 공영홈쇼핑 | 공영홈쇼핑 | WAVVE | **F6901.wavve (76)** | C52480.tving (74) | 737.lg (73) | 332.sk (73) | 9931218.naver (73) |
 | 광주kbs1 | 광주 KBS1 | LG |  |  | **521.lg (114)** |  | 814642.naver (114) |
 | 광주kbs2 | 광주 KBS2 | LG |  |  | **316.lg (68)** |  |  |
 | 광주mbc | 광주 MBC | LG |  |  | **546.lg (77)** |  | 814644.naver (81) |
 | 구기동프렌즈 | 구기동 프렌즈 | TVING |  | **C52466.tving (17)** |  |  |  |
-| 국민방송 | 국민방송 | LG |  |  | **177.lg (135)** |  |  |
 | 국악방송 | 국악방송 | LG |  |  | **766.lg (89)** | 450.sk (89) | 18120177.naver (89) |
 | 국회방송 | 국회방송 | WAVVE | **F3301.wavve (78)** | C51263.tving (85) | 717.lg (84) | 221.sk (84) | 815084.naver (84) |
 | 극동방송 | 극동방송 | NAVER |  |  |  |  | **2074616.naver (91)** |
@@ -328,7 +294,7 @@
 | 꽃보다청춘리미티드에디션 | 꽃보다청춘 리미티드에디션 | TVING |  | **C52471.tving (18)** |  |  |  |
 | 나는솔로 | 나는솔로 | WAVVE | **S28.wavve (10)** |  |  |  |  |
 | 나의아저씨 | 나의 아저씨 | WAVVE | **C3522.wavve (58)** | C25741.tving (18) |  |  |  |
-| 나인컬러스 | 나인컬러스 | LG |  |  | **680.lg (79)** |  |  |
+| 나인컬러스 | 나인컬러스 | LG |  |  | **680.lg (79)** | 285.sk (79) | 815049.naver (79) |
 | 나혼자산다 | 나 혼자 산다 | WAVVE | **PM2.wavve (47)** |  |  |  |  |
 | 내남편과결혼해줘 | 내 남편과 결혼해줘 | TVING |  | **C52143.tving (23)** |  |  |  |
 | 놀라운토요일 | 놀라운 토요일 | TVING |  | **C32441.tving (16)** |  |  |  |
@@ -336,7 +302,7 @@
 | 눈물의여왕 | 눈물의 여왕 | TVING |  | **C52171.tving (17)** |  |  |  |
 | 뉴트로 | 뉴트로 TV | SK |  |  |  | **459.sk (78)** |  |
 | 다문화 | 다문화TV | LG |  |  | **584.lg (53)** | 448.sk (53) | 28710358.naver (53) |
-| 대교뉴이프+ | 대교 뉴이프 Plus | LG |  |  | **555.lg (86)** | 373.sk (86) | 5301680.naver (86) |
+| 대교뉴이프+ | 대교 뉴이프Plus | LG |  |  | **555.lg (86)** | 373.sk (86) | 5301680.naver (86) |
 | 대교어린이 | 대교어린이TV | NAVER |  |  |  |  | **815008.naver (172)** |
 | 대구kbs1 | 대구 KBS1 | LG |  |  | **516.lg (116)** |  | 814630.naver (116) |
 | 대구kbs2 | 대구 KBS2 | LG |  |  | **191.lg (68)** |  |  |
@@ -355,16 +321,15 @@
 | 대한민국에서건물주되는법 | 대한민국에서 건물주 되는  법 | TVING |  | **C52465.tving (22)** |  |  |  |
 | 더라이프 | 더라이프 | LG |  |  | **772.lg (47)** | 898.sk (47) | 16052614.naver (47) |
 | 더라이프2 | 더라이프2 | LG |  |  | **799.lg (76)** | 866.sk (76) | 17384197.naver (76) |
-| 더무비 | 더 무비 | LG |  |  | **724.lg (69)** |  |  |
 | 더지니어스그랜드파이널 | 더 지니어스:그랜드 파이널 | TVING |  | **C08501.tving (17)** |  |  |  |
 | 도깨비 | 도깨비 | WAVVE | **C3524.wavve (60)** | C15442.tving (18) |  |  |  |
 | 동아 | 동아TV | LG |  |  | **660.lg (81)** | 272.sk (81) | 815044.naver (81) |
 | 드라마큐브 | 드라마큐브 | LG |  |  | **798.lg (51)** | 903.sk (51) | 815502.naver (51) |
-| 드림웍스 | 드림웍스채널 | LG |  |  | **510.lg (192)** |  |  |
-| 디스커버리 채널 | Discovery Channel | LG |  |  | **610.lg (85)** | 437.sk (85) | 815292.naver (85) |
+| 드림웍스 | 드림웍스채널 | LG |  |  | **510.lg (192)** | 790.sk (192) |  |
+| 디스커버리 채널 | 디스커버리 | LG |  |  | **610.lg (85)** | 437.sk (85) | 815292.naver (85) |
 | 디원 | 디원 | LG |  |  | **666.lg (65)** | 170.sk (65) | 814785.naver (65) |
 | 디자이어 | 디자이어TV | LG |  |  | **166.lg (76)** | 200.sk (6) |  |
-| 딜사이트경제 | 딜사이트 경제TV | LG |  |  | **600.lg (57)** |  |  |
+| 딜사이트 경제TV | 딜사이트 경제TV | LG |  |  | **600.lg (57)** | 454.sk (57) | 31297333.naver (57) |
 | 또오해영 | 또 오해영 | TVING |  | **C14641.tving (21)** |  |  |  |
 | 라이프온마스 | 라이프온마스 | TVING |  | **C26542.tving (23)** |  |  |  |
 | 라이프타임 | LIFETIME | TVING |  | **C00611.tving (59)** | 603.lg (58) | 271.sk (58) | 815030.naver (58) |
@@ -375,7 +340,7 @@
 | 리얼 | 리얼TV | LG |  |  | **809.lg (66)** | 440.sk (66) | 814952.naver (66) |
 | 마녀사냥 | 마녀사냥 | TVING |  | **C41243.tving (18)** |  |  |  |
 | 마산mbc | 마산 MBC | LG |  |  | **553.lg (88)** |  |  |
-| 마운틴TV | Mountain TV | LG |  |  | **641.lg (80)** | 251.sk (80) | 814889.naver (80) |
+| 마운틴TV | 마운틴TV | LG |  |  | **641.lg (80)** | 251.sk (80) | 814889.naver (80) |
 | 매일경제 | 매일경제TV | WAVVE | **F2001.wavve (56)** | C03801.tving (55) | 627.lg (54) | 628.sk (54) | 5663691.naver (54) |
 | 머니투데이방송 | 머니투데이방송 | WAVVE | **F4301.wavve (67)** | C52407.tving (68) | 630.lg (68) | 627.sk (68) | 814906.naver (68) |
 | 메디컬 | 메디컬TV | NAVER |  |  |  |  | **815053.naver (86)** |
@@ -393,7 +358,7 @@
 | 미씽그들이있었다2 | 미씽: 그들이 있었다2 | WAVVE | **C3526.wavve (70)** |  |  |  |  |
 | 바둑 | 바둑TV | WAVVE | **J4501.wavve (32)** |  | 683.lg (31) | 528.sk (31) | 814898.naver (31) |
 | 반짝이는워터멜론 | 반짝이는 워터멜론 | TVING |  | **C52092.tving (22)** |  |  |  |
-| 방송대학 | 방송대학TV | LG |  |  | **179.lg (92)** |  |  |
+| 방송대학TV | 방송대학TV | LG |  |  | **179.lg (92)** | 220.sk (92) | 814975.naver (92) |
 | 벌거벗은세계사 | 벌거벗은 세계사 | TVING |  | **C51255.tving (16)** |  |  |  |
 | 법률방송 | 법률방송 | LG |  |  | **586.lg (66)** | 438.sk (66) | 815085.naver (66) |
 | 보검매직컬 | 보검매직컬 | TVING |  | **C52455.tving (15)** |  |  |  |
@@ -405,11 +370,10 @@
 | 붐tv | 붐TV | LG |  |  | **719.lg (165)** | 249.sk (165) |  |
 | 브라보키즈 | 브라보키즈 | WAVVE | **C6802.wavve (74)** |  | 728.lg (74) | 370.sk (74) | 815020.naver (74) |
 | 브레인 | 브레인TV | LG |  |  | **707.lg (74)** | 279.sk (74) | 814900.naver (74) |
-| 블룸버그 | 블룸버그 | LG |  |  | **544.lg (65)** |  |  |
+| 블룸버그 | BLOOMBERG TV | WAVVE | **J7701.wavve (65)** |  | 544.lg (65) | 775.sk (65) | 815124.naver (65) |
 | 비너스 | 비너스TV | LG |  |  | **801.lg (50)** | 201.sk (6) |  |
 | 비밀의숲 | 비밀의 숲 | TVING |  | **C15296.tving (20)** |  |  |  |
 | 비밀의숲2 | 비밀의숲2 | TVING |  | **C47141.tving (23)** |  |  |  |
-| 비키 | 비키 | LG |  |  | **751.lg (75)** |  |  |
 | 빈센조 | 빈센조 | TVING |  | **C51260.tving (18)** |  |  |  |
 | 빌리어즈TV | 빌리어즈TV | WAVVE | **J7201.wavve (48)** |  | 668.lg (47) | 122.sk (47) | 814868.naver (47) |
 | 뽀요 | 뽀요TV | LG |  |  | **545.lg (215)** | 387.sk (215) | 9662654.naver (215) |
@@ -427,14 +391,14 @@
 | 삼시세끼어촌편5 | 삼시세끼 어촌편5 | TVING |  | **C45043.tving (15)** |  |  |  |
 | 삼시세끼정선편 | 삼시세끼 정선편 | TVING |  | **C08682.tving (17)** |  |  |  |
 | 삼척mbc | 삼척 MBC | LG |  |  | **559.lg (77)** |  | 814608.naver (77) |
-| 상생방송 | STB 상생방송 | LG |  |  | **171.lg (100)** | 278.sk (100) | 815113.naver (100) |
+| 상생방송 | 상생방송 | LG |  |  | **171.lg (100)** | 278.sk (100) | 815113.naver (100) |
 | 생활체육 | 생활체육TV | LG |  |  | **575.lg (53)** | 264.sk (53) | 814883.naver (53) |
 | 서울경제 | 서울경제TV | WAVVE | **J6301.wavve (74)** |  | 752.lg (74) | 629.sk (74) | 814917.naver (74) |
 | 서진이네 | 서진이네 | TVING |  | **C52053.tving (16)** |  |  |  |
 | 서진이네2 | 서진이네2 | TVING |  | **C52194.tving (14)** |  |  |  |
 | 선재업고튀어 | 선재 업고 튀어 | TVING |  | **C52178.tving (22)** |  |  |  |
 | 세이렌 | 세이렌 | TVING |  | **C52464.tving (23)** |  |  |  |
-| 셀레스티얼무비 | 셀레스티얼 무비 | LG |  |  | **519.lg (47)** |  |  |
+| 셀레스티얼 무비 | 셀레스티얼 무비 | LG |  |  | **519.lg (47)** | 877.sk (47) |  |
 | 소상공인시장 | 소상공인시장tv | LG |  |  | **169.lg (138)** | 428.sk (138) | 815559.naver (138) |
 | 소용없어거짓말 | 소용없어 거짓말 | WAVVE | **C3527.wavve (69)** |  |  |  |  |
 | 쇼미더머니11 | 쇼미 더 머니11 | TVING |  | **C51663.tving (13)** |  |  |  |
@@ -444,12 +408,10 @@
 | 슈퍼팩 | 슈퍼팩 | LG |  |  | **890.lg (36)** |  |  |
 | 스몰토크를멈추면안돼 | 스몰토크를 멈추면 안돼 | TVING |  | **C52408.tving (14)** |  |  |  |
 | 스물다섯스물하나 | 스물다섯 스물하나 | TVING |  | **C51459.tving (19)** |  |  |  |
-| 스크린 | Screen | LG |  |  | **652.lg (52)** | 192.sk (52) | 814723.naver (52) |
+| 스크린 | 스크린 | LG |  |  | **652.lg (52)** | 192.sk (52) | 814723.naver (52) |
 | 스크린골프존 | 스크린골프존 | LG |  |  | **578.lg (54)** | 138.sk (54) | 13977689.naver (54) |
 | 스트릿레스토랑파이터 | 스트릿 레스토랑 파이터 | TVING |  | **C52494.tving (16)** |  |  |  |
 | 스트릿우먼파이터2 | 스트릿 우먼 파이터2 | TVING |  | **C52091.tving (12)** |  |  |  |
-| 스포티비 | 스포티비 | LG |  |  | **667.lg (42)** |  |  |
-| 스포티비2 | 스포티비2 | LG |  |  | **638.lg (46)** |  |  |
 | 스프링피버 | 스프링 피버 | TVING |  | **C52456.tving (24)** |  |  |  |
 | 슬기로운의사생활 | 슬기로운 의사생활 | TVING |  | **C44644.tving (16)** |  |  |  |
 | 슬기로운의사생활시즌2 | 슬기로운 의사생활 시즌2 | TVING |  | **C51373.tving (15)** |  |  |  |
@@ -473,14 +435,14 @@
 | 심야괴담회 | 심야괴담회 | WAVVE | **M16.wavve (63)** |  |  |  |  |
 | 씨네초이스 | 씨네초이스 | NAVER |  |  |  |  | **9229246.naver (81)** |
 | 씨네트리 | 씨네트리 | WAVVE | **F2601.wavve (41)** |  | 574.lg (73) | 441.sk (73) | 814731.naver (73) |
-| 씨네프 | Cinef | LG |  |  | **653.lg (51)** | 193.sk (51) | 814729.naver (51) |
+| 씨네프 | 씨네프 | LG |  |  | **653.lg (51)** | 193.sk (51) | 814729.naver (51) |
 | 아는형님 | 아는형님 | TVING |  | **C40841.tving (17)** |  |  |  |
 | 아리랑TV | 아리랑TV | LG |  |  | **601.lg (159)** | 427.sk (159) | 815081.naver (159) |
-| 아시아n | 아시아N | LG |  |  | **658.lg (63)** |  |  |
+| 아시아N | 아시아N | LG |  |  | **658.lg (63)** | 177.sk (63) | 814748.naver (63) |
 | 아시안투어live | 아시안투어 LIVE | WAVVE | **J3904.wavve (15)** |  |  |  |  |
 | 아웃도어 | 아웃도어 채널 | LG |  |  | **710.lg (108)** |  |  |
-| 아이넷 | 아이넷 TV | LG |  |  | **657.lg (69)** | 261.sk (69) | 814809.naver (69) |
-| 아이넷라이프 | 아이넷라이프 | SK |  |  |  | **269.sk (69)** | 16111702.naver (69) |
+| 아이넷 | 아이넷TV | LG |  |  | **657.lg (69)** | 261.sk (69) | 814809.naver (69) |
+| 아이넷라이프 | INETLIFE | LG |  |  | **770.lg (69)** | 269.sk (69) | 16111702.naver (69) |
 | 안동kbs1 | 안동 KBS1 | LG |  |  | **517.lg (116)** |  |  |
 | 안동kbs2 | 안동 KBS2 | LG |  |  | **200.lg (68)** |  |  |
 | 안동mbc | 안동 MBC | LG |  |  | **542.lg (79)** |  | 814635.naver (79) |
@@ -499,21 +461,18 @@
 | 언더커버미쓰홍 | 언더커버 미쓰홍 | TVING |  | **C52454.tving (19)** |  |  |  |
 | 언더커버셰프 | 언더커버 셰프 | TVING |  | **C52472.tving (13)** |  |  |  |
 | 언젠가는슬기로울전공의생활 | 언젠가는 슬기로울 전공의생활 | TVING |  | **C52319.tving (18)** |  |  |  |
-| 에듀 | 에듀TV | LG |  |  | **168.lg (95)** |  |  |
-| 에이스포츠 | 에이스포츠TV | LG |  |  | **661.lg (66)** |  |  |
+| 에듀TV | 에듀TV | LG |  |  | **168.lg (95)** | 823.sk (95) |  |
+| 에이스포츠TV | AsportsTV | WAVVE | **J7801.wavve (66)** |  | 661.lg (66) |  | 14378466.naver (66) |
 | 에이플드라마 | ApleDrama | SK |  |  |  | **203.sk (64)** | 18405796.naver (64) |
 | 엑스원 | 엑스원 | LG |  |  | **160.lg (69)** | 257.sk (69) | 5321817.naver (69) |
 | 엔터TV | 엔터TV | LG |  |  | **705.lg (79)** | 258.sk (79) | 3181927.naver (79) |
-| 엠넷 | 엠넷 | LG |  |  | **687.lg (58)** |  |  |
-| 엠플렉스 | 엠플렉스 | LG |  |  | **756.lg (53)** |  |  |
-| 엣지 | 엣지TV | LG |  |  | **713.lg (80)** |  |  |
-| 엣지온 | 엣지 온 | LG |  |  | **164.lg (69)** |  |  |
+| 엠플렉스 | 엠플렉스 | LG |  |  | **756.lg (53)** | 171.sk (53) | 814712.naver (53) |
 | 여수mbc | 여수 MBC | LG |  |  | **547.lg (82)** |  | 814649.naver (82) |
 | 여신강림 | 여신강림 | TVING |  | **C51254.tving (19)** |  |  |  |
 | 연애의참견 | 연애의 참견 | WAVVE | **K28.wavve (71)** |  |  |  |  |
 | 연합뉴스TV | 연합뉴스TV | WAVVE | **Y01.wavve (69)** | C01723.tving (69) | 734.lg (68) | 571.sk (68) | 815508.naver (68) |
 | 연합뉴스tvjob | 연합뉴스TV JOB | LG |  |  | **589.lg (133)** | 429.sk (133) | 814983.naver (133) |
-| 연합뉴스경제 | 연합뉴스경제 TV | LG |  |  | **714.lg (90)** | 451.sk (90) | 814999.naver (90) |
+| 연합뉴스경제 | 연합뉴스경제TV | LG |  |  | **714.lg (90)** | 451.sk (90) | 814999.naver (90) |
 | 오나의귀신님 | 오 나의 귀신님 | TVING |  | **C07261.tving (22)** |  |  |  |
 | 오르페오 | ORFEO | LG |  |  | **708.lg (63)** | 787.sk (63) | 815297.naver (63) |
 | 오싹한연애 | 오싹한 연애 | TVING |  | **C52496.tving (23)** |  |  |  |
@@ -528,12 +487,12 @@
 | 원주kbs1 | 원주 KBS1 | LG |  |  | **531.lg (113)** |  |  |
 | 원주kbs2 | 원주 KBS2 | LG |  |  | **324.lg (68)** |  |  |
 | 원주mbc | 원주 MBC | LG |  |  | **556.lg (85)** |  | 814610.naver (85) |
-| 월드 클래식 무비 | World Classic Movie | LG |  |  | **598.lg (71)** | 202.sk (71) | 10002840.naver (71) |
+| 월드 클래식 무비 | 월드클래식무비 | LG |  |  | **598.lg (71)** | 202.sk (71) | 10002840.naver (71) |
 | 월드오브스트릿우먼파이터 | 월드 오브 스트릿 우먼 파이터 | TVING |  | **C52345.tving (10)** |  |  |  |
 | 웨이브필드캠 | 웨이브 필드캠 | WAVVE | **C3541.wavve (27)** |  |  |  |  |
 | 위라이크 | 위라이크 | WAVVE | **C8101.wavve (63)** |  |  | 204.sk (62) | 815562.naver (62) |
 | 유로무비 | 유로무비 | NAVER |  |  |  |  | **9229247.naver (52)** |
-| 유로스포츠 | 유로스포츠 | LG |  |  | **535.lg (55)** |  |  |
+| 유로스포츠 | 유로스포츠 | LG |  |  | **535.lg (55)** | 120.sk (55) | 2741330.naver (54) |
 | 유퀴즈온더블럭 | 유 퀴즈 온 더 블럭 | TVING |  | **C28841.tving (14)** |  |  |  |
 | 유플릭스무비 | 유플릭스무비 | LG |  |  | **199.lg (36)** |  |  |
 | 육아방송 | 육아방송 | LG |  |  | **588.lg (98)** | 287.sk (98) | 815043.naver (98) |
@@ -562,25 +521,24 @@
 | 진주mbc | 진주 MBC | LG |  |  | **554.lg (88)** |  |  |
 | 창원kbs1 | 창원 KBS1 | LG |  |  | **528.lg (113)** |  | 814619.naver (113) |
 | 창원kbs2 | 창원 KBS2 | LG |  |  | **329.lg (68)** |  |  |
-| 채널 Ching | 채널 Ching | SK |  |  |  | **907.sk (81)** | 814751.naver (81) |
+| 채널 Ching | 채널칭 | LG |  |  | **591.lg (81)** | 907.sk (81) | 814751.naver (81) |
 | 채널A | 채널A | WAVVE | **C2501.wavve (78)** | C01583.tving (78) | 749.lg (77) | 242.sk (77) | 815571.naver (77) |
 | 채널J | 채널J | WAVVE | **C5501.wavve (69)** |  | 656.lg (69) | 197.sk (69) | 814937.naver (69) |
+| 채널U | 채널유 | LG |  |  | **723.lg (67)** | 176.sk (67) | 814760.naver (67) |
 | 채널W | 채널W | LG |  |  | **161.lg (72)** | 172.sk (72) | 2097469.naver (72) |
 | 채널a+ | 채널A 플러스 | WAVVE | **C2502.wavve (61)** | C17141.tving (61) | 784.lg (60) | 891.sk (60) | 5286712.naver (60) |
 | 채널anews | 채널A NEWS | TVING |  | **C52470.tving (88)** |  |  |  |
 | 채널i | 채널i | LG |  |  | **764.lg (112)** | 439.sk (112) | 3173174.naver (112) |
 | 채널mx | 채널MX | LG |  |  | **567.lg (56)** |  |  |
 | 채널s | 채널S | LG |  |  | **779.lg (46)** | 868.sk (46) | 1736604.naver (46) |
-| 채널s+ | 채널S 플러스 | LG |  |  | **150.lg (53)** | 869.sk (53) | 18148000.naver (53) |
-| 채널나우 | Ch.NOW | LG |  |  | **654.lg (63)** | 189.sk (63) | 814757.naver (63) |
-| 채널뷰 | 채널 뷰 | LG |  |  | **808.lg (55)** | 276.sk (55) | 814959.naver (55) |
+| 채널s+ | 채널S플러스 | LG |  |  | **150.lg (53)** | 869.sk (53) | 18148000.naver (53) |
+| 채널나우 | 채널나우 | LG |  |  | **654.lg (63)** | 189.sk (63) | 814757.naver (63) |
+| 채널뷰 | 채널뷰 | LG |  |  | **808.lg (55)** | 276.sk (55) | 814959.naver (55) |
 | 채널액션 | 채널액션 | LG |  |  | **593.lg (61)** | 458.sk (61) | 18073903.naver (61) |
 | 채널에버 | Ch.ever | SK |  |  |  | **280.sk (66)** | 814754.naver (66) |
-| 채널와이드 | CH.WIDE | LG |  |  | **690.lg (72)** | 180.sk (72) | 814771.naver (72) |
-| 채널유 | 채널유 | LG |  |  | **723.lg (67)** |  |  |
-| 채널이엠 | chEM | LG |  |  | **736.lg (76)** | 267.sk (76) | 2230374.naver (76) |
+| 채널와이드 | 채널와이드 | LG |  |  | **690.lg (72)** | 180.sk (72) | 814771.naver (72) |
+| 채널이엠 | 채널이엠 | LG |  |  | **736.lg (76)** | 267.sk (76) | 2230374.naver (76) |
 | 채널차이나 | 채널차이나 | WAVVE | **C8401.wavve (73)** |  | 644.lg (72) | 520.sk (72) | 815033.naver (72) |
-| 채널칭 | 채널칭 | LG |  |  | **591.lg (81)** |  |  |
 | 채널해피독 | 채널 해피독 | NAVER |  |  |  |  | **2296260.naver (72)** |
 | 철인왕후 | 철인왕후 | WAVVE | **C3525.wavve (64)** |  |  |  |  |
 | 청주kbs1 | 청주 KBS1 | LG |  |  | **512.lg (116)** |  | 814675.naver (116) |
@@ -596,8 +554,8 @@
 | 카투니토 | CARTOONITO | WAVVE | **J2801.wavve (72)** |  | 757.lg (72) |  | 815072.naver (72) |
 | 카툰네트워크 | 카툰네트워크 | LG |  |  | **716.lg (72)** | 384.sk (72) | 815018.naver (72) |
 | 캐리 | 캐리TV | LG |  |  | **158.lg (141)** | 388.sk (141) | 32346800.naver (141) |
-| 캐치온1 | CATCH ON 1 | LG |  |  | **605.lg (40)** | 181.sk (40) | 815487.naver (40) |
-| 캐치온2 | CATCH ON 2 | LG |  |  | **777.lg (42)** | 182.sk (42) | 815489.naver (42) |
+| 캐치온1 | 캐치온1 | LG |  |  | **605.lg (40)** | 181.sk (40) | 815487.naver (40) |
+| 캐치온2 | 캐치온2 | LG |  |  | **777.lg (42)** | 182.sk (42) | 815489.naver (42) |
 | 컷생만화in문학 | 컷생-만화in문학 | TVING |  | **C52418.tving (16)** |  |  |  |
 | 코미디 | 코미디TV | LG |  |  | **803.lg (53)** | 906.sk (53) | 814835.naver (53) |
 | 코미디빅리그 | 코미디 빅리그 | TVING |  | **C05961.tving (17)** |  |  |  |
@@ -605,7 +563,7 @@
 | 콩심은데콩나고팥심은데팥난다 | 콩 심은 데 콩 나고 팥 심은 데 팥 난다 | TVING |  | **C52098.tving (17)** |  |  |  |
 | 쿠키건강 | 쿠키건강TV | LG |  |  | **167.lg (75)** | 434.sk (75) | 814923.naver (75) |
 | 크라임씬1~3 | 크라임씬 1~3 | TVING |  | **C52069.tving (16)** |  |  |  |
-| 키즈톡톡 플러스 | 키즈톡톡 플러스 | LG |  |  | **790.lg (256)** | 385.sk (256) | 815316.naver (256) |
+| 키즈톡톡 플러스 | 키즈톡톡+ | LG |  |  | **790.lg (256)** | 385.sk (256) | 815316.naver (256) |
 | 텐트밖은유럽 | 텐트 밖은 유럽 | WAVVE | **C3538.wavve (49)** | C51436.tving (15) |  |  |  |
 | 텐트밖은유럽남프랑스편 | 텐트 밖은 유럽 남프랑스 편 | TVING |  | **C52173.tving (17)** |  |  |  |
 | 텐트밖은유럽노르웨이 | 텐트 밖은 유럽: 노르웨이 | WAVVE | **C3539.wavve (49)** |  |  |  |  |
@@ -613,7 +571,7 @@
 | 텐트밖은유럽로맨틱이탈리아 | 텐트 밖은 유럽: 로맨틱 이탈리아 | WAVVE | **C3540.wavve (43)** | C52250.tving (14) |  |  |  |
 | 텐트밖은유럽스페인편 | 텐트 밖은 유럽 스페인 편 | TVING |  | **C51861.tving (15)** |  |  |  |
 | 텔레노벨라 | 텔레노벨라 | LG |  |  | **700.lg (64)** | 173.sk (64) | 814791.naver (64) |
-| 토마토TV | TomatoTV | LG |  |  | **771.lg (72)** | 620.sk (72) | 814925.naver (72) |
+| 토마토TV | 토마토TV | LG |  |  | **771.lg (72)** | 620.sk (72) | 814925.naver (72) |
 | 토마토리빙 | 토마토리빙 | LG |  |  | **583.lg (73)** | 621.sk (73) |  |
 | 토마토클래식 | 토마토클래식 | LG |  |  | **722.lg (45)** |  |  |
 | 통일 | 통일TV | NAVER |  |  |  |  | **28847088.naver (18)** |
@@ -621,7 +579,6 @@
 | 트로트아이 | 트로트아이 | NAVER |  |  |  |  | **40409637.naver (72)** |
 | 파김치갱다이어리 | 파김치갱:다이어리 | TVING |  | **C52410.tving (26)** |  |  |  |
 | 팍스경제 | 팍스경제TV | LG |  |  | **742.lg (77)** | 622.sk (77) | 814927.naver (77) |
-| 펀tv | 펀TV | LG |  |  | **807.lg (66)** |  |  |
 | 포켓몬스터 | 포켓몬스터 | WAVVE | **F0102.wavve (211)** |  |  |  |  |
 | 포항kbs1 | 포항 KBS1 | LG |  |  | **518.lg (117)** |  |  |
 | 포항kbs2 | 포항 KBS2 | LG |  |  | **315.lg (68)** |  |  |
@@ -629,19 +586,18 @@
 | 폴라리스 | 폴라리스TV | LG |  |  | **726.lg (71)** | 252.sk (71) | 814902.naver (71) |
 | 프로보노 | 프로보노 | TVING |  | **C52452.tving (20)** |  |  |  |
 | 플레이런 | 플레이런TV | LG |  |  | **175.lg (130)** | 824.sk (130) | 814979.naver (130) |
-| 플레이보이 | 플레이보이TV | LG |  |  | **629.lg (72)** | 183.sk (6) |  |
+| 플레이보이 | 플레이보이 | LG |  |  | **629.lg (72)** | 183.sk (6) |  |
 | 핑크하우스 | 핑크하우스 | LG |  |  | **165.lg (59)** | 190.sk (6) |  |
-| 하이라이트TV | Highlight TV | LG |  |  | **701.lg (88)** | 885.sk (88) | 815073.naver (88) |
+| 하이라이트TV | 하이라이트TV | LG |  |  | **701.lg (88)** | 885.sk (88) | 815073.naver (88) |
 | 하트시그널시즌2 | 하트시그널 시즌2 | TVING |  | **C52478.tving (17)** |  |  |  |
 | 한경arte | 한경arteTV | LG |  |  | **691.lg (54)** | 421.sk (54) | 815076.naver (54) |
 | 한국경제 | 한국경제TV | WAVVE | **F2101.wavve (74)** | C00595.tving (74) | 604.lg (74) | 626.sk (74) | 814929.naver (74) |
 | 한국낚시방송 | 한국낚시방송 | LG |  |  | **625.lg (114)** | 273.sk (114) | 814885.naver (114) |
-| 한국농업방송 | 한국농업방송 | LG |  |  | **814.lg (88)** |  |  |
 | 허니 | 허니TV | LG |  |  | **743.lg (70)** | 196.sk (6) |  |
 | 헬로tv뉴스 | 헬로tv뉴스 | WAVVE | **J5101.wavve (213)** |  |  |  |  |
 | 헬스메디 | 헬스메디TV | LG |  |  | **753.lg (75)** | 432.sk (75) | 815500.naver (75) |
-| 현대홈쇼핑 | 현대홈쇼핑 | WAVVE | **C4101.wavve (69)** |  | 675.lg (58) | 321.sk (58) | 815101.naver (58) |
-| 현대홈쇼핑+샵 | 현대홈쇼핑+샵 | WAVVE | **C4102.wavve (115)** |  | 760.lg (78) | 337.sk (78) |  |
+| 현대홈쇼핑 | 현대홈쇼핑 | WAVVE | **C4101.wavve (70)** |  | 675.lg (58) | 321.sk (58) | 815101.naver (58) |
+| 현대홈쇼핑+샵 | 현대홈쇼핑+샵 | WAVVE | **C4102.wavve (119)** |  | 760.lg (78) | 337.sk (78) |  |
 | 호텔델루나 | 호텔 델루나 | WAVVE | **C3521.wavve (57)** | C37742.tving (18) |  |  |  |
 | 홈&쇼핑 | 홈&쇼핑 | SK |  |  |  | **327.sk (73)** | 815524.naver (73) |
 | 홈앤쇼핑 | 홈앤쇼핑 | LG |  |  | **649.lg (73)** |  |  |
