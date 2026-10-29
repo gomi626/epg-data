@@ -3,7 +3,8 @@
 
 규칙
 - 채널 이름을 정규화해서 같은 채널을 묶는다 (aliases.json으로 보정 가능).
-- 묶음마다 PRIORITY 순서대로, 프로그램이 1개 이상 있는 첫 제공자의 채널만 남긴다.
+- 묶음마다 PRIORITY 순서대로, 편성 데이터가 있고 가장 긴 후보보다 12시간 넘게 짧지 않은
+  첫 제공자의 채널만 남긴다.
   → 상위 제공자가 차단·장애로 비어 있으면 자동으로 다음 제공자로 넘어간다.
 - 채널 ID는 제공자와 무관한 고정 ID로 바꾼다 → 제공자가 바뀌어도 IPTV 앱 매핑 유지.
 
@@ -14,12 +15,28 @@ import json
 import re
 import sys
 import unicodedata
+from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
 PRIORITY = ["wavve", "tving", "lg", "sk", "naver"]  # 앞쪽일수록 우선
+SHORT_TOLERANCE = timedelta(hours=12)  # 상위 제공자 데이터가 이만큼 넘게 짧으면 다음 순위 사용
 HERE = Path(__file__).resolve().parent
+
+
+def coverage_end(progs):
+    """프로그램 목록의 마지막 종료(없으면 시작) 시각."""
+    end = None
+    for p in progs:
+        t = p.get("stop") or p.get("start")
+        try:
+            dt = datetime.strptime(t[:14], "%Y%m%d%H%M%S")
+        except (TypeError, ValueError):
+            continue
+        if end is None or dt > end:
+            end = dt
+    return end or datetime.min
 ALIASES_FILE = HERE / "aliases.json"
 
 
@@ -109,7 +126,11 @@ def main(out_path, report_path, *raw_paths):
     rows, stats = [], defaultdict(int)
     for canon in sorted(groups):
         cands = groups[canon]
-        chosen = next((p for p in PRIORITY if p in cands and progs_by_ch[cands[p].get("id")]), None)
+        # 편성 데이터가 있는 후보 중, 가장 멀리까지 있는 후보보다 SHORT_TOLERANCE 이상 짧지 않은
+        # 첫 우선순위 제공자를 채택 (예: WAVVE가 하루치뿐이고 TVING이 3일치면 TVING)
+        ends = {p: coverage_end(progs_by_ch[c.get("id")]) for p, c in cands.items() if progs_by_ch[c.get("id")]}
+        best = max(ends.values(), default=None)
+        chosen = next((p for p in PRIORITY if p in ends and best - ends[p] <= SHORT_TOLERANCE), None)
         if chosen is None:
             rows.append((canon, "-", cands))
             continue
