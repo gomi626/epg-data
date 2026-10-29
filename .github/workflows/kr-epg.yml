@@ -8,10 +8,14 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "run = EPG 생성 / update_channels = 채널 목록(Channel.json)만 갱신"
+        description: "run = EPG 생성 / update_channels = 채널 목록만 갱신 / test = 제공자 접속 테스트(파일 변경 없음)"
         type: choice
-        options: [run, update_channels]
+        options: [run, update_channels, test]
         default: run
+      providers:
+        description: "test 모드에서 시험할 제공자 (쉼표로 구분)"
+        type: string
+        default: "LG,SK,NAVER"
 
 permissions:
   contents: write
@@ -66,7 +70,11 @@ jobs:
           HTTPS_PROXY: ${{ secrets.EPG2XML_PROXY }}
         run: |
           set -o pipefail
-          if [ "${{ inputs.mode }}" = "update_channels" ]; then
+          if [ "${{ inputs.mode }}" = "test" ]; then
+            python kr-epg/test_providers.py "$RUNNER_TEMP/test" "${{ inputs.providers }}" 10 \
+              | tee -a "$GITHUB_STEP_SUMMARY"
+            cp "$RUNNER_TEMP/test/epg2xml.log" epg2xml.log 2>/dev/null || true
+          elif [ "${{ inputs.mode }}" = "update_channels" ]; then
             epg2xml update_channels --config "$CONFIG" --channelfile "$CHANNELS" 2>&1 | tee epg2xml.log
           else
             epg2xml run --config "$CONFIG" --channelfile "$CHANNELS" \
@@ -82,7 +90,7 @@ jobs:
             | sed 's/^/::warning title=epg2xml::/' || true
 
       - name: Merge (WAVVE > TVING > KT, 중복 제거)
-        if: inputs.mode != 'update_channels'
+        if: inputs.mode != 'update_channels' && inputs.mode != 'test'
         # 실패(빈 결과·손상)하면 기존 kr_epg.xml은 그대로 두고 이 단계만 실패 처리
         run: |
           set +e
@@ -93,7 +101,7 @@ jobs:
           exit $rc
 
       - name: Commit if changed
-        if: always()
+        if: always() && inputs.mode != 'test'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
