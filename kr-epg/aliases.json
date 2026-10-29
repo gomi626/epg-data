@@ -1,87 +1,388 @@
 {
   "ALIASES": {
-    "KBS1": ["KBS 1TV", "KBS1 TV"],
-    "KBS2": ["KBS 2TV", "KBS2 TV"],
-    "MBC": ["MBC TV"],
-    "SBS": ["SBS TV"],
-    "EBS1": ["EBS 1TV", "EBS"],
-    "EBS2": ["EBS 2TV"],
-    "JTBC": ["JTBC TV"],
-    "MBN": ["매일방송"],
-    "TV조선": ["TV CHOSUN", "TV Chosun", "TVCHOSUN"],
-    "TV조선2": ["TV CHOSUN2", "TVCHOSUN2"],
-    "TV조선3": ["TV CHOSUN3", "TVCHOSUN3"],
-    "채널A": ["Channel A", "CHANNEL A"],
-    "연합뉴스TV": ["연합뉴스 TV", "YonhapnewsTV"],
-    "YTN": ["YTN 뉴스"],
-    "YTN 라디오": ["YTN NEWS FM"],
-    "tvN": ["tvN HD"],
-
-    "KBS N SPORTS": ["KBSN 스포츠", "KBSN SPORTS"],
-    "KBS DRAMA": ["KBS 드라마"],
-    "KBS1 라디오": ["KBS1R", "KBS1RADIO"],
-    "KBS COOL FM": ["KBSCOOLFM", "KBS2FM"],
-    "MBC 드라마넷": ["MBC Drama", "MBC 드라마"],
-    "MBC SPORTS+": ["MBC Sports+", "MBC스포츠 플러스"],
-    "SBS Sports": ["SBS 스포츠"],
-    "SBS GOLF": ["SBS골프"],
-    "EBS KIDS": ["EBS 키즈"],
-    "KTV 국민방송": ["KTV"],
-    "국회방송": ["국회방송(NATV)", "NATV"],
-    "OBS 경인TV": ["OBS"],
-    "KNN": ["KNN 부산경남방송"],
-    "JTV 전주방송": ["JTV"],
-    "TBS": ["TBSTV", "TBS교통방송"],
-    "CTS 기독교TV": ["CTS"],
-    "CPBC 평화방송": ["가톨릭평화방송"],
-    "상생방송": ["STB 상생방송"],
-    "아리랑TV": ["arirang"],
-    "머니투데이방송": ["MTN", "MTN머니투데이방송"],
-
-    "CJ 온스타일": ["CJ ONSTYLE"],
-    "CJ 온스타일+": ["CJ ONSTYLE+"],
-    "SK스토아": ["SK stoa"],
-    "공영홈쇼핑": ["공영쇼핑"],
-    "현대홈쇼핑+샵": ["현대홈쇼핑+Shop"],
-    "롯데OneTV": ["롯데홈쇼핑 ONETV"],
-
-    "투니버스": ["Tooniverse"],
-    "애니맥스": ["ANIMAX"],
-    "애니박스": ["ANIBOX"],
-    "애니원": ["ANIONE"],
-    "카투니토": ["CARTOONITO"],
-    "브라보키즈": ["bravo kids"],
-    "키즈톡톡 플러스": ["Kids TalkTalk 플러스"],
-
-    "디스커버리 채널": ["Discovery Channel"],
-    "히스토리": ["History"],
-    "라이프타임": ["LIFETIME"],
-    "마운틴TV": ["Mountain TV"],
-    "스크린": ["Screen"],
-    "하이라이트TV": ["Highlight TV"],
-    "엔터TV": ["Ent.TV (엔터TV)"],
-    "ETN연예TV": ["ETN"],
-    "에이플드라마": ["ApleDrama"],
-    "드라마큐브": ["DRAMAcube"],
-    "씨네프": ["Cinef"],
-    "씨네트리": ["CINETREE"],
-    "캐치온1": ["CATCH ON 1"],
-    "캐치온2": ["CATCH ON 2"],
-    "월드 클래식 무비": ["World Classic Movie"],
-    "오르페오": ["ORFEO"],
-    "토마토TV": ["TomatoTV"],
-    "빌리어즈TV": ["Billiards TV"],
-    "위라이크": ["WeLike"],
-
-    "채널에버": ["Ch.ever"],
-    "채널와이드": ["CH.WIDE"],
-    "채널나우": ["Ch.NOW"],
-    "채널이엠": ["chEM"],
-    "채널 Ching": ["CHING"],
-    "채널J": ["channel J"],
-    "채널W": ["CH W"],
-    "C채널": ["C channel"]
+    "KBS1": [
+      "KBS 1TV",
+      "KBS1 TV"
+    ],
+    "KBS2": [
+      "KBS 2TV",
+      "KBS2 TV"
+    ],
+    "MBC": [
+      "MBC TV"
+    ],
+    "SBS": [
+      "SBS TV"
+    ],
+    "EBS1": [
+      "EBS 1TV",
+      "EBS"
+    ],
+    "EBS2": [
+      "EBS 2TV"
+    ],
+    "JTBC": [
+      "JTBC TV"
+    ],
+    "MBN": [
+      "매일방송"
+    ],
+    "TV조선": [
+      "TV CHOSUN",
+      "TV Chosun",
+      "TVCHOSUN"
+    ],
+    "TV조선2": [
+      "TV CHOSUN2",
+      "TVCHOSUN2"
+    ],
+    "TV조선3": [
+      "TV CHOSUN3",
+      "TVCHOSUN3"
+    ],
+    "채널A": [
+      "Channel A",
+      "CHANNEL A"
+    ],
+    "연합뉴스TV": [
+      "연합뉴스 TV",
+      "YonhapnewsTV"
+    ],
+    "YTN": [
+      "YTN 뉴스"
+    ],
+    "YTN 라디오": [
+      "YTN NEWS FM"
+    ],
+    "tvN": [
+      "tvN HD"
+    ],
+    "KBS N SPORTS": [
+      "KBSN 스포츠",
+      "KBSN SPORTS"
+    ],
+    "KBS DRAMA": [
+      "KBS 드라마"
+    ],
+    "KBS1 라디오": [
+      "KBS1R",
+      "KBS1RADIO"
+    ],
+    "KBS COOL FM": [
+      "KBSCOOLFM",
+      "KBS2FM"
+    ],
+    "MBC 드라마넷": [
+      "MBC Drama",
+      "MBC 드라마"
+    ],
+    "MBC SPORTS+": [
+      "MBC Sports+",
+      "MBC스포츠 플러스"
+    ],
+    "SBS Sports": [
+      "SBS 스포츠"
+    ],
+    "SBS GOLF": [
+      "SBS골프"
+    ],
+    "EBS KIDS": [
+      "EBS 키즈"
+    ],
+    "KTV 국민방송": [
+      "KTV",
+      "국민방송"
+    ],
+    "국회방송": [
+      "국회방송(NATV)",
+      "NATV"
+    ],
+    "OBS 경인TV": [
+      "OBS"
+    ],
+    "KNN": [
+      "KNN 부산경남방송"
+    ],
+    "JTV 전주방송": [
+      "JTV"
+    ],
+    "TBS": [
+      "TBSTV",
+      "TBS교통방송"
+    ],
+    "CTS 기독교TV": [
+      "CTS"
+    ],
+    "CPBC 평화방송": [
+      "가톨릭평화방송"
+    ],
+    "상생방송": [
+      "STB 상생방송"
+    ],
+    "아리랑TV": [
+      "arirang"
+    ],
+    "머니투데이방송": [
+      "MTN",
+      "MTN머니투데이방송"
+    ],
+    "CJ 온스타일": [
+      "CJ ONSTYLE"
+    ],
+    "CJ 온스타일+": [
+      "CJ ONSTYLE+"
+    ],
+    "SK스토아": [
+      "SK stoa"
+    ],
+    "공영홈쇼핑": [
+      "공영쇼핑"
+    ],
+    "현대홈쇼핑+샵": [
+      "현대홈쇼핑+Shop"
+    ],
+    "롯데OneTV": [
+      "롯데홈쇼핑 ONETV"
+    ],
+    "투니버스": [
+      "Tooniverse"
+    ],
+    "애니맥스": [
+      "ANIMAX"
+    ],
+    "애니박스": [
+      "ANIBOX"
+    ],
+    "애니원": [
+      "ANIONE"
+    ],
+    "카투니토": [
+      "CARTOONITO"
+    ],
+    "브라보키즈": [
+      "bravo kids"
+    ],
+    "키즈톡톡 플러스": [
+      "Kids TalkTalk 플러스"
+    ],
+    "디스커버리 채널": [
+      "Discovery Channel"
+    ],
+    "히스토리": [
+      "History"
+    ],
+    "라이프타임": [
+      "LIFETIME"
+    ],
+    "마운틴TV": [
+      "Mountain TV"
+    ],
+    "스크린": [
+      "Screen"
+    ],
+    "하이라이트TV": [
+      "Highlight TV"
+    ],
+    "엔터TV": [
+      "Ent.TV (엔터TV)"
+    ],
+    "ETN연예TV": [
+      "ETN"
+    ],
+    "에이플드라마": [
+      "ApleDrama"
+    ],
+    "드라마큐브": [
+      "DRAMAcube"
+    ],
+    "씨네프": [
+      "Cinef"
+    ],
+    "씨네트리": [
+      "CINETREE"
+    ],
+    "캐치온1": [
+      "CATCH ON 1"
+    ],
+    "캐치온2": [
+      "CATCH ON 2"
+    ],
+    "월드 클래식 무비": [
+      "World Classic Movie"
+    ],
+    "오르페오": [
+      "ORFEO"
+    ],
+    "토마토TV": [
+      "TomatoTV"
+    ],
+    "빌리어즈TV": [
+      "Billiards TV"
+    ],
+    "위라이크": [
+      "WeLike"
+    ],
+    "채널에버": [
+      "Ch.ever"
+    ],
+    "채널와이드": [
+      "CH.WIDE"
+    ],
+    "채널나우": [
+      "Ch.NOW"
+    ],
+    "채널이엠": [
+      "chEM"
+    ],
+    "채널 Ching": [
+      "CHING",
+      "채널칭"
+    ],
+    "채널J": [
+      "channel J"
+    ],
+    "채널W": [
+      "CH W"
+    ],
+    "C채널": [
+      "C channel"
+    ],
+    "KBS JOY": [
+      "KBS조이"
+    ],
+    "KBS KIDS": [
+      "KBS키즈"
+    ],
+    "MBC Every1": [
+      "MBC에브리원"
+    ],
+    "SBS fun E": [
+      "SBS퍼니"
+    ],
+    "JTBC GOLF": [
+      "JTBC골프"
+    ],
+    "IB SPORTS": [
+      "IB스포츠",
+      "IB Sports"
+    ],
+    "GS MY SHOP": [
+      "GS마이샵"
+    ],
+    "GS SHOP": [
+      "GS샵"
+    ],
+    "NS SHOP+": [
+      "NS샵+"
+    ],
+    "K-STAR": [
+      "K스타",
+      "k-star"
+    ],
+    "G1 방송": [
+      "G1"
+    ],
+    "JIBS 제주방송": [
+      "JIBS"
+    ],
+    "KBC 광주방송": [
+      "KBC"
+    ],
+    "TBC 대구방송": [
+      "TBC"
+    ],
+    "UBC 울산방송": [
+      "UBC"
+    ],
+    "CJB 청주방송": [
+      "CJB"
+    ],
+    "BBS 불교방송": [
+      "BBS"
+    ],
+    "BTN 불교TV": [
+      "BTN"
+    ],
+    "나인컬러스": [
+      "9colors"
+    ],
+    "THE MOVIE": [
+      "더 무비"
+    ],
+    "드림웍스": [
+      "DreamWorks",
+      "드림웍스채널"
+    ],
+    "블룸버그": [
+      "BLOOMBERG TV"
+    ],
+    "Viki": [
+      "비키"
+    ],
+    "셀레스티얼 무비": [
+      "Celestial Movies"
+    ],
+    "SPOTV": [
+      "스포티비"
+    ],
+    "SPOTV2": [
+      "스포티비2"
+    ],
+    "아시아N": [
+      "Asia N"
+    ],
+    "에듀TV": [
+      "edu TV"
+    ],
+    "에이스포츠TV": [
+      "AsportsTV"
+    ],
+    "Mnet": [
+      "엠넷"
+    ],
+    "엠플렉스": [
+      "Mplex"
+    ],
+    "EDGE TV": [
+      "EDGETV",
+      "엣지TV"
+    ],
+    "EDGE ON": [
+      "엣지 온"
+    ],
+    "유로스포츠": [
+      "Eurosport"
+    ],
+    "채널U": [
+      "CH U",
+      "채널유"
+    ],
+    "FUN TV": [
+      "FUNTV",
+      "펀TV"
+    ],
+    "GOLF & PBA": [
+      "골프앤PBA"
+    ],
+    "딜사이트 경제TV": [
+      "DealSite경제TV"
+    ],
+    "NBS 한국농업방송": [
+      "한국농업방송"
+    ],
+    "방송대학TV": [
+      "OUN"
+    ],
+    "TV5MONDE": [
+      "TV5Monde",
+      "TV5몽드"
+    ],
+    "아이넷라이프": [
+      "INETLIFE"
+    ]
   },
   "EXCLUDE": [],
-  "EXCLUDE_PATTERNS": ["월정액"]
+  "EXCLUDE_PATTERNS": [
+    "월정액"
+  ]
 }
