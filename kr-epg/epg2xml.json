@@ -1,0 +1,49 @@
+{
+  "GLOBAL": {
+    "ENABLED": false,
+    "FETCH_LIMIT": 3,
+    "ID_FORMAT": "{ServiceId}.{Source.lower()}",
+    "ADD_REBROADCAST_TO_TITLE": false,
+    "ADD_EPNUM_TO_TITLE": true,
+    "ADD_DESCRIPTION": true,
+    "ADD_XMLTV_NS": false,
+    "ADD_CHANNEL_ICON": true,
+    "HTTP_PROXY": null
+  },
+  "KT": {
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
+  },
+  "WAVVE": {
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
+  },
+  "TVING": {
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
+  },
+  "LG": {
+    "MY_CHANNELS": []
+  },
+  "SK": {
+    "MY_CHANNELS": []
+  },
+  "DAUM": {
+    "MY_CHANNELS": []
+  },
+  "NAVER": {
+    "MY_CHANNELS": []
+  },
+  "SPOTV": {
+    "MY_CHANNELS": []
+  },
+  "KBS": {
+    "MY_CHANNELS": []
+  },
+  "MBC": {
+    "MY_CHANNELS": []
+  },
+  "SBS": {
+    "MY_CHANNELS": []
+  }
+}

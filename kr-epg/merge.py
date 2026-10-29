@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+"""epg2xml 결과(KT·WAVVE·TVING 전체)를 우선순위대로 중복 제거해 하나의 XMLTV로 합친다.
+
+규칙
+- 채널 이름을 정규화해서 같은 채널을 묶는다 (aliases.json으로 보정 가능).
+- 묶음마다 PRIORITY 순서대로, 프로그램이 1개 이상 있는 첫 제공자의 채널만 남긴다.
+  → 상위 제공자가 차단·장애로 비어 있으면 자동으로 다음 제공자로 넘어간다.
+- 채널 ID는 제공자와 무관한 고정 ID로 바꾼다 → 제공자가 바뀌어도 IPTV 앱 매핑 유지.
+
+사용법: python merge.py RAW_XML OUT_XML [REPORT_MD]
+"""
+import json
+import re
+import sys
+import unicodedata
+import xml.etree.ElementTree as ET
+from collections import defaultdict
+from pathlib import Path
+
+PRIORITY = ["wavve", "tving", "kt"]  # 앞쪽일수록 우선
+HERE = Path(__file__).resolve().parent
+ALIASES_FILE = HERE / "aliases.json"
+
+
+def normalize(name: str) -> str:
+    """'KBS 1TV', 'KBS1 HD', 'kbs1' → 'kbs1' 처럼 표기 차이를 없앤 비교용 키."""
+    s = unicodedata.normalize("NFKC", name).lower()
+    s = re.sub(r"[\s\-_.·:'\"()\[\]/]", "", s)  # 공백·구두점 제거 ('+', '&'는 의미가 있어 유지)
+    s = re.sub(r"(?:uhd|fhd|hd)$", "", s)  # 화질 표기 제거
+    if s.endswith("tv") and len(s) - 2 >= 3:  # 'kbs1tv'→'kbs1' (단, 'ktv' 같은 짧은 이름은 유지)
+        s = s[:-2]
+    return s
+
+
+def load_aliases():
+    """aliases.json → (이름 키 → 고정 ID), (원본 채널 ID → 고정 ID), 제외할 키/원본 ID."""
+    if not ALIASES_FILE.exists():
+        return {}, {}, set()
+    data = json.loads(ALIASES_FILE.read_text(encoding="utf-8"))
+    by_key, by_srcid = {}, {}
+    for canon, names in data.get("ALIASES", {}).items():
+        by_key[normalize(canon)] = canon
+        for n in names:
+            # '1.kt' 처럼 '.제공자'로 끝나면 원본 채널 ID, 아니면 채널 이름으로 취급
+            if n.rsplit(".", 1)[-1] in PRIORITY:
+                by_srcid[n] = canon
+            else:
+                by_key[normalize(n)] = canon
+    exclude = {normalize(x) if x.rsplit(".", 1)[-1] not in PRIORITY else x for x in data.get("EXCLUDE", [])}
+    return by_key, by_srcid, exclude
+
+
+def main(raw_path, out_path, report_path=None):
+    try:
+        root = ET.parse(raw_path).getroot()
+    except Exception as e:  # 빈 파일·손상
+        print(f"::error::epg2xml 결과를 읽을 수 없습니다: {e}")
+        return 1
+
+    by_key, by_srcid, exclude = load_aliases()
+
+    progs_by_ch = defaultdict(list)
+    for p in root.findall("programme"):
+        progs_by_ch[p.get("channel")].append(p)
+
+    # 고정 ID별로 제공자 후보 모으기
+    groups = defaultdict(dict)  # canon_id -> {provider: channel_elem}
+    for ch in root.findall("channel"):
+        src_id = ch.get("id")
+        provider = src_id.rsplit(".", 1)[-1]
+        if provider not in PRIORITY:
+            continue
+        name = ch.findtext("display-name") or src_id
+        key = normalize(name)
+        if src_id in exclude or key in exclude:
+            continue
+        canon = by_srcid.get(src_id) or by_key.get(key) or key
+        # 같은 제공자 안에 같은 이름이 여럿이면 프로그램이 더 많은 쪽 사용
+        prev = groups[canon].get(provider)
+        if prev is None or len(progs_by_ch[src_id]) > len(progs_by_ch[prev.get("id")]):
+            groups[canon][provider] = ch
+
+    # 보고서용: ID를 바꾸기 전에 원래 ID와 프로그램 수를 기록
+    orig = {
+        canon: {p: (c.get("id"), len(progs_by_ch[c.get("id")])) for p, c in cands.items()}
+        for canon, cands in groups.items()
+    }
+
+    out = ET.Element("tv", root.attrib)
+    out_progs = []
+    rows, stats = [], defaultdict(int)
+    for canon in sorted(groups):
+        cands = groups[canon]
+        chosen = next((p for p in PRIORITY if p in cands and progs_by_ch[cands[p].get("id")]), None)
+        if chosen is None:
+            rows.append((canon, "-", cands))
+            continue
+        ch = cands[chosen]
+        src_id = ch.get("id")
+        ch.set("id", canon)
+        out.append(ch)
+        for p in progs_by_ch[src_id]:
+            p.set("channel", canon)
+            out_progs.append(p)
+        stats[chosen] += 1
+        rows.append((canon, chosen, cands))
+
+    if not out_progs:
+        print("::error::남은 프로그램이 없어 기존 파일을 유지합니다")
+        return 1
+
+    out.extend(out_progs)
+    ET.indent(out)
+    tree = ET.ElementTree(out)
+    with open(out_path, "wb") as f:
+        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n')
+        tree.write(f, encoding="utf-8", xml_declaration=False)
+        f.write(b"\n")
+
+    total = sum(stats.values())
+    print(f"채널 {total}개 (중복 제거 전 {len(root.findall('channel'))}개), 프로그램 {len(out_progs)}개")
+    for p in PRIORITY:
+        print(f"  {p.upper():6} {stats[p]}개")
+        if stats[p] == 0:
+            print(f"::warning::{p.upper()}에서 채택된 채널이 없습니다 (해외 IP 차단 가능성 — EPG2XML_PROXY 확인)")
+
+    if report_path:
+        lines = [
+            "# KR EPG 중복 제거 결과",
+            "",
+            f"우선순위: {' > '.join(p.upper() for p in PRIORITY)} · 채널 {total}개 · "
+            + " · ".join(f"{p.upper()} {stats[p]}" for p in PRIORITY),
+            "",
+            "같은 채널인데 다른 줄로 나뉘어 있으면 `aliases.json`에 묶어주세요.",
+            "",
+            "| 고정 ID | 채널명 | 채택 | " + " | ".join(p.upper() for p in PRIORITY) + " |",
+            "|---|---|---|" + "---|" * len(PRIORITY),
+        ]
+        for canon, chosen, cands in rows:
+            name = next((c.findtext("display-name") for c in cands.values()), "")
+            cells = []
+            for p in PRIORITY:
+                if p not in orig[canon]:
+                    cells.append("")
+                    continue
+                oid, n = orig[canon][p]
+                cell = f"{oid} ({n})"
+                cells.append(f"**{cell}**" if p == chosen else cell)
+            lines.append(f"| {canon} | {name} | {chosen.upper() if chosen != '-' else '없음'} | " + " | ".join(cells) + " |")
+        Path(report_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return 0
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 3:
+        print(__doc__)
+        sys.exit(2)
+    sys.exit(main(*sys.argv[1:4]))

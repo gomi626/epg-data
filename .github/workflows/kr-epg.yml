@@ -1,0 +1,90 @@
+name: Update KR EPG (epg2xml)
+
+on:
+  schedule:
+    # 매일 04:43 KST (= 19:43 UTC). 정각은 GitHub 스케줄이 몰려 지연되기 쉬워 43분으로 설정
+    # (NHK 워크플로는 20:17 UTC라서 커밋 시간이 겹치지 않음)
+    - cron: "43 19 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = EPG 생성 / update_channels = 채널 목록(Channel.json)만 갱신"
+        type: choice
+        options: [run, update_channels]
+        default: run
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kr-epg
+  cancel-in-progress: false
+
+env:
+  EPG2XML_VERSION: v2.8.2        # 올릴 때는 이 값만 바꾸면 됨
+  CONFIG: kr-epg/epg2xml.json
+  CHANNELS: kr-epg/Channel.json
+  OUTPUT: kr_epg.xml
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install epg2xml
+        # [all] = lxml(속도) + curl_cffi(차단 우회) + PyYAML
+        run: pip install "epg2xml[all] @ git+https://github.com/epg2xml/epg2xml.git@${EPG2XML_VERSION}"
+
+      - name: Run epg2xml
+        id: gen
+        continue-on-error: true
+        env:
+          # Secret EPG2XML_PROXY 를 넣어두면 한국 IP 프록시를 거쳐 접속 (없으면 직접 접속)
+          HTTP_PROXY: ${{ secrets.EPG2XML_PROXY }}
+          HTTPS_PROXY: ${{ secrets.EPG2XML_PROXY }}
+        run: |
+          set -o pipefail
+          if [ "${{ inputs.mode }}" = "update_channels" ]; then
+            epg2xml update_channels --config "$CONFIG" --channelfile "$CHANNELS" 2>&1 | tee epg2xml.log
+          else
+            epg2xml run --config "$CONFIG" --channelfile "$CHANNELS" \
+              --xmlfile "$RUNNER_TEMP/new.xml" --parallel 2>&1 | tee epg2xml.log
+          fi
+
+      - name: Merge (WAVVE > TVING > KT, 중복 제거)
+        if: inputs.mode != 'update_channels'
+        # 실패(빈 결과·손상)하면 기존 kr_epg.xml은 그대로 두고 이 단계만 실패 처리
+        run: |
+          set +e
+          python kr-epg/merge.py "$RUNNER_TEMP/new.xml" "$RUNNER_TEMP/merged.xml" kr-epg/REPORT.md
+          rc=$?
+          [ -f kr-epg/REPORT.md ] && cat kr-epg/REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          [ $rc -eq 0 ] && mv "$RUNNER_TEMP/merged.xml" "$OUTPUT"
+          exit $rc
+
+      - name: Commit if changed
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 없는 파일이 섞이면 git add 전체가 실패하므로 하나씩 추가
+          for f in "$OUTPUT" "$CHANNELS" kr-epg/REPORT.md; do [ -e "$f" ] && git add "$f"; done
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음"
+          else
+            git commit -m "Update KR EPG $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Fail if epg2xml reported errors
+        if: steps.gen.outcome == 'failure'
+        run: |
+          echo "::error::epg2xml 실행 중 오류가 있었습니다. 로그를 확인하세요."
+          exit 1
