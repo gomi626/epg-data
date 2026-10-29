@@ -25,6 +25,15 @@ SHORT_TOLERANCE = timedelta(hours=12)  # 상위 제공자 데이터가 이만큼
 HERE = Path(__file__).resolve().parent
 
 
+TITLE_JUNK = re.compile(r"\s*/?\s*\(\s*\d+\s*안\s*\)\s*$")  # 방송사 대체 편성 표시 ' / (2안)'
+
+
+def clean_title(title: str) -> str:
+    """'SBS 8 뉴스 / (2안)' → 'SBS 8 뉴스'"""
+    cleaned = TITLE_JUNK.sub("", title).rstrip(" /")
+    return cleaned or title
+
+
 def coverage_end(progs):
     """프로그램 목록의 마지막 종료(없으면 시작) 시각."""
     end = None
@@ -137,9 +146,16 @@ def main(out_path, report_path, *raw_paths):
         ch = cands[chosen]
         src_id = ch.get("id")
         ch.set("id", canon)
+        # epg2xml이 덧붙인 제공자명('LG')·채널번호('5', '5 SBS') 이름은 제거하고 정식 이름 하나만 남김
+        # → 여러 채널이 같은 '5'를 가져 앱이 이름·번호로 매칭할 때 엉뚱하게 연결되는 문제 방지
+        for extra in ch.findall("display-name")[1:]:
+            ch.remove(extra)
         out.append(ch)
         for p in progs_by_ch[src_id]:
             p.set("channel", canon)
+            for t in p.findall("title"):
+                if t.text:
+                    t.text = clean_title(t.text)
             out_progs.append(p)
         stats[chosen] += 1
         rows.append((canon, chosen, cands))

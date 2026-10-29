@@ -3,4486 +3,2090 @@
 <tv generator-info-name="epg2xml v2.8.2">
   <channel id="&lt;대탈출더스토리&gt;같이볼래?">
     <display-name>&lt;대탈출 : 더 스토리&gt; 같이볼래?</display-name>
-    <display-name>TVING</display-name>
-    <display-name>80</display-name>
-    <display-name>80 &lt;대탈출 : 더 스토리&gt; 같이볼래?</display-name>
-    <display-name>80 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0059/C52338.png" />
   </channel>
   <channel id="BBS 불교방송">
     <display-name>BBS</display-name>
-    <display-name>LG</display-name>
-    <display-name>276</display-name>
-    <display-name>276 BBS</display-name>
-    <display-name>276 LG</display-name>
   </channel>
   <channel id="BTN 불교TV">
     <display-name>BTN</display-name>
-    <display-name>LG</display-name>
-    <display-name>275</display-name>
-    <display-name>275 BTN</display-name>
-    <display-name>275 LG</display-name>
   </channel>
   <channel id="CJ 온스타일">
     <display-name>CJ ONSTYLE</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>104</display-name>
-    <display-name>104 CJ ONSTYLE</display-name>
-    <display-name>104 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3515_square_20250731142605.png" />
   </channel>
   <channel id="CJ 온스타일+">
     <display-name>CJ ONSTYLE PLUS</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>105</display-name>
-    <display-name>105 CJ ONSTYLE PLUS</display-name>
-    <display-name>105 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3516_square_20250731142633.png" />
   </channel>
   <channel id="CJB 청주방송">
     <display-name>CJB</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 CJB</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="CPBC 평화방송">
     <display-name>가톨릭평화방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>274</display-name>
-    <display-name>274 가톨릭평화방송</display-name>
-    <display-name>274 LG</display-name>
   </channel>
   <channel id="CTS 기독교TV">
     <display-name>CTS</display-name>
-    <display-name>LG</display-name>
-    <display-name>269</display-name>
-    <display-name>269 CTS</display-name>
-    <display-name>269 LG</display-name>
   </channel>
   <channel id="C채널">
     <display-name>C채널</display-name>
-    <display-name>LG</display-name>
-    <display-name>272</display-name>
-    <display-name>272 C채널</display-name>
-    <display-name>272 LG</display-name>
   </channel>
   <channel id="EBS KIDS">
     <display-name>EBS 키즈</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>67</display-name>
-    <display-name>67 EBS 키즈</display-name>
-    <display-name>67 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/E05_square_20250731144409.png" />
   </channel>
   <channel id="EBS1">
     <display-name>EBS 1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>3</display-name>
-    <display-name>3 EBS 1</display-name>
-    <display-name>3 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/E01_square_20250731144344.png" />
   </channel>
   <channel id="EBS2">
     <display-name>EBS 2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>4</display-name>
-    <display-name>4 EBS 2</display-name>
-    <display-name>4 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png" />
   </channel>
   <channel id="EDGE ON">
     <display-name>엣지 온</display-name>
-    <display-name>LG</display-name>
-    <display-name>157</display-name>
-    <display-name>157 엣지 온</display-name>
-    <display-name>157 LG</display-name>
   </channel>
   <channel id="EDGE TV">
     <display-name>EDGETV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>51</display-name>
-    <display-name>51 EDGETV</display-name>
-    <display-name>51 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/X01_square_20250801151403.png" />
   </channel>
   <channel id="ETN연예TV">
     <display-name>ETN연예TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>117</display-name>
-    <display-name>117 ETN연예TV</display-name>
-    <display-name>117 SK</display-name>
   </channel>
   <channel id="FUN TV">
     <display-name>FUNTV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>52</display-name>
-    <display-name>52 FUNTV</display-name>
-    <display-name>52 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/X02_square_20250801151431.png" />
   </channel>
   <channel id="G1 방송">
     <display-name>G1</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 G1</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="GOLF &amp; PBA">
     <display-name>골프앤PBA</display-name>
-    <display-name>LG</display-name>
-    <display-name>117</display-name>
-    <display-name>117 골프앤PBA</display-name>
-    <display-name>117 LG</display-name>
   </channel>
   <channel id="GS MY SHOP">
     <display-name>GS MY SHOP</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>20</display-name>
-    <display-name>20 GS MY SHOP</display-name>
-    <display-name>20 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4202_square_20250731142835.png" />
   </channel>
   <channel id="GS SHOP">
     <display-name>GS SHOP</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>16</display-name>
-    <display-name>16 GS SHOP</display-name>
-    <display-name>16 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4201_square_20250731142808.png" />
   </channel>
   <channel id="IB SPORTS">
     <display-name>IB스포츠</display-name>
-    <display-name>LG</display-name>
-    <display-name>113</display-name>
-    <display-name>113 IB스포츠</display-name>
-    <display-name>113 LG</display-name>
   </channel>
   <channel id="JIBS 제주방송">
     <display-name>JIBS</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 JIBS</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="JTBC">
     <display-name>JTBC</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>116</display-name>
-    <display-name>116 JTBC</display-name>
-    <display-name>116 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2311_square_20250910163833.png" />
   </channel>
   <channel id="JTBC GOLF">
     <display-name>JTBC골프</display-name>
-    <display-name>LG</display-name>
-    <display-name>101</display-name>
-    <display-name>101 JTBC골프</display-name>
-    <display-name>101 LG</display-name>
   </channel>
   <channel id="JTV 전주방송">
     <display-name>JTV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>118</display-name>
-    <display-name>118 JTV</display-name>
-    <display-name>118 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J4901_square_20260203141432.png" />
   </channel>
   <channel id="K-STAR">
     <display-name>k-star</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>69</display-name>
-    <display-name>69 k-star</display-name>
-    <display-name>69 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F6301_square_20250731210957.png" />
   </channel>
   <channel id="KBC 광주방송">
     <display-name>KBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 KBC</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="KBS COOL FM">
     <display-name>KBSCOOLFM</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>83</display-name>
-    <display-name>83 KBSCOOLFM</display-name>
-    <display-name>83 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K08_square_20250731212434.png" />
   </channel>
   <channel id="KBS DRAMA">
     <display-name>KBS DRAMA</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>34</display-name>
-    <display-name>34 KBS DRAMA</display-name>
-    <display-name>34 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K06_square_20250731212328.png" />
   </channel>
   <channel id="KBS JOY">
     <display-name>KBS JOY</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>35</display-name>
-    <display-name>35 KBS JOY</display-name>
-    <display-name>35 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K04_square_20250731212051.png" />
   </channel>
   <channel id="KBS KIDS">
     <display-name>KBS키즈</display-name>
-    <display-name>LG</display-name>
-    <display-name>321</display-name>
-    <display-name>321 KBS키즈</display-name>
-    <display-name>321 LG</display-name>
   </channel>
   <channel id="KBS N SPORTS">
     <display-name>KBSN스포츠</display-name>
-    <display-name>LG</display-name>
-    <display-name>105</display-name>
-    <display-name>105 KBSN스포츠</display-name>
-    <display-name>105 LG</display-name>
   </channel>
   <channel id="KBS1">
     <display-name>KBS 1TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>0</display-name>
-    <display-name>0 KBS 1TV</display-name>
-    <display-name>0 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png" />
   </channel>
   <channel id="KBS1 라디오">
     <display-name>KBS1RADIO</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>81</display-name>
-    <display-name>81 KBS1RADIO</display-name>
-    <display-name>81 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K07_square_20250731212356.png" />
   </channel>
   <channel id="KBS2">
     <display-name>KBS 2TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>1</display-name>
-    <display-name>1 KBS 2TV</display-name>
-    <display-name>1 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png" />
   </channel>
   <channel id="KNN">
     <display-name>KNN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>121</display-name>
-    <display-name>121 KNN</display-name>
-    <display-name>121 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J5001_square_20260224135355.png" />
   </channel>
   <channel id="KTV 국민방송">
     <display-name>국민방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>64</display-name>
-    <display-name>64 국민방송</display-name>
-    <display-name>64 LG</display-name>
   </channel>
   <channel id="MBC">
     <display-name>MBC</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>2</display-name>
-    <display-name>2 MBC</display-name>
-    <display-name>2 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M01_square_20250801143212.png" />
   </channel>
   <channel id="MBC Every1">
     <display-name>MBC Every1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>47</display-name>
-    <display-name>47 MBC Every1</display-name>
-    <display-name>47 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M03_square_20250801143347.png" />
   </channel>
   <channel id="MBC SPORTS+">
     <display-name>MBC스포츠+</display-name>
-    <display-name>LG</display-name>
-    <display-name>106</display-name>
-    <display-name>106 MBC스포츠+</display-name>
-    <display-name>106 LG</display-name>
   </channel>
   <channel id="MBC 드라마넷">
     <display-name>MBC Drama</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>46</display-name>
-    <display-name>46 MBC Drama</display-name>
-    <display-name>46 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M02_square_20250801143309.png" />
   </channel>
   <channel id="MBN">
     <display-name>MBN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>5</display-name>
-    <display-name>5 MBN</display-name>
-    <display-name>5 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png" />
   </channel>
   <channel id="Mnet">
     <display-name>Mnet</display-name>
-    <display-name>TVING</display-name>
-    <display-name>2</display-name>
-    <display-name>2 Mnet</display-name>
-    <display-name>2 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0103/C00579.png" />
   </channel>
   <channel id="NBS 한국농업방송">
     <display-name>한국농업방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>180</display-name>
-    <display-name>180 한국농업방송</display-name>
-    <display-name>180 LG</display-name>
   </channel>
   <channel id="NS SHOP+">
     <display-name>NS SHOP+</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>22</display-name>
-    <display-name>22 NS SHOP+</display-name>
-    <display-name>22 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C8302_square_20250731144236.png" />
   </channel>
   <channel id="OBS 경인TV">
     <display-name>OBS</display-name>
-    <display-name>LG</display-name>
-    <display-name>26</display-name>
-    <display-name>26 OBS</display-name>
-    <display-name>26 LG</display-name>
   </channel>
   <channel id="SBS">
     <display-name>SBS</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 SBS</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="SBS GOLF">
     <display-name>SBS골프</display-name>
-    <display-name>LG</display-name>
-    <display-name>100</display-name>
-    <display-name>100 SBS골프</display-name>
-    <display-name>100 LG</display-name>
   </channel>
   <channel id="SBS Sports">
     <display-name>SBS스포츠</display-name>
-    <display-name>LG</display-name>
-    <display-name>104</display-name>
-    <display-name>104 SBS스포츠</display-name>
-    <display-name>104 LG</display-name>
   </channel>
   <channel id="SBS fun E">
     <display-name>SBS퍼니</display-name>
-    <display-name>LG</display-name>
-    <display-name>38</display-name>
-    <display-name>38 SBS퍼니</display-name>
-    <display-name>38 LG</display-name>
   </channel>
   <channel id="SK스토아">
     <display-name>SK스토아</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>25</display-name>
-    <display-name>25 SK스토아</display-name>
-    <display-name>25 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F2701_square_20250731210739.png" />
   </channel>
   <channel id="SPOTV">
     <display-name>스포티비</display-name>
-    <display-name>LG</display-name>
-    <display-name>107</display-name>
-    <display-name>107 스포티비</display-name>
-    <display-name>107 LG</display-name>
   </channel>
   <channel id="SPOTV2">
     <display-name>스포티비2</display-name>
-    <display-name>LG</display-name>
-    <display-name>108</display-name>
-    <display-name>108 스포티비2</display-name>
-    <display-name>108 LG</display-name>
   </channel>
   <channel id="TBC 대구방송">
     <display-name>TBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 TBC</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="TBS">
     <display-name>tbsTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>245</display-name>
-    <display-name>245 tbsTV</display-name>
-    <display-name>245 LG</display-name>
   </channel>
   <channel id="THE MOVIE">
     <display-name>THE MOVIE</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>63</display-name>
-    <display-name>63 THE MOVIE</display-name>
-    <display-name>63 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F2501_square_20250731210631.png" />
   </channel>
   <channel id="TV5MONDE">
     <display-name>TV5몽드</display-name>
-    <display-name>LG</display-name>
-    <display-name>210</display-name>
-    <display-name>210 TV5몽드</display-name>
-    <display-name>210 LG</display-name>
   </channel>
   <channel id="TV조선">
     <display-name>TV CHOSUN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>6</display-name>
-    <display-name>6 TV CHOSUN</display-name>
-    <display-name>6 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2601_square_20250731141708.png" />
   </channel>
   <channel id="TV조선2">
     <display-name>TV CHOSUN2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>50</display-name>
-    <display-name>50 TV CHOSUN2</display-name>
-    <display-name>50 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2602_square_20250731141731.png" />
   </channel>
   <channel id="TV조선3">
     <display-name>TV조선3</display-name>
-    <display-name>LG</display-name>
-    <display-name>159</display-name>
-    <display-name>159 TV조선3</display-name>
-    <display-name>159 LG</display-name>
   </channel>
   <channel id="UBC 울산방송">
     <display-name>UBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 UBC</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="Viki">
     <display-name>비키</display-name>
-    <display-name>LG</display-name>
-    <display-name>392</display-name>
-    <display-name>392 비키</display-name>
-    <display-name>392 LG</display-name>
   </channel>
   <channel id="YTN">
     <display-name>YTN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>9</display-name>
-    <display-name>9 YTN</display-name>
-    <display-name>9 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2101_square_20250731141328.png" />
   </channel>
   <channel id="YTN 라디오">
     <display-name>YTN 라디오</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>86</display-name>
-    <display-name>86 YTN 라디오</display-name>
-    <display-name>86 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2107_square_20250806103734.png" />
   </channel>
   <channel id="animalplanet">
     <display-name>Animal Planet</display-name>
-    <display-name>LG</display-name>
-    <display-name>227</display-name>
-    <display-name>227 Animal Planet</display-name>
-    <display-name>227 LG</display-name>
   </channel>
   <channel id="asia">
     <display-name>Asia UHD</display-name>
-    <display-name>LG</display-name>
-    <display-name>973</display-name>
-    <display-name>973 Asia UHD</display-name>
-    <display-name>973 LG</display-name>
   </channel>
   <channel id="asiam">
     <display-name>AsiaM</display-name>
-    <display-name>LG</display-name>
-    <display-name>55</display-name>
-    <display-name>55 AsiaM</display-name>
-    <display-name>55 LG</display-name>
   </channel>
   <channel id="australia+">
     <display-name>Australia Plus</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>233</display-name>
-    <display-name>233 Australia Plus</display-name>
-    <display-name>233 NAVER</display-name>
   </channel>
   <channel id="ball">
     <display-name>BallTV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>106</display-name>
-    <display-name>106 BallTV</display-name>
-    <display-name>106 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J3901_square_20250731211815.png" />
   </channel>
   <channel id="bbcearth">
     <display-name>BBC Earth</display-name>
-    <display-name>LG</display-name>
-    <display-name>217</display-name>
-    <display-name>217 BBC Earth</display-name>
-    <display-name>217 LG</display-name>
   </channel>
   <channel id="bbclifestyle">
     <display-name>BBC Lifestyle</display-name>
-    <display-name>LG</display-name>
-    <display-name>223</display-name>
-    <display-name>223 BBC Lifestyle</display-name>
-    <display-name>223 LG</display-name>
   </channel>
   <channel id="bbcnews">
     <display-name>BBC News</display-name>
-    <display-name>LG</display-name>
-    <display-name>201</display-name>
-    <display-name>201 BBC News</display-name>
-    <display-name>201 LG</display-name>
   </channel>
   <channel id="btvtoday">
     <display-name>B tv Today</display-name>
-    <display-name>SK</display-name>
-    <display-name>997</display-name>
-    <display-name>997 B tv Today</display-name>
-    <display-name>997 SK</display-name>
   </channel>
   <channel id="btvtoday2">
     <display-name>B tv Today2</display-name>
-    <display-name>SK</display-name>
-    <display-name>87</display-name>
-    <display-name>87 B tv Today2</display-name>
-    <display-name>87 SK</display-name>
   </channel>
   <channel id="cbeebies">
     <display-name>Cbeebies</display-name>
-    <display-name>LG</display-name>
-    <display-name>303</display-name>
-    <display-name>303 Cbeebies</display-name>
-    <display-name>303 LG</display-name>
   </channel>
   <channel id="cbs">
     <display-name>CBS</display-name>
-    <display-name>LG</display-name>
-    <display-name>270</display-name>
-    <display-name>270 CBS</display-name>
-    <display-name>270 LG</display-name>
   </channel>
   <channel id="cbs음악fm">
     <display-name>CBS 음악FM</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>129</display-name>
-    <display-name>129 CBS 음악FM</display-name>
-    <display-name>129 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J6602_square_20260630143208.png" />
   </channel>
   <channel id="cbs표준fm">
     <display-name>CBS 표준FM</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>128</display-name>
-    <display-name>128 CBS 표준FM</display-name>
-    <display-name>128 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J6601_square_20260630143840.png" />
   </channel>
   <channel id="cctv4">
     <display-name>CCTV4</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>14</display-name>
-    <display-name>14 CCTV4</display-name>
-    <display-name>14 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K12_square_20250731212541.png" />
   </channel>
   <channel id="cgn">
     <display-name>CGN</display-name>
-    <display-name>LG</display-name>
-    <display-name>271</display-name>
-    <display-name>271 CGN</display-name>
-    <display-name>271 LG</display-name>
   </channel>
   <channel id="cgtn">
     <display-name>CGTN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>15</display-name>
-    <display-name>15 CGTN</display-name>
-    <display-name>15 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K25_square_20250731212634.png" />
   </channel>
   <channel id="channelnewsasia">
     <display-name>Channel News Asia</display-name>
-    <display-name>SK</display-name>
-    <display-name>165</display-name>
-    <display-name>165 Channel News Asia</display-name>
-    <display-name>165 SK</display-name>
   </channel>
   <channel id="cmc">
     <display-name>CMCTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>97</display-name>
-    <display-name>97 CMCTV</display-name>
-    <display-name>97 LG</display-name>
   </channel>
   <channel id="cmtv">
     <display-name>CMTV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>251</display-name>
-    <display-name>251 CMTV</display-name>
-    <display-name>251 NAVER</display-name>
   </channel>
   <channel id="cnbc">
     <display-name>CNBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>202</display-name>
-    <display-name>202 CNBC</display-name>
-    <display-name>202 LG</display-name>
   </channel>
   <channel id="cnnheadlinenews">
     <display-name>CNN Headline News</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>228</display-name>
-    <display-name>228 CNN Headline News</display-name>
-    <display-name>228 NAVER</display-name>
   </channel>
   <channel id="cnninternational">
     <display-name>CNN International</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>127</display-name>
-    <display-name>127 CNN International</display-name>
-    <display-name>127 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J2802_square_20260630155701.png" />
   </channel>
   <channel id="cnnint’l">
     <display-name>CNN Int’l</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>239</display-name>
-    <display-name>239 CNN Int’l</display-name>
-    <display-name>239 NAVER</display-name>
   </channel>
   <channel id="cnnus">
     <display-name>CNN US</display-name>
-    <display-name>LG</display-name>
-    <display-name>204</display-name>
-    <display-name>204 CNN US</display-name>
-    <display-name>204 LG</display-name>
   </channel>
   <channel id="cntv">
     <display-name>CNTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>63</display-name>
-    <display-name>63 CNTV</display-name>
-    <display-name>63 LG</display-name>
   </channel>
   <channel id="davincilearning">
     <display-name>Davinci Learning</display-name>
-    <display-name>LG</display-name>
-    <display-name>345</display-name>
-    <display-name>345 Davinci Learning</display-name>
-    <display-name>345 LG</display-name>
   </channel>
   <channel id="dima">
     <display-name>DIMATV</display-name>
-    <display-name>SK</display-name>
-    <display-name>264</display-name>
-    <display-name>264 DIMATV</display-name>
-    <display-name>264 SK</display-name>
   </channel>
   <channel id="discoveryscience">
     <display-name>Discovery Science</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>237</display-name>
-    <display-name>237 Discovery Science</display-name>
-    <display-name>237 NAVER</display-name>
   </channel>
   <channel id="dog">
     <display-name>DOG TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>149</display-name>
-    <display-name>149 DOG TV</display-name>
-    <display-name>149 LG</display-name>
   </channel>
   <channel id="dramax">
     <display-name>Dramax</display-name>
-    <display-name>LG</display-name>
-    <display-name>70</display-name>
-    <display-name>70 Dramax</display-name>
-    <display-name>70 LG</display-name>
   </channel>
   <channel id="dwtv">
     <display-name>DWTV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>238</display-name>
-    <display-name>238 DWTV</display-name>
-    <display-name>238 NAVER</display-name>
   </channel>
   <channel id="ebs+1">
     <display-name>EBS+1</display-name>
-    <display-name>LG</display-name>
-    <display-name>340</display-name>
-    <display-name>340 EBS+1</display-name>
-    <display-name>340 LG</display-name>
   </channel>
   <channel id="ebs+2">
     <display-name>EBS+2</display-name>
-    <display-name>LG</display-name>
-    <display-name>341</display-name>
-    <display-name>341 EBS+2</display-name>
-    <display-name>341 LG</display-name>
   </channel>
   <channel id="ebsenglish">
     <display-name>EBS English</display-name>
-    <display-name>LG</display-name>
-    <display-name>342</display-name>
-    <display-name>342 EBS English</display-name>
-    <display-name>342 LG</display-name>
   </channel>
   <channel id="ebs교육방송">
     <display-name>EBS교육방송</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>464</display-name>
-    <display-name>464 EBS교육방송</display-name>
-    <display-name>464 NAVER</display-name>
   </channel>
   <channel id="elike">
     <display-name>E LIKE</display-name>
-    <display-name>LG</display-name>
-    <display-name>92</display-name>
-    <display-name>92 E LIKE</display-name>
-    <display-name>92 LG</display-name>
   </channel>
   <channel id="ena">
     <display-name>ENA</display-name>
-    <display-name>LG</display-name>
-    <display-name>39</display-name>
-    <display-name>39 ENA</display-name>
-    <display-name>39 LG</display-name>
   </channel>
   <channel id="enadrama">
     <display-name>ENA DRAMA</display-name>
-    <display-name>LG</display-name>
-    <display-name>73</display-name>
-    <display-name>73 ENA DRAMA</display-name>
-    <display-name>73 LG</display-name>
   </channel>
   <channel id="enaplay">
     <display-name>ENA PLAY</display-name>
-    <display-name>LG</display-name>
-    <display-name>62</display-name>
-    <display-name>62 ENA PLAY</display-name>
-    <display-name>62 LG</display-name>
   </channel>
   <channel id="enasports">
     <display-name>ENA SPORTS</display-name>
-    <display-name>LG</display-name>
-    <display-name>112</display-name>
-    <display-name>112 ENA SPORTS</display-name>
-    <display-name>112 LG</display-name>
   </channel>
   <channel id="enastory">
     <display-name>ENA STORY</display-name>
-    <display-name>LG</display-name>
-    <display-name>90</display-name>
-    <display-name>90 ENA STORY</display-name>
-    <display-name>90 LG</display-name>
   </channel>
   <channel id="euronews">
     <display-name>Euronews</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>195</display-name>
-    <display-name>195 Euronews</display-name>
-    <display-name>195 NAVER</display-name>
   </channel>
   <channel id="eurosportsnews">
     <display-name>Euro Sports News</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>232</display-name>
-    <display-name>232 Euro Sports News</display-name>
-    <display-name>232 NAVER</display-name>
   </channel>
   <channel id="e채널">
     <display-name>E채널</display-name>
-    <display-name>LG</display-name>
-    <display-name>76</display-name>
-    <display-name>76 E채널</display-name>
-    <display-name>76 LG</display-name>
   </channel>
   <channel id="e채널토요일은밥이좋아">
     <display-name>E채널 토요일은 밥이 좋아</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>101</display-name>
-    <display-name>101 E채널 토요일은 밥이 좋아</display-name>
-    <display-name>101 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5702_square_20250731143952.png" />
   </channel>
   <channel id="foxnews">
     <display-name>FOX News Channel</display-name>
-    <display-name>SK</display-name>
-    <display-name>166</display-name>
-    <display-name>166 FOX News Channel</display-name>
-    <display-name>166 SK</display-name>
   </channel>
   <channel id="france24">
     <display-name>FRANCE 24</display-name>
-    <display-name>SK</display-name>
-    <display-name>279</display-name>
-    <display-name>279 FRANCE 24</display-name>
-    <display-name>279 SK</display-name>
   </channel>
   <channel id="ftv">
     <display-name>FTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>121</display-name>
-    <display-name>121 FTV</display-name>
-    <display-name>121 LG</display-name>
   </channel>
   <channel id="gmtv">
     <display-name>GMTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>152</display-name>
-    <display-name>152 GMTV</display-name>
-    <display-name>152 LG</display-name>
   </channel>
   <channel id="good">
     <display-name>GOODTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>273</display-name>
-    <display-name>273 GOODTV</display-name>
-    <display-name>273 LG</display-name>
   </channel>
   <channel id="gtv">
     <display-name>GTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>87</display-name>
-    <display-name>87 GTV</display-name>
-    <display-name>87 LG</display-name>
   </channel>
   <channel id="hgtv">
     <display-name>HGTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>221</display-name>
-    <display-name>221 HGTV</display-name>
-    <display-name>221 LG</display-name>
   </channel>
   <channel id="hits">
     <display-name>HITS</display-name>
-    <display-name>LG</display-name>
-    <display-name>147</display-name>
-    <display-name>147 HITS</display-name>
-    <display-name>147 LG</display-name>
   </channel>
   <channel id="hq+">
     <display-name>HQplus</display-name>
-    <display-name>LG</display-name>
-    <display-name>75</display-name>
-    <display-name>75 HQplus</display-name>
-    <display-name>75 LG</display-name>
   </channel>
   <channel id="ihq뚱">
     <display-name>iHQ 뚱TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>72</display-name>
-    <display-name>72 iHQ 뚱TV</display-name>
-    <display-name>72 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5203_square_20250731143801.png" />
   </channel>
   <channel id="ihq맛있는녀석들">
     <display-name>iHQ 맛있는녀석들</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>71</display-name>
-    <display-name>71 iHQ 맛있는녀석들</display-name>
-    <display-name>71 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5202_square_20250818162538.png" />
   </channel>
   <channel id="inultra">
     <display-name>INULTRA</display-name>
-    <display-name>LG</display-name>
-    <display-name>972</display-name>
-    <display-name>972 INULTRA</display-name>
-    <display-name>972 LG</display-name>
   </channel>
   <channel id="iplay">
     <display-name>i play</display-name>
-    <display-name>LG</display-name>
-    <display-name>190</display-name>
-    <display-name>190 i play</display-name>
-    <display-name>190 LG</display-name>
   </channel>
   <channel id="ishow">
     <display-name>i show</display-name>
-    <display-name>LG</display-name>
-    <display-name>156</display-name>
-    <display-name>156 i show</display-name>
-    <display-name>156 LG</display-name>
   </channel>
   <channel id="jeienglish">
     <display-name>JEI EnglishTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>343</display-name>
-    <display-name>343 JEI EnglishTV</display-name>
-    <display-name>343 LG</display-name>
   </channel>
   <channel id="jei재능">
     <display-name>JEI재능TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>323</display-name>
-    <display-name>323 JEI재능TV</display-name>
-    <display-name>323 LG</display-name>
   </channel>
   <channel id="jei재능english">
     <display-name>JEI 재능 English</display-name>
-    <display-name>SK</display-name>
-    <display-name>192</display-name>
-    <display-name>192 JEI 재능 English</display-name>
-    <display-name>192 SK</display-name>
   </channel>
   <channel id="jtbc2">
     <display-name>JTBC2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>26</display-name>
-    <display-name>26 JTBC2</display-name>
-    <display-name>26 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0039/C15741.png" />
   </channel>
   <channel id="jtbc4">
     <display-name>JTBC4</display-name>
-    <display-name>TVING</display-name>
-    <display-name>160</display-name>
-    <display-name>160 JTBC4</display-name>
-    <display-name>160 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0036/C22041.png" />
   </channel>
   <channel id="jtbcnewsnow">
     <display-name>JTBC NEWS NOW</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>111</display-name>
-    <display-name>111 JTBC NEWS NOW</display-name>
-    <display-name>111 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2312_square_20250910163902.png" />
   </channel>
   <channel id="jtbcnews아카이브">
     <display-name>JTBC news 아카이브</display-name>
-    <display-name>TVING</display-name>
-    <display-name>74</display-name>
-    <display-name>74 JTBC news 아카이브</display-name>
-    <display-name>74 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250526/0032/C52300.png" />
   </channel>
   <channel id="jtbcsports">
     <display-name>JTBC SPORTS</display-name>
-    <display-name>LG</display-name>
-    <display-name>102</display-name>
-    <display-name>102 JTBC SPORTS</display-name>
-    <display-name>102 LG</display-name>
   </channel>
   <channel id="kbs1fm">
     <display-name>KBS1FM</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>450</display-name>
-    <display-name>450 KBS1FM</display-name>
-    <display-name>450 NAVER</display-name>
   </channel>
   <channel id="kbs1박2일">
     <display-name>KBS 1박 2일</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>27</display-name>
-    <display-name>27 KBS 1박 2일</display-name>
-    <display-name>27 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K15_square_20250731212614.png" />
   </channel>
   <channel id="kbs2r">
     <display-name>KBS2R</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>457</display-name>
-    <display-name>457 KBS2R</display-name>
-    <display-name>457 NAVER</display-name>
   </channel>
   <channel id="kbs3r">
     <display-name>KBS3R</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>458</display-name>
-    <display-name>458 KBS3R</display-name>
-    <display-name>458 NAVER</display-name>
   </channel>
   <channel id="kbslife">
     <display-name>KBS Life</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>36</display-name>
-    <display-name>36 KBS Life</display-name>
-    <display-name>36 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K05_square_20250731212259.png" />
   </channel>
   <channel id="kbsnews24">
     <display-name>KBS NEWS 24</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>110</display-name>
-    <display-name>110 KBS NEWS 24</display-name>
-    <display-name>110 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K38_square_20250910163810.png" />
   </channel>
   <channel id="kbsstory">
     <display-name>KBS Story</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>37</display-name>
-    <display-name>37 KBS Story</display-name>
-    <display-name>37 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K09_square_20250731212508.png" />
   </channel>
   <channel id="kbsworld">
     <display-name>KBS WORLD</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>96</display-name>
-    <display-name>96 KBS WORLD</display-name>
-    <display-name>96 NAVER</display-name>
   </channel>
   <channel id="kbsworldradio">
     <display-name>KBSWorldRadio</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>460</display-name>
-    <display-name>460 KBSWorldRadio</display-name>
-    <display-name>460 NAVER</display-name>
   </channel>
   <channel id="kbs사극">
     <display-name>KBS 사극</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>31</display-name>
-    <display-name>31 KBS 사극</display-name>
-    <display-name>31 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K29_square_20250801142814.png" />
   </channel>
   <channel id="kbs사랑과전쟁">
     <display-name>KBS 사랑과전쟁</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>33</display-name>
-    <display-name>33 KBS 사랑과전쟁</display-name>
-    <display-name>33 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K31_square_20250811152329.png" />
   </channel>
   <channel id="kbs역사저널그날">
     <display-name>KBS 역사저널 그날</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>28</display-name>
-    <display-name>28 KBS 역사저널 그날</display-name>
-    <display-name>28 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K36_square_20250801143056.png" />
   </channel>
   <channel id="kbs인간극장">
     <display-name>KBS 인간극장</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>29</display-name>
-    <display-name>29 KBS 인간극장</display-name>
-    <display-name>29 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K37_square_20250801143129.png" />
   </channel>
   <channel id="kbs주말드라마명작">
     <display-name>KBS 주말드라마 명작</display-name>
-    <display-name>TVING</display-name>
-    <display-name>87</display-name>
-    <display-name>87 KBS 주말드라마 명작</display-name>
-    <display-name>87 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0032/C52368.png" />
   </channel>
   <channel id="kbs주말명작">
     <display-name>KBS 주말명작</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>32</display-name>
-    <display-name>32 KBS 주말명작</display-name>
-    <display-name>32 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K30_square_20250801142847.png" />
   </channel>
   <channel id="kbs한민족">
     <display-name>KBS한민족</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>459</display-name>
-    <display-name>459 KBS한민족</display-name>
-    <display-name>459 NAVER</display-name>
   </channel>
   <channel id="kfn">
     <display-name>KFN</display-name>
-    <display-name>LG</display-name>
-    <display-name>244</display-name>
-    <display-name>244 KFN</display-name>
-    <display-name>244 LG</display-name>
   </channel>
   <channel id="kiss2010년대가요">
     <display-name>KISS - 2010년대 가요</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>90</display-name>
-    <display-name>90 KISS - 2010년대 가요</display-name>
-    <display-name>90 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2705_square_20251031132157.png" />
   </channel>
   <channel id="kiss당신의발라드">
     <display-name>KISS - 당신의 발라드</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>88</display-name>
-    <display-name>88 KISS - 당신의 발라드</display-name>
-    <display-name>88 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2702_square_20251031132031.png" />
   </channel>
   <channel id="kiss듣기편한팝">
     <display-name>KISS - 듣기 편한 팝</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>93</display-name>
-    <display-name>93 KISS - 듣기 편한 팝</display-name>
-    <display-name>93 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2709_square_20251031132052.png" />
   </channel>
   <channel id="kiss응답하라7080">
     <display-name>KISS - 응답하라 7080</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>89</display-name>
-    <display-name>89 KISS - 응답하라 7080</display-name>
-    <display-name>89 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2703_square_20251031132135.png" />
   </channel>
   <channel id="kiss재즈라운지">
     <display-name>KISS - 재즈 라운지</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>91</display-name>
-    <display-name>91 KISS - 재즈 라운지</display-name>
-    <display-name>91 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2706_square_20250731142304.png" />
   </channel>
   <channel id="kiss최신인기가요">
     <display-name>KISS - 최신인기가요</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>87</display-name>
-    <display-name>87 KISS - 최신인기가요</display-name>
-    <display-name>87 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2701_square_20250731141913.png" />
   </channel>
   <channel id="kiss클래식산책">
     <display-name>KISS - 클래식 산책</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>92</display-name>
-    <display-name>92 KISS - 클래식 산책</display-name>
-    <display-name>92 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2708_square_20250731142402.png" />
   </channel>
   <channel id="kiss키스인기트로트">
     <display-name>KISS - 키스 인기 트로트</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>94</display-name>
-    <display-name>94 KISS - 키스 인기 트로트</display-name>
-    <display-name>94 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2710_square_20251031132114.png" />
   </channel>
   <channel id="kiss탑골kpop">
     <display-name>KISS - 탑골 K-POP</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>95</display-name>
-    <display-name>95 KISS - 탑골 K-POP</display-name>
-    <display-name>95 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2713_square_20250731142532.png" />
   </channel>
   <channel id="ksports">
     <display-name>K sports TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>119</display-name>
-    <display-name>119 K sports TV</display-name>
-    <display-name>119 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J3903_square_20260305104458.png" />
   </channel>
   <channel id="kt알파쇼핑">
     <display-name>KT알파 쇼핑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>24</display-name>
-    <display-name>24 KT알파 쇼핑</display-name>
-    <display-name>24 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F1401_square_20250731144632.png" />
   </channel>
   <channel id="k명작상영회">
     <display-name>K명작 상영회</display-name>
-    <display-name>TVING</display-name>
-    <display-name>111</display-name>
-    <display-name>111 K명작 상영회</display-name>
-    <display-name>111 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0616/C52458.png" />
   </channel>
   <channel id="k바둑">
     <display-name>K바둑</display-name>
-    <display-name>LG</display-name>
-    <display-name>131</display-name>
-    <display-name>131 K바둑</display-name>
-    <display-name>131 LG</display-name>
   </channel>
   <channel id="lac">
     <display-name>LAC</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>236</display-name>
-    <display-name>236 LAC</display-name>
-    <display-name>236 NAVER</display-name>
   </channel>
   <channel id="livewire">
     <display-name>LIVE WIRE</display-name>
-    <display-name>TVING</display-name>
-    <display-name>90</display-name>
-    <display-name>90 LIVE WIRE</display-name>
-    <display-name>90 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0054/C52369.png" />
   </channel>
   <channel id="lovenature">
     <display-name>LOVE NATURE</display-name>
-    <display-name>LG</display-name>
-    <display-name>226</display-name>
-    <display-name>226 LOVE NATURE</display-name>
-    <display-name>226 LG</display-name>
   </channel>
   <channel id="maxports">
     <display-name>MAXPORTS</display-name>
-    <display-name>SK</display-name>
-    <display-name>981</display-name>
-    <display-name>981 MAXPORTS</display-name>
-    <display-name>981 SK</display-name>
   </channel>
   <channel id="mbcfm4u">
     <display-name>MBC FM4U</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>84</display-name>
-    <display-name>84 MBC FM4U</display-name>
-    <display-name>84 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M08_square_20250801143527.png" />
   </channel>
   <channel id="mbcm">
     <display-name>MBC M</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>45</display-name>
-    <display-name>45 MBC M</display-name>
-    <display-name>45 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M06_square_20250801143430.png" />
   </channel>
   <channel id="mbcnet">
     <display-name>MBCNET</display-name>
-    <display-name>LG</display-name>
-    <display-name>177</display-name>
-    <display-name>177 MBCNET</display-name>
-    <display-name>177 LG</display-name>
   </channel>
   <channel id="mbcon">
     <display-name>MBC ON</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>48</display-name>
-    <display-name>48 MBC ON</display-name>
-    <display-name>48 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M14_square_20250801143717.png" />
   </channel>
   <channel id="mbc강원영동">
     <display-name>MBC 강원영동</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>10</display-name>
-    <display-name>10 MBC 강원영동</display-name>
-    <display-name>10 NAVER</display-name>
   </channel>
   <channel id="mbc경남">
     <display-name>MBC 경남</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>17</display-name>
-    <display-name>17 MBC 경남</display-name>
-    <display-name>17 NAVER</display-name>
   </channel>
   <channel id="mbc뉴스">
     <display-name>MBC 뉴스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>100</display-name>
-    <display-name>100 MBC 뉴스</display-name>
-    <display-name>100 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260510/2346/C52389.png" />
   </channel>
   <channel id="mbc라디오시사">
     <display-name>MBC 라디오 시사</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>108</display-name>
-    <display-name>108 MBC 라디오 시사</display-name>
-    <display-name>108 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M36_square_20250910163620.png" />
   </channel>
   <channel id="mbc라디오예능">
     <display-name>MBC 라디오 예능</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>107</display-name>
-    <display-name>107 MBC 라디오 예능</display-name>
-    <display-name>107 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M37_square_20250910163652.png" />
   </channel>
   <channel id="mbc오은영리포트결혼지옥">
     <display-name>MBC 오은영리포트 결혼지옥</display-name>
-    <display-name>TVING</display-name>
-    <display-name>119</display-name>
-    <display-name>119 MBC 오은영리포트 결혼지옥</display-name>
-    <display-name>119 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260623/0156/C52477.png" />
   </channel>
   <channel id="mbc전지적참견시점">
     <display-name>MBC 전지적 참견 시점</display-name>
-    <display-name>TVING</display-name>
-    <display-name>118</display-name>
-    <display-name>118 MBC 전지적 참견 시점</display-name>
-    <display-name>118 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260623/0156/C52475.png" />
   </channel>
   <channel id="mbc충북">
     <display-name>MBC 충북</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>37</display-name>
-    <display-name>37 MBC 충북</display-name>
-    <display-name>37 NAVER</display-name>
   </channel>
   <channel id="mbc표준fm">
     <display-name>MBC 표준 FM</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>85</display-name>
-    <display-name>85 MBC 표준 FM</display-name>
-    <display-name>85 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M07_square_20250801143458.png" />
   </channel>
   <channel id="mbn+">
     <display-name>MBN 플러스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>29</display-name>
-    <display-name>29 MBN 플러스</display-name>
-    <display-name>29 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0038/C17142.png" />
   </channel>
   <channel id="mbnnews">
     <display-name>MBN NEWS</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>114</display-name>
-    <display-name>114 MBN NEWS</display-name>
-    <display-name>114 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2413_square_20251017175409.png" />
   </channel>
   <channel id="mbn실제상황">
     <display-name>MBN 실제상황</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>74</display-name>
-    <display-name>74 MBN 실제상황</display-name>
-    <display-name>74 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2412_square_20250731141549.png" />
   </channel>
   <channel id="mbn특종세상">
     <display-name>MBN 특종세상</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>73</display-name>
-    <display-name>73 MBN 특종세상</display-name>
-    <display-name>73 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2411_square_20250818162524.png" />
   </channel>
   <channel id="mgtv">
     <display-name>MGTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>247</display-name>
-    <display-name>247 MGTV</display-name>
-    <display-name>247 LG</display-name>
   </channel>
   <channel id="museum">
     <display-name>MUSEUM</display-name>
-    <display-name>LG</display-name>
-    <display-name>225</display-name>
-    <display-name>225 MUSEUM</display-name>
-    <display-name>225 LG</display-name>
   </channel>
   <channel id="mx">
     <display-name>MX</display-name>
-    <display-name>SK</display-name>
-    <display-name>99</display-name>
-    <display-name>99 MX</display-name>
-    <display-name>99 SK</display-name>
   </channel>
   <channel id="nhkworldjapan">
     <display-name>NHK World-JAPAN</display-name>
-    <display-name>LG</display-name>
-    <display-name>207</display-name>
-    <display-name>207 NHK World-JAPAN</display-name>
-    <display-name>207 LG</display-name>
   </channel>
   <channel id="nhkworldpremium">
     <display-name>NHK World Premium</display-name>
-    <display-name>LG</display-name>
-    <display-name>209</display-name>
-    <display-name>209 NHK World Premium</display-name>
-    <display-name>209 LG</display-name>
   </channel>
   <channel id="now제주">
     <display-name>Now 제주채널</display-name>
-    <display-name>LG</display-name>
-    <display-name>185</display-name>
-    <display-name>185 Now 제주채널</display-name>
-    <display-name>185 LG</display-name>
   </channel>
   <channel id="ns홈쇼핑">
     <display-name>NS홈쇼핑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>18</display-name>
-    <display-name>18 NS홈쇼핑</display-name>
-    <display-name>18 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C8301_square_20250731144203.png" />
   </channel>
   <channel id="nxt">
     <display-name>NXT</display-name>
-    <display-name>LG</display-name>
-    <display-name>141</display-name>
-    <display-name>141 NXT</display-name>
-    <display-name>141 LG</display-name>
   </channel>
   <channel id="obsw">
     <display-name>OBS W</display-name>
-    <display-name>LG</display-name>
-    <display-name>181</display-name>
-    <display-name>181 OBS W</display-name>
-    <display-name>181 LG</display-name>
   </channel>
   <channel id="ocn">
     <display-name>OCN</display-name>
-    <display-name>TVING</display-name>
-    <display-name>7</display-name>
-    <display-name>7 OCN</display-name>
-    <display-name>7 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0042/C07381.png" />
   </channel>
   <channel id="ocnmovies">
     <display-name>OCN Movies</display-name>
-    <display-name>TVING</display-name>
-    <display-name>9</display-name>
-    <display-name>9 OCN Movies</display-name>
-    <display-name>9 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0045/C04601.png" />
   </channel>
   <channel id="ocnmovies2">
     <display-name>OCN Movies2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>10</display-name>
-    <display-name>10 OCN Movies2</display-name>
-    <display-name>10 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241104/0224/C07382.png" />
   </channel>
   <channel id="ogn">
     <display-name>OGN</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>100</display-name>
-    <display-name>100 OGN</display-name>
-    <display-name>100 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F9901_square_20250731211319.png" />
   </channel>
   <channel id="olife">
     <display-name>OLIFE</display-name>
-    <display-name>LG</display-name>
-    <display-name>127</display-name>
-    <display-name>127 OLIFE</display-name>
-    <display-name>127 LG</display-name>
   </channel>
   <channel id="once">
     <display-name>ONCE</display-name>
-    <display-name>LG</display-name>
-    <display-name>133</display-name>
-    <display-name>133 ONCE</display-name>
-    <display-name>133 LG</display-name>
   </channel>
   <channel id="onn닥터">
     <display-name>ONN 닥터TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>270</display-name>
-    <display-name>270 ONN 닥터TV</display-name>
-    <display-name>270 SK</display-name>
   </channel>
   <channel id="ont">
     <display-name>ONT</display-name>
-    <display-name>SK</display-name>
-    <display-name>225</display-name>
-    <display-name>225 ONT</display-name>
-    <display-name>225 SK</display-name>
   </channel>
   <channel id="original영화">
     <display-name>Original 영화</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>80</display-name>
-    <display-name>80 Original 영화</display-name>
-    <display-name>80 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F1221_square_20250731144546.png" />
   </channel>
   <channel id="original피의게임">
     <display-name>Original 피의게임</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>79</display-name>
-    <display-name>79 Original 피의게임</display-name>
-    <display-name>79 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F1214_square_20250731144519.png" />
   </channel>
   <channel id="playy액션영화">
     <display-name>PLAYY 액션영화</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>60</display-name>
-    <display-name>60 PLAYY 액션영화</display-name>
-    <display-name>60 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/H07_square_20250731211559.png" />
   </channel>
   <channel id="playy웰메이드영화">
     <display-name>PLAYY 웰메이드 영화</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>58</display-name>
-    <display-name>58 PLAYY 웰메이드 영화</display-name>
-    <display-name>58 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/H01_square_20250731211351.png" />
   </channel>
   <channel id="playy프리미엄영화">
     <display-name>PLAYY 프리미엄 영화</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>59</display-name>
-    <display-name>59 PLAYY 프리미엄 영화</display-name>
-    <display-name>59 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/H02_square_20250731211438.png" />
   </channel>
   <channel id="rna">
     <display-name>RNA</display-name>
-    <display-name>LG</display-name>
-    <display-name>191</display-name>
-    <display-name>191 RNA</display-name>
-    <display-name>191 LG</display-name>
   </channel>
   <channel id="rtv">
     <display-name>RTV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>273</display-name>
-    <display-name>273 RTV</display-name>
-    <display-name>273 NAVER</display-name>
   </channel>
   <channel id="safe">
     <display-name>SAFE TV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>282</display-name>
-    <display-name>282 SAFE TV</display-name>
-    <display-name>282 NAVER</display-name>
   </channel>
   <channel id="sbs+">
     <display-name>SBS플러스</display-name>
-    <display-name>LG</display-name>
-    <display-name>33</display-name>
-    <display-name>33 SBS플러스</display-name>
-    <display-name>33 LG</display-name>
   </channel>
   <channel id="sbsbiz">
     <display-name>SBS Biz</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>10</display-name>
-    <display-name>10 SBS Biz</display-name>
-    <display-name>10 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S06_square_20250801144339.png" />
   </channel>
   <channel id="sbsgolf2">
     <display-name>SBS Golf2</display-name>
-    <display-name>LG</display-name>
-    <display-name>99</display-name>
-    <display-name>99 SBS Golf2</display-name>
-    <display-name>99 LG</display-name>
   </channel>
   <channel id="sbslife">
     <display-name>SBS LIFE</display-name>
-    <display-name>LG</display-name>
-    <display-name>59</display-name>
-    <display-name>59 SBS LIFE</display-name>
-    <display-name>59 LG</display-name>
   </channel>
   <channel id="sbsnex">
     <display-name>SBS NEX</display-name>
-    <display-name>LG</display-name>
-    <display-name>976</display-name>
-    <display-name>976 SBS NEX</display-name>
-    <display-name>976 LG</display-name>
   </channel>
   <channel id="sbsno1뉴스라이브">
     <display-name>SBS No.1 뉴스라이브</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>109</display-name>
-    <display-name>109 SBS No.1 뉴스라이브</display-name>
-    <display-name>109 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S27_square_20250910163731.png" />
   </channel>
   <channel id="sbs러브fm">
     <display-name>SBS러브FM</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>454</display-name>
-    <display-name>454 SBS러브FM</display-name>
-    <display-name>454 NAVER</display-name>
   </channel>
   <channel id="sbs파워fm">
     <display-name>SBS파워FM</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>455</display-name>
-    <display-name>455 SBS파워FM</display-name>
-    <display-name>455 NAVER</display-name>
   </channel>
   <channel id="sky">
     <display-name>SKY UHD</display-name>
-    <display-name>LG</display-name>
-    <display-name>971</display-name>
-    <display-name>971 SKY UHD</display-name>
-    <display-name>971 LG</display-name>
   </channel>
   <channel id="smiletv+">
     <display-name>SmileTV Plus</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>56</display-name>
-    <display-name>56 SmileTV Plus</display-name>
-    <display-name>56 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F5602_square_20250731210927.png" />
   </channel>
   <channel id="smithsonian">
     <display-name>Smithsonian Channel</display-name>
-    <display-name>SK</display-name>
-    <display-name>273</display-name>
-    <display-name>273 Smithsonian Channel</display-name>
-    <display-name>273 SK</display-name>
   </channel>
   <channel id="soop">
     <display-name>SOOP</display-name>
-    <display-name>LG</display-name>
-    <display-name>120</display-name>
-    <display-name>120 SOOP</display-name>
-    <display-name>120 LG</display-name>
   </channel>
   <channel id="spotv+">
     <display-name>SPOTV PLUS</display-name>
-    <display-name>LG</display-name>
-    <display-name>125</display-name>
-    <display-name>125 SPOTV PLUS</display-name>
-    <display-name>125 LG</display-name>
   </channel>
   <channel id="spotvgolf+">
     <display-name>SPOTV GOLF PLUS</display-name>
-    <display-name>LG</display-name>
-    <display-name>103</display-name>
-    <display-name>103 SPOTV GOLF PLUS</display-name>
-    <display-name>103 LG</display-name>
   </channel>
   <channel id="spotvprime">
     <display-name>SPOTV PRIME</display-name>
-    <display-name>LG</display-name>
-    <display-name>110</display-name>
-    <display-name>110 SPOTV PRIME</display-name>
-    <display-name>110 LG</display-name>
   </channel>
   <channel id="spotvprime+">
     <display-name>SPOTV PRIME+</display-name>
-    <display-name>LG</display-name>
-    <display-name>109</display-name>
-    <display-name>109 SPOTV PRIME+</display-name>
-    <display-name>109 LG</display-name>
   </channel>
   <channel id="spotvprime2">
     <display-name>SPOTV PRIME2</display-name>
-    <display-name>LG</display-name>
-    <display-name>111</display-name>
-    <display-name>111 SPOTV PRIME2</display-name>
-    <display-name>111 LG</display-name>
   </channel>
   <channel id="stc">
     <display-name>STC</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>234</display-name>
-    <display-name>234 STC</display-name>
-    <display-name>234 NAVER</display-name>
   </channel>
   <channel id="stingraycmusic">
     <display-name>STINGRAY cmusic</display-name>
-    <display-name>LG</display-name>
-    <display-name>233</display-name>
-    <display-name>233 STINGRAY cmusic</display-name>
-    <display-name>233 LG</display-name>
   </channel>
   <channel id="stn">
     <display-name>STN</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>155</display-name>
-    <display-name>155 STN</display-name>
-    <display-name>155 NAVER</display-name>
   </channel>
   <channel id="story">
     <display-name>StoryTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>93</display-name>
-    <display-name>93 StoryTV</display-name>
-    <display-name>93 LG</display-name>
   </channel>
   <channel id="them">
     <display-name>The M</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>103</display-name>
-    <display-name>103 The M</display-name>
-    <display-name>103 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J1702_square_20250731211629.png" />
   </channel>
   <channel id="tjb">
     <display-name>TJB</display-name>
-    <display-name>LG</display-name>
-    <display-name>5</display-name>
-    <display-name>5 TJB</display-name>
-    <display-name>5 LG</display-name>
   </channel>
   <channel id="tlc여행레저">
     <display-name>TLC여행레저채널</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>211</display-name>
-    <display-name>211 TLC여행레저채널</display-name>
-    <display-name>211 NAVER</display-name>
   </channel>
   <channel id="tvN">
     <display-name>tvN</display-name>
-    <display-name>TVING</display-name>
-    <display-name>0</display-name>
-    <display-name>0 tvN</display-name>
-    <display-name>0 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png" />
   </channel>
   <channel id="tvasia+">
     <display-name>TVasia Plus</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>55</display-name>
-    <display-name>55 TVasia Plus</display-name>
-    <display-name>55 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F5601_square_20250731210852.png" />
   </channel>
   <channel id="tvchosunnews24">
     <display-name>TV CHOSUN NEWS24</display-name>
-    <display-name>TVING</display-name>
-    <display-name>76</display-name>
-    <display-name>76 TV CHOSUN NEWS24</display-name>
-    <display-name>76 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250610/0102/C52302.png" />
   </channel>
   <channel id="tvchosun미스쓰리랑">
     <display-name>TV CHOSUN 미스쓰리랑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>76</display-name>
-    <display-name>76 TV CHOSUN 미스쓰리랑</display-name>
-    <display-name>76 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2603_square_20250911144738.png" />
   </channel>
   <channel id="tvchosun생존왕">
     <display-name>TV CHOSUN 생존왕</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>75</display-name>
-    <display-name>75 TV CHOSUN 생존왕</display-name>
-    <display-name>75 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2604_square_20250911135718.png" />
   </channel>
   <channel id="tving오리지널신작체험단">
     <display-name>TVING 오리지널 신작체험단</display-name>
-    <display-name>TVING</display-name>
-    <display-name>109</display-name>
-    <display-name>109 TVING 오리지널 신작체험단</display-name>
-    <display-name>109 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0656/C52461.png" />
   </channel>
   <channel id="tving오리지널정주행">
     <display-name>TVING 오리지널 정주행</display-name>
-    <display-name>TVING</display-name>
-    <display-name>110</display-name>
-    <display-name>110 TVING 오리지널 정주행</display-name>
-    <display-name>110 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0636/C52460.png" />
   </channel>
   <channel id="tvndrama">
     <display-name>tvN DRAMA</display-name>
-    <display-name>TVING</display-name>
-    <display-name>5</display-name>
-    <display-name>5 tvN DRAMA</display-name>
-    <display-name>5 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0054/C01143.png" />
   </channel>
   <channel id="tvnshow">
     <display-name>tvN SHOW</display-name>
-    <display-name>TVING</display-name>
-    <display-name>11</display-name>
-    <display-name>11 tvN SHOW</display-name>
-    <display-name>11 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241112/0902/C01141.png" />
   </channel>
   <channel id="tvnsports">
     <display-name>tvN SPORTS</display-name>
-    <display-name>TVING</display-name>
-    <display-name>39</display-name>
-    <display-name>39 tvN SPORTS</display-name>
-    <display-name>39 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0031/C51404.png" />
   </channel>
   <channel id="tvnstory">
     <display-name>tvN STORY</display-name>
-    <display-name>TVING</display-name>
-    <display-name>134</display-name>
-    <display-name>134 tvN STORY</display-name>
-    <display-name>134 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0034/C51258.png" />
   </channel>
   <channel id="tv조선라이브뉴스24시">
     <display-name>TV조선 라이브 뉴스 24시</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>113</display-name>
-    <display-name>113 TV조선 라이브 뉴스 24시</display-name>
-    <display-name>113 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2605_square_20251017175121.png" />
   </channel>
   <channel id="u+tv라이브">
     <display-name>U+tv 라이브</display-name>
-    <display-name>LG</display-name>
-    <display-name>234</display-name>
-    <display-name>234 U+tv 라이브</display-name>
-    <display-name>234 LG</display-name>
   </channel>
   <channel id="u+투데이">
     <display-name>U+투데이</display-name>
-    <display-name>LG</display-name>
-    <display-name>990</display-name>
-    <display-name>990 U+투데이</display-name>
-    <display-name>990 LG</display-name>
   </channel>
   <channel id="ufc하이라이트">
     <display-name>UFC 하이라이트</display-name>
-    <display-name>TVING</display-name>
-    <display-name>42</display-name>
-    <display-name>42 UFC 하이라이트</display-name>
-    <display-name>42 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0057/C51421.png" />
   </channel>
   <channel id="uhddream">
     <display-name>UHD Dream TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>975</display-name>
-    <display-name>975 UHD Dream TV</display-name>
-    <display-name>975 LG</display-name>
   </channel>
   <channel id="umax">
     <display-name>UMAX</display-name>
-    <display-name>LG</display-name>
-    <display-name>974</display-name>
-    <display-name>974 UMAX</display-name>
-    <display-name>974 LG</display-name>
   </channel>
   <channel id="uxn">
     <display-name>UXN-UHD</display-name>
-    <display-name>LG</display-name>
-    <display-name>977</display-name>
-    <display-name>977 UXN-UHD</display-name>
-    <display-name>977 LG</display-name>
   </channel>
   <channel id="warner">
     <display-name>Warner TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>142</display-name>
-    <display-name>142 Warner TV</display-name>
-    <display-name>142 SK</display-name>
   </channel>
   <channel id="wavvegolf1">
     <display-name>Wavve Golf 1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>120</display-name>
-    <display-name>120 Wavve Golf 1</display-name>
-    <display-name>120 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S29_square_20260403134416.png" />
   </channel>
   <channel id="wavvegolf2">
     <display-name>Wavve Golf 2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>122</display-name>
-    <display-name>122 Wavve Golf 2</display-name>
-    <display-name>122 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S30_square_20260403134435.png" />
   </channel>
   <channel id="wavve에서오늘뭐보지">
     <display-name>Wavve에서 오늘 뭐보지</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>82</display-name>
-    <display-name>82 Wavve에서 오늘 뭐보지</display-name>
-    <display-name>82 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F1222_square_20250731144610.png" />
   </channel>
   <channel id="wee">
     <display-name>WeeTV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>268</display-name>
-    <display-name>268 WeeTV</display-name>
-    <display-name>268 NAVER</display-name>
   </channel>
   <channel id="wmusicstoryambientmusic">
     <display-name>W Music Story - Ambient Music</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>98</display-name>
-    <display-name>98 W Music Story - Ambient Music</display-name>
-    <display-name>98 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F9503_square_20250731211201.png" />
   </channel>
   <channel id="wmusicstoryhot!kpopmusic">
     <display-name>W Music Story - HOT! K_POP Music</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>97</display-name>
-    <display-name>97 W Music Story - HOT! K_POP Music</display-name>
-    <display-name>97 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F9501_square_20250731211059.png" />
   </channel>
   <channel id="wmusicstoryhot!popmusic">
     <display-name>W Music Story - HOT! POP Music</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>99</display-name>
-    <display-name>99 W Music Story - HOT! POP Music</display-name>
-    <display-name>99 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F9504_square_20250731211241.png" />
   </channel>
   <channel id="wmusicstoryhot!remixmusic">
     <display-name>W Music Story - Hot! Remix Music</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>96</display-name>
-    <display-name>96 W Music Story - Hot! Remix Music</display-name>
-    <display-name>96 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F9502_square_20250731211131.png" />
   </channel>
   <channel id="w쇼핑">
     <display-name>W쇼핑</display-name>
-    <display-name>LG</display-name>
-    <display-name>28</display-name>
-    <display-name>28 W쇼핑</display-name>
-    <display-name>28 LG</display-name>
   </channel>
   <channel id="ytn2">
     <display-name>YTN2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>31</display-name>
-    <display-name>31 YTN2</display-name>
-    <display-name>31 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0055/C01101.png" />
   </channel>
   <channel id="ytn사이언스">
     <display-name>YTN사이언스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>25</display-name>
-    <display-name>25 YTN사이언스</display-name>
-    <display-name>25 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0911/C15347.png" />
   </channel>
   <channel id="가요">
     <display-name>가요TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>153</display-name>
-    <display-name>153 가요TV</display-name>
-    <display-name>153 LG</display-name>
   </channel>
   <channel id="강릉kbs1">
     <display-name>강릉 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 강릉 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="강릉kbs2">
     <display-name>강릉 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 강릉 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="강릉mbc">
     <display-name>강릉 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 강릉 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="거침없이하이킥">
     <display-name>거침없이 하이킥</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>42</display-name>
-    <display-name>42 거침없이 하이킥</display-name>
-    <display-name>42 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M15_square_20260630110028.png" />
   </channel>
   <channel id="검색어를입력하세요www">
     <display-name>검색어를 입력하세요 WWW</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>132</display-name>
-    <display-name>132 검색어를 입력하세요 WWW</display-name>
-    <display-name>132 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3523_square_20260707134703.png" />
   </channel>
   <channel id="견우와선녀">
     <display-name>견우와 선녀</display-name>
-    <display-name>TVING</display-name>
-    <display-name>83</display-name>
-    <display-name>83 견우와 선녀</display-name>
-    <display-name>83 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0152/C52361.png" />
   </channel>
   <channel id="경이로운소문">
     <display-name>경이로운 소문</display-name>
-    <display-name>TVING</display-name>
-    <display-name>137</display-name>
-    <display-name>137 경이로운 소문</display-name>
-    <display-name>137 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0121/C50948.png" />
   </channel>
   <channel id="경인kbs1">
     <display-name>경인 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 경인 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="경인kbs2">
     <display-name>경인 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 경인 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="경인방송">
     <display-name>경인방송</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>467</display-name>
-    <display-name>467 경인방송</display-name>
-    <display-name>467 NAVER</display-name>
   </channel>
   <channel id="고나리돌newstep">
     <display-name>고나리돌 : NEW STEP</display-name>
-    <display-name>TVING</display-name>
-    <display-name>95</display-name>
-    <display-name>95 고나리돌 : NEW STEP</display-name>
-    <display-name>95 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251204/0237/C52412.png" />
   </channel>
   <channel id="공영홈쇼핑">
     <display-name>공영홈쇼핑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>26</display-name>
-    <display-name>26 공영홈쇼핑</display-name>
-    <display-name>26 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F6901_square_20250731211023.png" />
   </channel>
   <channel id="광주kbs1">
     <display-name>광주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 광주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="광주kbs2">
     <display-name>광주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 광주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="광주mbc">
     <display-name>광주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 광주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="구기동프렌즈">
     <display-name>구기동 프렌즈</display-name>
-    <display-name>TVING</display-name>
-    <display-name>114</display-name>
-    <display-name>114 구기동 프렌즈</display-name>
-    <display-name>114 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0834/C52466.png" />
   </channel>
   <channel id="국악방송">
     <display-name>국악방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>189</display-name>
-    <display-name>189 국악방송</display-name>
-    <display-name>189 LG</display-name>
   </channel>
   <channel id="국회방송">
     <display-name>국회방송</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>70</display-name>
-    <display-name>70 국회방송</display-name>
-    <display-name>70 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F3301_square_20250731210800.png" />
   </channel>
   <channel id="극동방송">
     <display-name>극동방송</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>469</display-name>
-    <display-name>469 극동방송</display-name>
-    <display-name>469 NAVER</display-name>
   </channel>
   <channel id="김창옥쇼3">
     <display-name>김창옥쇼3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>69</display-name>
-    <display-name>69 김창옥쇼3</display-name>
-    <display-name>69 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0122/C52241.png" />
   </channel>
   <channel id="꽃보다청춘리미티드에디션">
     <display-name>꽃보다청춘 리미티드에디션</display-name>
-    <display-name>TVING</display-name>
-    <display-name>122</display-name>
-    <display-name>122 꽃보다청춘 리미티드에디션</display-name>
-    <display-name>122 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0022/C52471.png" />
   </channel>
   <channel id="나는솔로">
     <display-name>나는솔로</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>112</display-name>
-    <display-name>112 나는솔로</display-name>
-    <display-name>112 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S28_square_20251001172621.png" />
   </channel>
   <channel id="나의아저씨">
     <display-name>나의 아저씨</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>131</display-name>
-    <display-name>131 나의 아저씨</display-name>
-    <display-name>131 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3522_square_20260707134444.png" />
   </channel>
   <channel id="나인컬러스">
     <display-name>나인컬러스</display-name>
-    <display-name>LG</display-name>
-    <display-name>178</display-name>
-    <display-name>178 나인컬러스</display-name>
-    <display-name>178 LG</display-name>
   </channel>
   <channel id="나혼자산다">
     <display-name>나 혼자 산다</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>39</display-name>
-    <display-name>39 나 혼자 산다</display-name>
-    <display-name>39 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/PM2_square_20250818162600.png" />
   </channel>
   <channel id="내남편과결혼해줘">
     <display-name>내 남편과 결혼해줘</display-name>
-    <display-name>TVING</display-name>
-    <display-name>62</display-name>
-    <display-name>62 내 남편과 결혼해줘</display-name>
-    <display-name>62 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0058/C52143.png" />
   </channel>
   <channel id="놀라운토요일">
     <display-name>놀라운 토요일</display-name>
-    <display-name>TVING</display-name>
-    <display-name>152</display-name>
-    <display-name>152 놀라운 토요일</display-name>
-    <display-name>152 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241104/0922/C32441.png" />
   </channel>
   <channel id="놀면뭐하니">
     <display-name>놀면 뭐하니</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>41</display-name>
-    <display-name>41 놀면 뭐하니</display-name>
-    <display-name>41 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M13_square_20260630111104.png" />
   </channel>
   <channel id="눈물의여왕">
     <display-name>눈물의 여왕</display-name>
-    <display-name>TVING</display-name>
-    <display-name>63</display-name>
-    <display-name>63 눈물의 여왕</display-name>
-    <display-name>63 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0126/C52171.png" />
   </channel>
   <channel id="뉴트로">
     <display-name>뉴트로 TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>269</display-name>
-    <display-name>269 뉴트로 TV</display-name>
-    <display-name>269 SK</display-name>
   </channel>
   <channel id="다문화">
     <display-name>다문화TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>148</display-name>
-    <display-name>148 다문화TV</display-name>
-    <display-name>148 LG</display-name>
   </channel>
   <channel id="대교뉴이프+">
     <display-name>대교 뉴이프Plus</display-name>
-    <display-name>LG</display-name>
-    <display-name>193</display-name>
-    <display-name>193 대교 뉴이프Plus</display-name>
-    <display-name>193 LG</display-name>
   </channel>
   <channel id="대교어린이">
     <display-name>대교어린이TV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>161</display-name>
-    <display-name>161 대교어린이TV</display-name>
-    <display-name>161 NAVER</display-name>
   </channel>
   <channel id="대구kbs1">
     <display-name>대구 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 대구 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="대구kbs2">
     <display-name>대구 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 대구 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="대구mbc">
     <display-name>대구 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 대구 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="대전kbs1">
     <display-name>대전 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 대전 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="대전kbs2">
     <display-name>대전 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 대전 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="대전mbc">
     <display-name>대전 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 대전 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="대탈출">
     <display-name>대탈출</display-name>
-    <display-name>TVING</display-name>
-    <display-name>156</display-name>
-    <display-name>156 대탈출</display-name>
-    <display-name>156 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0524/C28241.png" />
   </channel>
   <channel id="대탈출2">
     <display-name>대탈출2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>151</display-name>
-    <display-name>151 대탈출2</display-name>
-    <display-name>151 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0525/C34941.png" />
   </channel>
   <channel id="대탈출3">
     <display-name>대탈출3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>142</display-name>
-    <display-name>142 대탈출3</display-name>
-    <display-name>142 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0126/C44541.png" />
   </channel>
   <channel id="대탈출4">
     <display-name>대탈출4</display-name>
-    <display-name>TVING</display-name>
-    <display-name>147</display-name>
-    <display-name>147 대탈출4</display-name>
-    <display-name>147 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0525/C40441.png" />
   </channel>
   <channel id="대탈출시즌1">
     <display-name>대탈출 시즌1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>149</display-name>
-    <display-name>149 대탈출 시즌1</display-name>
-    <display-name>149 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3528_square_20260722112147.png" />
   </channel>
   <channel id="대탈출시즌2">
     <display-name>대탈출 시즌2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>148</display-name>
-    <display-name>148 대탈출 시즌2</display-name>
-    <display-name>148 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3529_square_20260722113125.png" />
   </channel>
   <channel id="대탈출시즌3">
     <display-name>대탈출 시즌3</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>147</display-name>
-    <display-name>147 대탈출 시즌3</display-name>
-    <display-name>147 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3530_square_20260722211719.png" />
   </channel>
   <channel id="대탈출시즌4">
     <display-name>대탈출 시즌4</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>146</display-name>
-    <display-name>146 대탈출 시즌4</display-name>
-    <display-name>146 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3531_square_20260722211641.png" />
   </channel>
   <channel id="대한민국에서건물주되는법">
     <display-name>대한민국에서 건물주 되는  법</display-name>
-    <display-name>TVING</display-name>
-    <display-name>117</display-name>
-    <display-name>117 대한민국에서 건물주 되는  법</display-name>
-    <display-name>117 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0832/C52465.png" />
   </channel>
   <channel id="더라이프">
     <display-name>더라이프</display-name>
-    <display-name>LG</display-name>
-    <display-name>999</display-name>
-    <display-name>999 더라이프</display-name>
-    <display-name>999 LG</display-name>
   </channel>
   <channel id="더라이프2">
     <display-name>더라이프2</display-name>
-    <display-name>LG</display-name>
-    <display-name>72</display-name>
-    <display-name>72 더라이프2</display-name>
-    <display-name>72 LG</display-name>
   </channel>
   <channel id="더지니어스그랜드파이널">
     <display-name>더 지니어스:그랜드 파이널</display-name>
-    <display-name>TVING</display-name>
-    <display-name>171</display-name>
-    <display-name>171 더 지니어스:그랜드 파이널</display-name>
-    <display-name>171 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0148/C08501.png" />
   </channel>
   <channel id="도깨비">
     <display-name>도깨비</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>133</display-name>
-    <display-name>133 도깨비</display-name>
-    <display-name>133 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3524_square_20260707134902.png" />
   </channel>
   <channel id="동아">
     <display-name>동아TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>86</display-name>
-    <display-name>86 동아TV</display-name>
-    <display-name>86 LG</display-name>
   </channel>
   <channel id="드라마큐브">
     <display-name>드라마큐브</display-name>
-    <display-name>LG</display-name>
-    <display-name>71</display-name>
-    <display-name>71 드라마큐브</display-name>
-    <display-name>71 LG</display-name>
   </channel>
   <channel id="드림웍스">
     <display-name>드림웍스채널</display-name>
-    <display-name>LG</display-name>
-    <display-name>309</display-name>
-    <display-name>309 드림웍스채널</display-name>
-    <display-name>309 LG</display-name>
   </channel>
   <channel id="디스커버리 채널">
     <display-name>디스커버리</display-name>
-    <display-name>LG</display-name>
-    <display-name>194</display-name>
-    <display-name>194 디스커버리</display-name>
-    <display-name>194 LG</display-name>
   </channel>
   <channel id="디원">
     <display-name>디원</display-name>
-    <display-name>LG</display-name>
-    <display-name>66</display-name>
-    <display-name>66 디원</display-name>
-    <display-name>66 LG</display-name>
   </channel>
   <channel id="디자이어">
     <display-name>디자이어TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>394</display-name>
-    <display-name>394 디자이어TV</display-name>
-    <display-name>394 LG</display-name>
   </channel>
   <channel id="딜사이트 경제TV">
     <display-name>딜사이트 경제TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>172</display-name>
-    <display-name>172 딜사이트 경제TV</display-name>
-    <display-name>172 LG</display-name>
   </channel>
   <channel id="또오해영">
     <display-name>또 오해영</display-name>
-    <display-name>TVING</display-name>
-    <display-name>168</display-name>
-    <display-name>168 또 오해영</display-name>
-    <display-name>168 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0127/C14641.png" />
   </channel>
   <channel id="라이프온마스">
     <display-name>라이프온마스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>158</display-name>
-    <display-name>158 라이프온마스</display-name>
-    <display-name>158 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0128/C26542.png" />
   </channel>
   <channel id="라이프타임">
     <display-name>LIFETIME</display-name>
-    <display-name>TVING</display-name>
-    <display-name>36</display-name>
-    <display-name>36 LIFETIME</display-name>
-    <display-name>36 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0100/C00611.png" />
   </channel>
   <channel id="레트로">
     <display-name>레트로TV</display-name>
-    <display-name>TVING</display-name>
-    <display-name>112</display-name>
-    <display-name>112 레트로TV</display-name>
-    <display-name>112 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0612/C52457.png" />
   </channel>
   <channel id="롯데OneTV">
     <display-name>롯데홈쇼핑 ONETV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>23</display-name>
-    <display-name>23 롯데홈쇼핑 ONETV</display-name>
-    <display-name>23 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5602_square_20250731143931.png" />
   </channel>
   <channel id="롯데홈쇼핑">
     <display-name>롯데홈쇼핑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>19</display-name>
-    <display-name>19 롯데홈쇼핑</display-name>
-    <display-name>19 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5601_square_20250731143910.png" />
   </channel>
   <channel id="리빙">
     <display-name>리빙TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>192</display-name>
-    <display-name>192 리빙TV</display-name>
-    <display-name>192 LG</display-name>
   </channel>
   <channel id="리얼">
     <display-name>리얼TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>179</display-name>
-    <display-name>179 리얼TV</display-name>
-    <display-name>179 LG</display-name>
   </channel>
   <channel id="마녀사냥">
     <display-name>마녀사냥</display-name>
-    <display-name>TVING</display-name>
-    <display-name>144</display-name>
-    <display-name>144 마녀사냥</display-name>
-    <display-name>144 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0128/C41243.png" />
   </channel>
   <channel id="마산mbc">
     <display-name>마산 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 마산 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="마운틴TV">
     <display-name>마운틴TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>129</display-name>
-    <display-name>129 마운틴TV</display-name>
-    <display-name>129 LG</display-name>
   </channel>
   <channel id="매일경제">
     <display-name>매일경제TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>12</display-name>
-    <display-name>12 매일경제TV</display-name>
-    <display-name>12 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F2001_square_20250731144657.png" />
   </channel>
   <channel id="머니투데이방송">
     <display-name>머니투데이방송</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>13</display-name>
-    <display-name>13 머니투데이방송</display-name>
-    <display-name>13 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F4301_square_20260806133922.png" />
   </channel>
   <channel id="메디컬">
     <display-name>메디컬TV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>280</display-name>
-    <display-name>280 메디컬TV</display-name>
-    <display-name>280 NAVER</display-name>
   </channel>
   <channel id="멜로가체질">
     <display-name>멜로가 체질</display-name>
-    <display-name>TVING</display-name>
-    <display-name>146</display-name>
-    <display-name>146 멜로가 체질</display-name>
-    <display-name>146 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0129/C41346.png" />
   </channel>
   <channel id="목포kbs1">
     <display-name>목포 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 목포 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="목포kbs2">
     <display-name>목포 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 목포 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="목포mbc">
     <display-name>목포 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 목포 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="무비+">
     <display-name>무비+</display-name>
-    <display-name>LG</display-name>
-    <display-name>43</display-name>
-    <display-name>43 무비+</display-name>
-    <display-name>43 LG</display-name>
   </channel>
   <channel id="무쇠소녀단시즌1">
     <display-name>무쇠소녀단 시즌1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>142</display-name>
-    <display-name>142 무쇠소녀단 시즌1</display-name>
-    <display-name>142 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3536_square_20260722212928.png" />
   </channel>
   <channel id="무쇠소녀단시즌2">
     <display-name>무쇠소녀단 시즌2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>141</display-name>
-    <display-name>141 무쇠소녀단 시즌2</display-name>
-    <display-name>141 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3537_square_20260722213053.png" />
   </channel>
   <channel id="무한도전">
     <display-name>무한도전</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>38</display-name>
-    <display-name>38 무한도전</display-name>
-    <display-name>38 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/PM1_square_20250818162551.png" />
   </channel>
   <channel id="미드나잇">
     <display-name>미드나잇</display-name>
-    <display-name>LG</display-name>
-    <display-name>391</display-name>
-    <display-name>391 미드나잇</display-name>
-    <display-name>391 LG</display-name>
   </channel>
   <channel id="미스터션샤인">
     <display-name>미스터션샤인</display-name>
-    <display-name>TVING</display-name>
-    <display-name>157</display-name>
-    <display-name>157 미스터션샤인</display-name>
-    <display-name>157 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0130/C26941.png" />
   </channel>
   <channel id="미스터트롯&amp;미스트롯영웅들의탄생">
     <display-name>미스터트롯&amp;미스트롯-영웅들의 탄생</display-name>
-    <display-name>TVING</display-name>
-    <display-name>44</display-name>
-    <display-name>44 미스터트롯&amp;미스트롯-영웅들의 탄생</display-name>
-    <display-name>44 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0048/C51434.png" />
   </channel>
   <channel id="미씽그들이있었다2">
     <display-name>미씽: 그들이 있었다2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>135</display-name>
-    <display-name>135 미씽: 그들이 있었다2</display-name>
-    <display-name>135 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3526_square_20260707135208.png" />
   </channel>
   <channel id="바둑">
     <display-name>바둑TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>115</display-name>
-    <display-name>115 바둑TV</display-name>
-    <display-name>115 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J4501_square_20251113141130.png" />
   </channel>
   <channel id="반짝이는워터멜론">
     <display-name>반짝이는 워터멜론</display-name>
-    <display-name>TVING</display-name>
-    <display-name>57</display-name>
-    <display-name>57 반짝이는 워터멜론</display-name>
-    <display-name>57 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0103/C52092.png" />
   </channel>
   <channel id="방송대학TV">
     <display-name>방송대학TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>242</display-name>
-    <display-name>242 방송대학TV</display-name>
-    <display-name>242 LG</display-name>
   </channel>
   <channel id="벌거벗은세계사">
     <display-name>벌거벗은 세계사</display-name>
-    <display-name>TVING</display-name>
-    <display-name>135</display-name>
-    <display-name>135 벌거벗은 세계사</display-name>
-    <display-name>135 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0103/C51255.png" />
   </channel>
   <channel id="법률방송">
     <display-name>법률방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>250</display-name>
-    <display-name>250 법률방송</display-name>
-    <display-name>250 LG</display-name>
   </channel>
   <channel id="보검매직컬">
     <display-name>보검매직컬</display-name>
-    <display-name>TVING</display-name>
-    <display-name>104</display-name>
-    <display-name>104 보검매직컬</display-name>
-    <display-name>104 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0414/C52455.png" />
   </channel>
   <channel id="보이즈플래닛">
     <display-name>보이즈 플래닛</display-name>
-    <display-name>TVING</display-name>
-    <display-name>48</display-name>
-    <display-name>48 보이즈 플래닛</display-name>
-    <display-name>48 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png" />
   </channel>
   <channel id="복지">
     <display-name>복지TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>199</display-name>
-    <display-name>199 복지TV</display-name>
-    <display-name>199 LG</display-name>
   </channel>
   <channel id="부산kbs1">
     <display-name>부산 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 부산 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="부산kbs2">
     <display-name>부산 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 부산 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="부산mbc">
     <display-name>부산 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 부산 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="붐tv">
     <display-name>붐TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>160</display-name>
-    <display-name>160 붐TV</display-name>
-    <display-name>160 LG</display-name>
   </channel>
   <channel id="브라보키즈">
     <display-name>브라보키즈</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>68</display-name>
-    <display-name>68 브라보키즈</display-name>
-    <display-name>68 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C6802_square_20250731144057.png" />
   </channel>
   <channel id="브레인">
     <display-name>브레인TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>132</display-name>
-    <display-name>132 브레인TV</display-name>
-    <display-name>132 LG</display-name>
   </channel>
   <channel id="블룸버그">
     <display-name>BLOOMBERG TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>153</display-name>
-    <display-name>153 BLOOMBERG TV</display-name>
-    <display-name>153 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J7701_square_20260904095234.png" />
   </channel>
   <channel id="비너스">
     <display-name>비너스TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>396</display-name>
-    <display-name>396 비너스TV</display-name>
-    <display-name>396 LG</display-name>
   </channel>
   <channel id="비밀의숲">
     <display-name>비밀의 숲</display-name>
-    <display-name>TVING</display-name>
-    <display-name>163</display-name>
-    <display-name>163 비밀의 숲</display-name>
-    <display-name>163 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C15296.png" />
   </channel>
   <channel id="비밀의숲2">
     <display-name>비밀의숲2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>139</display-name>
-    <display-name>139 비밀의숲2</display-name>
-    <display-name>139 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0132/C47141.png" />
   </channel>
   <channel id="빈센조">
     <display-name>빈센조</display-name>
-    <display-name>TVING</display-name>
-    <display-name>133</display-name>
-    <display-name>133 빈센조</display-name>
-    <display-name>133 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0132/C51260.png" />
   </channel>
   <channel id="빌리어즈TV">
     <display-name>빌리어즈TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>151</display-name>
-    <display-name>151 빌리어즈TV</display-name>
-    <display-name>151 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J7201_square_20260814133306.png" />
   </channel>
   <channel id="뽀요">
     <display-name>뽀요TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>305</display-name>
-    <display-name>305 뽀요TV</display-name>
-    <display-name>305 LG</display-name>
   </channel>
   <channel id="뿅뿅지구오락실">
     <display-name>뿅뿅 지구오락실</display-name>
-    <display-name>TVING</display-name>
-    <display-name>43</display-name>
-    <display-name>43 뿅뿅 지구오락실</display-name>
-    <display-name>43 TVING</display-name>
     <icon src="https://image.tving.com/upload/cms/caic/CAIC0100/C51550.png" />
   </channel>
   <channel id="뿅뿅지구오락실2">
     <display-name>뿅뿅 지구오락실2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>52</display-name>
-    <display-name>52 뿅뿅 지구오락실2</display-name>
-    <display-name>52 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0104/C52077.png" />
   </channel>
   <channel id="뿅뿅지구오락실3">
     <display-name>뿅뿅 지구오락실3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>79</display-name>
-    <display-name>79 뿅뿅 지구오락실3</display-name>
-    <display-name>79 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250717/0708/C52337.png" />
   </channel>
   <channel id="사랑의불시착">
     <display-name>사랑의불시착</display-name>
-    <display-name>TVING</display-name>
-    <display-name>143</display-name>
-    <display-name>143 사랑의불시착</display-name>
-    <display-name>143 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0134/C42241.png" />
   </channel>
   <channel id="삼시세끼light">
     <display-name>삼시세끼 Light</display-name>
-    <display-name>TVING</display-name>
-    <display-name>67</display-name>
-    <display-name>67 삼시세끼 Light</display-name>
-    <display-name>67 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0106/C52237.png" />
   </channel>
   <channel id="삼시세끼고창편">
     <display-name>삼시세끼 고창편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>167</display-name>
-    <display-name>167 삼시세끼 고창편</display-name>
-    <display-name>167 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0630/C14946.png" />
   </channel>
   <channel id="삼시세끼바다목장편">
     <display-name>삼시세끼 바다목장편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>162</display-name>
-    <display-name>162 삼시세끼 바다목장편</display-name>
-    <display-name>162 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0630/C15942.png" />
   </channel>
   <channel id="삼시세끼산촌편">
     <display-name>삼시세끼 산촌편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>149</display-name>
-    <display-name>149 삼시세끼 산촌편</display-name>
-    <display-name>149 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C38542.png" />
   </channel>
   <channel id="삼시세끼어촌편1">
     <display-name>삼시세끼 어촌편1</display-name>
-    <display-name>TVING</display-name>
-    <display-name>174</display-name>
-    <display-name>174 삼시세끼 어촌편1</display-name>
-    <display-name>174 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C08683.png" />
   </channel>
   <channel id="삼시세끼어촌편2">
     <display-name>삼시세끼 어촌편2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>172</display-name>
-    <display-name>172 삼시세끼 어촌편2</display-name>
-    <display-name>172 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C08681.png" />
   </channel>
   <channel id="삼시세끼어촌편3">
     <display-name>삼시세끼 어촌편3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>166</display-name>
-    <display-name>166 삼시세끼 어촌편3</display-name>
-    <display-name>166 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0632/C15249.png" />
   </channel>
   <channel id="삼시세끼어촌편5">
     <display-name>삼시세끼 어촌편5</display-name>
-    <display-name>TVING</display-name>
-    <display-name>140</display-name>
-    <display-name>140 삼시세끼 어촌편5</display-name>
-    <display-name>140 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0632/C45043.png" />
   </channel>
   <channel id="삼시세끼정선편">
     <display-name>삼시세끼 정선편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>173</display-name>
-    <display-name>173 삼시세끼 정선편</display-name>
-    <display-name>173 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0635/C08682.png" />
   </channel>
   <channel id="삼척mbc">
     <display-name>삼척 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 삼척 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="상생방송">
     <display-name>상생방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>277</display-name>
-    <display-name>277 상생방송</display-name>
-    <display-name>277 LG</display-name>
   </channel>
   <channel id="생활체육">
     <display-name>생활체육TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>124</display-name>
-    <display-name>124 생활체육TV</display-name>
-    <display-name>124 LG</display-name>
   </channel>
   <channel id="서울경제">
     <display-name>서울경제TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>124</display-name>
-    <display-name>124 서울경제TV</display-name>
-    <display-name>124 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J6301_square_20260520105013.png" />
   </channel>
   <channel id="서진이네">
     <display-name>서진이네</display-name>
-    <display-name>TVING</display-name>
-    <display-name>49</display-name>
-    <display-name>49 서진이네</display-name>
-    <display-name>49 TVING</display-name>
     <icon src="https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png" />
   </channel>
   <channel id="서진이네2">
     <display-name>서진이네2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>66</display-name>
-    <display-name>66 서진이네2</display-name>
-    <display-name>66 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0134/C52194.png" />
   </channel>
   <channel id="선재업고튀어">
     <display-name>선재 업고 튀어</display-name>
-    <display-name>TVING</display-name>
-    <display-name>65</display-name>
-    <display-name>65 선재 업고 튀어</display-name>
-    <display-name>65 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0135/C52178.png" />
   </channel>
   <channel id="세이렌">
     <display-name>세이렌</display-name>
-    <display-name>TVING</display-name>
-    <display-name>116</display-name>
-    <display-name>116 세이렌</display-name>
-    <display-name>116 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0825/C52464.png" />
   </channel>
   <channel id="셀레스티얼 무비">
     <display-name>셀레스티얼 무비</display-name>
-    <display-name>LG</display-name>
-    <display-name>56</display-name>
-    <display-name>56 셀레스티얼 무비</display-name>
-    <display-name>56 LG</display-name>
   </channel>
   <channel id="소상공인시장">
     <display-name>소상공인시장tv</display-name>
-    <display-name>LG</display-name>
-    <display-name>246</display-name>
-    <display-name>246 소상공인시장tv</display-name>
-    <display-name>246 LG</display-name>
   </channel>
   <channel id="소용없어거짓말">
     <display-name>소용없어 거짓말</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>136</display-name>
-    <display-name>136 소용없어 거짓말</display-name>
-    <display-name>136 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3527_square_20260707135344.png" />
   </channel>
   <channel id="쇼미더머니11">
     <display-name>쇼미 더 머니11</display-name>
-    <display-name>TVING</display-name>
-    <display-name>47</display-name>
-    <display-name>47 쇼미 더 머니11</display-name>
-    <display-name>47 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png" />
   </channel>
   <channel id="쇼핑엔티">
     <display-name>쇼핑엔티</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>150</display-name>
-    <display-name>150 쇼핑엔티</display-name>
-    <display-name>150 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4901_square_20260731141338.png" />
   </channel>
   <channel id="순천kbs1">
     <display-name>순천 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 순천 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="순천kbs2">
     <display-name>순천 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 순천 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="슈퍼팩">
     <display-name>슈퍼팩</display-name>
-    <display-name>LG</display-name>
-    <display-name>380</display-name>
-    <display-name>380 슈퍼팩</display-name>
-    <display-name>380 LG</display-name>
   </channel>
   <channel id="스몰토크를멈추면안돼">
     <display-name>스몰토크를 멈추면 안돼</display-name>
-    <display-name>TVING</display-name>
-    <display-name>92</display-name>
-    <display-name>92 스몰토크를 멈추면 안돼</display-name>
-    <display-name>92 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0819/C52408.png" />
   </channel>
   <channel id="스물다섯스물하나">
     <display-name>스물다섯 스물하나</display-name>
-    <display-name>TVING</display-name>
-    <display-name>38</display-name>
-    <display-name>38 스물다섯 스물하나</display-name>
-    <display-name>38 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0111/C51459.png" />
   </channel>
   <channel id="스크린">
     <display-name>스크린</display-name>
-    <display-name>LG</display-name>
-    <display-name>46</display-name>
-    <display-name>46 스크린</display-name>
-    <display-name>46 LG</display-name>
   </channel>
   <channel id="스크린골프존">
     <display-name>스크린골프존</display-name>
-    <display-name>LG</display-name>
-    <display-name>115</display-name>
-    <display-name>115 스크린골프존</display-name>
-    <display-name>115 LG</display-name>
   </channel>
   <channel id="스트릿레스토랑파이터">
     <display-name>스트릿 레스토랑 파이터</display-name>
-    <display-name>TVING</display-name>
-    <display-name>125</display-name>
-    <display-name>125 스트릿 레스토랑 파이터</display-name>
-    <display-name>125 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260826/0232/C52494.png" />
   </channel>
   <channel id="스트릿우먼파이터2">
     <display-name>스트릿 우먼 파이터2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>56</display-name>
-    <display-name>56 스트릿 우먼 파이터2</display-name>
-    <display-name>56 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0112/C52091.png" />
   </channel>
   <channel id="스프링피버">
     <display-name>스프링 피버</display-name>
-    <display-name>TVING</display-name>
-    <display-name>105</display-name>
-    <display-name>105 스프링 피버</display-name>
-    <display-name>105 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260921/0757/C52456.png" />
   </channel>
   <channel id="슬기로운의사생활">
     <display-name>슬기로운 의사생활</display-name>
-    <display-name>TVING</display-name>
-    <display-name>141</display-name>
-    <display-name>141 슬기로운 의사생활</display-name>
-    <display-name>141 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0640/C44644.png" />
   </channel>
   <channel id="슬기로운의사생활시즌2">
     <display-name>슬기로운 의사생활 시즌2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>37</display-name>
-    <display-name>37 슬기로운 의사생활 시즌2</display-name>
-    <display-name>37 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0113/C51373.png" />
   </channel>
   <channel id="슬로우">
     <display-name>슬로우 TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>127</display-name>
-    <display-name>127 슬로우 TV</display-name>
-    <display-name>127 SK</display-name>
   </channel>
   <channel id="시그널">
     <display-name>시그널</display-name>
-    <display-name>TVING</display-name>
-    <display-name>20</display-name>
-    <display-name>20 시그널</display-name>
-    <display-name>20 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0146/C06761.png" />
   </channel>
   <channel id="시네마천국">
     <display-name>시네마천국</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>61</display-name>
-    <display-name>61 시네마천국</display-name>
-    <display-name>61 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/H05_square_20250731211522.png" />
   </channel>
   <channel id="시니어">
     <display-name>시니어TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>188</display-name>
-    <display-name>188 시니어TV</display-name>
-    <display-name>188 LG</display-name>
   </channel>
   <channel id="식스센스시즌1">
     <display-name>식스센스 시즌1</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>145</display-name>
-    <display-name>145 식스센스 시즌1</display-name>
-    <display-name>145 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3532_square_20260722211856.png" />
   </channel>
   <channel id="식스센스시즌2">
     <display-name>식스센스 시즌2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>137</display-name>
-    <display-name>137 식스센스 시즌2</display-name>
-    <display-name>137 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3533_square_20260722212104.png" />
   </channel>
   <channel id="식스센스시티투어">
     <display-name>식스센스: 시티투어</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>144</display-name>
-    <display-name>144 식스센스: 시티투어</display-name>
-    <display-name>144 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3534_square_20260722212615.png" />
   </channel>
   <channel id="식스센스시티투어2">
     <display-name>식스센스: 시티투어2</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>143</display-name>
-    <display-name>143 식스센스: 시티투어2</display-name>
-    <display-name>143 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3535_square_20260722212804.png" />
   </channel>
   <channel id="신기한나라">
     <display-name>신기한나라TV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>171</display-name>
-    <display-name>171 신기한나라TV</display-name>
-    <display-name>171 NAVER</display-name>
   </channel>
   <channel id="신서유기5">
     <display-name>신서유기5</display-name>
-    <display-name>TVING</display-name>
-    <display-name>154</display-name>
-    <display-name>154 신서유기5</display-name>
-    <display-name>154 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0710/C31741.png" />
   </channel>
   <channel id="신서유기6">
     <display-name>신서유기6</display-name>
-    <display-name>TVING</display-name>
-    <display-name>153</display-name>
-    <display-name>153 신서유기6</display-name>
-    <display-name>153 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0723/C31642.png" />
   </channel>
   <channel id="신서유기7">
     <display-name>신서유기7</display-name>
-    <display-name>TVING</display-name>
-    <display-name>148</display-name>
-    <display-name>148 신서유기7</display-name>
-    <display-name>148 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0724/C41043.png" />
   </channel>
   <channel id="신서유기8">
     <display-name>신서유기8</display-name>
-    <display-name>TVING</display-name>
-    <display-name>138</display-name>
-    <display-name>138 신서유기8</display-name>
-    <display-name>138 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0724/C49941.png" />
   </channel>
   <channel id="신서유기시즌2">
     <display-name>신서유기 시즌2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>169</display-name>
-    <display-name>169 신서유기 시즌2</display-name>
-    <display-name>169 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0709/C14049.png" />
   </channel>
   <channel id="신서유기시즌3">
     <display-name>신서유기 시즌3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>164</display-name>
-    <display-name>164 신서유기 시즌3</display-name>
-    <display-name>164 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0709/C15271.png" />
   </channel>
   <channel id="신세계쇼핑">
     <display-name>신세계쇼핑</display-name>
-    <display-name>LG</display-name>
-    <display-name>19</display-name>
-    <display-name>19 신세계쇼핑</display-name>
-    <display-name>19 LG</display-name>
   </channel>
   <channel id="실버아이">
     <display-name>실버아이TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>186</display-name>
-    <display-name>186 실버아이TV</display-name>
-    <display-name>186 LG</display-name>
   </channel>
   <channel id="심야괴담회">
     <display-name>심야괴담회</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>43</display-name>
-    <display-name>43 심야괴담회</display-name>
-    <display-name>43 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M16_square_20260630112422.png" />
   </channel>
   <channel id="씨네초이스">
     <display-name>씨네초이스</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>118</display-name>
-    <display-name>118 씨네초이스</display-name>
-    <display-name>118 NAVER</display-name>
   </channel>
   <channel id="씨네트리">
     <display-name>씨네트리</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>62</display-name>
-    <display-name>62 씨네트리</display-name>
-    <display-name>62 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F2601_square_20250731210702.png" />
   </channel>
   <channel id="씨네프">
     <display-name>씨네프</display-name>
-    <display-name>LG</display-name>
-    <display-name>47</display-name>
-    <display-name>47 씨네프</display-name>
-    <display-name>47 LG</display-name>
   </channel>
   <channel id="아는형님">
     <display-name>아는형님</display-name>
-    <display-name>TVING</display-name>
-    <display-name>145</display-name>
-    <display-name>145 아는형님</display-name>
-    <display-name>145 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0137/C40841.png" />
   </channel>
   <channel id="아리랑TV">
     <display-name>아리랑TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>205</display-name>
-    <display-name>205 아리랑TV</display-name>
-    <display-name>205 LG</display-name>
   </channel>
   <channel id="아시아N">
     <display-name>아시아N</display-name>
-    <display-name>LG</display-name>
-    <display-name>138</display-name>
-    <display-name>138 아시아N</display-name>
-    <display-name>138 LG</display-name>
   </channel>
   <channel id="아시안투어live">
     <display-name>아시안투어 LIVE</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>125</display-name>
-    <display-name>125 아시안투어 LIVE</display-name>
-    <display-name>125 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J3904_square_20260520105054.png" />
   </channel>
   <channel id="아웃도어">
     <display-name>아웃도어 채널</display-name>
-    <display-name>LG</display-name>
-    <display-name>220</display-name>
-    <display-name>220 아웃도어 채널</display-name>
-    <display-name>220 LG</display-name>
   </channel>
   <channel id="아이넷">
     <display-name>아이넷TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>150</display-name>
-    <display-name>150 아이넷TV</display-name>
-    <display-name>150 LG</display-name>
   </channel>
   <channel id="아이넷라이프">
     <display-name>INETLIFE</display-name>
-    <display-name>LG</display-name>
-    <display-name>154</display-name>
-    <display-name>154 INETLIFE</display-name>
-    <display-name>154 LG</display-name>
   </channel>
   <channel id="안동kbs1">
     <display-name>안동 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 안동 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="안동kbs2">
     <display-name>안동 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 안동 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="안동mbc">
     <display-name>안동 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 안동 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="알고있지만">
     <display-name>알고있지만</display-name>
-    <display-name>TVING</display-name>
-    <display-name>55</display-name>
-    <display-name>55 알고있지만</display-name>
-    <display-name>55 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0137/C52074.png" />
   </channel>
   <channel id="애니+">
     <display-name>애니플러스</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>77</display-name>
-    <display-name>77 애니플러스</display-name>
-    <display-name>77 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C6102_square_20250731144022.png" />
   </channel>
   <channel id="애니맥스">
     <display-name>ANIMAX</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>66</display-name>
-    <display-name>66 ANIMAX</display-name>
-    <display-name>66 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/A01_square_20250731141248.png" />
   </channel>
   <channel id="애니박스">
     <display-name>ANIBOX</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>64</display-name>
-    <display-name>64 ANIBOX</display-name>
-    <display-name>64 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4401_square_20250731142904.png" />
   </channel>
   <channel id="애니원">
     <display-name>ANIONE</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>65</display-name>
-    <display-name>65 ANIONE</display-name>
-    <display-name>65 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4402_square_20250731142933.png" />
   </channel>
   <channel id="야구여왕">
     <display-name>야구여왕</display-name>
-    <display-name>TVING</display-name>
-    <display-name>124</display-name>
-    <display-name>124 야구여왕</display-name>
-    <display-name>124 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260713/0817/C52479.png" />
   </channel>
   <channel id="야노시호화나따">
     <display-name>야노시호 화나따</display-name>
-    <display-name>TVING</display-name>
-    <display-name>93</display-name>
-    <display-name>93 야노시호 화나따</display-name>
-    <display-name>93 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0833/C52409.png" />
   </channel>
   <channel id="어린이">
     <display-name>어린이TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>322</display-name>
-    <display-name>322 어린이TV</display-name>
-    <display-name>322 LG</display-name>
   </channel>
   <channel id="어쩌다사장">
     <display-name>어쩌다사장</display-name>
-    <display-name>TVING</display-name>
-    <display-name>131</display-name>
-    <display-name>131 어쩌다사장</display-name>
-    <display-name>131 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0844/C51357.png" />
   </channel>
   <channel id="어쩌다사장2">
     <display-name>어쩌다 사장2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>40</display-name>
-    <display-name>40 어쩌다 사장2</display-name>
-    <display-name>40 TVING</display-name>
     <icon src="https://image.tving.com/upload/cms/caic/CAIC0100/C51464.png" />
   </channel>
   <channel id="어쩌다사장3">
     <display-name>어쩌다 사장3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>59</display-name>
-    <display-name>59 어쩌다 사장3</display-name>
-    <display-name>59 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0138/C52101.png" />
   </channel>
   <channel id="언니네산지직송in칼라페">
     <display-name>언니네 산지직송 in 칼라페</display-name>
-    <display-name>TVING</display-name>
-    <display-name>115</display-name>
-    <display-name>115 언니네 산지직송 in 칼라페</display-name>
-    <display-name>115 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0836/C52467.png" />
   </channel>
   <channel id="언더커버미쓰홍">
     <display-name>언더커버 미쓰홍</display-name>
-    <display-name>TVING</display-name>
-    <display-name>106</display-name>
-    <display-name>106 언더커버 미쓰홍</display-name>
-    <display-name>106 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0408/C52454.png" />
   </channel>
   <channel id="언더커버셰프">
     <display-name>언더커버 셰프</display-name>
-    <display-name>TVING</display-name>
-    <display-name>123</display-name>
-    <display-name>123 언더커버 셰프</display-name>
-    <display-name>123 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0027/C52472.png" />
   </channel>
   <channel id="언젠가는슬기로울전공의생활">
     <display-name>언젠가는 슬기로울 전공의생활</display-name>
-    <display-name>TVING</display-name>
-    <display-name>77</display-name>
-    <display-name>77 언젠가는 슬기로울 전공의생활</display-name>
-    <display-name>77 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0114/C52319.png" />
   </channel>
   <channel id="에듀TV">
     <display-name>에듀TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>344</display-name>
-    <display-name>344 에듀TV</display-name>
-    <display-name>344 LG</display-name>
   </channel>
   <channel id="에이스포츠TV">
     <display-name>AsportsTV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>152</display-name>
-    <display-name>152 AsportsTV</display-name>
-    <display-name>152 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J7801_square_20260901170928.png" />
   </channel>
   <channel id="에이플드라마">
     <display-name>ApleDrama</display-name>
-    <display-name>SK</display-name>
-    <display-name>140</display-name>
-    <display-name>140 ApleDrama</display-name>
-    <display-name>140 SK</display-name>
   </channel>
   <channel id="엑스원">
     <display-name>엑스원</display-name>
-    <display-name>LG</display-name>
-    <display-name>174</display-name>
-    <display-name>174 엑스원</display-name>
-    <display-name>174 LG</display-name>
   </channel>
   <channel id="엔터TV">
     <display-name>엔터TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>135</display-name>
-    <display-name>135 엔터TV</display-name>
-    <display-name>135 LG</display-name>
   </channel>
   <channel id="엠플렉스">
     <display-name>엠플렉스</display-name>
-    <display-name>LG</display-name>
-    <display-name>48</display-name>
-    <display-name>48 엠플렉스</display-name>
-    <display-name>48 LG</display-name>
   </channel>
   <channel id="여수mbc">
     <display-name>여수 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 여수 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="여신강림">
     <display-name>여신강림</display-name>
-    <display-name>TVING</display-name>
-    <display-name>136</display-name>
-    <display-name>136 여신강림</display-name>
-    <display-name>136 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0138/C51254.png" />
   </channel>
   <channel id="연애의참견">
     <display-name>연애의 참견</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>30</display-name>
-    <display-name>30 연애의 참견</display-name>
-    <display-name>30 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/K28_square_20250818162500.png" />
   </channel>
   <channel id="연합뉴스TV">
     <display-name>연합뉴스TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>8</display-name>
-    <display-name>8 연합뉴스TV</display-name>
-    <display-name>8 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/Y01_square_20250801151504.png" />
   </channel>
   <channel id="연합뉴스tvjob">
     <display-name>연합뉴스TV JOB</display-name>
-    <display-name>LG</display-name>
-    <display-name>251</display-name>
-    <display-name>251 연합뉴스TV JOB</display-name>
-    <display-name>251 LG</display-name>
   </channel>
   <channel id="연합뉴스경제">
     <display-name>연합뉴스경제TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>171</display-name>
-    <display-name>171 연합뉴스경제TV</display-name>
-    <display-name>171 LG</display-name>
   </channel>
   <channel id="오나의귀신님">
     <display-name>오 나의 귀신님</display-name>
-    <display-name>TVING</display-name>
-    <display-name>33</display-name>
-    <display-name>33 오 나의 귀신님</display-name>
-    <display-name>33 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0139/C07261.png" />
   </channel>
   <channel id="오르페오">
     <display-name>ORFEO</display-name>
-    <display-name>LG</display-name>
-    <display-name>231</display-name>
-    <display-name>231 ORFEO</display-name>
-    <display-name>231 LG</display-name>
   </channel>
   <channel id="오싹한연애">
     <display-name>오싹한 연애</display-name>
-    <display-name>TVING</display-name>
-    <display-name>127</display-name>
-    <display-name>127 오싹한 연애</display-name>
-    <display-name>127 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260909/0128/C52496.png" />
   </channel>
   <channel id="오은영리포트결혼지옥">
     <display-name>오은영리포트 결혼지옥</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>44</display-name>
-    <display-name>44 오은영리포트 결혼지옥</display-name>
-    <display-name>44 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M17_square_20260630112651.png" />
   </channel>
   <channel id="우리들의블루스">
     <display-name>우리들의 블루스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>41</display-name>
-    <display-name>41 우리들의 블루스</display-name>
-    <display-name>41 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0115/C51470.png" />
   </channel>
   <channel id="우주떡집">
     <display-name>우주떡집</display-name>
-    <display-name>TVING</display-name>
-    <display-name>128</display-name>
-    <display-name>128 우주떡집</display-name>
-    <display-name>128 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260909/0128/C52527.png" />
   </channel>
   <channel id="우주를줄게">
     <display-name>우주를 줄게</display-name>
-    <display-name>TVING</display-name>
-    <display-name>103</display-name>
-    <display-name>103 우주를 줄게</display-name>
-    <display-name>103 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0406/C52453.png" />
   </channel>
   <channel id="울산kbs1">
     <display-name>울산 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 울산 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="울산kbs2">
     <display-name>울산 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 울산 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="울산mbc">
     <display-name>울산 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 울산 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="원음방송">
     <display-name>원음방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>278</display-name>
-    <display-name>278 원음방송</display-name>
-    <display-name>278 LG</display-name>
   </channel>
   <channel id="원주kbs1">
     <display-name>원주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 원주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="원주kbs2">
     <display-name>원주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 원주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="원주mbc">
     <display-name>원주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 원주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="월드 클래식 무비">
     <display-name>월드클래식무비</display-name>
-    <display-name>LG</display-name>
-    <display-name>57</display-name>
-    <display-name>57 월드클래식무비</display-name>
-    <display-name>57 LG</display-name>
   </channel>
   <channel id="월드오브스트릿우먼파이터">
     <display-name>월드 오브 스트릿 우먼 파이터</display-name>
-    <display-name>TVING</display-name>
-    <display-name>81</display-name>
-    <display-name>81 월드 오브 스트릿 우먼 파이터</display-name>
-    <display-name>81 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0139/C52345.png" />
   </channel>
   <channel id="웨이브필드캠">
     <display-name>웨이브 필드캠</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>117</display-name>
-    <display-name>117 웨이브 필드캠</display-name>
-    <display-name>117 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3541_square_20260827145601.png" />
   </channel>
   <channel id="위라이크">
     <display-name>위라이크</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>57</display-name>
-    <display-name>57 위라이크</display-name>
-    <display-name>57 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C8101_square_20250731144133.png" />
   </channel>
   <channel id="유로무비">
     <display-name>유로무비</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>122</display-name>
-    <display-name>122 유로무비</display-name>
-    <display-name>122 NAVER</display-name>
   </channel>
   <channel id="유로스포츠">
     <display-name>유로스포츠</display-name>
-    <display-name>LG</display-name>
-    <display-name>114</display-name>
-    <display-name>114 유로스포츠</display-name>
-    <display-name>114 LG</display-name>
   </channel>
   <channel id="유퀴즈온더블럭">
     <display-name>유 퀴즈 온 더 블럭</display-name>
-    <display-name>TVING</display-name>
-    <display-name>155</display-name>
-    <display-name>155 유 퀴즈 온 더 블럭</display-name>
-    <display-name>155 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0116/C28841.png" />
   </channel>
   <channel id="유플릭스무비">
     <display-name>유플릭스무비</display-name>
-    <display-name>LG</display-name>
-    <display-name>381</display-name>
-    <display-name>381 유플릭스무비</display-name>
-    <display-name>381 LG</display-name>
   </channel>
   <channel id="육아방송">
     <display-name>육아방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>252</display-name>
-    <display-name>252 육아방송</display-name>
-    <display-name>252 LG</display-name>
   </channel>
   <channel id="은밀한감사">
     <display-name>은밀한 감사</display-name>
-    <display-name>TVING</display-name>
-    <display-name>113</display-name>
-    <display-name>113 은밀한 감사</display-name>
-    <display-name>113 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0839/C52468.png" />
   </channel>
   <channel id="응답하라1988">
     <display-name>응답하라1988</display-name>
-    <display-name>TVING</display-name>
-    <display-name>21</display-name>
-    <display-name>21 응답하라1988</display-name>
-    <display-name>21 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0833/C06762.png" />
   </channel>
   <channel id="응답하라1994">
     <display-name>응답하라 1994</display-name>
-    <display-name>TVING</display-name>
-    <display-name>170</display-name>
-    <display-name>170 응답하라 1994</display-name>
-    <display-name>170 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C08461.png" />
   </channel>
   <channel id="응답하라1997">
     <display-name>응답하라 1997</display-name>
-    <display-name>TVING</display-name>
-    <display-name>130</display-name>
-    <display-name>130 응답하라 1997</display-name>
-    <display-name>130 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C04761.png" />
   </channel>
   <channel id="이데일리">
     <display-name>이데일리TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>126</display-name>
-    <display-name>126 이데일리TV</display-name>
-    <display-name>126 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J6401_square_20260506133419.png" />
   </channel>
   <channel id="이번생은처음이라">
     <display-name>이번 생은 처음이라</display-name>
-    <display-name>TVING</display-name>
-    <display-name>161</display-name>
-    <display-name>161 이번 생은 처음이라</display-name>
-    <display-name>161 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0116/C17441.png" />
   </channel>
   <channel id="이벤트">
     <display-name>이벤트TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>151</display-name>
-    <display-name>151 이벤트TV</display-name>
-    <display-name>151 LG</display-name>
   </channel>
   <channel id="일상의쉼표">
     <display-name>일상의 쉼표</display-name>
-    <display-name>TVING</display-name>
-    <display-name>101</display-name>
-    <display-name>101 일상의 쉼표</display-name>
-    <display-name>101 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260323/0439/C52448.png" />
   </channel>
   <channel id="작은아씨들">
     <display-name>작은 아씨들</display-name>
-    <display-name>TVING</display-name>
-    <display-name>46</display-name>
-    <display-name>46 작은 아씨들</display-name>
-    <display-name>46 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0140/C51438.png" />
   </channel>
   <channel id="전주kbs1">
     <display-name>전주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 전주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="전주kbs2">
     <display-name>전주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 전주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="전주mbc">
     <display-name>전주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 전주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="전지적참견시점">
     <display-name>전지적 참견 시점</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>40</display-name>
-    <display-name>40 전지적 참견 시점</display-name>
-    <display-name>40 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/M12_square_20260630100437.png" />
   </channel>
   <channel id="정년이">
     <display-name>정년이</display-name>
-    <display-name>TVING</display-name>
-    <display-name>68</display-name>
-    <display-name>68 정년이</display-name>
-    <display-name>68 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0142/C52240.png" />
   </channel>
   <channel id="제주kbs1">
     <display-name>제주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 제주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="제주kbs2">
     <display-name>제주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 제주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="제주mbc">
     <display-name>제주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 제주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="중화">
     <display-name>중화TV</display-name>
-    <display-name>TVING</display-name>
-    <display-name>13</display-name>
-    <display-name>13 중화TV</display-name>
-    <display-name>13 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00544.png" />
   </channel>
   <channel id="지금우리tv엔">
     <display-name>지금 우리 TV엔</display-name>
-    <display-name>TVING</display-name>
-    <display-name>107</display-name>
-    <display-name>107 지금 우리 TV엔</display-name>
-    <display-name>107 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0632/C52459.png" />
   </channel>
   <channel id="지방자치">
     <display-name>지방자치TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>253</display-name>
-    <display-name>253 지방자치TV</display-name>
-    <display-name>253 LG</display-name>
   </channel>
   <channel id="진주kbs1">
     <display-name>진주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 진주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="진주kbs2">
     <display-name>진주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 진주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="진주mbc">
     <display-name>진주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 진주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="창원kbs1">
     <display-name>창원 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 창원 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="창원kbs2">
     <display-name>창원 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 창원 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="채널 Ching">
     <display-name>채널칭</display-name>
-    <display-name>LG</display-name>
-    <display-name>139</display-name>
-    <display-name>139 채널칭</display-name>
-    <display-name>139 LG</display-name>
   </channel>
   <channel id="채널A">
     <display-name>채널A</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>7</display-name>
-    <display-name>7 채널A</display-name>
-    <display-name>7 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2501_square_20250731141617.png" />
   </channel>
   <channel id="채널J">
     <display-name>채널J</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>53</display-name>
-    <display-name>53 채널J</display-name>
-    <display-name>53 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C5501_square_20250731143839.png" />
   </channel>
   <channel id="채널U">
     <display-name>채널유</display-name>
-    <display-name>LG</display-name>
-    <display-name>142</display-name>
-    <display-name>142 채널유</display-name>
-    <display-name>142 LG</display-name>
   </channel>
   <channel id="채널W">
     <display-name>채널W</display-name>
-    <display-name>LG</display-name>
-    <display-name>146</display-name>
-    <display-name>146 채널W</display-name>
-    <display-name>146 LG</display-name>
   </channel>
   <channel id="채널a+">
     <display-name>채널A 플러스</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>49</display-name>
-    <display-name>49 채널A 플러스</display-name>
-    <display-name>49 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C2502_square_20250731141641.png" />
   </channel>
   <channel id="채널anews">
     <display-name>채널A NEWS</display-name>
-    <display-name>TVING</display-name>
-    <display-name>120</display-name>
-    <display-name>120 채널A NEWS</display-name>
-    <display-name>120 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260630/0148/C52470.png" />
   </channel>
   <channel id="채널i">
     <display-name>채널i</display-name>
-    <display-name>LG</display-name>
-    <display-name>187</display-name>
-    <display-name>187 채널i</display-name>
-    <display-name>187 LG</display-name>
   </channel>
   <channel id="채널mx">
     <display-name>채널MX</display-name>
-    <display-name>LG</display-name>
-    <display-name>123</display-name>
-    <display-name>123 채널MX</display-name>
-    <display-name>123 LG</display-name>
   </channel>
   <channel id="채널s">
     <display-name>채널S</display-name>
-    <display-name>LG</display-name>
-    <display-name>61</display-name>
-    <display-name>61 채널S</display-name>
-    <display-name>61 LG</display-name>
   </channel>
   <channel id="채널s+">
     <display-name>채널S플러스</display-name>
-    <display-name>LG</display-name>
-    <display-name>94</display-name>
-    <display-name>94 채널S플러스</display-name>
-    <display-name>94 LG</display-name>
   </channel>
   <channel id="채널나우">
     <display-name>채널나우</display-name>
-    <display-name>LG</display-name>
-    <display-name>140</display-name>
-    <display-name>140 채널나우</display-name>
-    <display-name>140 LG</display-name>
   </channel>
   <channel id="채널뷰">
     <display-name>채널뷰</display-name>
-    <display-name>LG</display-name>
-    <display-name>96</display-name>
-    <display-name>96 채널뷰</display-name>
-    <display-name>96 LG</display-name>
   </channel>
   <channel id="채널액션">
     <display-name>채널액션</display-name>
-    <display-name>LG</display-name>
-    <display-name>54</display-name>
-    <display-name>54 채널액션</display-name>
-    <display-name>54 LG</display-name>
   </channel>
   <channel id="채널에버">
     <display-name>Ch.ever</display-name>
-    <display-name>SK</display-name>
-    <display-name>112</display-name>
-    <display-name>112 Ch.ever</display-name>
-    <display-name>112 SK</display-name>
   </channel>
   <channel id="채널와이드">
     <display-name>채널와이드</display-name>
-    <display-name>LG</display-name>
-    <display-name>155</display-name>
-    <display-name>155 채널와이드</display-name>
-    <display-name>155 LG</display-name>
   </channel>
   <channel id="채널이엠">
     <display-name>채널이엠</display-name>
-    <display-name>LG</display-name>
-    <display-name>89</display-name>
-    <display-name>89 채널이엠</display-name>
-    <display-name>89 LG</display-name>
   </channel>
   <channel id="채널차이나">
     <display-name>채널차이나</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>54</display-name>
-    <display-name>54 채널차이나</display-name>
-    <display-name>54 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C8401_square_20250731144306.png" />
   </channel>
   <channel id="채널해피독">
     <display-name>채널 해피독</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>286</display-name>
-    <display-name>286 채널 해피독</display-name>
-    <display-name>286 NAVER</display-name>
   </channel>
   <channel id="철인왕후">
     <display-name>철인왕후</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>134</display-name>
-    <display-name>134 철인왕후</display-name>
-    <display-name>134 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3525_square_20260707135008.png" />
   </channel>
   <channel id="청주kbs1">
     <display-name>청주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 청주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="청주kbs2">
     <display-name>청주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 청주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="청주mbc">
     <display-name>청주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 청주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="최애의사원">
     <display-name>최애의 사원</display-name>
-    <display-name>TVING</display-name>
-    <display-name>126</display-name>
-    <display-name>126 최애의 사원</display-name>
-    <display-name>126 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260826/0428/C52495.png" />
   </channel>
   <channel id="춘천kbs1">
     <display-name>춘천 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 춘천 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="춘천kbs2">
     <display-name>춘천 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 춘천 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="춘천mbc">
     <display-name>춘천 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 춘천 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="충주kbs1">
     <display-name>충주 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 충주 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="충주kbs2">
     <display-name>충주 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 충주 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="충주mbc">
     <display-name>충주 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 충주 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="카투니토">
     <display-name>CARTOONITO</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>102</display-name>
-    <display-name>102 CARTOONITO</display-name>
-    <display-name>102 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J2801_square_20250731211736.png" />
   </channel>
   <channel id="카툰네트워크">
     <display-name>카툰네트워크</display-name>
-    <display-name>LG</display-name>
-    <display-name>316</display-name>
-    <display-name>316 카툰네트워크</display-name>
-    <display-name>316 LG</display-name>
   </channel>
   <channel id="캐리">
     <display-name>캐리TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>325</display-name>
-    <display-name>325 캐리TV</display-name>
-    <display-name>325 LG</display-name>
   </channel>
   <channel id="캐치온1">
     <display-name>캐치온1</display-name>
-    <display-name>LG</display-name>
-    <display-name>52</display-name>
-    <display-name>52 캐치온1</display-name>
-    <display-name>52 LG</display-name>
   </channel>
   <channel id="캐치온2">
     <display-name>캐치온2</display-name>
-    <display-name>LG</display-name>
-    <display-name>53</display-name>
-    <display-name>53 캐치온2</display-name>
-    <display-name>53 LG</display-name>
   </channel>
   <channel id="컷생만화in문학">
     <display-name>컷생-만화in문학</display-name>
-    <display-name>TVING</display-name>
-    <display-name>98</display-name>
-    <display-name>98 컷생-만화in문학</display-name>
-    <display-name>98 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251216/0754/C52418.png" />
   </channel>
   <channel id="코미디">
     <display-name>코미디TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>77</display-name>
-    <display-name>77 코미디TV</display-name>
-    <display-name>77 LG</display-name>
   </channel>
   <channel id="코미디빅리그">
     <display-name>코미디 빅리그</display-name>
-    <display-name>TVING</display-name>
-    <display-name>19</display-name>
-    <display-name>19 코미디 빅리그</display-name>
-    <display-name>19 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0143/C05961.png" />
   </channel>
   <channel id="콩심은데콩나고밥먹으면밥심난다">
     <display-name>콩 심은 데 콩 나고 밥 먹으면 밥심난다</display-name>
-    <display-name>TVING</display-name>
-    <display-name>72</display-name>
-    <display-name>72 콩 심은 데 콩 나고 밥 먹으면 밥심난다</display-name>
-    <display-name>72 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0050/C52293.png" />
   </channel>
   <channel id="콩심은데콩나고팥심은데팥난다">
     <display-name>콩 심은 데 콩 나고 팥 심은 데 팥 난다</display-name>
-    <display-name>TVING</display-name>
-    <display-name>58</display-name>
-    <display-name>58 콩 심은 데 콩 나고 팥 심은 데 팥 난다</display-name>
-    <display-name>58 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0050/C52098.png" />
   </channel>
   <channel id="쿠키건강">
     <display-name>쿠키건강TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>176</display-name>
-    <display-name>176 쿠키건강TV</display-name>
-    <display-name>176 LG</display-name>
   </channel>
   <channel id="크라임씬1~3">
     <display-name>크라임씬 1~3</display-name>
-    <display-name>TVING</display-name>
-    <display-name>53</display-name>
-    <display-name>53 크라임씬 1~3</display-name>
-    <display-name>53 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0119/C52069.png" />
   </channel>
   <channel id="키즈톡톡 플러스">
     <display-name>키즈톡톡+</display-name>
-    <display-name>LG</display-name>
-    <display-name>306</display-name>
-    <display-name>306 키즈톡톡+</display-name>
-    <display-name>306 LG</display-name>
   </channel>
   <channel id="텐트밖은유럽">
     <display-name>텐트 밖은 유럽</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>140</display-name>
-    <display-name>140 텐트 밖은 유럽</display-name>
-    <display-name>140 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3538_square_20260722213220.png" />
   </channel>
   <channel id="텐트밖은유럽남프랑스편">
     <display-name>텐트 밖은 유럽 남프랑스 편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>64</display-name>
-    <display-name>64 텐트 밖은 유럽 남프랑스 편</display-name>
-    <display-name>64 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20240531/0926/C52173.png" />
   </channel>
   <channel id="텐트밖은유럽노르웨이">
     <display-name>텐트 밖은 유럽: 노르웨이</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>139</display-name>
-    <display-name>139 텐트 밖은 유럽: 노르웨이</display-name>
-    <display-name>139 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3539_square_20260722214117.png" />
   </channel>
   <channel id="텐트밖은유럽노르웨이편">
     <display-name>텐트 밖은 유럽 노르웨이 편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>51</display-name>
-    <display-name>51 텐트 밖은 유럽 노르웨이 편</display-name>
-    <display-name>51 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20230829/C52066.png" />
   </channel>
   <channel id="텐트밖은유럽로맨틱이탈리아">
     <display-name>텐트 밖은 유럽: 로맨틱 이탈리아</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>138</display-name>
-    <display-name>138 텐트 밖은 유럽: 로맨틱 이탈리아</display-name>
-    <display-name>138 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3540_square_20260722214249.png" />
   </channel>
   <channel id="텐트밖은유럽스페인편">
     <display-name>텐트 밖은 유럽 스페인 편</display-name>
-    <display-name>TVING</display-name>
-    <display-name>50</display-name>
-    <display-name>50 텐트 밖은 유럽 스페인 편</display-name>
-    <display-name>50 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1007/C51861.png" />
   </channel>
   <channel id="텔레노벨라">
     <display-name>텔레노벨라</display-name>
-    <display-name>LG</display-name>
-    <display-name>143</display-name>
-    <display-name>143 텔레노벨라</display-name>
-    <display-name>143 LG</display-name>
   </channel>
   <channel id="토마토TV">
     <display-name>토마토TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>165</display-name>
-    <display-name>165 토마토TV</display-name>
-    <display-name>165 LG</display-name>
   </channel>
   <channel id="토마토리빙">
     <display-name>토마토리빙</display-name>
-    <display-name>LG</display-name>
-    <display-name>170</display-name>
-    <display-name>170 토마토리빙</display-name>
-    <display-name>170 LG</display-name>
   </channel>
   <channel id="토마토클래식">
     <display-name>토마토클래식</display-name>
-    <display-name>LG</display-name>
-    <display-name>236</display-name>
-    <display-name>236 토마토클래식</display-name>
-    <display-name>236 LG</display-name>
   </channel>
   <channel id="통일">
     <display-name>통일TV</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>260</display-name>
-    <display-name>260 통일TV</display-name>
-    <display-name>260 NAVER</display-name>
   </channel>
   <channel id="투니버스">
     <display-name>투니버스</display-name>
-    <display-name>TVING</display-name>
-    <display-name>12</display-name>
-    <display-name>12 투니버스</display-name>
-    <display-name>12 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0043/C06941.png" />
   </channel>
   <channel id="트로트아이">
     <display-name>트로트아이</display-name>
-    <display-name>NAVER</display-name>
-    <display-name>130</display-name>
-    <display-name>130 트로트아이</display-name>
-    <display-name>130 NAVER</display-name>
   </channel>
   <channel id="파김치갱다이어리">
     <display-name>파김치갱:다이어리</display-name>
-    <display-name>TVING</display-name>
-    <display-name>94</display-name>
-    <display-name>94 파김치갱:다이어리</display-name>
-    <display-name>94 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0846/C52410.png" />
   </channel>
   <channel id="팍스경제">
     <display-name>팍스경제TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>168</display-name>
-    <display-name>168 팍스경제TV</display-name>
-    <display-name>168 LG</display-name>
   </channel>
   <channel id="포켓몬스터">
     <display-name>포켓몬스터</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>78</display-name>
-    <display-name>78 포켓몬스터</display-name>
-    <display-name>78 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F0102_square_20250731144456.png" />
   </channel>
   <channel id="포항kbs1">
     <display-name>포항 KBS1</display-name>
-    <display-name>LG</display-name>
-    <display-name>9</display-name>
-    <display-name>9 포항 KBS1</display-name>
-    <display-name>9 LG</display-name>
   </channel>
   <channel id="포항kbs2">
     <display-name>포항 KBS2</display-name>
-    <display-name>LG</display-name>
-    <display-name>7</display-name>
-    <display-name>7 포항 KBS2</display-name>
-    <display-name>7 LG</display-name>
   </channel>
   <channel id="포항mbc">
     <display-name>포항 MBC</display-name>
-    <display-name>LG</display-name>
-    <display-name>11</display-name>
-    <display-name>11 포항 MBC</display-name>
-    <display-name>11 LG</display-name>
   </channel>
   <channel id="폴라리스">
     <display-name>폴라리스TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>134</display-name>
-    <display-name>134 폴라리스TV</display-name>
-    <display-name>134 LG</display-name>
   </channel>
   <channel id="프로보노">
     <display-name>프로보노</display-name>
-    <display-name>TVING</display-name>
-    <display-name>102</display-name>
-    <display-name>102 프로보노</display-name>
-    <display-name>102 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0236/C52452.png" />
   </channel>
   <channel id="플레이런">
     <display-name>플레이런TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>311</display-name>
-    <display-name>311 플레이런TV</display-name>
-    <display-name>311 LG</display-name>
   </channel>
   <channel id="플레이보이">
     <display-name>플레이보이</display-name>
-    <display-name>LG</display-name>
-    <display-name>390</display-name>
-    <display-name>390 플레이보이</display-name>
-    <display-name>390 LG</display-name>
   </channel>
   <channel id="핑크하우스">
     <display-name>핑크하우스</display-name>
-    <display-name>LG</display-name>
-    <display-name>395</display-name>
-    <display-name>395 핑크하우스</display-name>
-    <display-name>395 LG</display-name>
   </channel>
   <channel id="하이라이트TV">
     <display-name>하이라이트TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>68</display-name>
-    <display-name>68 하이라이트TV</display-name>
-    <display-name>68 LG</display-name>
   </channel>
   <channel id="하트시그널시즌2">
     <display-name>하트시그널 시즌2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>121</display-name>
-    <display-name>121 하트시그널 시즌2</display-name>
-    <display-name>121 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260707/0537/C52478.png" />
   </channel>
   <channel id="한경arte">
     <display-name>한경arteTV</display-name>
-    <display-name>LG</display-name>
-    <display-name>230</display-name>
-    <display-name>230 한경arteTV</display-name>
-    <display-name>230 LG</display-name>
   </channel>
   <channel id="한국경제">
     <display-name>한국경제TV</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>11</display-name>
-    <display-name>11 한국경제TV</display-name>
-    <display-name>11 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/F2101_square_20250731144725.png" />
   </channel>
   <channel id="한국낚시방송">
     <display-name>한국낚시방송</display-name>
-    <display-name>LG</display-name>
-    <display-name>122</display-name>
-    <display-name>122 한국낚시방송</display-name>
-    <display-name>122 LG</display-name>
   </channel>
   <channel id="허니">
     <display-name>허니TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>393</display-name>
-    <display-name>393 허니TV</display-name>
-    <display-name>393 LG</display-name>
   </channel>
   <channel id="헬로tv뉴스">
     <display-name>헬로tv뉴스</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>123</display-name>
-    <display-name>123 헬로tv뉴스</display-name>
-    <display-name>123 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/J5101_square_20260806134014.png" />
   </channel>
   <channel id="헬스메디">
     <display-name>헬스메디TV</display-name>
-    <display-name>LG</display-name>
-    <display-name>175</display-name>
-    <display-name>175 헬스메디TV</display-name>
-    <display-name>175 LG</display-name>
   </channel>
   <channel id="현대홈쇼핑">
     <display-name>현대홈쇼핑</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>17</display-name>
-    <display-name>17 현대홈쇼핑</display-name>
-    <display-name>17 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4101_square_20250731142704.png" />
   </channel>
   <channel id="현대홈쇼핑+샵">
     <display-name>현대홈쇼핑+샵</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>21</display-name>
-    <display-name>21 현대홈쇼핑+샵</display-name>
-    <display-name>21 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C4102_square_20250731142739.png" />
   </channel>
   <channel id="호텔델루나">
     <display-name>호텔 델루나</display-name>
-    <display-name>WAVVE</display-name>
-    <display-name>130</display-name>
-    <display-name>130 호텔 델루나</display-name>
-    <display-name>130 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/C3521_square_20260707134333.png" />
   </channel>
   <channel id="홈&amp;쇼핑">
     <display-name>홈&amp;쇼핑</display-name>
-    <display-name>SK</display-name>
-    <display-name>12</display-name>
-    <display-name>12 홈&amp;쇼핑</display-name>
-    <display-name>12 SK</display-name>
   </channel>
   <channel id="홈앤쇼핑">
     <display-name>홈앤쇼핑</display-name>
-    <display-name>LG</display-name>
-    <display-name>4</display-name>
-    <display-name>4 홈앤쇼핑</display-name>
-    <display-name>4 LG</display-name>
   </channel>
   <channel id="환승연애시즌1">
     <display-name>환승연애 시즌1</display-name>
-    <display-name>TVING</display-name>
-    <display-name>60</display-name>
-    <display-name>60 환승연애 시즌1</display-name>
-    <display-name>60 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260211/0456/C52118.png" />
   </channel>
   <channel id="환승연애시즌2">
     <display-name>환승연애 시즌2</display-name>
-    <display-name>TVING</display-name>
-    <display-name>61</display-name>
-    <display-name>61 환승연애 시즌2</display-name>
-    <display-name>61 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260211/0456/C52119.png" />
   </channel>
   <channel id="효리네민박1">
     <display-name>효리네민박1</display-name>
-    <display-name>TVING</display-name>
-    <display-name>32</display-name>
-    <display-name>32 효리네민박1</display-name>
-    <display-name>32 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0144/C51370.png" />
   </channel>
   <channel id="히든싱어">
     <display-name>히든싱어</display-name>
-    <display-name>TVING</display-name>
-    <display-name>54</display-name>
-    <display-name>54 히든싱어</display-name>
-    <display-name>54 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0145/C52071.png" />
   </channel>
   <channel id="히스토리">
     <display-name>히스토리</display-name>
-    <display-name>TVING</display-name>
-    <display-name>30</display-name>
-    <display-name>30 히스토리</display-name>
-    <display-name>30 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0037/C17341.png" />
   </channel>
   <channel id="힐링의新na">
     <display-name>힐링의 新 NA</display-name>
-    <display-name>TVING</display-name>
-    <display-name>108</display-name>
-    <display-name>108 힐링의 新 NA</display-name>
-    <display-name>108 TVING</display-name>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0701/C52462.png" />
   </channel>
   <programme start="20261028235411 +0900" stop="20261029022051 +0900" channel="&lt;대탈출더스토리&gt;같이볼래?">
@@ -10065,7 +7669,7 @@
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="CJB 청주방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -10076,7 +7680,7 @@
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="CJB 청주방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -10096,7 +7700,7 @@
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="CJB 청주방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -23541,7 +21145,7 @@
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="G1 방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -23552,7 +21156,7 @@
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="G1 방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -23572,7 +21176,7 @@
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="G1 방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -26852,7 +24456,7 @@
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -26863,7 +24467,7 @@
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -26883,7 +24487,7 @@
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -29414,7 +27018,7 @@
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="KBC 광주방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -29425,7 +27029,7 @@
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="KBC 광주방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -29445,7 +27049,7 @@
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="KBC 광주방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -48025,7 +45629,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="SBS">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -48036,7 +45640,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029223000 +0900" channel="SBS">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -48046,7 +45650,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="SBS">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -52269,7 +49873,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="TBC 대구방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -52280,7 +49884,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="TBC 대구방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -52300,7 +49904,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="TBC 대구방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -58783,7 +56387,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="UBC 울산방송">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -58794,7 +56398,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221000 +0900" channel="UBC 울산방송">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -58814,7 +56418,7 @@ NBS특집다큐 3부작</desc>
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="UBC 울산방송">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
@@ -227340,7 +224944,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </rating>
   </programme>
   <programme start="20261029181000 +0900" stop="20261029215000 +0900" channel="tjb">
-    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)</title>
+    <title lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주)</title>
     <desc lang="ko">2026 프로야구 플레이오프 3차전,삼성:KIA(광주) / (2안)
 장르 : 스포츠
 등급 : 전체 관람가</desc>
@@ -227351,7 +224955,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </rating>
   </programme>
   <programme start="20261029215000 +0900" stop="20261029221500 +0900" channel="tjb">
-    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+    <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스 / (2안)
 장르 : 뉴스/정보
 등급 : 전체 관람가</desc>
@@ -227381,7 +224985,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </rating>
   </programme>
   <programme start="20261029223000 +0900" stop="20261029235000 +0900" channel="tjb">
-    <title lang="ko">거장항준 / (2안)</title>
+    <title lang="ko">거장항준</title>
     <desc lang="ko">거장항준 / (2안)
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
