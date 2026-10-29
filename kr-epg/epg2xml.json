@@ -10,10 +10,6 @@
     "ADD_CHANNEL_ICON": true,
     "HTTP_PROXY": null
   },
-  "KT": {
-    "ENABLED": false,
-    "MY_CHANNELS": "*"
-  },
   "WAVVE": {
     "ENABLED": true,
     "MY_CHANNELS": "*"
@@ -23,15 +19,22 @@
     "MY_CHANNELS": "*"
   },
   "LG": {
-    "MY_CHANNELS": []
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
   },
   "SK": {
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
+  },
+  "NAVER": {
+    "ENABLED": true,
+    "MY_CHANNELS": "*"
+  },
+  "KT": {
+    "ENABLED": false,
     "MY_CHANNELS": []
   },
   "DAUM": {
-    "MY_CHANNELS": []
-  },
-  "NAVER": {
     "MY_CHANNELS": []
   },
   "SPOTV": {

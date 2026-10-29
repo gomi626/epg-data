@@ -1,18 +1,54 @@
 {
   "ALIASES": {
-    "KBS1": ["KBS 1TV", "KBS1 TV"],
-    "KBS2": ["KBS 2TV", "KBS2 TV"],
-    "MBC": ["MBC TV"],
-    "SBS": ["SBS TV"],
-    "EBS1": ["EBS 1TV", "EBS"],
-    "EBS2": ["EBS 2TV"],
-    "JTBC": ["JTBC TV"],
-    "MBN": ["매일방송"],
-    "TV조선": ["TV CHOSUN", "TV Chosun", "TVCHOSUN"],
-    "채널A": ["Channel A", "CHANNEL A"],
-    "연합뉴스TV": ["연합뉴스 TV", "YonhapnewsTV"],
-    "YTN": ["YTN 뉴스"],
-    "tvN": ["tvN HD"]
+    "KBS1": [
+      "KBS 1TV",
+      "KBS1 TV"
+    ],
+    "KBS2": [
+      "KBS 2TV",
+      "KBS2 TV"
+    ],
+    "MBC": [
+      "MBC TV"
+    ],
+    "SBS": [
+      "SBS TV"
+    ],
+    "EBS1": [
+      "EBS 1TV",
+      "EBS"
+    ],
+    "EBS2": [
+      "EBS 2TV"
+    ],
+    "JTBC": [
+      "JTBC TV"
+    ],
+    "MBN": [
+      "매일방송"
+    ],
+    "TV조선": [
+      "TV CHOSUN",
+      "TV Chosun",
+      "TVCHOSUN"
+    ],
+    "채널A": [
+      "Channel A",
+      "CHANNEL A"
+    ],
+    "연합뉴스TV": [
+      "연합뉴스 TV",
+      "YonhapnewsTV"
+    ],
+    "YTN": [
+      "YTN 뉴스"
+    ],
+    "tvN": [
+      "tvN HD"
+    ]
   },
-  "EXCLUDE": []
+  "EXCLUDE": [],
+  "EXCLUDE_PATTERNS": [
+    "월정액"
+  ]
 }

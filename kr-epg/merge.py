@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""epg2xml 결과(KT·WAVVE·TVING 전체)를 우선순위대로 중복 제거해 하나의 XMLTV로 합친다.
+"""epg2xml 결과(WAVVE·TVING·LG·SK·NAVER 전체)를 우선순위대로 중복 제거해 하나의 XMLTV로 합친다.
 
 규칙
 - 채널 이름을 정규화해서 같은 채널을 묶는다 (aliases.json으로 보정 가능).
@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
-PRIORITY = ["wavve", "tving", "kt"]  # 앞쪽일수록 우선
+PRIORITY = ["wavve", "tving", "lg", "sk", "naver"]  # 앞쪽일수록 우선
 HERE = Path(__file__).resolve().parent
 ALIASES_FILE = HERE / "aliases.json"
 
@@ -35,7 +35,7 @@ def normalize(name: str) -> str:
 def load_aliases():
     """aliases.json → (이름 키 → 고정 ID), (원본 채널 ID → 고정 ID), 제외할 키/원본 ID."""
     if not ALIASES_FILE.exists():
-        return {}, {}, set()
+        return {}, {}, set(), []
     data = json.loads(ALIASES_FILE.read_text(encoding="utf-8"))
     by_key, by_srcid = {}, {}
     for canon, names in data.get("ALIASES", {}).items():
@@ -47,7 +47,8 @@ def load_aliases():
             else:
                 by_key[normalize(n)] = canon
     exclude = {normalize(x) if x.rsplit(".", 1)[-1] not in PRIORITY else x for x in data.get("EXCLUDE", [])}
-    return by_key, by_srcid, exclude
+    patterns = [re.compile(x, re.I) for x in data.get("EXCLUDE_PATTERNS", [])]
+    return by_key, by_srcid, exclude, patterns
 
 
 def main(raw_path, out_path, report_path=None):
@@ -57,7 +58,7 @@ def main(raw_path, out_path, report_path=None):
         print(f"::error::epg2xml 결과를 읽을 수 없습니다: {e}")
         return 1
 
-    by_key, by_srcid, exclude = load_aliases()
+    by_key, by_srcid, exclude, patterns = load_aliases()
 
     progs_by_ch = defaultdict(list)
     for p in root.findall("programme"):
@@ -72,7 +73,7 @@ def main(raw_path, out_path, report_path=None):
             continue
         name = ch.findtext("display-name") or src_id
         key = normalize(name)
-        if src_id in exclude or key in exclude:
+        if src_id in exclude or key in exclude or any(r.search(name) for r in patterns):
             continue
         canon = by_srcid.get(src_id) or by_key.get(key) or key
         # 같은 제공자 안에 같은 이름이 여럿이면 프로그램이 더 많은 쪽 사용
@@ -119,17 +120,23 @@ def main(raw_path, out_path, report_path=None):
 
     total = sum(stats.values())
     print(f"채널 {total}개 (중복 제거 전 {len(root.findall('channel'))}개), 프로그램 {len(out_progs)}개")
+    fetched = defaultdict(int)  # 제공자별로 편성 데이터를 실제로 받은 채널 수
+    for cid, progs in progs_by_ch.items():
+        if progs:
+            fetched[cid.rsplit(".", 1)[-1]] += 1
     for p in PRIORITY:
-        print(f"  {p.upper():6} {stats[p]}개")
-        if stats[p] == 0:
-            print(f"::warning::{p.upper()}에서 채택된 채널이 없습니다 (해외 IP 차단 가능성 — EPG2XML_PROXY 확인)")
+        print(f"  {p.upper():6} 채택 {stats[p]:3}개 / 수집 {fetched[p]:3}개")
+        if fetched[p] == 0:
+            print(f"::warning::{p.upper()}에서 편성 데이터를 하나도 받지 못했습니다 (접속 차단·장애 가능성 — 실행 주석 확인)")
 
     if report_path:
         lines = [
             "# KR EPG 중복 제거 결과",
             "",
             f"우선순위: {' > '.join(p.upper() for p in PRIORITY)} · 채널 {total}개 · "
-            + " · ".join(f"{p.upper()} {stats[p]}" for p in PRIORITY),
+            + " · ".join(f"{p.upper()} {stats[p]}/{fetched[p]}" for p in PRIORITY),
+            "",
+            "제공자 옆 숫자는 `채택/수집` 채널 수. 표 안 괄호는 받은 프로그램 수, **굵게** 표시가 채택된 쪽.",
             "",
             "같은 채널인데 다른 줄로 나뉘어 있으면 `aliases.json`에 묶어주세요.",
             "",

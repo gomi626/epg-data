@@ -33,7 +33,7 @@ env:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120   # 전체 수집 25~30분 예상
     steps:
       - uses: actions/checkout@v5
 
@@ -89,7 +89,7 @@ jobs:
             | grep -vE "retrying [0-9]" | cut -c1-400 | sort -u | head -9 \
             | sed 's/^/::warning title=epg2xml::/' || true
 
-      - name: Merge (WAVVE > TVING > KT, 중복 제거)
+      - name: Merge (WAVVE > TVING > LG > SK > NAVER, 중복 제거)
         if: inputs.mode != 'update_channels' && inputs.mode != 'test'
         # 실패(빈 결과·손상)하면 기존 kr_epg.xml은 그대로 두고 이 단계만 실패 처리
         run: |
