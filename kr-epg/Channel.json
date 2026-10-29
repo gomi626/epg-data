@@ -1,9 +1,4 @@
 {
-  "KT": {
-    "UPDATED": "2026-10-29T01:51:45.236199",
-    "TOTAL": 0,
-    "CHANNELS": []
-  },
   "WAVVE": {
     "UPDATED": "2026-10-29T01:51:45.236211",
     "TOTAL": 154,
@@ -345,5 +340,10 @@
       { "Name": "삼시세끼 어촌편1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C08683.png", "ServiceId": "C08683", "Category": "음악/오락" },
       { "Name": "공영홈쇼핑", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260729/0207/C52480.png", "ServiceId": "C52480", "Category": "여성/홈쇼핑" }
     ]
+  },
+  "KT": {
+    "UPDATED": "2026-10-29T01:56:36.889910",
+    "TOTAL": 0,
+    "CHANNELS": []
   }
 }
