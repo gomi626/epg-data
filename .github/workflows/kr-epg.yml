@@ -57,6 +57,14 @@ jobs:
               --xmlfile "$RUNNER_TEMP/new.xml" --parallel 2>&1 | tee epg2xml.log
           fi
 
+      - name: Surface epg2xml errors
+        # 제공자 오류를 실행 화면 상단 주석으로 표시 (로그를 열지 않아도 원인 확인 가능)
+        if: always()
+        run: |
+          grep -E "(WARNING|ERROR) +PROV" epg2xml.log 2>/dev/null \
+            | grep -vE "retrying [0-9]" | cut -c1-400 | sort -u | head -9 \
+            | sed 's/^/::warning title=epg2xml::/' || true
+
       - name: Merge (WAVVE > TVING > KT, 중복 제거)
         if: inputs.mode != 'update_channels'
         # 실패(빈 결과·손상)하면 기존 kr_epg.xml은 그대로 두고 이 단계만 실패 처리
