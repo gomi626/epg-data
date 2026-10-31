@@ -6,1027 +6,6 @@
     <display-name>NHK G</display-name>
     <icon src="https://img.nhk.jp/common/broadcastservice/bs/g1/g1-logo_1080x1080.png" />
   </channel>
-  <programme start="20261031050000 +0900" stop="20261031051000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <sub-title lang="ja">2026年10月31日午前05時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">g1-060-2026103105704</episode-num>
-  </programme>
-  <programme start="20261031051000 +0900" stop="20261031053500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">うまいッ！　選　鮮度が命！甘だい　～山口・萩市～</title>
-    <sub-title lang="ja">鮮度が命!甘だい 〜山口・萩市〜</sub-title>
-    <desc lang="ja">甘だいの水揚げ日本一の山口県を食材ハンター本田剛文さんが訪ねる。同い年の漁師からエサの付け方を習うが１日に２５００も必要と聞き衝撃。また海底に穴を掘って潜む甘だいのポイントを探す難しさ、釣った魚の鮮度を保つ“いけじめ”の技、徹底した温度管理で美しい姿を守る術をご紹介。さらにはフレンチと融合させた絶品料理、うろこを活用した新食感グルメなど、地域の人達が一丸となって日本一の産地を支える試みを伝える。</desc>
-    <credits>
-      <actor role="司会">天野ひろゆき</actor>
-      <actor role="司会">塚原愛</actor>
-      <actor role="リポーター">本田剛文</actor>
-      <actor role="リポーター">堀田智之</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">グルメ・料理</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">料理バラエティ</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">g1-060-2026103105705</episode-num>
-  </programme>
-  <programme start="20261031053500 +0900" stop="20261031054000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ワンポイント手話（１７）乗り物※字幕スーパー</title>
-    <desc lang="ja">日常生活に欠かせない初歩的な手話の単語や会話を２５回に分けて紹介します。通しでごらんいただき、最終的には手話で簡単な自己紹介ができるようになるのが目標です。講師の河合優子さん、サブ講師の所智子さん、生徒役石川寛和さんはいずれも、中途失聴および難聴の当事者です。自転車、バス、電車、地下鉄などの単語を学びます。
-※字幕スーパー</desc>
-    <credits>
-      <actor role="出演">河合優子</actor>
-      <actor role="出演">所智子</actor>
-      <actor role="出演">石川寛和</actor>
-    </credits>
-    <category lang="ja">福祉</category>
-    <category lang="ja">手話</category>
-    <episode-num system="nhk-id">g1-060-2026103105714</episode-num>
-  </programme>
-  <programme start="20261031054000 +0900" stop="20261031055000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫ映像ファイル　あの人に会いたい　鈴木光司（作家）</title>
-    <desc lang="ja">鈴木光司さんは１９５７年静岡県生まれ。小学６年生の時初めて小説を書き、大学卒業後自宅で学習塾を開きながら作家修業。２６歳で結婚後は家事育児を担い、３３歳で小説家デビュー。翌年「リング」を発表した。“恐怖のビデオテープ”で読者を鷲づかみにするが、その着想のきっかけは意外だった。「リング」シリーズは呪いのメカニズムを科学的に説明するなど進化してゆく。そして鈴木さんの作品には共通するあるテーマがあった！</desc>
-    <credits>
-      <actor role="出演">鈴木光司</actor>
-      <actor role="語り">首藤奈知子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <category lang="ja">インタビュー・討論</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">芸能・ワイドショー</category>
-    <episode-num system="nhk-id">g1-060-2026103105715</episode-num>
-  </programme>
-  <programme start="20261031055000 +0900" stop="20261031055500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">気象情報</title>
-    <sub-title lang="ja">2026年10月31日午前05時50分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">g1-060-2026103105716</episode-num>
-  </programme>
-  <programme start="20261031055500 +0900" stop="20261031055800 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">にっぽん百名山ミニ　３ｍｉｎ「秋　大日岳」</title>
-    <desc lang="ja">富山県の立山連峰に連なる大日岳をめざす山旅！称名滝から急な尾根を登り、緑の湿原・大日平へ、ラムサール条約に登録された国内の湿原の中で、大日平は最も標高の高い所にあるため、秋の色づきも早い！さらに標高差７００ｍの急登の岩場を越え、大日岳（２５０１ｍ）の山頂へ、稜線の先には大日連峰最高峰の奥大日岳（２６１１ｍ）、その向こうには剱立山連峰が望める。案内は立山の芦峅寺で代々ガイドを務める佐伯知彦さん。</desc>
-    <credits>
-      <actor role="出演">佐伯知彦</actor>
-      <actor role="語り">鈴木麻里子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">自然・動物・環境</category>
-    <episode-num system="nhk-id">g1-060-2026103105718</episode-num>
-  </programme>
-  <programme start="20261031055800 +0900" stop="20261031060000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">巡る日本絶景　和歌山・串本</title>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026103105719</episode-num>
-  </programme>
-  <programme start="20261031060000 +0900" stop="20261031063000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫニュース　おはよう日本　Ｇ２０　外相会合が開幕</title>
-    <desc lang="ja">▼Ｇ２０　外相会合が開幕　▼長雨・日照不足の影響　野菜の高値続く　
-１日のスタートに、国内外の最新ニュースをわかりやすく、コンパ
-クトに。気になるニュースの解説、スポーツ情報も。気象情報は詳
-しくお伝えします。</desc>
-    <credits>
-      <presenter>井上二郎</presenter>
-      <presenter>赤木野々花</presenter>
-      <presenter>清水敬亮</presenter>
-      <presenter>南利幸</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">特集・ドキュメント</category>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">スポーツニュース</category>
-    <episode-num system="nhk-id">g1-060-2026103105721</episode-num>
-  </programme>
-  <programme start="20261031063000 +0900" stop="20261031070000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫニュース　おはよう日本　ニュースをまとめてチェック</title>
-    <desc lang="ja">▼暗号資産大手も被害か　▼米中間選挙　マイノリティー票のゆくえは　▼中継　パラスポーツ体験イベント
-激動の世界、今週おきたニュースをまとめてお伝えします。特派員
-が世界各地からリポート。ニュースの背景をわかりやすく紐解きま
-す。気象情報も詳しく。</desc>
-    <credits>
-      <presenter>井上二郎</presenter>
-      <presenter>赤木野々花</presenter>
-      <presenter>清水敬亮</presenter>
-      <presenter>南利幸</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">特集・ドキュメント</category>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">スポーツニュース</category>
-    <episode-num system="nhk-id">g1-060-2026103105724</episode-num>
-  </programme>
-  <programme start="20261031070000 +0900" stop="20261031073000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫニュース　おはよう日本　Ｇ２０　外相会合が開幕</title>
-    <desc lang="ja">▼Ｇ２０　外相会合が開幕　▼暗号資産大手も被害か　▼特集　火山マイスター世界へ　
-国内外の最新ニュースをわかりやすくコンパクトに。気になる現場
-からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょ
-うの気象情報も詳しくお伝えします。</desc>
-    <credits>
-      <presenter>井上二郎</presenter>
-      <presenter>赤木野々花</presenter>
-      <presenter>清水敬亮</presenter>
-      <presenter>南利幸</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">特集・ドキュメント</category>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">スポーツニュース</category>
-    <episode-num system="nhk-id">g1-060-2026103105727</episode-num>
-  </programme>
-  <programme start="20261031073000 +0900" stop="20261031080000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ウイークエンド東北▽４人で金賞！吹奏楽▽避難訓練で留学生は</title>
-    <sub-title lang="ja">2026年10月31日午前07時30分</sub-title>
-    <desc lang="ja">土曜の朝、すてきな東北へ▽朝いちばんの表情を最新ニュースとともに▽地域の自慢や隠れた魅力▽充実の気象情報　週末に元気を届けます！　
-▽ニュース・気象情報
-▽天カメリレー</desc>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <episode-num system="nhk-id">g1-060-2026103140366</episode-num>
-  </programme>
-  <programme start="20261031080000 +0900" stop="20261031081500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【連続テレビ小説】ブラッサム　第５週「狂騒で、東京」</title>
-    <desc lang="ja">東京・本郷で、珠（石橋静河）と保（金子大地）は、下宿の大家に自分たちが兄妹だと嘘をつきながら同居していた。保は大学に通い、珠は保の世話と家事をする暮らし。そんな中、珠は近所の書店で、若手一番の作家、秋山格之介（高良健吾）や「イワンの馬鹿」を翻訳した作家、小山牛丸（イッセー尾形）と出会い、大きな刺激を受ける。そんな中、下宿の大家の娘・三好マキ（中村優子）が、珠と保は兄妹ではないと疑い始める…。</desc>
-    <credits>
-      <actor role="出演">石橋静河</actor>
-      <actor role="出演">金子大地</actor>
-      <actor role="出演">高良健吾</actor>
-      <actor role="出演">赤堀雅秋</actor>
-      <actor role="出演">中村優子</actor>
-      <actor role="出演">大窪人衛</actor>
-      <actor role="出演">北野秀気</actor>
-      <actor role="出演">瀬戸さおり</actor>
-      <actor role="出演">斎藤司</actor>
-      <actor role="出演">愛</actor>
-      <actor role="出演">誠</actor>
-      <actor role="出演">井浦新</actor>
-      <actor role="出演">遠藤憲一</actor>
-      <actor role="作">櫻井剛</actor>
-      <actor role="音楽">ｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎ</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105733</episode-num>
-  </programme>
-  <programme start="20261031081500 +0900" stop="20261031090000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">チコちゃんに叱られる！ソフトクリームの謎▽ペンギンの謎▽くわばらの謎</title>
-    <desc lang="ja">ソフトクリームをどこでも売っているのはなぜ？…その裏にはソフトクリームとあの国民的大スターとのまさかの関係が！？ペンギンが飛ばないのはなぜ？…この難問をばっちりと正解したのは一体誰！？怖いときに“くわばらくわばら”というのはなぜ？…日本史上のミステリーが謎を解くカギ！？割り箸のキレイな割り方発表会！ゲストは近藤真彦さんとゆうちゃみさん！マッチが叱られるのはどんなとき？</desc>
-    <credits>
-      <actor role="出演">岡村隆史</actor>
-      <actor role="ゲスト">近藤真彦</actor>
-      <actor role="ゲスト">ゆうちゃみ</actor>
-      <actor role="リポーター">塚原愛</actor>
-      <actor role="声">木村祐一</actor>
-      <actor role="語り">森田美由紀</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">クイズ</category>
-    <episode-num system="nhk-id">g1-060-2026103105734</episode-num>
-  </programme>
-  <programme start="20261031090000 +0900" stop="20261031092900 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ダーウィンが来た！「完全密着！最強のトラ」</title>
-    <sub-title lang="ja">「密着!インド トラ王国」</sub-title>
-    <desc lang="ja">インド中部にあるタドバ・アンダリ・トラ保護区。普通、出会うことすら難しいベンガルトラが、ここでは狭いエリアに高密度で生息している。世界最大級の野生ウシ・ガウルを執ように追跡する意外な狩りや、猛獣ナマケグマとの激しい攻防をカメラがとらえた！▼縄張りを支配するオスとの関係を巧みにコントロールしながら、我が子を守り抜く母トラの物語▼“トラ王国”で繰り広げられる、波乱万丈のストーリーをお届けする。</desc>
-    <credits>
-      <actor role="出演">浅井理</actor>
-      <actor role="声">龍田直樹</actor>
-      <actor role="声">山田孝之</actor>
-      <actor role="声">水瀬いのり</actor>
-      <actor role="声">西村ちなみ</actor>
-      <actor role="語り">豊嶋真千子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">自然・動物・環境</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">旅・釣り・アウトドア</category>
-    <episode-num system="nhk-id">g1-060-2026103105735</episode-num>
-  </programme>
-  <programme start="20261031092900 +0900" stop="20261031093000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">おしらせ</title>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <episode-num system="nhk-id">g1-060-2026103144534</episode-num>
-  </programme>
-  <programme start="20261031093000 +0900" stop="20261031094500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">被災地からの声　つぎの一歩　福島県広野町</title>
-    <desc lang="ja">東日本大震災の９日後に始まった「被災地からの声」。「いま一番伝えたいこと」を語ってもらうスタイルを貫く。これまで約６２００人が出演。１６年目の今年は、取材してきた声の蓄積をいかし、被災地の１５年の歩みを「声」でたどる。今回は福島県広野町。東京電力福島第一原発の事故後、町の判断で全町避難を決めた。小学４年生で避難を経験した女性と、避難指示の解除後、いち早くコメ作りを再開させた農家の１５年を振り返る。</desc>
-    <credits>
-      <actor role="出演">津田喜章</actor>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">インタビュー・討論</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103140448</episode-num>
-  </programme>
-  <programme start="20261031094500 +0900" stop="20261031100000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＲＡＭＥＮ　ＪＡＰＡＮ　福島</title>
-    <desc lang="ja">福島の喜多方と白河を巡る旅▽札幌みそや博多豚骨と並ぶ「喜多方ラーメン」ならでは！？朝７時からラーメン屋に長蛇の列▽人口４万人ほどの街がラーメンで一躍有名に！▽自家製手打ち麺が特徴の「白河ラーメン」を作り上げた男▽この番組はＮＨＫワールドＪＡＰＡＮで放送した英語版を日本語にしたものです▽英語版：ｈｔｔｐｓ：／／ｗｗｗ３．ｎｈｋ．ｏｒ．ｊｐ／ｎｈｋｗｏｒｌｄ／ｅｎ／ｓｈｏｗｓ／ｒａｍｅｎｊａｐａｎ／</desc>
-    <credits>
-      <actor role="語り">大塚明夫</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">グルメ・料理</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026103140449</episode-num>
-  </programme>
-  <programme start="20261031100000 +0900" stop="20261031100500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <sub-title lang="ja">2026年10月31日午前10時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">g1-060-2026103105747</episode-num>
-  </programme>
-  <programme start="20261031100500 +0900" stop="20261031103300 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">東北ココから　迫るクマ　私たちはどう変わる？</title>
-    <desc lang="ja">この夏、岩手県雫石町に現れた家に繰り返し侵入するクマ。台所や居間を探し回り、砂糖やクッキーを食べていた。専門家は「学習能力の高いクマは一度味をしめると強く執着する」と警鐘を鳴らす。取材班は、酪農の町・葛巻町で住民が力を合わせ飼料用トウモロコシを守る現場に密着。対策を他人まかせにせず、クマの出没情報をいち早く集めて猟友会などに知らせ、被害を抑える取り組みを取材した。命と暮らしを守る最新情報が満載！</desc>
-    <credits>
-      <actor role="語り">大沼ひろみ</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <episode-num system="nhk-id">g1-060-2026103140450</episode-num>
-  </programme>
-  <programme start="20261031103300 +0900" stop="20261031110800 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">有吉のお金発見　突撃！カネオくん　シーズン到来！「おでん」の秘密大調査</title>
-    <sub-title lang="ja">ホカホカ!シミシミ!おでんのお金のヒミツ</sub-title>
-    <desc lang="ja">コロッケやクロワッサンがおでんの具に！進化系おでんの最前線を大調査！さらにコンビニおでんの製造工場に潜入！大根やしらたきにダシを“しみしみ”にさせる驚きの技術から、職人が手作業で仕上げる「餅きんちゃく」まで…おいしさのヒミツを特別公開！全国のご当地おでんも徹底調査！日本有数のおでんの町、金沢の高級おでん具材「カニ面」とは？福岡県民には当たり前！？博多おでんの知られざる人気具材に有吉もビックリ！</desc>
-    <credits>
-      <actor role="司会">有吉弘行</actor>
-      <actor role="出演">田牧そら</actor>
-      <actor role="ゲスト">京本政樹</actor>
-      <actor role="ゲスト">滝沢カレン</actor>
-      <actor role="ゲスト">山崎弘也</actor>
-      <actor role="語り">ノブ</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <episode-num system="nhk-id">g1-060-2026103105750</episode-num>
-  </programme>
-  <programme start="20261031110800 +0900" stop="20261031115400 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">鶴瓶の家族に乾杯「風、薫る」研ナオコが茅ヶ崎で自由過ぎるひとり旅</title>
-    <desc lang="ja">朝ドラ「風、薫る」に出演中の研ナオコの神奈川県茅ケ崎市の旅、後編。人見知りの研がキャンピングカーで名古屋から北海道まで引っ越し中の夫婦と意気投合し、トークを展開！その後、地元で人気の酒蔵をリノベーションしたカフェを訪ね、お客さんとも交流。そしてソフトクリーム店では思いがけない縁に大喜び！鶴瓶は６３歳の男性と出会いサーフィンの魅力に触れる。商店街では、研究を重ねたキャロットケーキの美味しさにも感動！</desc>
-    <credits>
-      <actor role="司会">笑福亭鶴瓶</actor>
-      <actor role="出演">研ナオコ</actor>
-      <actor role="アナウンサー">小野文惠</actor>
-      <actor role="語り">常盤貴子</actor>
-      <actor role="語り">三宅民夫</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">旅バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026103105757</episode-num>
-  </programme>
-  <programme start="20261031115400 +0900" stop="20261031120000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">気象情報</title>
-    <sub-title lang="ja">2026年10月31日午前11時54分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">g1-060-2026103105763</episode-num>
-  </programme>
-  <programme start="20261031120000 +0900" stop="20261031121000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月31日午後00時00分</sub-title>
-    <desc lang="ja">【キャスター】利根川真也</desc>
-    <credits>
-      <presenter>利根川真也</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">g1-060-2026103105765</episode-num>
-  </programme>
-  <programme start="20261031121000 +0900" stop="20261031121500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース（東北）</title>
-    <sub-title lang="ja">2026年10月31日午後00時10分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <episode-num system="nhk-id">g1-060-2026103140368</episode-num>
-  </programme>
-  <programme start="20261031121500 +0900" stop="20261031124000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">探検ファクトリー　選　セロハンテープ工場　身近なのに知らないことだらけ</title>
-    <sub-title lang="ja">埼玉・セロハンテープ工場 身近なのに知らないことだらけ</sub-title>
-    <desc lang="ja">漫才コンビ・中川家と、すっちーが魅力あふれる工場を“探検”する工場見学バラエティー。今回の舞台は埼玉・日高市にある国内トップシェアのセロハンテープ工場。身近なのに知らないことだらけ。セロハンの原料とは！？あんなに薄いテープが実は４層構造！貼っても模様や文字を邪魔しない透明さを追求するためにここまでやる！？／セロハンテープを知り尽くしたプロが、よくある困りごとを解決する裏技を紹介！</desc>
-    <credits>
-      <actor role="出演">中川家</actor>
-      <actor role="出演">すっちー</actor>
-      <actor role="語り">橋本のりこ</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">旅バラエティ</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <episode-num system="nhk-id">g1-060-2026103105767</episode-num>
-  </programme>
-  <programme start="20261031124000 +0900" stop="20261031124500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">週末のＮスペは…変貌の超大国アメリカ　第１集国家改造　影の設計者たち</title>
-    <desc lang="ja">土田晃之と市川紗椰が『ＮＨＫスペシャル』の魅力についてざっくばらんにトーク！今回は１１月１日放送『変貌の超大国アメリカ　第１集　国家改造　影の設計者たち』。</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">自然・動物・環境</category>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105769</episode-num>
-  </programme>
-  <programme start="20261031124500 +0900" stop="20261031130000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【連続テレビ小説】ブラッサム　第５週「狂騒で、東京」</title>
-    <desc lang="ja">東京・本郷で、珠（石橋静河）と保（金子大地）は、下宿の大家に自分たちが兄妹だと嘘をつきながら同居していた。保は大学に通い、珠は保の世話と家事をする暮らし。そんな中、珠は近所の書店で、若手一番の作家、秋山格之介（高良健吾）や「イワンの馬鹿」を翻訳した作家、小山牛丸（イッセー尾形）と出会い、大きな刺激を受ける。そんな中、下宿の大家の娘・三好マキ（中村優子）が、珠と保は兄妹ではないと疑い始める…。</desc>
-    <credits>
-      <actor role="出演">石橋静河</actor>
-      <actor role="出演">金子大地</actor>
-      <actor role="出演">高良健吾</actor>
-      <actor role="出演">赤堀雅秋</actor>
-      <actor role="出演">中村優子</actor>
-      <actor role="出演">大窪人衛</actor>
-      <actor role="出演">北野秀気</actor>
-      <actor role="出演">瀬戸さおり</actor>
-      <actor role="出演">斎藤司</actor>
-      <actor role="出演">愛</actor>
-      <actor role="出演">誠</actor>
-      <actor role="出演">井浦新</actor>
-      <actor role="出演">遠藤憲一</actor>
-      <actor role="作">櫻井剛</actor>
-      <actor role="音楽">ｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎ</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105770</episode-num>
-  </programme>
-  <programme start="20261031130000 +0900" stop="20261031130500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <sub-title lang="ja">2026年10月31日午後01時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">g1-060-2026103105771</episode-num>
-  </programme>
-  <programme start="20261031130500 +0900" stop="20261031135000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">豊臣兄弟！（４１）家康の野望</title>
-    <desc lang="ja">あさひ（倉沢杏菜）の輿入れも功を奏さず、上洛しようとしない家康（松下洸平）。だが秀吉（池松壮亮）がなか（坂井真紀）まで人質に差し出したことで、ついに根負けする。とはいえ、それは形ばかりの上洛だと察した秀長（仲野太賀）は、謁見前夜に接待の場で家康に胸の内をさらけ出し、豊臣が真に手を取り合うべき相手か見極めてほしいと告げる。しかし家康は、この機に乗じて秀吉の懐刀である秀長を暗殺しようと企てていた。</desc>
-    <credits>
-      <actor role="出演">仲野太賀</actor>
-      <actor role="出演">池松壮亮</actor>
-      <actor role="出演">坂井真紀</actor>
-      <actor role="出演">倉沢杏菜</actor>
-      <actor role="出演">迫田孝也</actor>
-      <actor role="出演">渋谷謙人</actor>
-      <actor role="出演">上川周作</actor>
-      <actor role="出演">佳久創</actor>
-      <actor role="出演">松本怜生</actor>
-      <actor role="出演">大地伸永</actor>
-      <actor role="出演">天野ひろゆき</actor>
-      <actor role="出演">山田涼介</actor>
-      <actor role="出演">大東駿介</actor>
-      <actor role="出演">松下洸平</actor>
-      <actor role="出演">谷原章介</actor>
-      <actor role="出演">吉岡秀隆</actor>
-      <actor role="語り">安藤サクラ</actor>
-      <actor role="作">八津弘幸</actor>
-      <actor role="音楽">木村秀彬</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">時代劇</category>
-    <episode-num system="nhk-id">g1-060-2026103105772</episode-num>
-  </programme>
-  <programme start="20261031135000 +0900" stop="20261031135500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">にっぽん百名山ミニ　３ｍｉｎ「秋　出羽三山」</title>
-    <desc lang="ja">【出演】芳賀成史，【語り】鈴木麻里子</desc>
-    <credits>
-      <actor role="出演">芳賀成史</actor>
-      <actor role="語り">鈴木麻里子</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">自然・動物・環境</category>
-    <episode-num system="nhk-id">g1-060-2026103142530</episode-num>
-  </programme>
-  <programme start="20261031135500 +0900" stop="20261031145000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">Ｊリーグ２０２６－２７　Ｊ２第１４節「ヴァンラーレ八戸×モンテディオ山形」</title>
-    <sub-title lang="ja">J2第14節 「ヴァンラーレ八戸×モンテディオ山形」 山形県向け</sub-title>
-    <desc lang="ja">ヴァンラーレ八戸とモンテディオ山形▼青森の揺るがぬ信念か、Ｊ１経験のある山形一丸か▼プライドをかけた“東北同士”の激闘をたっぷり中継▼解説は元日本代表の福西崇史</desc>
-    <credits>
-      <actor role="解説">福西崇史</actor>
-      <actor role="実況">伊田晃都</actor>
-      <actor role="リポート">長江佑奈</actor>
-      <actor role="リポート">伊藤亮太</actor>
-    </credits>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">サッカー</category>
-    <episode-num system="nhk-id">g1-060-2026103142534</episode-num>
-  </programme>
-  <programme start="20261031145000 +0900" stop="20261031160000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">Ｊリーグ２０２６－２７　Ｊ２第１４節「ヴァンラーレ八戸×モンテディオ山形」</title>
-    <sub-title lang="ja">J2第14節「ヴァンラーレ八戸×モンテディオ山形」山形県向け</sub-title>
-    <desc lang="ja">ヴァンラーレ八戸とモンテディオ山形▼青森の揺るがぬ信念か、Ｊ１経験のある山形一丸か▼プライドをかけた“東北同士”の激闘をたっぷり中継▼解説は元日本代表の福西崇史</desc>
-    <credits>
-      <actor role="解説">福西崇史</actor>
-      <actor role="実況">伊田晃都</actor>
-      <actor role="リポート">長江佑奈</actor>
-      <actor role="リポート">伊藤亮太</actor>
-    </credits>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">サッカー</category>
-    <episode-num system="nhk-id">g1-060-2026103142535</episode-num>
-  </programme>
-  <programme start="20261031160000 +0900" stop="20261031162800 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">中川家礼二の沿線いちオシ！選</title>
-    <desc lang="ja">鉄道愛、沿線愛が止まらない！魅惑の沿線グルメや、日本で“ここだけ”の注目スポットなど、首都圏の鉄道沿線を知り尽くすゲストたちによるトークバラエティ！鉄道大好き中川家礼二さんをＭＣに、ミッツ・マングローブさん（相鉄線・東急線沿線代表）、林マヤさん（つくばエクスプレス沿線代表）、益若つばささん（ＪＲ武蔵野線沿線代表）が語り尽くします！司会は伊原弘将アナウンサー、語り糸井羊司アナウンサー</desc>
-    <credits>
-      <actor role="司会">中川家礼二</actor>
-      <actor role="司会">伊原弘将</actor>
-      <actor role="ゲスト">林マヤ</actor>
-      <actor role="ゲスト">益若つばさ</actor>
-      <actor role="ゲスト">ミッツ・マングローブ</actor>
-      <actor role="語り">糸井羊司</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <episode-num system="nhk-id">g1-060-2026103110227</episode-num>
-  </programme>
-  <programme start="20261031162800 +0900" stop="20261031163000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ドラマ１０「会社員」毎週火曜夜１０時、放送中！</title>
-    <sub-title lang="ja">2分版</sub-title>
-    <desc lang="ja">一体どうなる…英理子（吉田羊）から目がはなせない！極限のオフィス・サスペンス、ドラマ１０「会社員」毎週火曜日夜１０時から放送中！るり（南沙良）、寺田（加藤清史郎）、山岸（小久保寿人）、正則（田中直樹）、安西（尾美としのり）たちの動きにも注目！この後、大きく展開していく中盤の物語。是非ご覧下さい。</desc>
-    <credits>
-      <actor role="出演">吉田羊</actor>
-      <actor role="出演">南沙良</actor>
-      <actor role="出演">加藤清史郎</actor>
-      <actor role="出演">小久保寿人</actor>
-      <actor role="出演">前川泰之</actor>
-      <actor role="出演">田中直樹</actor>
-      <actor role="出演">尾美としのり</actor>
-      <actor role="脚本">名嘉友美</actor>
-      <actor role="脚本">松井周</actor>
-      <actor role="脚本">あさか友恵</actor>
-      <actor role="脚本">縦谷宗</actor>
-      <actor role="音楽">ｙｕｍａ　ｙａｍａｇｕｃｈｉ</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103110780</episode-num>
-  </programme>
-  <programme start="20261031163000 +0900" stop="20261031180000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫ新人落語大賞２０２６</title>
-    <desc lang="ja">第１回ＮＨＫ新人落語コンクールから半世紀。数々のスター落語家を輩出してきた夢の舞台です。東京予選９０名、大阪予選３１名のあわせて１２１名が参加。予選を勝ち抜いた東西５名の若手落語家によるＮｏ１を争う話芸の競演です。【出場者】春風亭朝枝、笑福亭笑利、昔昔亭昇、月亭遊真、鈴々舎美馬【審査員】桂文珍、三遊亭萬橘、笑福亭鶴光、立川志らく、露の都、林家彦いち、柳家権太楼【司会】ナイツ、岩﨑果歩アナウンサー</desc>
-    <credits>
-      <actor role="司会">ナイツ</actor>
-      <actor role="司会">岩﨑果歩</actor>
-      <actor role="出演">春風亭朝枝</actor>
-      <actor role="出演">笑福亭笑利</actor>
-      <actor role="出演">月亭遊真</actor>
-      <actor role="出演">昔昔亭昇</actor>
-      <actor role="出演">鈴々舎美馬</actor>
-      <actor role="審査員">柳家権太楼</actor>
-      <actor role="審査員">桂文珍</actor>
-      <actor role="審査員">笑福亭鶴光</actor>
-      <actor role="審査員">露の都</actor>
-      <actor role="審査員">立川志らく</actor>
-      <actor role="審査員">林家彦いち</actor>
-      <actor role="審査員">三遊亭萬橘</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">お笑い・コメディ</category>
-    <episode-num system="nhk-id">g1-060-2026103105781</episode-num>
-  </programme>
-  <programme start="20261031180000 +0900" stop="20261031180500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース</title>
-    <sub-title lang="ja">2026年10月31日午後06時00分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">g1-060-2026103105790</episode-num>
-  </programme>
-  <programme start="20261031180500 +0900" stop="20261031183400 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">車窓から気になるアレ！　つくばエクスプレス</title>
-    <desc lang="ja">列車の窓に現れる「気になるアレ」を徹底調査！思わず二度見する「謎」の正体に迫る。舞台はつくばエクスプレス（秋葉原～つくば）▼住宅街の空中に浮かぶジャンボ蛇口！なぜそこに？秘められた会長の思い▼線路脇にそびえ立つ巨大な後ろ姿。家族を思う老夫婦の願い▼田んぼの中の謎の小屋。実は住民の命を守る町の砦▼森の中の宇宙基地？利根川水系の水を大量に使う理由▼田んぼに描かれた「ありがとう」。２０年続く人々の願い。</desc>
-    <credits>
-      <actor role="語り">木村昴</actor>
-      <actor role="語り">斎藤希実子</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105791</episode-num>
-  </programme>
-  <programme start="20261031183400 +0900" stop="20261031183600 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">大河ドラマ「豊臣兄弟！」２分ダイジェスト　（４１）</title>
-    <sub-title lang="ja">(41)「大阪府大阪市」</sub-title>
-    <desc lang="ja">あさひ（倉沢杏菜）の輿入れも功を奏さず、上洛しようとしない家康（松下洸平）。だが秀吉（池松壮亮）がなか（坂井真紀）まで人質に差し出したことで、ついに根負けする。とはいえ、それは形ばかりの上洛だと察した秀長（仲野太賀）は、謁見前夜に接待の場で家康に胸の内をさらけ出し、豊臣が真に手を取り合うべき相手か見極めてほしいと告げる。しかし家康は、この機に乗じて秀吉の懐刀である秀長を暗殺しようと企てていた。</desc>
-    <credits>
-      <actor role="出演">仲野太賀</actor>
-      <actor role="出演">池松壮亮</actor>
-      <actor role="出演">迫田孝也</actor>
-      <actor role="出演">上川周作</actor>
-      <actor role="出演">山田涼介</actor>
-      <actor role="出演">松下洸平</actor>
-      <actor role="作">八津弘幸</actor>
-      <actor role="音楽">木村秀彬</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">時代劇</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026103105792</episode-num>
-  </programme>
-  <programme start="20261031183600 +0900" stop="20261031183700 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【ドラマ】夜ドラ「青の花　器の森」ＰＲ　（第２週）</title>
-    <sub-title lang="ja">第2週1分PR</sub-title>
-    <desc lang="ja">長崎県波佐見町（はさみちょう）の焼き物工房を舞台にした、夜ドラ「青の花　器の森」の見どころを伝える。波佐見で絵付け職人として働く青子（あおこ）の窯元に、フィンランドから孤高の陶芸家・龍生（たつき）がやってくる。「自分の器には絵付けは必要ない」と言い放つ龍生に、青子は自分だけでなく町も仲間も否定されたように感じて反発するが…　出演　松井玲奈　一ノ瀬颯　西田尚美　ほか</desc>
-    <credits>
-      <actor role="原作">小玉ユキ</actor>
-      <actor role="脚本">泉澤陽子</actor>
-      <actor role="音楽">秦基博</actor>
-      <actor role="音楽">福廣秀一朗</actor>
-      <actor role="出演">松井玲奈</actor>
-      <actor role="出演">一ノ瀬颯</actor>
-      <actor role="出演">安藤玉恵</actor>
-      <actor role="出演">西田尚美</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <episode-num system="nhk-id">g1-060-2026103105793</episode-num>
-  </programme>
-  <programme start="20261031183700 +0900" stop="20261031183800 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">毎週土曜夜１０時放送中　土曜ドラマ「老害の人」</title>
-    <sub-title lang="ja">放送中版</sub-title>
-    <desc lang="ja">ボードゲーム製作販売会社の社長・戸山福太郎（伊東四朗）は、妻の通夜の席で娘・明代（夏川結衣）の夫・純市（勝村政信）に社長の座を譲る。しばらくは一人旅などしていたが、突然会社に顔を出し、社員を捕まえてはかつての武勇伝を繰り返す。週に二度会社に現れるようになる頃、世間はコロナ禍に。そして福太郎８２歳の誕生会が開かれる。集まった同年代の４人は、病気自慢や趣味自慢、それぞれ自慢老害をまき散らすのだが…。</desc>
-    <credits>
-      <actor role="出演">伊東四朗</actor>
-      <actor role="出演">夏川結衣</actor>
-      <actor role="出演">勝村政信</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105794</episode-num>
-  </programme>
-  <programme start="20261031183800 +0900" stop="20261031184500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">週末のＮスペは…変貌の超大国アメリカ　第１集国家改造　影の設計者たち</title>
-    <desc lang="ja">土田晃之と市川紗椰が『ＮＨＫスペシャル』の魅力についてざっくばらんにトーク！今回は１１月１日放送『変貌の超大国アメリカ　第１集　国家改造　影の設計者たち』。</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">自然・動物・環境</category>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105795</episode-num>
-  </programme>
-  <programme start="20261031184500 +0900" stop="20261031190000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">やままるサタデー</title>
-    <sub-title lang="ja">2026年10月31日午後06時45分</sub-title>
-    <desc lang="ja">土曜日の県内のニュース・スポーツをコンパクトに、最新の気象情報をきめ細かにお伝えします。やままるの１週間を振り返る「今週のやままる」もお届け！　</desc>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <episode-num system="nhk-id">g1-060-2026103140421</episode-num>
-  </programme>
-  <programme start="20261031190000 +0900" stop="20261031193000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫニュース７</title>
-    <sub-title lang="ja">2026年10月31日午後07時00分</sub-title>
-    <desc lang="ja">３０分できょうが分かる日本、そして世界の今と“これから”を読み解く確かな情報を届けます。　【キャスター】今井翔馬，森下絵理香，【気象キャスター】向笠康二郎
-３０分できょうが分かる　日本、そして世界の今と“これから”を
-読み解く確かな情報を届けます。</desc>
-    <credits>
-      <presenter>今井翔馬</presenter>
-      <presenter>森下絵理香</presenter>
-      <presenter>向笠康二郎</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">天気</category>
-    <category lang="ja">スポーツ</category>
-    <category lang="ja">スポーツニュース</category>
-    <episode-num system="nhk-id">g1-060-2026103105808</episode-num>
-  </programme>
-  <programme start="20261031193000 +0900" stop="20261031200700 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ブラタモリ　静岡・沼津▼なぜ港に人が集まる？富士山・深海・鉄道の秘密</title>
-    <desc lang="ja">旅の舞台は、タモリゆかりの地・静岡県沼津市。目の前には日本一深い駿河湾、振り返れば富士山！豊かな海が育む新鮮な魚や名物の干物を求めて、県内外から年間１６０万人以上が訪れる人気の港には、人々を引き寄せる秘密があった！？江戸時代に行われた驚きの町づくり！東海道線の開通を支えた鉄道、その廃線跡をたどり見つけた港につながる意外な歴史とは？さらに、皇室の方々が愛した絶景も！知られざる沼津の魅力を解き明かす！</desc>
-    <credits>
-      <actor role="出演">タモリ</actor>
-      <actor role="アナウンサー">佐藤茉那</actor>
-      <actor role="語り">あいみょん</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">旅バラエティ</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">旅・釣り・アウトドア</category>
-    <episode-num system="nhk-id">g1-060-2026103105809</episode-num>
-  </programme>
-  <programme start="20261031200700 +0900" stop="20261031205500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">新プロジェクトＸ～挑戦者たち～　ｉＰＳ細胞</title>
-    <sub-title lang="ja">世紀の発見iPS細胞 〜命を救うため 執念の20年〜</sub-title>
-    <desc lang="ja">ｉＰＳ細胞、それは治らない病にかかった父への思いと、奇跡のような偶然が重なり生れた。しかし、その大発見はゴールではなかった。ここからが本当の闘いのはじまりだった。一日でも早く実際の治療へとつなげるため戦ったのは数多くの研究者たち。特許をめぐる争いや、薬物混入疑惑、度重なる危機を乗り越えるため、発見からの２０年走り続けた。夢を夢で終わらせまいと挑み続ける研究者たちの知られざる物語。</desc>
-    <credits>
-      <actor role="出演">山中伸弥</actor>
-      <actor role="語り">田口トモロヲ</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105811</episode-num>
-  </programme>
-  <programme start="20261031205500 +0900" stop="20261031210000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース・気象情報（東北）</title>
-    <sub-title lang="ja">2026年10月31日午後08時55分</sub-title>
-    <desc lang="ja">▽最新のニュース　▽気象情報　</desc>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">ローカル・地域</category>
-    <episode-num system="nhk-id">g1-060-2026103140326</episode-num>
-  </programme>
-  <programme start="20261031210000 +0900" stop="20261031220000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">サタデーウオッチ９　▽迫るアメリカ中間選挙▽家族で楽しむハロウィーン</title>
-    <desc lang="ja">▽迫るアメリカ中間選挙・苦戦トランプ氏はどう出る？選挙戦では偽動画も氾濫▽日本のハロウィーンはどうなる？▽より美しく！フィギュア女子・千葉百音選手
-平日ゆっくりニュースを見られない…そんなあなたに１週間のポイ
-ントを丁寧に解説！ネット上の現象が現実を動かすいま、確かな情
-報で世界と日本のあすを展望します。</desc>
-    <credits>
-      <presenter>山下毅</presenter>
-      <presenter>川口由梨香</presenter>
-      <presenter>浅田春奈</presenter>
-      <actor role="リポーター">石井智也</actor>
-      <actor role="リポーター">姫野美南</actor>
-      <presenter>田中美都</presenter>
-    </credits>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">g1-060-2026103105822</episode-num>
-  </programme>
-  <programme start="20261031220000 +0900" stop="20261031225000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【土曜ドラマ】老害の人（２）</title>
-    <desc lang="ja">福太郎（伊東四朗）の孫の俊（望月歩）が大学には行かずバイト先で野菜作りをすると言い出す。両親は反対するが福太郎は賛成する。俊とレストランを訪れた福太郎は、クレームをつける老女と遭遇。ほどなくワクチン接種会場でも行き会う。村井サキ（三田佳子）というクレーマーを福太郎は仲間に誘うが断られる。会社で福太郎は、大口の取引先となった若い経営者に自慢話を続け取引は白紙。娘の明代（夏川結衣）はたまらず福太郎に…</desc>
-    <credits>
-      <actor role="出演">伊東四朗</actor>
-      <actor role="出演">夏川結衣</actor>
-      <actor role="出演">勝村政信</actor>
-      <actor role="出演">前田吟</actor>
-      <actor role="出演">小倉蒼蛙</actor>
-      <actor role="出演">望月歩</actor>
-      <actor role="出演">三田佳子</actor>
-      <actor role="原作">内館牧子</actor>
-      <actor role="脚本">真辺克彦</actor>
-      <actor role="脚本">小嶋健作</actor>
-      <actor role="脚本">大島まり菜</actor>
-      <actor role="音楽">安川午朗</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <episode-num system="nhk-id">g1-060-2026103105823</episode-num>
-  </programme>
-  <programme start="20261031225000 +0900" stop="20261031225500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">週末のＮスペは…変貌の超大国アメリカ　第１集国家改造　影の設計者たち</title>
-    <desc lang="ja">土田晃之と市川紗椰が『ＮＨＫスペシャル』の魅力についてざっくばらんにトーク！今回は１１月１日放送『変貌の超大国アメリカ　第１集　国家改造　影の設計者たち』。</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">社会・時事</category>
-    <category lang="ja">自然・動物・環境</category>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026103105828</episode-num>
-  </programme>
-  <programme start="20261031225500 +0900" stop="20261031230000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <sub-title lang="ja">2026年10月31日午後10時55分</sub-title>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <category lang="ja">天気</category>
-    <episode-num system="nhk-id">g1-060-2026103105829</episode-num>
-  </programme>
-  <programme start="20261031230000 +0900" stop="20261031233000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">上半期総集編　濱家・生田が選ぶパフォーマンス、Ｍ！ＬＫ未公開シーンも！</title>
-    <sub-title lang="ja">上半期総集編 M!LK/=LOVE/FRUITS ZIPPERらの未公開トークも!</sub-title>
-    <desc lang="ja">上半期にＶｅｎｕｅ１０１がお送りしてきたパフォーマンスの中から「聴くだけで元気になる話題曲」、「思わず真似したくなるキャッチーな振り付け」、ＭＣの濱家＆生田が「もう一度見たいパフォーマンス」など、名パフォーマンスを一挙お届け！未公開シーンも！ＯＮＥＷからＭ！ＬＫへの素朴すぎる質問。Ｍ！ＬＫ佐野の夏の思い出。＝ＬＯＶＥとＦＲＵＩＴＳ　ＺＩＰＰＥＲ、長女グループ同士で打ち明けた“お悩み”</desc>
-    <credits>
-      <actor role="司会">濱家隆一</actor>
-      <actor role="司会">生田絵梨花</actor>
-      <actor role="出演">アイナ・ジ・エンド</actor>
-      <actor role="出演">ＩＬＬＩＴ</actor>
-      <actor role="出演">新しい学校のリーダーズ</actor>
-      <actor role="出演">Ａｙｕｍｕ　Ｉｍａｚｕ</actor>
-      <actor role="出演">＝ＬＯＶＥ</actor>
-      <actor role="出演">ＡＴＥＥＺ</actor>
-      <actor role="出演">Ａぇ！ｇｒｏｕｐ</actor>
-      <actor role="出演">Ａ．Ｂ．Ｃ－Ｚ</actor>
-      <actor role="出演">ＮＣＴ　ＷＩＳＨ</actor>
-      <actor role="出演">ＥＢｉＤＡＮ</actor>
-      <actor role="出演">ＯＣＴＰＡＴＨ</actor>
-      <actor role="出演">ＯＮＥＷ</actor>
-      <actor role="出演">Ｋｉｓ－Ｍｙ－Ｆｔ２</actor>
-      <actor role="出演">キタニタツヤ</actor>
-      <actor role="出演">ＣＵＴＩＥ　ＳＴＲＥＥＴ</actor>
-      <actor role="出演">Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ</actor>
-      <actor role="出演">Ｋｖｉ　Ｂａｂａ</actor>
-      <actor role="出演">ＫＲＥＶＡ</actor>
-      <actor role="出演">ミルクボーイ</actor>
-      <actor role="出演">櫻坂４６</actor>
-      <actor role="出演">ＴＨＥ　ＪＥＴ　ＢＯＹ　ＢＡＮＧＥＲＺ</actor>
-      <actor role="出演">ＪＩ　ＢＬＵＥ</actor>
-      <actor role="出演">Ｊｕｉｃｅ＝Ｊｕｉｃｅ</actor>
-      <actor role="出演">Ｄａ－ｉＣＥ</actor>
-      <actor role="出演">超ときめき宣伝部</actor>
-      <actor role="出演">超特急</actor>
-      <actor role="出演">ＴＯＭＯＲＲＯＷ　Ｘ　ＴＯＧＥＴＨＥＲ</actor>
-      <actor role="出演">中島健人</actor>
-      <actor role="出演">Ｎｕｍｂｅｒ＿ｉ</actor>
-      <actor role="出演">乃木坂４６</actor>
-      <actor role="出演">≠ＭＥ</actor>
-      <actor role="出演">ＨＡＮＡ</actor>
-      <actor role="出演">Ｂ＆ＺＡＩ</actor>
-      <actor role="出演">ＢＥ：ＦＩＲＳＴ</actor>
-      <actor role="出演">ＦＲＵＩＴＳ　ＺＩＰＰＥＲ</actor>
-      <actor role="出演">マカロニえんぴつ</actor>
-      <actor role="出演">ＭＥ：Ｉ</actor>
-      <actor role="出演">Ｍ！ＬＫ</actor>
-      <actor role="語り">服部伴蔵門</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">ライブ・コンサート</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">音楽バラエティ</category>
-    <episode-num system="nhk-id">g1-060-2026103105830</episode-num>
-  </programme>
-  <programme start="20261031233000 +0900" stop="20261031234500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ザ・グレイテスト・ヒッツ　山下久美子・中村あゆみ・渡辺美里</title>
-    <desc lang="ja">昭和・平成・令和、ＮＨＫの音楽番組から「これだ！」という名パフォーマンス映像をお届けする１５分間。今回は「８０年代ソロボーカリスト」特集！紹介するのは、山下久美子「赤道小町ドキッ」（１９８２年「レッツゴーヤング」）、中村あゆみ「翼の折れたエンジェル」（１９９４年「ＪＡーＰＯＰＳ　ＮＯＷ」）、渡辺美里「サマータイム　ブルース」（１９９６年「トップミュージック」）▽山下久美子からメッセージも！</desc>
-    <credits>
-      <actor role="出演">ニューヨーク</actor>
-      <actor role="ＶＴＲ出演">山下久美子</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">歌謡曲・演歌</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">トークバラエティ</category>
-    <episode-num system="nhk-id">g1-060-2026103105831</episode-num>
-  </programme>
-  <programme start="20261031234500 +0900" stop="20261101001000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">アニメ　恐怖コレクター（４）静カナル波紋</title>
-    <desc lang="ja">すべての都市伝説を回収したとき、フシギは消えてしまう－。青い傘の男の、本当かウソか分からない言葉に、ジミーの心は揺れ動く。その頃、世間ではＡＩ秘書アプリ『ＭＯＭＯ』が大流行。誰もが当たり前のように、あらゆる悩み事を相談していた。自分に今ひとつ自信が持てなかった大学生の小谷敦子も、ＭＯＭＯの力で学業、ファッション、恋愛、あらゆる面で青春を充実させていく。しかし、敦子の心にやがて静かに広がっていく影。</desc>
-    <credits>
-      <actor role="原作">佐東みどり</actor>
-      <actor role="原作">鶴田法男</actor>
-      <actor role="音楽">甲田雅人</actor>
-      <actor role="監督">稲葉友紀</actor>
-      <actor role="脚本">小林雄次</actor>
-      <actor role="声">石橋陽彩</actor>
-      <actor role="声">福山潤</actor>
-      <actor role="声">平塚紗依</actor>
-      <actor role="声">岡本信彦</actor>
-      <actor role="声">山下大輝</actor>
-      <actor role="声">千葉翔也</actor>
-      <actor role="声">藤澤奨</actor>
-      <actor role="声">梶川翔平</actor>
-      <actor role="声">諸星すみれ</actor>
-      <actor role="声">伊藤美来</actor>
-      <actor role="声">波多野翔</actor>
-      <actor role="声">大下昌之</actor>
-      <actor role="声">河村梨恵</actor>
-      <actor role="声">小宮山あかり</actor>
-      <actor role="声">集貝はな</actor>
-    </credits>
-    <category lang="ja">アニメ/特撮</category>
-    <category lang="ja">国内アニメ</category>
-    <episode-num system="nhk-id">g1-060-2026103105832</episode-num>
-  </programme>
-  <programme start="20261101001000 +0900" stop="20261101005300 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">広重　世にも美しい空の秘密　大公開！秘蔵の浮世絵コレクション</title>
-    <desc lang="ja">空を眺めるのが好きという奈緒さん。東京国立博物館で公開された秘蔵のコレクションを拝見、１５０年以上前の色が美しく残る浮世絵に感動し、空の秘密を探りに出る。気象予報士のもとでは、気象研究から見た広重の意外な魅力が浮かび上がり、浮世絵工房では多彩な空を生んだ驚きの技に出会う。さらに、広重が生きたのは人々が地震や台風に見舞われた時代だったことも判明。広重が美しい空の作品に託したものとは何かを探っていく。</desc>
-    <credits>
-      <actor role="出演">奈緒</actor>
-      <actor role="出演">松嶋雅人</actor>
-      <actor role="出演">村瀬可奈</actor>
-      <actor role="出演">長谷部愛</actor>
-      <actor role="出演">田﨑雅志</actor>
-      <actor role="出演">岩橋清美</actor>
-      <actor role="語り">石田彰</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">カルチャー・伝統文化</category>
-    <episode-num system="nhk-id">g1-060-2026110112674</episode-num>
-  </programme>
-  <programme start="20261101005300 +0900" stop="20261101005500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ドラマ１０「会社員」毎週火曜夜１０時、放送中！</title>
-    <sub-title lang="ja">2分版</sub-title>
-    <desc lang="ja">一体どうなる…英理子（吉田羊）から目がはなせない！極限のオフィス・サスペンス、ドラマ１０「会社員」毎週火曜日夜１０時から放送中！るり（南沙良）、寺田（加藤清史郎）、山岸（小久保寿人）、正則（田中直樹）、安西（尾美としのり）たちの動きにも注目！この後、大きく展開していく中盤の物語。是非ご覧下さい。</desc>
-    <credits>
-      <actor role="出演">吉田羊</actor>
-      <actor role="出演">南沙良</actor>
-      <actor role="出演">加藤清史郎</actor>
-      <actor role="出演">小久保寿人</actor>
-      <actor role="出演">前川泰之</actor>
-      <actor role="出演">田中直樹</actor>
-      <actor role="出演">尾美としのり</actor>
-      <actor role="脚本">名嘉友美</actor>
-      <actor role="脚本">松井周</actor>
-      <actor role="脚本">あさか友恵</actor>
-      <actor role="脚本">縦谷宗</actor>
-      <actor role="音楽">ｙｕｍａ　ｙａｍａｇｕｃｈｉ</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">その他</category>
-    <episode-num system="nhk-id">g1-060-2026110113177</episode-num>
-  </programme>
-  <programme start="20261101005500 +0900" stop="20261101012500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">首都圏いちオシ！選「つくばエクスプレス沿線の魅力発見」</title>
-    <desc lang="ja">人口増加が続く注目エリア・つくばエクスプレス沿線。地元の皆さんへのアンケートで注目スポットを徹底リサーチ■雰囲気はほぼ現地！八潮のパキスタン料理店■三郷の住民が愛する公園の秘密■幻想的！流山の切絵あんどん■大人気！柏・千葉大学実習農場の直売所■世界的研究者も通う！？高架下の横町■大学生が鉄道のバリアフリー化に貢献■まるで江戸時代！つくばみらいの木製橋■つくばエクスプレスの車両基地にも潜入！</desc>
-    <credits>
-      <actor role="出演">浜口京子</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">旅バラエティ</category>
-    <episode-num system="nhk-id">g1-060-2026110113321</episode-num>
-  </programme>
-  <programme start="20261101012500 +0900" stop="20261101013000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">連続テレビ小説「ブラッサム」ＰＲ</title>
-    <sub-title lang="ja">放送中5分PR(背景)</sub-title>
-    <desc lang="ja">新しくスタートした朝ドラ「ブラッサム」の見どころをお届け。主演の石橋静河さんをはじめ、キャスト陣の熱い思いに迫る特別番組。「ちゅらさん」以来、２５年ぶりの朝ドラ出演となる国仲涼子さんや、朝ドラ初出演の渡部篤郎さんといった魅力的な登場人物たちのドラマ映像を続々と大公開。</desc>
-    <credits>
-      <actor role="出演">石橋静河</actor>
-      <actor role="出演">国仲涼子</actor>
-      <actor role="出演">渡部篤郎</actor>
-      <actor role="出演">木竜麻生</actor>
-      <actor role="出演">山田真歩</actor>
-      <actor role="出演">工藤阿須加</actor>
-      <actor role="出演">染谷将太</actor>
-      <actor role="出演">井浦新</actor>
-      <actor role="出演">遠藤憲一</actor>
-    </credits>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <episode-num system="nhk-id">g1-060-2026110113179</episode-num>
-  </programme>
-  <programme start="20261101013000 +0900" stop="20261101020000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">空からクルージング特別編「ノルウェー・ベルゲン急行の旅」</title>
-    <desc lang="ja">ノルウェーはフィヨルドの国。そのフィヨルドをたずねる列車として有名なのが、ベルゲン急行だ。首都オスロを出発し、フィヨルドをめぐりながら、終着駅でフィヨルドの玄関口、古都ベルゲンまで旅をする。緑色の車体で観光客に人気のフロム鉄道にも乗り換え、途中の雄大な滝では妖精の踊りに出会う。地元のボランティアの人々が復活させた蒸気機関車や独特の姿をした木造の教会も紹介。美しい湖にかかる虹、遠くに氷河も見える。</desc>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">旅・釣り・アウトドア</category>
-    <episode-num system="nhk-id">g1-060-2026110113180</episode-num>
-  </programme>
-  <programme start="20261101020000 +0900" stop="20261101023000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">空からクルージング特別編「ヨーロッパ　海と陸のはざまに」</title>
-    <desc lang="ja">イタリア、ポルトガル、ギリシャ、ノルウェー、スコットランドの海岸線を旅する。壁が縦じまに塗られた家々や、白い家並み、パステルカラーの家、紀元前の遺跡、中世のとりで、絶海の古城、フィヨルドに響く音楽、自然が作り上げた不思議な造型、干潮の時だけ現れる道、使われなくなった風車、荒波の中でタコを捕る人や砂浜で干物を作る人など、海岸線をめぐり、絶景とともに、ヨーロッパの歴史、自然、暮らし、文化などに触れる。</desc>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">旅・釣り・アウトドア</category>
-    <episode-num system="nhk-id">g1-060-2026110113181</episode-num>
-  </programme>
-  <programme start="20261101023000 +0900" stop="20261101033000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">運転席からの風景　小田急小田原線</title>
-    <desc lang="ja">ロマンスカーで小田原から新宿へ。引退した車両と出会える海老名のロマンスカーミュージアム。色々な駅名の由来は？開かずの踏切で知られた懐かしの下北沢駅をアーカイブ映像で振り返る！！停車駅は本厚木・町田・新宿のみ。運転席からの風景。</desc>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">暮らし・住まい</category>
-    <episode-num system="nhk-id">g1-060-2026110113182</episode-num>
-  </programme>
-  <programme start="20261101033000 +0900" stop="20261101041000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">空の島旅　北から東から</title>
-    <desc lang="ja">空から島を旅する。ニシン帰ってきた北海道かもめ島　カキ養殖盛んな宮城県朴島　頼朝ゆかりの千葉県仁右衛門島　別荘の島岡山県鴻島　ワカメ漁でにぎわった岡山県松島　与謝野晶子が歌残した岡山県六口島　採石の島だった香川県小与島　とうがらし名産香川県手島　天空の花畑の島香川県志々島　リゾート跡残る広島県生野島　海賊の歴史誇る愛媛県鵜島　砂浜美しい山口県端島　アサリ養殖の跡残る山口県馬島　絵が島中に山口県八島</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026110113183</episode-num>
-  </programme>
-  <programme start="20261101041000 +0900" stop="20261101041300 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">カラーでよみがえる東京「日比谷・丸の内〜帝都の表玄関〜」</title>
-    <desc lang="ja">１００年の間に震災と戦争によって２度焼け野原となり、そこから不死鳥のようによみがえった都市・東京。ＮＨＫは、東京を撮影した白黒フィルムを世界中から収集、現実にできるだけ近い色彩の復元に挑んだ。色を取り戻した東京は、どんな表情を見せるのか。今回は丸の内・日比谷にしぼって、激動の歩みを、初公開フルカラー映像でたどる。</desc>
-    <credits>
-      <actor role="語り">塚原愛</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">特集・ドキュメント</category>
-    <episode-num system="nhk-id">g1-060-2026110106577</episode-num>
-  </programme>
-  <programme start="20261101041300 +0900" stop="20261101041500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">インターミッション</title>
-    <sub-title lang="ja">2026年8月16日午前4:13</sub-title>
-    <desc lang="ja">＜映像＞風景映像（世界遺産　白神山地の四季）〜日の丸
-＜使用音楽＞「Ｓｕｄｄｎｌｙ　Ｙｏｕｒｓ」（作曲・演奏）２０
-０２＜ＲＥＡＬ　ＭＵＳＩＣ　Ｎｏ．ＲＭ８８２０＞
-「Ｅｘｃｅｌｌｅｎｃｅ（Ｆａｎｆａｒｅ）」＜ＣＡＲＬＩＮ　２
-１３＞</desc>
-    <category lang="ja">ニュース/報道</category>
-    <category lang="ja">定時・総合</category>
-    <episode-num system="nhk-id">g1-060-2026110106579</episode-num>
-  </programme>
-  <programme start="20261101041500 +0900" stop="20261101042000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ワンポイント手話（１７）乗り物※字幕スーパー</title>
-    <desc lang="ja">日常生活に欠かせない初歩的な手話の単語や会話を２５回に分けて紹介します。通しでごらんいただき、最終的には手話で簡単な自己紹介ができるようになるのが目標です。講師の河合優子さん、サブ講師の所智子さん、生徒役石川寛和さんはいずれも、中途失聴および難聴の当事者です。自転車、バス、電車、地下鉄などの単語を学びます。
-※字幕スーパー</desc>
-    <credits>
-      <actor role="出演">河合優子</actor>
-      <actor role="出演">所智子</actor>
-      <actor role="出演">石川寛和</actor>
-    </credits>
-    <category lang="ja">福祉</category>
-    <category lang="ja">手話</category>
-    <episode-num system="nhk-id">g1-060-2026110106581</episode-num>
-  </programme>
-  <programme start="20261101042000 +0900" stop="20261101042500 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">名曲アルバム「バラード第４番」ショパン作曲</title>
-    <desc lang="ja">ロケ地／ノアン（フランス）</desc>
-    <credits>
-      <actor role="ピアノ">津田裕也</actor>
-    </credits>
-    <category lang="ja">音楽</category>
-    <category lang="ja">クラシック・オペラ</category>
-    <category lang="ja">趣味/教育</category>
-    <category lang="ja">音楽・美術・工芸</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">歴史・紀行</category>
-    <episode-num system="nhk-id">g1-060-2026110106582</episode-num>
-  </programme>
-  <programme start="20261101042500 +0900" stop="20261101043000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">みんなのうた「月のワルツ」</title>
-    <desc lang="ja">「月のワルツ」（２００４年）作詞：湯川れい子、作曲：諫山実生、編曲：安部潤、うた：諫山実生、アニメ：いしづかあつこ</desc>
-    <category lang="ja">音楽</category>
-    <category lang="ja">国内ロック・ポップス</category>
-    <category lang="ja">童謡・キッズ</category>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">音楽バラエティ</category>
-    <episode-num system="nhk-id">g1-060-2026110106583</episode-num>
-  </programme>
-  <programme start="20261101043000 +0900" stop="20261101045600 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【ＮＨＫ地域局発】ＳＡＧＡ　ＳＯＵＬ　－さが魂－　ボートレーサー峰竜太</title>
-    <sub-title lang="ja">No.1は譲らない〜ボートレーサー・峰竜太〜</sub-title>
-    <desc lang="ja">４０代に見えない風貌に批判も恐れないビッグマウス、佐賀県唐津出身のボートレーサー・峰竜太さん▽８月、ボートレースの最上位「ＧＲＡＮＤＥ５」の制覇に挑んだ▽絶妙な「操縦テクニック」と緻密な「整備作業」を武器に、賞金王や高い勝率で「現役最強レーサー」といわれた峰さん、史上最悪の転覆事故など大きな挫折も味わった▽「強さだけでなく観客を魅了するＮｏ．１レーサー」を自負する峰さんの挑戦に密着</desc>
-    <credits>
-      <actor role="語り">山下万希</actor>
-      <actor role="語り">Ｍａｉｃａ＿ｎ</actor>
-    </credits>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <episode-num system="nhk-id">g1-060-2026110106584</episode-num>
-  </programme>
-  <programme start="20261101045600 +0900" stop="20261101045700 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">【ドラマ】夜ドラ「青の花　器の森」ＰＲ　（第２週）</title>
-    <sub-title lang="ja">第2週1分PR</sub-title>
-    <desc lang="ja">長崎県波佐見町（はさみちょう）の焼き物工房を舞台にした、夜ドラ「青の花　器の森」の見どころを伝える。波佐見で絵付け職人として働く青子（あおこ）の窯元に、フィンランドから孤高の陶芸家・龍生（たつき）がやってくる。「自分の器には絵付けは必要ない」と言い放つ龍生に、青子は自分だけでなく町も仲間も否定されたように感じて反発するが…　出演　松井玲奈　一ノ瀬颯　西田尚美　ほか</desc>
-    <credits>
-      <actor role="原作">小玉ユキ</actor>
-      <actor role="脚本">泉澤陽子</actor>
-      <actor role="音楽">秦基博</actor>
-      <actor role="音楽">福廣秀一朗</actor>
-      <actor role="出演">松井玲奈</actor>
-      <actor role="出演">一ノ瀬颯</actor>
-      <actor role="出演">安藤玉恵</actor>
-      <actor role="出演">西田尚美</actor>
-    </credits>
-    <category lang="ja">ドラマ</category>
-    <category lang="ja">国内ドラマ</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <episode-num system="nhk-id">g1-060-2026110110243</episode-num>
-  </programme>
-  <programme start="20261101045700 +0900" stop="20261101045800 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">１分ＰＲ「イチバンモリ」１１／３（火）夜９：３０から本編放送！</title>
-    <sub-title lang="ja">116レーン!日本最大のボウリング場を守る</sub-title>
-    <desc lang="ja">日本各地の「イチバン〇〇な場所」や「イチバン〇〇なモノ」を守り続ける人々に密着する番組「イチバンモリ」のＰＲ。今回は日本最大１１６レーンのボウリング場が舞台です。レーンの裏側では５０年前に作られた機械がフル稼働。熟練の技術者が守ります。中高生の全国大会ではトラブルが続出。果たして守りきれるのか！▽ジャンボたかお＆村重杏奈＆天野ひろゆき▽語りは三宅民夫▽１１／３（火）夜９：３０から総合テレビで放送！</desc>
-    <credits>
-      <actor role="司会">ジャンボたかお</actor>
-      <actor role="司会">村重杏奈</actor>
-      <actor role="出演">天野ひろゆき</actor>
-      <actor role="語り">三宅民夫</actor>
-    </credits>
-    <category lang="ja">バラエティ</category>
-    <category lang="ja">その他</category>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">ドキュメンタリー全般</category>
-    <category lang="ja">情報/ワイドショー</category>
-    <category lang="ja">番組紹介・お知らせ</category>
-    <episode-num system="nhk-id">g1-060-2026110110244</episode-num>
-  </programme>
-  <programme start="20261101045800 +0900" stop="20261101050000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">タモリ・山中伸弥の！？ＰＲ　ｉＰＳ細胞スペシャル</title>
-    <desc lang="ja">山中伸弥教授がノーベル賞を受賞した「ｉＰＳ細胞」。発見から今年でちょうど２０年となり世界で初めて医療現場での実用化が始まるなど大きな節目を迎えている。その技術の核心は細胞の“時間を巻き戻す”力にある！いま、その力で「若返り」や「超長寿」に迫る研究が続々！シャーレの中で細胞の“過去”をリプレイして難病の治療につなげる技術も登場している。さらに古代人類の謎に迫る研究など異分野への驚異的な広がりも！</desc>
-    <category lang="ja">ドキュメンタリー/教養</category>
-    <category lang="ja">宇宙・科学・医学</category>
-    <episode-num system="nhk-id">g1-060-2026110110245</episode-num>
-  </programme>
   <programme start="20261101050000 +0900" stop="20261101051000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">ニュース・気象情報</title>
     <sub-title lang="ja">2026年11月01日午前05時00分</sub-title>
@@ -1144,9 +123,8 @@
     <episode-num system="nhk-id">g1-060-2026110141214</episode-num>
   </programme>
   <programme start="20261101070000 +0900" stop="20261101074000 +0900" channel="NHKG.Yamagata.jp">
-    <title lang="ja">ＮＨＫニュース　おはよう日本</title>
-    <sub-title lang="ja">2026年11月01日午前07時00分</sub-title>
-    <desc lang="ja">国内外の最新ニュースをわかりやすくコンパクトに。気になる現場からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょうの気象情報も詳しくお伝えします。
+    <title lang="ja">ＮＨＫニュース　おはよう日本　１１月１日（日）</title>
+    <desc lang="ja">▼アメリカ中間選挙　ＡＩが変える選挙戦▼漫画文化のいま　ＷＥＢ漫画の可能性▼フランス大規模デモふたたびか▼Ｇ２０外相会合関連
 国内外の最新ニュースをわかりやすくコンパクトに。気になる現場
 からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょ
 うの気象情報も詳しくお伝えします。</desc>
@@ -1595,7 +573,7 @@
   </programme>
   <programme start="20261101200000 +0900" stop="20261101204500 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">豊臣兄弟！（４２）北野大茶湯（きたのおおちゃのゆ）</title>
-    <desc lang="ja">秀吉（池松壮亮）が普請させた京の聚楽第が完成。秀次（山田涼介）は、その祝いに盛大な茶会を開くことを提案する。天下一統も道半ばのなか時期尚早だと秀長（仲野太賀）は反対するが、秀吉は利休（吉岡秀隆）に命じ、大名も商人も百姓も参加できる大茶会を北野で催すと決める。茶会は盛況となるが、会場でキリシタン追放令に恨みを抱く者による刃傷沙汰が！　さらに佐々成政（白洲迅）が治める肥後で大規模な一揆が勃発し…</desc>
+    <desc lang="ja">秀吉（池松壮亮）が普請させた京の聚楽第が完成。秀次（山田涼介）は、その祝いに盛大な茶会を開くことを提案する。天下一統も道半ばのなか時期尚早だと秀長（仲野太賀）は反対するが、秀吉は利休（吉岡秀隆）に命じ、大名も商人も百姓も参加できる大茶会を北野で催すと決める。茶会は盛況となるが、会場で伴天連追放令に恨みを抱く者による刃傷沙汰が！　さらに佐々成政（白洲迅）が治める肥後で大規模な一揆が勃発し…</desc>
     <credits>
       <actor role="出演">仲野太賀</actor>
       <actor role="出演">池松壮亮</actor>
@@ -2666,7 +1644,6 @@
   <programme start="20261102234700 +0900" stop="20261102235000 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">大河ドラマ「豊臣兄弟！」２分ダイジェスト　（４２）</title>
     <sub-title lang="ja">(42)「京都府京都市」</sub-title>
-    <desc lang="ja">秀吉（池松壮亮）が普請させた京の聚楽第が完成。秀次（山田涼介）は、その祝いに盛大な茶会を開くことを提案する。天下一統も道半ばのなか時期尚早だと秀長（仲野太賀）は反対するが、秀吉は利休（吉岡秀隆）に命じ、大名も商人も百姓も参加できる大茶会を北野で催すと決める。茶会は盛況となるが、会場でキリシタン追放令に恨みを抱く者による刃傷沙汰が！　さらに佐々成政（白洲迅）が治める肥後で大規模な一揆が勃発し…</desc>
     <credits>
       <actor role="出演">仲野太賀</actor>
       <actor role="出演">池松壮亮</actor>
@@ -6138,7 +5115,6 @@
   <programme start="20261107010200 +0900" stop="20261107010500 +0900" channel="NHKG.Yamagata.jp">
     <title lang="ja">大河ドラマ「豊臣兄弟！」２分ダイジェスト　（４２）</title>
     <sub-title lang="ja">(42)「京都府京都市」</sub-title>
-    <desc lang="ja">秀吉（池松壮亮）が普請させた京の聚楽第が完成。秀次（山田涼介）は、その祝いに盛大な茶会を開くことを提案する。天下一統も道半ばのなか時期尚早だと秀長（仲野太賀）は反対するが、秀吉は利休（吉岡秀隆）に命じ、大名も商人も百姓も参加できる大茶会を北野で催すと決める。茶会は盛況となるが、会場でキリシタン追放令に恨みを抱く者による刃傷沙汰が！　さらに佐々成政（白洲迅）が治める肥後で大規模な一揆が勃発し…</desc>
     <credits>
       <actor role="出演">仲野太賀</actor>
       <actor role="出演">池松壮亮</actor>
@@ -6219,5 +5195,936 @@
     <category lang="ja">特集・ドキュメント</category>
     <category lang="ja">解説</category>
     <episode-num system="nhk-id">g1-060-2026110709885</episode-num>
+  </programme>
+  <programme start="20261107050000 +0900" stop="20261107051000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <sub-title lang="ja">2026年11月07日午前05時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">g1-060-2026110709890</episode-num>
+  </programme>
+  <programme start="20261107051000 +0900" stop="20261107053500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">うまいッ！　選　かたさが自慢！世界遺産の里　五箇山豆腐　～富山・南砺市～</title>
+    <sub-title lang="ja">かたさが自慢!世界遺産の里 五箇山豆腐 〜富山・南砺市〜</sub-title>
+    <desc lang="ja">五箇山豆腐は、縄で縛って持ち運んでも崩れないほどかたい。水分が少なく、大豆の風味が濃厚に感じられ、一般的なの豆腐に比べてタンパク質の量も多い。豪雪地帯で暮らす五箇山の人々にとって貴重なタンパク源として重宝されてきた。薄く切って、刺身のように食べるのが地元の人たちのおすすめ。独特の食感が楽しめる。型崩れしにくいため、煮物に入れてもおいしい。五箇山豆腐の「うまいッ！」のヒミツと料理の数々を紹介する。</desc>
+    <credits>
+      <actor role="司会">天野ひろゆき</actor>
+      <actor role="司会">塚原愛</actor>
+      <actor role="出演">武藤十夢</actor>
+      <actor role="リポーター">福元まりあ</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">グルメ・料理</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">料理バラエティ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">g1-060-2026110709891</episode-num>
+  </programme>
+  <programme start="20261107053500 +0900" stop="20261107054000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">５分でみんなの手話（３）年齢・数字</title>
+    <desc lang="ja">会話を通して、すぐに使える手話表現を学びましょう！きょうのテーマは「年齢・数字」です。キーフレーズは、／指さし（１）年　２８／　、「２８歳だよ。」です。手話では、／年（とし）／　の後に「数字」を表します。手話と日本語の「語順の違い」にも注意しましょう。</desc>
+    <credits>
+      <actor role="出演">森田明</actor>
+    </credits>
+    <category lang="ja">福祉</category>
+    <category lang="ja">手話</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">g1-060-2026110709900</episode-num>
+  </programme>
+  <programme start="20261107054000 +0900" stop="20261107055000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫ映像ファイル　あの人に会いたい　山藤章二（イラストレーター）</title>
+    <sub-title lang="ja">アンコール 山藤章二(イラストレーター)</sub-title>
+    <desc lang="ja">山藤さんは昭和１２年東京生まれ。武蔵野美術学校（現・武蔵野美術大学）卒業後、広告会社を経てイラストレーターとして独立。作家・野坂昭如さんのエッセーの挿絵を描いたことをきっかけに注目される。昭和５１年、「週刊朝日」で「ブラック・アングル」の連載を開始。あらゆるジャンルの社会風刺を独自のタッチで描いて好評を博し、令和３年の終了まで通算２２６０回続いた。また、「世間がヘン」などのエッセーにも力を注いだ。</desc>
+    <credits>
+      <actor role="出演">山藤章二</actor>
+      <actor role="語り">合原明子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <category lang="ja">インタビュー・討論</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">g1-060-2026110709901</episode-num>
+  </programme>
+  <programme start="20261107055000 +0900" stop="20261107055500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">気象情報</title>
+    <sub-title lang="ja">2026年11月07日午前05時50分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">g1-060-2026110709902</episode-num>
+  </programme>
+  <programme start="20261107055500 +0900" stop="20261107055800 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">にっぽん百名山ミニ　３ｍｉｎ「秋　空木岳」</title>
+    <desc lang="ja">長野県の中央アルプスのほぼ真ん中にそびえる空木岳をめざす縦走！１０月上旬、檜尾尾根を登ると、枝先が黄金に輝くダケカンバ！鮮やかな目が覚めるような赤はミネカエデ！標高２５００ｍ程で森林限界を越えて中央アルプスの主稜線へ、めざす空木岳の頂が白く輝く。稜線の斜面もウラシマツツジやチングルマ、オヤマリンドウなどの紅葉で彩られる。巨大な花崗岩の頂。空木岳をめざす尾根歩き！案内するのは登山ガイドの若林翔さん。</desc>
+    <credits>
+      <actor role="出演">若林翔</actor>
+      <actor role="語り">鈴木麻里子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">自然・動物・環境</category>
+    <episode-num system="nhk-id">g1-060-2026110709904</episode-num>
+  </programme>
+  <programme start="20261107055800 +0900" stop="20261107060000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">巡る日本絶景　和歌山・串本の夜空</title>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <episode-num system="nhk-id">g1-060-2026110709905</episode-num>
+  </programme>
+  <programme start="20261107060000 +0900" stop="20261107063000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫニュース　おはよう日本</title>
+    <sub-title lang="ja">2026年11月07日午前06時00分</sub-title>
+    <desc lang="ja">１日のスタートに、国内外の最新ニュースをわかりやすく、コンパクトに。気になるニュースの解説、スポーツ情報も。気象情報は詳しくお伝えします。
+１日のスタートに、国内外の最新ニュースをわかりやすく、コンパ
+クトに。気になるニュースの解説、スポーツ情報も。気象情報は詳
+しくお伝えします。</desc>
+    <credits>
+      <presenter>井上二郎</presenter>
+      <presenter>赤木野々花</presenter>
+      <presenter>黒住駿</presenter>
+      <presenter>檜山靖洋</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">特集・ドキュメント</category>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">スポーツニュース</category>
+    <episode-num system="nhk-id">g1-060-2026110709907</episode-num>
+  </programme>
+  <programme start="20261107063000 +0900" stop="20261107070000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫニュース　おはよう日本</title>
+    <sub-title lang="ja">2026年11月07日午前06時30分</sub-title>
+    <desc lang="ja">激動の世界、今週おきたニュースをまとめてお伝えします。特派員が世界各地からリポート。ニュースの背景をわかりやすく紐解きます。気象情報も詳しく。
+激動の世界、今週おきたニュースをまとめてお伝えします。特派員
+が世界各地からリポート。ニュースの背景をわかりやすく紐解きま
+す。気象情報も詳しく。</desc>
+    <credits>
+      <presenter>井上二郎</presenter>
+      <presenter>赤木野々花</presenter>
+      <presenter>黒住駿</presenter>
+      <presenter>檜山靖洋</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">特集・ドキュメント</category>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">スポーツニュース</category>
+    <episode-num system="nhk-id">g1-060-2026110709910</episode-num>
+  </programme>
+  <programme start="20261107070000 +0900" stop="20261107073000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫニュース　おはよう日本</title>
+    <sub-title lang="ja">2026年11月07日午前07時00分</sub-title>
+    <desc lang="ja">国内外の最新ニュースをわかりやすくコンパクトに。気になる現場からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょうの気象情報も詳しくお伝えします。
+国内外の最新ニュースをわかりやすくコンパクトに。気になる現場
+からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょ
+うの気象情報も詳しくお伝えします。</desc>
+    <credits>
+      <presenter>井上二郎</presenter>
+      <presenter>赤木野々花</presenter>
+      <presenter>黒住駿</presenter>
+      <presenter>檜山靖洋</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">特集・ドキュメント</category>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">スポーツニュース</category>
+    <episode-num system="nhk-id">g1-060-2026110709913</episode-num>
+  </programme>
+  <programme start="20261107073000 +0900" stop="20261107080000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ウイークエンド東北</title>
+    <sub-title lang="ja">2026年11月07日午前07時30分</sub-title>
+    <desc lang="ja">土曜の朝、すてきな東北へ▽朝いちばんの表情を最新ニュースとともに▽地域の自慢や隠れた魅力▽充実の気象情報　週末に元気を届けます！　
+▽ニュース・気象情報
+▽天カメリレー</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <episode-num system="nhk-id">g1-060-2026110743288</episode-num>
+  </programme>
+  <programme start="20261107080000 +0900" stop="20261107081500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【連続テレビ小説】ブラッサム　第６週「ふたり、北へ」</title>
+    <desc lang="ja">腹に赤ん坊が宿っていることが分かり、喜ぶ珠（石橋静河）と保（金子大地）。しかし、保が大学に通いながら生活費をどう工面するかなど、考えなければいけない問題は山積みであった。そんな中、札幌の銀行に勤める保の親戚、木村正吾（三宅弘城）が照子（山田真歩）と一緒に突然、訪ねてくる。照子と正吾は、珠と保に必要な出産費用や生活費の援助をすることを条件に、あることを珠たちに提案する。</desc>
+    <credits>
+      <actor role="出演">石橋静河</actor>
+      <actor role="出演">金子大地</actor>
+      <actor role="出演">高良健吾</actor>
+      <actor role="出演">山田真歩</actor>
+      <actor role="出演">赤堀雅秋</actor>
+      <actor role="出演">中村優子</actor>
+      <actor role="出演">国仲涼子</actor>
+      <actor role="出演">三宅弘城</actor>
+      <actor role="出演">杉田かおる</actor>
+      <actor role="出演">井浦新</actor>
+      <actor role="出演">遠藤憲一</actor>
+      <actor role="作">櫻井剛</actor>
+      <actor role="音楽">ｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎ</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110709919</episode-num>
+  </programme>
+  <programme start="20261107081500 +0900" stop="20261107090000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">チコちゃんに叱られる！▽イチョウの葉の謎▽飛行機の搭乗口▽赤色の謎</title>
+    <desc lang="ja">なぜイチョウの葉は地面を埋め尽くす？…地面が全く見えなくなるほど一面に葉を降り積もらせるイチョウの驚きの生態とは！？なぜ飛行機は左側から乗る？…世界中の人が左側から乗る原因を作ったのはあの乗り物だった！？赤い色はなぜ目立つ？…パトカー、消防車、救急車、ポスト、赤信号、テストの採点…なぜ目立たせたいときは赤色なのか！？ゲストは観月ありささんとウエンツ瑛士さん！</desc>
+    <credits>
+      <actor role="出演">岡村隆史</actor>
+      <actor role="ゲスト">観月ありさ</actor>
+      <actor role="ゲスト">ウエンツ瑛士</actor>
+      <actor role="リポーター">塚原愛</actor>
+      <actor role="声">木村祐一</actor>
+      <actor role="語り">森田美由紀</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">クイズ</category>
+    <episode-num system="nhk-id">g1-060-2026110709920</episode-num>
+  </programme>
+  <programme start="20261107090000 +0900" stop="20261107093000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ダーウィンが来た！「２０周年記念特別企画　おじゃる丸コラボＳＰ」</title>
+    <sub-title lang="ja">「ミノムシでおじゃる」</sub-title>
+    <desc lang="ja">木にぶら下がって、じっとしているミノムシ。初めて密着すると、実は活発に動き回っていた！枝や葉で作ったミノに隠れながら、食べものを探したり、天敵から逃れたりと大忙し。かわいい赤ちゃん時代から一生を終えるまで、激動のドラマをつぶさにみ見つめる。今回は放送２０周年記念、「ダーウィン」×「おじゃる丸」のスペシャルコラボ！ヒゲじいとおじゃる丸が一緒になって、私たちの身近にいるミノムシを探すでおじゃる。</desc>
+    <credits>
+      <actor role="語り">龍田直樹</actor>
+      <actor role="語り">豊嶋真千子</actor>
+      <actor role="語り">久保田祐佳</actor>
+      <actor role="語り">西村ちなみ</actor>
+      <actor role="語り">中川里江</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">自然・動物・環境</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">旅・釣り・アウトドア</category>
+    <episode-num system="nhk-id">g1-060-2026110709921</episode-num>
+  </programme>
+  <programme start="20261107093000 +0900" stop="20261107094500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">被災地からの声　つぎの一歩　福島県いわき市</title>
+    <desc lang="ja">東日本大震災の９日後に始まった「被災地からの声」。「いま一番伝えたいこと」を語ってもらうスタイルを貫く。これまで約６２００人が出演。１６年目の今年は、取材してきた声の蓄積をいかし、被災地の１５年の歩みを「声」でたどる。今回は福島県いわき市の沿岸部を取材。ふるさとに自宅を再建した姉妹は、移住者が増えた地区のコミュニティーに課題を感じていた。妻と娘を亡くした男性は家族への変わらない思いと後悔を語った。</desc>
+    <credits>
+      <actor role="出演">津田喜章</actor>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">インタビュー・討論</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110743381</episode-num>
+  </programme>
+  <programme start="20261107094500 +0900" stop="20261107100000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">にっぽん百名山ミニ　１５ｍｉｎ「秋から雪山へ　東日本の山々」</title>
+    <desc lang="ja">【会津駒ヶ岳】稜（りょう）線に広がる紅葉を楽しむ山旅！中門岳まで縦走し山頂部の池に映る青空と黄金の草紅葉のコントラストが美しい【雲取山】東京都最高峰をめざし黄金に輝く森を行く。きらめく東京の夜景、朝日焼けの富士山に感動【安達太良山】福島が誇る山の紅葉と火山の風景に出会う！山全体が錦に染まった燃え立つ紅葉【美ヶ原】北アルプスが朝焼けでバラ色に染まるモルゲンロートは圧巻！日本アルプス全て見渡せる大展望</desc>
+    <credits>
+      <actor role="出演">片柳圭介</actor>
+      <actor role="出演">渡辺茂雄</actor>
+      <actor role="出演">大内征</actor>
+      <actor role="出演">植松晃岳</actor>
+      <actor role="語り">鈴木麻里子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">自然・動物・環境</category>
+    <episode-num system="nhk-id">g1-060-2026110743382</episode-num>
+  </programme>
+  <programme start="20261107100000 +0900" stop="20261107100500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <sub-title lang="ja">2026年11月07日午前10時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">g1-060-2026110709935</episode-num>
+  </programme>
+  <programme start="20261107100500 +0900" stop="20261107103200 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">東北ココから　口から食べる幸せを最期まで　石巻市雄勝たったひとりの訪問歯科医</title>
+    <desc lang="ja">１日でも長く自分の口でものを食べ、“おいしいと感じる幸せ”とともに生きてほしい─。そんな願いを叶えようと高齢で通院が困難な患者の家を回る訪問歯科医がいる。河瀬聡一朗さん、４８歳。東日本大震災で甚大な被害を受け、人口が４分の１に減った石巻市雄勝町の診療所に家族とともに赴いた。番組では１０か月にわたり現場を密着取材、「口からものを食べること」が私たちの生きることにどうつながっているのかを見つめる。</desc>
+    <credits>
+      <actor role="語り">ａｙａｋｏ＿ＨａＬｏ</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">ドキュメンタリー全般</category>
+    <episode-num system="nhk-id">g1-060-2026110743383</episode-num>
+  </programme>
+  <programme start="20261107103200 +0900" stop="20261107103300 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">命を守る　防災ポイント　車を運転している時に大地震　どうする？</title>
+    <desc lang="ja">車を運手している時に大きな地震が起きたら、どう行動すればいいのでしょうか？一般道を走っている場合と高速道路を走っている場合で対処も異なります。安全な停車のしかたや、車から離れて避難する際のポイントなどをお伝えします。</desc>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <episode-num system="nhk-id">g1-060-2026110746602</episode-num>
+  </programme>
+  <programme start="20261107103300 +0900" stop="20261107110800 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">有吉のお金発見　突撃！カネオくん　ニーズに合わせて多様に進化！ガラスの秘密</title>
+    <desc lang="ja">バットで強打しても割れないガラス、遮熱性に優れた複層ガラス。ガラスの進化によって全面ガラス張りのビルやショーウインドーが実現し、街並みまで変えていた！車やスマホに使われるのは髪の毛の１０分の１という極細ガラスや、ペラペラに折り曲がる厚さ０．０２５ミリの極薄ガラス。リサイクルでも注目！観光客に人気の廃ガラスで作った○○とは？さらに、真実はいつも１つとは限らない？ラムネ瓶のビー玉密室事件の真相に迫る。</desc>
+    <credits>
+      <actor role="司会">有吉弘行</actor>
+      <actor role="出演">田牧そら</actor>
+      <actor role="出演">国本梨紗</actor>
+      <actor role="出演">柴田英嗣</actor>
+      <actor role="出演">南野陽子</actor>
+      <actor role="語り">ノブ</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <episode-num system="nhk-id">g1-060-2026110709938</episode-num>
+  </programme>
+  <programme start="20261107110800 +0900" stop="20261107115400 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">鶴瓶の家族に乾杯　野々村友紀子が食の宝庫・米沢市へ！芋煮に大感激！</title>
+    <sub-title lang="ja">野々村友紀子が食の宝庫・山形県米沢市へ!米沢牛芋煮に大感激</sub-title>
+    <desc lang="ja">野々村友紀子が山形県米沢市へ！人生初の山形旅、しかし、鶴瓶がロケ前日に痛風を発症しピンチに！まずは上杉神社で足腰の健康を祈願する。日々の食卓のレシピに悩む野々村は、ヒントを探すべく郷土料理を味わう。米沢牛芋煮や、冷や汁。さらに、名君・上杉鷹山が広めた、食べられる生垣「ウコギ」をコーラ・ジェラート・混ぜごはんで！鶴瓶は理髪店を営む女性に夫婦のなれそめを聞き、仰天！家の前で道路工事をしていた男性が…</desc>
+    <credits>
+      <actor role="司会">笑福亭鶴瓶</actor>
+      <actor role="出演">野々村友紀子</actor>
+      <actor role="アナウンサー">小野文惠</actor>
+      <actor role="語り">常盤貴子</actor>
+      <actor role="語り">三宅民夫</actor>
+    </credits>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">旅バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <episode-num system="nhk-id">g1-060-2026110709945</episode-num>
+  </programme>
+  <programme start="20261107115400 +0900" stop="20261107120000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">気象情報</title>
+    <sub-title lang="ja">2026年11月07日午前11時54分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">g1-060-2026110709951</episode-num>
+  </programme>
+  <programme start="20261107120000 +0900" stop="20261107121000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月07日午後00時00分</sub-title>
+    <desc lang="ja">【キャスター】利根川真也</desc>
+    <credits>
+      <presenter>利根川真也</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110709953</episode-num>
+  </programme>
+  <programme start="20261107121000 +0900" stop="20261107121500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース（東北）</title>
+    <sub-title lang="ja">2026年11月07日午後00時10分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <episode-num system="nhk-id">g1-060-2026110743290</episode-num>
+  </programme>
+  <programme start="20261107121500 +0900" stop="20261107124000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">探検ファクトリー</title>
+    <sub-title lang="ja">快適かつ安全な移動を支える 自動車のシートカバー工場</sub-title>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">旅バラエティ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <episode-num system="nhk-id">g1-060-2026110709955</episode-num>
+  </programme>
+  <programme start="20261107124000 +0900" stop="20261107124500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">週末のＮスペは…</title>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">自然・動物・環境</category>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110709957</episode-num>
+  </programme>
+  <programme start="20261107124500 +0900" stop="20261107130000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【連続テレビ小説】ブラッサム　第６週「ふたり、北へ」</title>
+    <desc lang="ja">腹に赤ん坊が宿っていることが分かり、喜ぶ珠（石橋静河）と保（金子大地）。しかし、保が大学に通いながら生活費をどう工面するかなど、考えなければいけない問題は山積みであった。そんな中、札幌の銀行に勤める保の親戚、木村正吾（三宅弘城）が照子（山田真歩）と一緒に突然、訪ねてくる。照子と正吾は、珠と保に必要な出産費用や生活費の援助をすることを条件に、あることを珠たちに提案する。</desc>
+    <credits>
+      <actor role="出演">石橋静河</actor>
+      <actor role="出演">金子大地</actor>
+      <actor role="出演">高良健吾</actor>
+      <actor role="出演">山田真歩</actor>
+      <actor role="出演">赤堀雅秋</actor>
+      <actor role="出演">中村優子</actor>
+      <actor role="出演">国仲涼子</actor>
+      <actor role="出演">三宅弘城</actor>
+      <actor role="出演">杉田かおる</actor>
+      <actor role="出演">井浦新</actor>
+      <actor role="出演">遠藤憲一</actor>
+      <actor role="作">櫻井剛</actor>
+      <actor role="音楽">ｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎ</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110709958</episode-num>
+  </programme>
+  <programme start="20261107130000 +0900" stop="20261107130500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <sub-title lang="ja">2026年11月07日午後01時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110709959</episode-num>
+  </programme>
+  <programme start="20261107130500 +0900" stop="20261107135000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">豊臣兄弟！（４２）北野大茶湯（きたのおおちゃのゆ）</title>
+    <desc lang="ja">秀吉（池松壮亮）が普請させた京の聚楽第が完成。秀次（山田涼介）は、その祝いに盛大な茶会を開くことを提案する。天下一統も道半ばのなか時期尚早だと秀長（仲野太賀）は反対するが、秀吉は利休（吉岡秀隆）に命じ、大名も商人も百姓も参加できる大茶会を北野で催すと決める。茶会は盛況となるが、会場で伴天連追放令に恨みを抱く者による刃傷沙汰が！　さらに佐々成政（白洲迅）が治める肥後で大規模な一揆が勃発し…</desc>
+    <credits>
+      <actor role="出演">仲野太賀</actor>
+      <actor role="出演">池松壮亮</actor>
+      <actor role="出演">吉岡里帆</actor>
+      <actor role="出演">浜辺美波</actor>
+      <actor role="出演">坂井真紀</actor>
+      <actor role="出演">宮澤エマ</actor>
+      <actor role="出演">上川周作</actor>
+      <actor role="出演">松本怜生</actor>
+      <actor role="出演">白洲迅</actor>
+      <actor role="出演">山田涼介</actor>
+      <actor role="出演">尾上右近</actor>
+      <actor role="出演">吉岡秀隆</actor>
+      <actor role="語り">安藤サクラ</actor>
+      <actor role="作">八津弘幸</actor>
+      <actor role="音楽">木村秀彬</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">時代劇</category>
+    <episode-num system="nhk-id">g1-060-2026110709960</episode-num>
+  </programme>
+  <programme start="20261107135000 +0900" stop="20261107145000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">土スタ「ドキュメント７２時間　ファン感謝祭」</title>
+    <sub-title lang="ja">「ドキュメント72時間 ファン感謝祭」 ▽ゲスト 木竜麻生 宇多丸</sub-title>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">インタビュー・討論</category>
+    <episode-num system="nhk-id">g1-060-2026110709964</episode-num>
+  </programme>
+  <programme start="20261107145000 +0900" stop="20261107145500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">名曲アルバム</title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">音楽・美術・工芸</category>
+    <episode-num system="nhk-id">g1-060-2026110709965</episode-num>
+  </programme>
+  <programme start="20261107145500 +0900" stop="20261107150000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
+    <desc lang="ja">「絶対晴天！！」うた：Ｐ丸様。動画チャンネル登録者数３２０万人以上。幅広い層に人気のマルチエンターテイナーＰ丸様。が初登場！クセつよの楽曲を映像化するのは、王道アニメを手掛ける白組／「おっちょこブラザーズ」うた：ＳＡＫＡＮＡＭＯＮ。懐かしいメロディーにのせてお届けするおっちょこちょいでもいいじゃないソング。映像は「南の島のハメハメハ大王」以来、５０年ぶりにみんなのうたを手掛けるスタジオ・ノーヴァ。</desc>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">童謡・キッズ</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">音楽バラエティ</category>
+    <episode-num system="nhk-id">g1-060-2026110709966</episode-num>
+  </programme>
+  <programme start="20261107150000 +0900" stop="20261107150500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <sub-title lang="ja">2026年11月07日午後03時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110709967</episode-num>
+  </programme>
+  <programme start="20261107150500 +0900" stop="20261107153500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ドキュメント７２時間　国道４号線　ドライブインは眠らない</title>
+    <desc lang="ja">モツ煮込みやスタミナ定食、カレーなどなど。東京から北へ延びる国道４号線。福島県の道沿いにある２４時間営業のドライブインが舞台。一見、古めかしい感じだけど、昼夜を問わず多くの人がやってくる。山形から東京へ、荷物を運んだ帰り道の男性。社会人になり、両親にごちそうする息子。ここにはトラック運転手だった亡き父親との思い出があるという人も。それぞれの人生行路。みんなどこに向かっているのか。（２０２４年放送）</desc>
+    <credits>
+      <actor role="語り">鈴木杏</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <episode-num system="nhk-id">g1-060-2026110715458</episode-num>
+  </programme>
+  <programme start="20261107153500 +0900" stop="20261107161000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ドキュメント７２時間　聖夜の長崎　大病院のケーキ店</title>
+    <desc lang="ja">全国的にも珍しい、病院内にあるケーキ店。病床数８７０以上の長崎大学病院。お店にはイチゴや桃のケーキが並び、外来や入院中の患者、付き添いの家族、働く医師や看護師などが訪れる。長年通院していて、毎回、家族のためにケーキを買って帰る女性。手術後の検診が終わり、お祝いがてらに買う親子。同僚のためにまとめ買いする医師。病院で迎えるクリスマス。みんなどんな事情でケーキを求めるのか。（２０２５年放送）</desc>
+    <credits>
+      <actor role="語り">田畑智子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <episode-num system="nhk-id">g1-060-2026110715459</episode-num>
+  </programme>
+  <programme start="20261107161000 +0900" stop="20261107161500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ぼんやり∞メビウス　わき水（山形）</title>
+    <desc lang="ja">きれいだな・・・不思議だな・・・。いつまでも見続けていたい、繰り返される風景が東北にはあふれている。さあ、手を止めて。５分だけ一緒にぼんやりしませんか？</desc>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110746208</episode-num>
+  </programme>
+  <programme start="20261107161500 +0900" stop="20261107162000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">にっぽん百名山ミニ　５ｍｉｎ「秋　朝日岳」</title>
+    <desc lang="ja">【出演】真鍋雅彦，【語り】鈴木麻里子</desc>
+    <credits>
+      <actor role="出演">真鍋雅彦</actor>
+      <actor role="語り">鈴木麻里子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">自然・動物・環境</category>
+    <episode-num system="nhk-id">g1-060-2026110746201</episode-num>
+  </programme>
+  <programme start="20261107162000 +0900" stop="20261107162300 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">（２分ミニ番組）</title>
+    <episode-num system="nhk-id">g1-060-2026110746202</episode-num>
+  </programme>
+  <programme start="20261107162300 +0900" stop="20261107164800 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">小さな旅「心　うるおす　～山形県　遊佐町～」</title>
+    <sub-title lang="ja">「心 うるおす 〜山形県 遊佐町〜」</sub-title>
+    <desc lang="ja">日本海をのぞむ山形県遊佐町は、鳥海山に降った雨や雪が湧き水となり、人々の暮らしを支えてきた「湧水の里」。旅人・藤井彩子が湧き水を利用した共同洗い場で出会った女性。この春に亡くなった夫が残した家庭菜園を生きがいに暮らす。鳥海山のふもとの集落を訪ねると、公営の水道ではなく、住民たちが管理する水道を使っているという。鳥海山の湧き水を水源とするこの水道はどのように生まれたのか。湧き水と人生をめぐる物語。</desc>
+    <credits>
+      <actor role="旅人">藤井彩子</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <episode-num system="nhk-id">g1-060-2026110746204</episode-num>
+  </programme>
+  <programme start="20261107164800 +0900" stop="20261107171700 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">にっぽん百低山「羽黒山・山形」</title>
+    <desc lang="ja">【出演】吉田類，羽山みずき</desc>
+    <credits>
+      <actor role="出演">吉田類</actor>
+      <actor role="出演">羽山みずき</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <episode-num system="nhk-id">g1-060-2026110746205</episode-num>
+  </programme>
+  <programme start="20261107171700 +0900" stop="20261107180000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">限界集落住んでみた　たっぷり４３分版　山形・飛島編</title>
+    <desc lang="ja">驚きと感動がいっぱいの４３分版。山形県の離島・飛島の限界集落でディレクターが１か月生活！昔はイカ、今はサザエが名物。定期船は１日１便が基本だが「不便だとは思わねえ」その理由を聞いてアルコ＆ピース平子が納得。８８歳最年長漁師と妻が６０年以上続ける出荷準備が胸に響く。サザエ漁に同行！海の透明度と重労働に驚き！島で唯一の赤ちゃん、１歳を迎えて重要行事。急な坂道のぼって１５分。夫の思い出を胸に畑を作る。</desc>
+    <credits>
+      <actor role="ワイプゲスト">平子祐希</actor>
+      <actor role="ワイプ出演">姫野梓穂</actor>
+      <actor role="ナレーション">皆川猿時</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">ドキュメンタリー全般</category>
+    <category lang="ja">社会・時事</category>
+    <episode-num system="nhk-id">g1-060-2026110746206</episode-num>
+  </programme>
+  <programme start="20261107180000 +0900" stop="20261107180500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース</title>
+    <sub-title lang="ja">2026年11月07日午後06時00分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110709975</episode-num>
+  </programme>
+  <programme start="20261107180500 +0900" stop="20261107183400 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">所さん！事件ですよ　廃虚団地が満室！？住まいを変える「リノベ」最新事情</title>
+    <sub-title lang="ja">廃虚団地が満室!?「リノベ」最新事情</sub-title>
+    <desc lang="ja">価格高騰するマンション、全国９００万戸の空き家…みんなが気になる住宅問題を手助けする「リノベ」特集▼福岡の築７５年の廃虚団地が全室成約済み？調べると家賃１万円？ＤＩＹで資材現物支給？驚きの実態が！▼群馬・水上温泉の「減築再生」▼ほぼ貯金ナシからＤＩＹ●●になって年間収入５６００万円！？徹底したコストカットぶりを密着ロケ▼若い世代の０ＬＤＫリノベ！シニア世代のダウンサイズリノベ！間取りから人生に迫る</desc>
+    <credits>
+      <actor role="司会">所ジョージ</actor>
+      <actor role="司会">木村佳乃</actor>
+      <actor role="ゲスト">森泉</actor>
+      <actor role="ゲスト">マライマントライン</actor>
+      <actor role="ゲスト">田村啓</actor>
+      <actor role="語り">吉田鋼太郎</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <episode-num system="nhk-id">g1-060-2026110709976</episode-num>
+  </programme>
+  <programme start="20261107183400 +0900" stop="20261107183600 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">大河ドラマ「豊臣兄弟！」２分ダイジェスト　（４２）</title>
+    <sub-title lang="ja">(42)「京都府京都市」</sub-title>
+    <credits>
+      <actor role="出演">仲野太賀</actor>
+      <actor role="出演">池松壮亮</actor>
+      <actor role="出演">上川周作</actor>
+      <actor role="出演">松本怜生</actor>
+      <actor role="出演">白洲迅</actor>
+      <actor role="出演">山田涼介</actor>
+      <actor role="出演">尾上右近</actor>
+      <actor role="出演">吉岡秀隆</actor>
+      <actor role="作">八津弘幸</actor>
+      <actor role="音楽">木村秀彬</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">時代劇</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <episode-num system="nhk-id">g1-060-2026110709978</episode-num>
+  </programme>
+  <programme start="20261107183600 +0900" stop="20261107183700 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【ドラマ】夜ドラ「青の花　器の森」ＰＲ　（第３週）</title>
+    <sub-title lang="ja">第3週1分PR</sub-title>
+    <desc lang="ja">長崎県波佐見町（はさみちょう）の焼き物工房を舞台にした、夜ドラ「青の花　器の森」の見どころを伝える。波佐見で絵付け職人として働く青子（あおこ）の窯元に、フィンランドから孤高の陶芸家・龍生（たつき）がやってくる。「自分の器には絵付けは必要ない」と言い放つ龍生に、青子は自分だけでなく町も仲間も否定されたように感じて反発するが…　出演　松井玲奈　一ノ瀬颯　西田尚美　ほか</desc>
+    <credits>
+      <actor role="原作">小玉ユキ</actor>
+      <actor role="脚本">泉澤陽子</actor>
+      <actor role="音楽">秦基博</actor>
+      <actor role="音楽">福廣秀一朗</actor>
+      <actor role="出演">松井玲奈</actor>
+      <actor role="出演">一ノ瀬颯</actor>
+      <actor role="出演">安藤玉恵</actor>
+      <actor role="出演">西田尚美</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <episode-num system="nhk-id">g1-060-2026110709979</episode-num>
+  </programme>
+  <programme start="20261107183700 +0900" stop="20261107183800 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">毎週土曜夜１０時放送中　土曜ドラマ「老害の人」</title>
+    <sub-title lang="ja">放送中版</sub-title>
+    <desc lang="ja">ボードゲーム製作販売会社の社長・戸山福太郎（伊東四朗）は、妻の通夜の席で娘・明代（夏川結衣）の夫・純市（勝村政信）に社長の座を譲る。しばらくは一人旅などしていたが、突然会社に顔を出し、社員を捕まえてはかつての武勇伝を繰り返す。週に二度会社に現れるようになる頃、世間はコロナ禍に。そして福太郎８２歳の誕生会が開かれる。集まった同年代の４人は、病気自慢や趣味自慢、それぞれ自慢老害をまき散らすのだが…。</desc>
+    <credits>
+      <actor role="出演">伊東四朗</actor>
+      <actor role="出演">夏川結衣</actor>
+      <actor role="出演">勝村政信</actor>
+    </credits>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110709980</episode-num>
+  </programme>
+  <programme start="20261107183800 +0900" stop="20261107184500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">週末のＮスペは…</title>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">自然・動物・環境</category>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110709981</episode-num>
+  </programme>
+  <programme start="20261107184500 +0900" stop="20261107190000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">やままるサタデー</title>
+    <sub-title lang="ja">2026年11月07日午後06時45分</sub-title>
+    <desc lang="ja">土曜日の県内のニュース・スポーツをコンパクトに、最新の気象情報をきめ細かにお伝えします。やままるの１週間を振り返る「今週のやままる」もお届け！　</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <episode-num system="nhk-id">g1-060-2026110743346</episode-num>
+  </programme>
+  <programme start="20261107190000 +0900" stop="20261107193000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫニュース７</title>
+    <sub-title lang="ja">2026年11月07日午後07時00分</sub-title>
+    <desc lang="ja">３０分できょうが分かる日本、そして世界の今と“これから”を読み解く確かな情報を届けます。　【キャスター】今井翔馬，森下絵理香，【気象キャスター】向笠康二郎
+３０分できょうが分かる　日本、そして世界の今と“これから”を
+読み解く確かな情報を届けます。</desc>
+    <credits>
+      <presenter>今井翔馬</presenter>
+      <presenter>森下絵理香</presenter>
+      <presenter>向笠康二郎</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">天気</category>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">スポーツニュース</category>
+    <episode-num system="nhk-id">g1-060-2026110709994</episode-num>
+  </programme>
+  <programme start="20261107193000 +0900" stop="20261107205500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">タモリ・山中伸弥の！？</title>
+    <sub-title lang="ja">iPS細胞スペシャル</sub-title>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">宇宙・科学・医学</category>
+    <episode-num system="nhk-id">g1-060-2026110709995</episode-num>
+  </programme>
+  <programme start="20261107205500 +0900" stop="20261107210000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報（東北）</title>
+    <sub-title lang="ja">2026年11月07日午後08時55分</sub-title>
+    <desc lang="ja">▽最新のニュース　▽気象情報　</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">ローカル・地域</category>
+    <episode-num system="nhk-id">g1-060-2026110743293</episode-num>
+  </programme>
+  <programme start="20261107210000 +0900" stop="20261107220000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">サタデーウオッチ９</title>
+    <sub-title lang="ja">2026年11月07日午後09時00分</sub-title>
+    <desc lang="ja">▽山下毅　解説委員×川口由梨香　土曜日も最新ニュースに深く切り込みます！　▽政治・国際分野から災害分野まで経験豊富な山下キャスターが１週間のニュースのポイントを丁寧に解説▽あふれる“フェイク情報”をさらに徹底取材▽あすのお出かけは？田中美都予報士の気象コーナー▽スポーツは気になる結果を速報で！注目アスリートに密着も
+平日ゆっくりニュースを見られない…そんなあなたに１週間のポイ
+ントを丁寧に解説！ネット上の現象が現実を動かすいま、確かな情
+報で世界と日本のあすを展望します。</desc>
+    <credits>
+      <presenter>山下毅</presenter>
+      <presenter>川口由梨香</presenter>
+      <presenter>浅田春奈</presenter>
+      <actor role="リポーター">石井智也</actor>
+      <actor role="リポーター">姫野美南</actor>
+      <presenter>田中美都</presenter>
+    </credits>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110710005</episode-num>
+  </programme>
+  <programme start="20261107220000 +0900" stop="20261107225000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【土曜ドラマ】老害の人（３）</title>
+    <desc lang="ja">福太郎（伊東四朗）に迷惑だと言った明代（夏川結衣）との気まずさも薄れてきた頃、福太郎と５人の老人たち、不幸自慢の春子（白川和子）、病気自慢の勇三（小倉蒼蛙）、趣味自慢の武（前田吟）と桃子（日色ともゑ）夫妻と、なんとサキ（三田佳子）が経営戦略室にやってきた。この部屋をサロンにして集まり何かやるのだと言う。一か月もたないと軽視していた明代と純市（勝村政信）だが、６人は足しげく会社に通い…。</desc>
+    <credits>
+      <actor role="出演">伊東四朗</actor>
+      <actor role="出演">夏川結衣</actor>
+      <actor role="出演">勝村政信</actor>
+      <actor role="出演">羽田美智子</actor>
+      <actor role="出演">前田吟</actor>
+      <actor role="出演">小倉青蛙</actor>
+      <actor role="出演">日色ともゑ</actor>
+      <actor role="出演">白川和子</actor>
+      <actor role="出演">三田佳子</actor>
+      <actor role="原作">内館牧子</actor>
+      <actor role="脚本">真辺克彦</actor>
+      <actor role="脚本">小嶋健作</actor>
+      <actor role="脚本">大島まり菜</actor>
+      <actor role="音楽">安川午朗</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <episode-num system="nhk-id">g1-060-2026110710006</episode-num>
+  </programme>
+  <programme start="20261107225000 +0900" stop="20261107225500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">週末のＮスペは…</title>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">自然・動物・環境</category>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110710011</episode-num>
+  </programme>
+  <programme start="20261107225500 +0900" stop="20261107230000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <sub-title lang="ja">2026年11月07日午後10時55分</sub-title>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <category lang="ja">天気</category>
+    <episode-num system="nhk-id">g1-060-2026110710012</episode-num>
+  </programme>
+  <programme start="20261107230000 +0900" stop="20261107233000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">Ｖｅｎｕｅ１０１</title>
+    <sub-title lang="ja">2026年11月07日午後11時00分</sub-title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">ライブ・コンサート</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">音楽バラエティ</category>
+    <episode-num system="nhk-id">g1-060-2026110710013</episode-num>
+  </programme>
+  <programme start="20261107233000 +0900" stop="20261107234500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ザ・グレイテスト・ヒッツ</title>
+    <sub-title lang="ja">#52</sub-title>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">歌謡曲・演歌</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">トークバラエティ</category>
+    <episode-num system="nhk-id">g1-060-2026110710014</episode-num>
+  </programme>
+  <programme start="20261107234500 +0900" stop="20261108001000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">アニメ　恐怖コレクター</title>
+    <category lang="ja">アニメ/特撮</category>
+    <category lang="ja">国内アニメ</category>
+    <episode-num system="nhk-id">g1-060-2026110710015</episode-num>
+  </programme>
+  <programme start="20261108001000 +0900" stop="20261108005500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">レギュラー番組への道　家賃ひとケタ万円で　ドリーム賃貸</title>
+    <sub-title lang="ja">家賃ひとケタ万円で ドリーム賃貸 温泉つき賃貸</sub-title>
+    <desc lang="ja">家賃が上がり続けている今、全国の家賃ひとケタ万円物件を徹底リサーチ。そこには、住人たちのハッピーライフがあった！今回のテーマは「温泉つき賃貸」。蛇口をひねれば温泉が出る賃貸物件を探してみると、北海道、熱海、別府、兵庫県、そして東京　２３　区でも「黒湯」を楽しめる物件を発見。温泉つきならではの暮らしや絶品グルメと住人たちの感動物語。木梨憲武＆若槻千夏＆カーネーション吉田も驚いた賃貸ライフとは？</desc>
+    <credits>
+      <actor role="司会">木梨憲武</actor>
+      <actor role="司会">若槻千夏</actor>
+      <actor role="出演">吉田結衣</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">ドキュメンタリー全般</category>
+    <episode-num system="nhk-id">g1-060-2026110810789</episode-num>
+  </programme>
+  <programme start="20261108005500 +0900" stop="20261108012500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">まだ間に合う！連続テレビ小説「ブラッサム」</title>
+    <desc lang="ja">主人公・葉野珠（石橋静河）は岩国を飛び出し、新たな世界へ！連続テレビ小説「ブラッサム」の魅力を、これまでの名場面とともに振り返りながら、この先の見どころをひと足早くご紹介します！主人公を演じる石橋静河さんが語る、印象深かったシーンとは？今後の珠に大きく影響を与える西尾一路役の染谷将太さんの撮影に掛ける思いも！ドラマの世界観を豊かに彩るｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎの劇伴制作現場にも潜入します！</desc>
+    <credits>
+      <actor role="出演">石橋静河</actor>
+      <actor role="出演">加賀まりこ</actor>
+      <actor role="出演">松たか子</actor>
+      <actor role="出演">染谷将太</actor>
+      <actor role="出演">金子大地</actor>
+      <actor role="出演">高良健吾</actor>
+      <actor role="出演">松本穂香</actor>
+      <actor role="出演">木竜麻生</actor>
+      <actor role="出演">尾野真千子</actor>
+      <actor role="出演">国仲涼子</actor>
+      <actor role="出演">渡部篤郎</actor>
+      <actor role="出演">イッセー尾形</actor>
+      <actor role="出演">井浦新</actor>
+      <actor role="出演">遠藤憲一</actor>
+      <actor role="音楽">ｆｏｘ　ｃａｐｔｕｒｅ　ｐｌａｎ</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <episode-num system="nhk-id">g1-060-2026110810794</episode-num>
+  </programme>
+  <programme start="20261108012500 +0900" stop="20261108012600 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＮＨＫスペシャルＰＲ　変貌の超大国アメリカ　第２集　“神の国”の創造</title>
+    <desc lang="ja">ＮＨＫスペシャルの見どころをギュギュっとまとめてお伝えするＰＲ番組。今回は１１月８日放送の『変貌の超大国アメリカ　第２集　“神の国”の創造』。</desc>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110813362</episode-num>
+  </programme>
+  <programme start="20261108012600 +0900" stop="20261108012700 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【ドラマ】夜ドラ「青の花　器の森」ＰＲ　（第３週）</title>
+    <sub-title lang="ja">第3週1分PR</sub-title>
+    <desc lang="ja">長崎県波佐見町（はさみちょう）の焼き物工房を舞台にした、夜ドラ「青の花　器の森」の見どころを伝える。波佐見で絵付け職人として働く青子（あおこ）の窯元に、フィンランドから孤高の陶芸家・龍生（たつき）がやってくる。「自分の器には絵付けは必要ない」と言い放つ龍生に、青子は自分だけでなく町も仲間も否定されたように感じて反発するが…　出演　松井玲奈　一ノ瀬颯　西田尚美　ほか</desc>
+    <credits>
+      <actor role="原作">小玉ユキ</actor>
+      <actor role="脚本">泉澤陽子</actor>
+      <actor role="音楽">秦基博</actor>
+      <actor role="音楽">福廣秀一朗</actor>
+      <actor role="出演">松井玲奈</actor>
+      <actor role="出演">一ノ瀬颯</actor>
+      <actor role="出演">安藤玉恵</actor>
+      <actor role="出演">西田尚美</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <episode-num system="nhk-id">g1-060-2026110813363</episode-num>
+  </programme>
+  <programme start="20261108012700 +0900" stop="20261108013000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ＬＩＦＥ！秋　１分ＰＲ</title>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">お笑い・コメディ</category>
+    <episode-num system="nhk-id">g1-060-2026110813364</episode-num>
+  </programme>
+  <programme start="20261108013000 +0900" stop="20261108033000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ラグビーネーションズチャンピオンシップ「日本」対「ウェールズ」</title>
+    <category lang="ja">スポーツ</category>
+    <category lang="ja">その他</category>
+    <episode-num system="nhk-id">g1-060-2026110815533</episode-num>
+  </programme>
+  <programme start="20261108033000 +0900" stop="20261108041000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ヨーロッパ　トラムの旅「フィンランド　ヘルシンキ」</title>
+    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。どこか懐かしくレトロなたたずまいは、旅人をひきつけてやまない。街の中心部を走るので、名所巡りも車窓から楽しめる。トラムを乗りこなせれば街の観光は楽々。ヨーロッパにはトラムで巡りたくなる素敵（すてき）な街があふれている。あたかもトラムに乗っているかのような感覚で、車窓を楽しむリアル・トラム体験。今回はフィンランド・ヘルシンキを旅する。</desc>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">旅・釣り・アウトドア</category>
+    <episode-num system="nhk-id">g1-060-2026110815903</episode-num>
+  </programme>
+  <programme start="20261108041000 +0900" stop="20261108041300 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">カラーでよみがえる東京「銀座〜モダン華やぐ街〜」</title>
+    <desc lang="ja">１００年の間に震災と戦争によって２度焼け野原となり、そこから不死鳥のようによみがえった都市・東京。ＮＨＫは、東京を撮影した白黒フィルムを世界中から収集、現実にできるだけ近い色彩の復元に挑んだ。色を取り戻した東京は、どんな表情を見せるのか。今回は銀座にしぼって、激動の歩みを、初公開フルカラー映像でたどる。</desc>
+    <credits>
+      <actor role="語り">塚原愛</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">特集・ドキュメント</category>
+    <episode-num system="nhk-id">g1-060-2026110810796</episode-num>
+  </programme>
+  <programme start="20261108041300 +0900" stop="20261108041500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">インターミッション</title>
+    <sub-title lang="ja">2026年8月16日午前4:13</sub-title>
+    <desc lang="ja">＜映像＞風景映像（世界遺産　白神山地の四季）〜日の丸
+＜使用音楽＞「Ｓｕｄｄｎｌｙ　Ｙｏｕｒｓ」（作曲・演奏）２０
+０２＜ＲＥＡＬ　ＭＵＳＩＣ　Ｎｏ．ＲＭ８８２０＞
+「Ｅｘｃｅｌｌｅｎｃｅ（Ｆａｎｆａｒｅ）」＜ＣＡＲＬＩＮ　２
+１３＞</desc>
+    <category lang="ja">ニュース/報道</category>
+    <category lang="ja">定時・総合</category>
+    <episode-num system="nhk-id">g1-060-2026110810798</episode-num>
+  </programme>
+  <programme start="20261108041500 +0900" stop="20261108042000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">５分でみんなの手話（３）年齢・数字</title>
+    <desc lang="ja">会話を通して、すぐに使える手話表現を学びましょう！きょうのテーマは「年齢・数字」です。キーフレーズは、／指さし（１）年　２８／　、「２８歳だよ。」です。手話では、／年（とし）／　の後に「数字」を表します。手話と日本語の「語順の違い」にも注意しましょう。</desc>
+    <credits>
+      <actor role="出演">森田明</actor>
+    </credits>
+    <category lang="ja">福祉</category>
+    <category lang="ja">手話</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">会話・語学</category>
+    <category lang="ja">生涯教育・資格</category>
+    <episode-num system="nhk-id">g1-060-2026110810800</episode-num>
+  </programme>
+  <programme start="20261108042000 +0900" stop="20261108042500 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">名曲アルバム「クラリネット協奏曲」モーツァルト作曲</title>
+    <desc lang="ja">クラリネット　金子平　管弦楽　東京フィルハーモニー交響楽団　指揮　円光寺雅彦　ロケ地：ウィーン（オーストリア）</desc>
+    <credits>
+      <actor role="クラリネット">金子平</actor>
+      <actor role="管弦楽">東京フィルハーモニー交響楽団</actor>
+      <actor role="指揮">円光寺雅彦</actor>
+    </credits>
+    <category lang="ja">音楽</category>
+    <category lang="ja">クラシック・オペラ</category>
+    <category lang="ja">趣味/教育</category>
+    <category lang="ja">音楽・美術・工芸</category>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">歴史・紀行</category>
+    <episode-num system="nhk-id">g1-060-2026110810801</episode-num>
+  </programme>
+  <programme start="20261108042500 +0900" stop="20261108043000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">みんなのうた「月のワルツ」</title>
+    <desc lang="ja">「月のワルツ」（２００４年）作詞：湯川れい子、作曲：諫山実生、編曲：安部潤、うた：諫山実生、アニメ：いしづかあつこ</desc>
+    <category lang="ja">音楽</category>
+    <category lang="ja">国内ロック・ポップス</category>
+    <category lang="ja">童謡・キッズ</category>
+    <category lang="ja">バラエティ</category>
+    <category lang="ja">音楽バラエティ</category>
+    <episode-num system="nhk-id">g1-060-2026110810802</episode-num>
+  </programme>
+  <programme start="20261108043000 +0900" stop="20261108045700 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">地域局発　東北ココから　ゆっくり根をはる～りんご娘・２６年の歩み～</title>
+    <sub-title lang="ja">ゆっくり根をはる〜りんご娘・26年の歩み〜</sub-title>
+    <desc lang="ja">結成２６年を迎えた青森のご当地アイドル・りんご娘。今年５月には、弘前でスタジアムライブを開催。全国から１万人が集まり、大成功を収めた。多くのアイドルグループが消えていく中、なぜ、彼女たちは生き残ったのか？自分たちの言葉・津軽弁を駆使した楽曲。青森の特産品を応援する歌詞。とにかく青森を応援する姿勢が地元の共感を呼び、人気は全国に派生した。その戦略をプロデューサー、王林、ジョナゴールドが解き明かす。</desc>
+    <credits>
+      <actor role="出演">王林</actor>
+      <actor role="出演">ジョナゴールド</actor>
+      <actor role="語り">大沼ひろみ</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">カルチャー・伝統文化</category>
+    <category lang="ja">音楽</category>
+    <category lang="ja">ライブ・コンサート</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">芸能・ワイドショー</category>
+    <episode-num system="nhk-id">g1-060-2026110810803</episode-num>
+  </programme>
+  <programme start="20261108045700 +0900" stop="20261108045800 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">【ドラマ】夜ドラ「青の花　器の森」ＰＲ　（第３週）</title>
+    <sub-title lang="ja">第3週1分PR</sub-title>
+    <desc lang="ja">長崎県波佐見町（はさみちょう）の焼き物工房を舞台にした、夜ドラ「青の花　器の森」の見どころを伝える。波佐見で絵付け職人として働く青子（あおこ）の窯元に、フィンランドから孤高の陶芸家・龍生（たつき）がやってくる。「自分の器には絵付けは必要ない」と言い放つ龍生に、青子は自分だけでなく町も仲間も否定されたように感じて反発するが…　出演　松井玲奈　一ノ瀬颯　西田尚美　ほか</desc>
+    <credits>
+      <actor role="原作">小玉ユキ</actor>
+      <actor role="脚本">泉澤陽子</actor>
+      <actor role="音楽">秦基博</actor>
+      <actor role="音楽">福廣秀一朗</actor>
+      <actor role="出演">松井玲奈</actor>
+      <actor role="出演">一ノ瀬颯</actor>
+      <actor role="出演">安藤玉恵</actor>
+      <actor role="出演">西田尚美</actor>
+    </credits>
+    <category lang="ja">ドラマ</category>
+    <category lang="ja">国内ドラマ</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">番組紹介・お知らせ</category>
+    <episode-num system="nhk-id">g1-060-2026110810806</episode-num>
+  </programme>
+  <programme start="20261108045800 +0900" stop="20261108050000 +0900" channel="NHKG.Yamagata.jp">
+    <title lang="ja">ドキュメント７２時間ＰＲ　年末スペシャル２０２６投票募集</title>
+    <desc lang="ja">今年もやります、ドキュメント７２時間年末スペシャル。みなさんの投票で選ばれたベスト１０を年末に一挙アンコール放送。現在、投票募集中！１人３つまで選べます。街の人たちのオススメ回を聞きながら、投票方法をご案内。投票は番組ＨＰから。締め切りは１１月１５日まで。今年はどの回が１位になるのか！？番組を続けていくためにも、ぜひ、みなさまも投票をお願いします！</desc>
+    <credits>
+      <actor role="語り">吹石一恵</actor>
+    </credits>
+    <category lang="ja">ドキュメンタリー/教養</category>
+    <category lang="ja">社会・時事</category>
+    <category lang="ja">歴史・紀行</category>
+    <category lang="ja">情報/ワイドショー</category>
+    <category lang="ja">暮らし・住まい</category>
+    <episode-num system="nhk-id">g1-060-2026110810807</episode-num>
   </programme>
 </tv>
