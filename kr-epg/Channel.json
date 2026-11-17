@@ -1,7 +1,7 @@
 {
   "WAVVE": {
-    "UPDATED": "2026-11-12T01:40:17.579908",
-    "TOTAL": 153,
+    "UPDATED": "2026-11-17T02:36:06.021663",
+    "TOTAL": 155,
     "CHANNELS": [
       {
         "Name": "KBS 1TV",
@@ -27,6 +27,11 @@
         "Name": "EBS 2",
         "Icon_url": "https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png",
         "ServiceId": "E07"
+      },
+      {
+        "Name": "MBN",
+        "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png",
+        "ServiceId": "C2401"
       },
       {
         "Name": "TV CHOSUN",
@@ -242,6 +247,11 @@
         "Name": "MBC ON",
         "Icon_url": "https://image.wavve.com/channel_mgmt/image/M14_square_20250801143717.png",
         "ServiceId": "M14"
+      },
+      {
+        "Name": "MBN 플러스",
+        "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2402_square_20250731141453.png",
+        "ServiceId": "C2402"
       },
       {
         "Name": "채널A 플러스",
@@ -771,8 +781,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-11-12T01:40:17.579959",
-    "TOTAL": 184,
+    "UPDATED": "2026-11-17T02:36:06.021725",
+    "TOTAL": 181,
     "CHANNELS": [
       {
         "Name": "tvN",
@@ -1369,12 +1379,6 @@
         "Category": "크리에이터TV"
       },
       {
-        "Name": "MBC 나 혼자 산다",
-        "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2339/C52421.png",
-        "ServiceId": "C52421",
-        "Category": "음악/오락"
-      },
-      {
         "Name": "머니투데이방송",
         "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2335/C52407.png",
         "ServiceId": "C52407",
@@ -1487,18 +1491,6 @@
         "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0832/C52465.png",
         "ServiceId": "C52465",
         "Category": "드라마"
-      },
-      {
-        "Name": "MBC 전지적 참견 시점",
-        "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260623/0156/C52475.png",
-        "ServiceId": "C52475",
-        "Category": "음악/오락"
-      },
-      {
-        "Name": "MBC 오은영리포트 결혼지옥",
-        "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260623/0156/C52477.png",
-        "ServiceId": "C52477",
-        "Category": "음악/오락"
       },
       {
         "Name": "채널A NEWS",
@@ -1881,7 +1873,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-11-12T01:40:17.579987",
+    "UPDATED": "2026-11-17T02:36:06.021767",
     "TOTAL": 268,
     "CHANNELS": [
       {
@@ -3495,7 +3487,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-11-12T01:40:17.580019",
+    "UPDATED": "2026-11-17T02:36:06.021795",
     "TOTAL": 473,
     "CHANNELS": [
       {
